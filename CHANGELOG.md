@@ -13,7 +13,7 @@
 - **Tipografia:** Cormorant Garamond (display) e Newsreader (leitura), auto-hospedadas.
 - **Anti-spoiler na arquitetura:** transcrições saíram do catálogo e só são carregadas quando o vestígio está liberado; lugares e pessoas têm a primeira menção calculada a partir do texto (`content/places.json`, `content/people.json`).
 - Removidos `atrio-loop.mp4`, `abertura.mp4` e o panorama com preenchimento desfocado.
-- **Ilustrações do autor:** prólogo ganhou aquarela própria; capítulos 1–18 e 38–53 substituídos pelas versões em alta (1024×1536); prancha avulsa na Galeria (após o epílogo).
+- **Ilustrações do autor:** prólogo ganhou aquarela própria; capítulos 1–36 e 38–53 substituídos pelas versões em alta (1024×1536); prancha avulsa na Galeria (após o epílogo).
 - **Retratos:** 12 personagens com retrato; ficha com figura inteira para Miguel, Clara, Balu e Davi; assinatura de Jonas Vale. Observatório abre o retrato com os trechos lidos que citam o nome.
 - Texto do romance inalterado: hashes das 67 unidades conferidos.
 
