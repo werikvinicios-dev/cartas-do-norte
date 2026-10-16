@@ -1,5 +1,14 @@
 # Histórico de versões do Arquivo Vivo
 
+## v0.6 · 16 de outubro de 2026 — Nova direção "Noite de vigília"
+- **Design refeito do zero** (`src/ui.css`, uma única folha): noite do mar como fundo, o dourado do farol como único acento, papel apenas para ler. As três folhas herdadas (styles/refined/premium) e `experience.js` foram removidas.
+- **Átrio em atos guiados pela rolagem** (`src/motion.js`, rolagem nativa, sem sequestro): I. a costa — a cena viva aproxima o farol e escurece; II. a primeira luz — as frases do prólogo surgem uma a uma, o farol pulsa três vezes, a segunda luz acende em vermelho; depois *Ler · Explorar · Sentir* em painéis que se expandem, as doze cartas como envelopes lacrados que se abrem com a leitura, as salas com contadores do seu progresso e o trailer em janela de cinema.
+- **Navegação nova:** barra que se recolhe ao descer e mostra "Continuar" com o ponto exato da leitura; menu em tela cheia com prévia de imagem; dock inferior no celular.
+- **Biblioteca** com capas de capítulo (aquarela de cada capítulo), seções por Parte com arte própria, frontispício. **Acervo** como mesa do arquivista. **Galeria** em colunas.
+- **Trailer de 90 s** reconstruído (`tools/build_trailer_v2.py`): janela 2,39:1, três atos, facho volumétrico, chuva, relâmpagos, tremor de câmera, chicotes, revelação em tinta, emblema num feixe de luz; trilha original sintetizada (drones, impactos, risers, tambores, sinos, piano) com as ambiências da edição.
+- Vestígios: correspondência de capítulos recalculada só com parágrafos únicos (a transmissão de Balu abria cedo demais).
+- Fonte oficial restrita a letras e números (a pontuação do arquivo está deslocada).
+
 ## v0.5 · 16 de outubro de 2026 — Edição Final e identidade oficial
 - **Texto da Edição Final do autor** (`sources/Cartas_do_Norte_Edicao_Final.docx`): prólogo, 72 capítulos, 12 cartas e epílogo (86 unidades). Itálicos do autor exibidos no leitor. Corrige resíduos da extração do PDF da v4 (rótulos de mapa dentro da Carta I, cartas duplicadas dentro de capítulos). Detalhes em `docs/RELATORIO_EDICAO_FINAL.md`.
 - **Migração automática** do progresso, marcadores, destaques e notas salvos na v4 para a nova numeração, parágrafo a parágrafo (`content/migration-v4.json`).

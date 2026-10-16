@@ -1,4 +1,16 @@
-# Sistema de design — Arquivo Vivo v4
+# Sistema de design — Arquivo Vivo v0.6 · "Noite de vigília"
+
+Fonte única: `src/ui.css`. Movimento: `src/scene.js` (cenas vivas), `src/motion.js` (atos por rolagem, revelações, barra, menu), `src/panzoom.js` (zoom).
+
+## Princípios v0.6
+- Fundo é a noite do mar (`--night #030f16`); a luz dourada do farol é o único acento; o papel só aparece onde se lê (leitor, cartas, frontispício).
+- O Átrio é uma sequência em atos ligada à rolagem nativa (`[data-scrub]` recebe `--p` 0→1 e `data-step`). Nada sequestra a rolagem; com movimento reduzido tudo aparece estático e completo.
+- Títulos na fonte oficial do autor (letras e números); pontuação em Cormorant. Leitura em Newsreader.
+- Navegação: barra que se recolhe, menu em tela cheia com prévia, dock inferior no celular (alvos de 52 px).
+
+---
+
+(Base v4, mantida abaixo onde ainda vale.)
 
 Fonte: `src/v4.css` (carregado depois das camadas v0.1–v0.3). Pesquisa de apoio feita com a skill `ui-ux-pro-max` (padrão *Scroll-Triggered Storytelling*, par tipográfico editorial). A paleta sugerida pela ferramenta (preto e rosa) foi descartada: as cores derivam das aquarelas aprovadas.
 

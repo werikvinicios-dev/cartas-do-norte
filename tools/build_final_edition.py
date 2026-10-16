@@ -76,12 +76,15 @@ where = {}  # texto normalizado → (novo id, novo bloco)
 for u in units:
     for b in u['blocks']:
         if b['type'] == 'para': where.setdefault(N(b['text']), (u['id'], b['id']))
+# Para localizar capítulos usamos só parágrafos longos e únicos: frases curtas repetidas ("Jonas.") desviam a correspondência.
+_cnt = collections.Counter(N(b['text']) for u in units for b in u['blocks'] if b['type'] == 'para')
+unique = {t: v for t, v in where.items() if _cnt[t] == 1 and len(t) > 40}
 def locate(text): return where.get(N(text))
 migration, anchors = {}, {}
 for oid, data in old.items():
     paras_old = [b for b in data['blocks'] if b['type'] == 'para']
     hits = [locate(b['text']) for b in paras_old]
-    found = [h for h in hits if h]
+    found = [unique[N(b['text'])] for b in paras_old if N(b['text']) in unique]
     migration[oid] = {'first': found[0][0] if found else None, 'last': found[-1][0] if found else None}
     for b, h in zip(paras_old, hits):
         if h: anchors[f'{oid}/{b["id"]}'] = h

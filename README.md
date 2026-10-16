@@ -1,6 +1,6 @@
 # Cartas do Norte — O Arquivo Vivo
 
-**Edição Imersiva v0.5 · Edição Final do autor · 16 de outubro de 2026**
+**Edição Imersiva v0.6 · Direção "Noite de vigília" · 16 de outubro de 2026**
 
 Texto: Edição Final (72 capítulos), reconstruída com `python3 tools/build_final_edition.py sources/Cartas_do_Norte_Edicao_Final.docx`. Atenção: a pasta `sources/` vai junto se o site for publicado inteiro; remova-a da hospedagem se não quiser o .docx público.
 
@@ -27,7 +27,7 @@ Uma aplicação literária responsiva com a obra integral, Atlas, Acervo, Galeri
 
 ## Imersão opt-in
 
-- **Trailer:** `assets/video/trailer.mp4` — 63 s, 1920×1080, H.264/AAC, legendas em `trailer.vtt`, iniciado pelo leitor. Reproduzível com `node tools/trailer_cards.js` + `python3 tools/build_trailer.py`.
+- **Trailer:** `assets/video/trailer.mp4` — 90 s, 1920×1080 (janela 2,39:1), H.264/AAC, legendas em `trailer.vtt`. Reproduzível com `python3 tools/build_trailer_v2.py` (requer numpy, scipy, Pillow, fonttools, ffmpeg).
 - **Cenas Vivas:** Átrio e Farol (`src/scene.js`), sem vídeo de fundo; animações só com transform/opacity.
 - **Som ambiental:** `assets/audio/mar.ogg`, `chuva.ogg` e `vento.ogg` — 24 s cada, repetição e volume configuráveis, sempre iniciados pelo usuário.
 - **Movimento de interface:** surgimento progressivo no rolar, brilho discreto e escala leve em itens clicáveis; possui fallback completo sem efeitos.
