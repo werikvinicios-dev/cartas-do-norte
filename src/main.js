@@ -72,7 +72,7 @@ function renderAtrium(){
     <a class="cta cta-gold" href="${linkRead(item.id)}"><span>${started?'Continuar a leitura':'Começar a leitura'}<small>${started?escapeHTML(plain(safeTitle(item)))+' · '+pct+'%':'Prólogo · a segunda luz'}</small></span><b aria-hidden="true">→</b></a>
     <button class="cta cta-line" type="button" data-action="scroll-salas"><span>Explorar o arquivo<small>Atlas · Acervo · Cenas · Memória</small></span><b aria-hidden="true">↓</b></button>
    </div>
-   <button class="atrio-film" type="button" data-action="open-film"><span class="playmark" aria-hidden="true">▶</span> Assistir ao trailer <small>90 s</small></button>
+   <button class="atrio-film" type="button" data-action="open-film"><span class="playmark" aria-hidden="true">▶</span> Assistir ao trailer <small>68 s</small></button>
   </div>
   <div class="compass-instrument">
    <button type="button" class="compass-button" data-action="toggle-rose" aria-expanded="false" aria-controls="rose-nav" aria-label="Bússola: navegar pelo arquivo"><img src="/assets/branding/compass.webp" alt="" width="333" height="327"/></button>
@@ -119,7 +119,7 @@ function renderAtrium(){
  </section>
 
  <section class="trailer-band" aria-label="Trailer">
-  <button type="button" class="trailer-play" data-action="open-film" data-reveal><img src="/assets/video/trailer-poster.webp" alt="" loading="lazy"/><span class="play-ring" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></span><span class="trailer-copy"><span class="eyebrow">Trailer · 90 segundos</span><strong>A primeira luz</strong><em>Assistir com som</em></span></button>
+  <button type="button" class="trailer-play" data-action="open-film" data-reveal><img src="/assets/video/trailer-poster.webp" alt="" loading="lazy"/><span class="play-ring" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></span><span class="trailer-copy"><span class="eyebrow">Trailer · 68 segundos</span><strong>A primeira luz</strong><em>Assistir com som</em></span></button>
  </section>
  </div>${footer()}`;
  const scene=main.querySelector('.scene-atrio');sceneCleanup=mountScene(scene,{focus:matchMedia('(min-width: 900px)').matches?[0.5,0.5]:[0.62,0.42],intro:true});
@@ -364,7 +364,7 @@ async function processAction(action,element){
  if(action==='scroll-salas'){document.getElementById('salas')?.scrollIntoView({behavior:S.prefs.motion?'smooth':'auto',block:'start'});return}
  if(action==='open-film'){
   document.dispatchEvent(new Event('arquivo:pause-ambience'));
-  showModal('Trailer',`<div class="film-dialog"><video controls playsinline preload="metadata" autoplay poster="/assets/video/trailer-poster.webp" aria-label="Trailer de Cartas do Norte, montado com as aquarelas da edição"><source src="/assets/video/trailer.mp4" type="video/mp4"/><track kind="captions" srclang="pt" label="Narração (português)" src="/assets/video/trailer.vtt"/></video><p>Trailer com aquarelas da edição e frases do próprio romance, narradas. Nenhuma revelação além do começo da história.</p></div>`);
+  showModal('Trailer',`<div class="film-dialog"><video controls playsinline preload="metadata" autoplay poster="/assets/video/trailer-poster.webp" aria-label="Trailer de Cartas do Norte, montado com as aquarelas da edição"><source src="/assets/video/trailer.mp4" type="video/mp4"/><track kind="captions" srclang="pt" label="Narração (português)" src="/assets/video/trailer.vtt"/></video><p>Trailer com aquarelas da edição e frases do próprio romance. Use fones de ouvido.</p></div>`);
   return;
  }
  if(action==='view-painting'){

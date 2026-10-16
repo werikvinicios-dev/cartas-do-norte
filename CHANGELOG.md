@@ -1,5 +1,10 @@
 # Histórico de versões do Arquivo Vivo
 
+## v0.8 · 16 de outubro de 2026 — Trailer de impacto
+- **Trailer remontado (68 s, 24 fps, janela 2,39:1)** em `tools/build_trailer_v3.py`, sem narração: tipografia em golpe (as palavras caem e assentam com clarão, tremor e aberração cromática), frases escritas como tinta, lacre que se parte, mapa revelado em tinta, montagem que acelera com as grandes pranchas panorâmicas e aquarelas de todo o livro, tempestade com cortes de meio segundo, **mergulho subaquático** com a frase da Carta I ("Havia gente trancada onde os registros diziam que só existiam caixas."), **"UMA PAUSA" congela no preto**, "OUTRAS TRÊS" e três clarões até o emblema.
+- **Trilha e desenho de som** (`tools/trailer_sound_v3.py`): pulsos graves, braams, tambores a 120 bpm, cordas e coro, trovões, **gritos de socorro distantes** na tempestade e, no mergulho, tudo abafado com bolhas, borbulhar, coração acelerado e gritos submersos; silêncio absoluto na pausa; final em ré maior. Masterização −14 LUFS.
+- Legenda CC continua opcional (desligada por padrão) e acompanha o texto da tela.
+
 ## v0.7 · 16 de outubro de 2026 — Cartas de verdade e trailer narrado
 - **Cartas como objetos:** as 12 cartas e 8 escritos dentro dos capítulos (declaração e carta de Jonas, a folha sobre os objetos, notas nos desenhos, o bilhete, a carta de Lídia, a resposta de Ana, o bilhete de Gabriel) aparecem na leitura como envelopes lacrados ou folhas de papel antigo. O lacre de cera se parte, a aba se abre, a carta sai do envelope e se desdobra. Tipografia como no livro: itálico Charis (família Charter, a mesma da Edição Final), justificado, rubrica "CARTA I" em ferrugem, destinatário em azul; assinatura em caligrafia. Som discreto de lacre e papel (desligável).
 - **Acervo · Correspondência:** cada carta entra no Acervo quando é aberta na leitura (ou quando o capítulo é concluído), com leitura em papel e link de volta ao trecho. As demais aparecem lacradas, sem revelar conteúdo.
