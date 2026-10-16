@@ -31,12 +31,12 @@ html,body{background:var(--deep);overflow:hidden}
 #mist{position:absolute;inset:0;background:url('/assets/experience/mist.webp') repeat-x 0 0/calc(1400*var(--u)) 100%;opacity:.08;mix-blend-mode:screen;pointer-events:none;z-index:2}
 #vignette{position:absolute;inset:0;background:radial-gradient(100% 80% at 50% 50%,transparent 55%,#00060acc 100%);pointer-events:none;z-index:49}
 #wipe{position:absolute;top:0;bottom:0;width:calc(2*var(--u));background:linear-gradient(transparent,var(--gold-hi) 18%,var(--gold-hi) 82%,transparent);box-shadow:0 0 calc(18*var(--u)) #e2c58c88;z-index:48;opacity:0}
-/* 1 · rosa dos ventos */
-#rose{width:calc(620*var(--u));height:calc(620*var(--u))}
-#rose path,#rose circle,#rose line{fill:none;stroke:var(--gold);stroke-width:1.6;stroke-linecap:round}
-#rose .fillA{fill:var(--gold);stroke:none}
-#rose .fillB{fill:#7a5a2c;stroke:none}
-#rose text{font:600 22px 'News',sans-serif;fill:var(--gold-hi);letter-spacing:.1em;text-anchor:middle;dominant-baseline:middle}
+/* 1 · o emblema se monta */
+#logo{position:absolute}
+#logo .ly{position:absolute;inset:0;width:100%;height:100%;display:block;will-change:transform,opacity}
+#sheen{position:absolute;inset:0;background:linear-gradient(105deg,transparent 42%,#fff3d2cc 50%,transparent 58%) no-repeat;background-size:300% 100%;
+ -webkit-mask:url('/assets/branding/emblem-gold.webp') center/100% 100%;mask:url('/assets/branding/emblem-gold.webp') center/100% 100%;mix-blend-mode:screen;opacity:0}
+#logoglow{border-radius:50%;background:radial-gradient(circle,#e2c58c40 0%,#c69a521c 38%,transparent 70%)}
 /* 2 · carta */
 #env{width:calc(640*var(--u));height:calc(420*var(--u));perspective:calc(1600*var(--u))}
 #env .body{position:absolute;inset:0;background:#efe3c9 url('/assets/experience/letter-paper.webp') center/cover;box-shadow:0 calc(40*var(--u)) calc(70*var(--u)) calc(-30*var(--u)) #000c;border-radius:calc(3*var(--u))}
@@ -90,17 +90,22 @@ html,body{background:var(--deep);overflow:hidden}
  <div id="mist"></div>
 
  <section class="scene" id="s1">
-  <svg id="rose" class="abs" viewBox="-310 -310 620 620" aria-hidden="true">
-   <circle class="draw" r="268" pathLength="1"/><circle class="draw" r="248" pathLength="1"/><circle class="draw" r="128" pathLength="1"/><circle class="draw" r="22" pathLength="1"/>
-   <g id="ticks"></g>
-   <g id="star">
-    <g id="diag"></g><g id="card"></g>
-   </g>
-   <text x="0" y="-292">N</text><text x="292" y="0">L</text><text x="0" y="292">S</text><text x="-292" y="0">O</text>
-  </svg>
-  <div id="s1k" class="abs kicker">Cartas do Norte</div>
-  <div id="s1a" class="abs mask line"><span>Toda costa guarda histórias</span></div>
-  <div id="s1b" class="abs mask line"><span>que o mar não conseguiu levar.</span></div>
+  <div id="logoglow" class="abs"></div>
+  <div id="logo" class="abs">
+   <img class="ly" id="ly-aro" src="emblem/aro.webp" alt=""/>
+   <img class="ly" id="ly-n" src="emblem/letras.webp" alt=""/><img class="ly" id="ly-l" src="emblem/letras.webp" alt=""/>
+   <img class="ly" id="ly-s" src="emblem/letras.webp" alt=""/><img class="ly" id="ly-o" src="emblem/letras.webp" alt=""/>
+   <img class="ly" id="ly-sul" src="emblem/estrela.webp" alt=""/>
+   <img class="ly" id="ly-mont" src="emblem/montanhas.webp" alt=""/>
+   <img class="ly" id="ly-pass" src="emblem/passaros.webp" alt=""/>
+   <img class="ly" id="ly-mar" src="emblem/mar.webp" alt=""/>
+   <img class="ly" id="ly-cartas" src="emblem/cartas.webp" alt=""/>
+   <img class="ly" id="ly-do" src="emblem/do.webp" alt=""/>
+   <img class="ly" id="ly-norte" src="emblem/norte.webp" alt=""/>
+   <img class="ly" id="ly-estrela" src="emblem/estrela.webp" alt=""/>
+   <div id="sheen"></div>
+  </div>
+  <div id="s1a" class="abs mask sub"><span>Uma jornada entre a névoa, o mar e a graça</span></div>
  </section>
 
  <section class="scene" id="s2">
@@ -185,8 +190,8 @@ const seg=(t,a,b)=>clamp((t-a)/(b-a));
 const eo=x=>1-Math.pow(1-x,3), eio=x=>x<.5?4*x*x*x:1-Math.pow(-2*x+2,3)/2, eo5=x=>1-Math.pow(1-x,5);
 const lerp=(a,b,x)=>a+(b-a)*x;
 // grade musical: 70 bpm, compasso de 3 tempos; a bateria da faixa entra aos 15 s
-const BEAT=.858, BAR=3*BEAT, DROP=15;
-const B=[0,DROP-4*BAR,DROP-2*BAR,DROP,DROP+2*BAR,DROP+4*BAR,30];   // limites das cenas
+const BEAT=.858, BAR=3*BEAT, DROP=15+BAR, DUR=30+BAR;
+const B=[0,DROP-4*BAR,DROP-2*BAR,DROP,DROP+2*BAR,DROP+4*BAR,DUR];   // limites das cenas
 const XF=.36;                                                       // meia duração da cortina
 function place(el,x,y,{s=1,r=0,o=1,ax=.5,ay=.5}={}){ // x,y em unidades; âncora (ax,ay) do elemento
   el.style.transform=`translate(${x*U}px,${y*U}px) translate(${-ax*100}%,${-ay*100}%) rotate(${r}deg) scale(${s})`;el.style.opacity=o}
@@ -195,20 +200,12 @@ function reveal(el,p,{rise=26}={}){ // máscara de baixo para cima + subida curt
   if(rise)el.style.marginTop=(1-eo(p))*rise*U+'px'}
 function size(el,w,h){el.style.width=w*U+'px';el.style.height=h*U+'px'}
 
-// ── rosa dos ventos ─────────────────────────────────────────────
-(function(){
- const NS='http://www.w3.org/2000/svg',ticks=$('ticks'),card=$('card'),diag=$('diag');
- for(let i=0;i<64;i++){const a=i/64*Math.PI*2,r1=i%4?236:224,r2=248,l=document.createElementNS(NS,'line');
-  l.setAttribute('x1',Math.sin(a)*r1);l.setAttribute('y1',-Math.cos(a)*r1);l.setAttribute('x2',Math.sin(a)*r2);l.setAttribute('y2',-Math.cos(a)*r2);l.setAttribute('pathLength','1');l.classList.add('draw','tick');l.dataset.i=i;ticks.appendChild(l)}
- const point=(g,ang,len,w)=>{const a=ang*Math.PI/180,tip=[Math.sin(a)*len,-Math.cos(a)*len],l=[Math.sin(a-Math.PI/2)*w,-Math.cos(a-Math.PI/2)*w],r=[-l[0],-l[1]];
-  const A=document.createElementNS(NS,'path');A.setAttribute('d',`M0 0L${l[0]} ${l[1]}L${tip[0]} ${tip[1]}Z`);A.setAttribute('class','fillA');
-  const Bb=document.createElementNS(NS,'path');Bb.setAttribute('d',`M0 0L${r[0]} ${r[1]}L${tip[0]} ${tip[1]}Z`);Bb.setAttribute('class','fillB');
-  const O=document.createElementNS(NS,'path');O.setAttribute('d',`M${l[0]} ${l[1]}L${tip[0]} ${tip[1]}L${r[0]} ${r[1]}`);O.setAttribute('pathLength','1');O.classList.add('draw');
-  g.append(A,Bb,O)};
- [0,90,180,270].forEach(a=>point(card,a,262,30));[45,135,225,315].forEach(a=>point(diag,a,160,20));
-})();
-const draws=[...document.querySelectorAll('#rose .draw')];draws.forEach(d=>{d.style.strokeDasharray='1 1'});
-
+// ── emblema: camadas (tools/promo/split_emblem.py) ─────────────
+const EW=831,EH=898;            // tamanho do emblema original; regiões abaixo em pixels dele
+const pct=(x0,y0,x1,y1)=>`inset(${y0/EH*100}% ${100-x1/EW*100}% ${100-y1/EH*100}% ${x0/EW*100}%)`;
+const LET={n:[388,30,425,68],l:[782,462,815,505],s:[388,848,425,885],o:[0,462,34,500]};
+Object.entries(LET).forEach(([k,b])=>{$('ly-'+k).style.clipPath=pct(...b)});
+$('ly-estrela').style.clipPath=pct(0,0,EW,400);
 // ── mapa: pinos ─────────────────────────────────────────────────
 const PTS=[['Porto da Vigília',228,966,0],['Farol da Vigília',302,797,.36],['Ponta do Corvo',394,910,.7],['Canal da Agulha',449,862,1]];
 (function(){const NS='http://www.w3.org/2000/svg',g=$('pins'),pl=$('places');
@@ -233,24 +230,43 @@ window.render=function(t){
   const on=window_(i,t);s.style.display=on?'block':'none';if(!on)return;
   let left=0,right=0;
   if(i>0&&t<B[i]+XF){const p=eio(seg(t,B[i]-XF,B[i]+XF));right=(1-p)*100;wipeX=p}
+  if(i<scenes.length-1&&t>B[i+1]-XF){left=eio(seg(t,B[i+1]-XF,B[i+1]+XF))*100}
   s.style.clipPath=`inset(0 ${right}% 0 ${left}%)`;s.style.zIndex=10+i});
  const wipe=$('wipe');if(wipeX!==null&&wipeX>0&&wipeX<1){wipe.style.opacity=1;wipe.style.transform=`translateX(${wipeX*W}px)`}else wipe.style.opacity=0;
  $('mist').style.backgroundPosition=`${-t*22*U}px 0`;
  $('grain').style.transform=`translate(${(Math.sin(t*91.7)*7)|0}%,${(Math.cos(t*77.3)*7)|0}%)`;
 
- // 1 ── rosa dos ventos e a primeira frase
+ // 1 ── o emblema se monta
  if(window_(0,t)){
-  const cx=V?SW/2:SW*.745, cy=V?SH*.34:SH/2, out=seg(t,B[1]-.5,B[1]+XF);
-  place($('rose'),cx,cy,{s:(lerp(.92,1,eo(seg(t,0,4)))-out*.06)*(V?1.4:1.0),o:1});
-  draws.forEach((d,k)=>{const isTick=d.classList.contains('tick'),st=isTick?.35+(+d.dataset.i)*.012:.15+k*.035,p=eo(seg(t,st,st+(isTick?.5:1.1)));d.style.strokeDashoffset=1-p});
-  const sp=eo5(seg(t,.9,3.4));$('star').setAttribute('transform',`rotate(${lerp(-38,0,sp)})`);
-  document.querySelectorAll('#rose .fillA,#rose .fillB').forEach(f=>f.style.opacity=eo(seg(t,1.4,2.4)));
-  document.querySelectorAll('#rose text').forEach((x,k)=>x.style.opacity=eo(seg(t,1.8+k*.12,2.4+k*.12)));
-  const tx=V?SW/2:SW*.08, ax=V?.5:0;
-  place($('s1k'),tx,V?SH*.66:SH*.34,{ax,o:eo(seg(t,.6,1.3))});
-  place($('s1a'),tx,V?SH*.72:SH*.44,{ax});reveal($('s1a'),seg(t,1.0,1.9));
-  place($('s1b'),tx,V?SH*.775:SH*.545,{ax});reveal($('s1b'),seg(t,1.7,2.6));
-  if(V){$('s1a').style.fontSize=$('s1b').style.fontSize=68*U+'px'}
+  const lh=V?1000:800,lw=lh*EW/EH,cx=SW/2,cy=V?SH*.42:SH*.455,out=seg(t,B[1]-.5,B[1]+XF);
+  const L=$('logo');size(L,lw,lh);place(L,cx,cy,{s:lerp(.965,1,eo(seg(t,0,B[1])))-out*.04});
+  const gl=eo(seg(t,1.2,6.5));size($('logoglow'),lh*1.3,lh*1.3);place($('logoglow'),cx,cy,{s:lerp(.5,1,gl),o:gl});
+  const at=(id,{o=1,tf=''}={})=>{const e=$('ly-'+id);e.style.opacity=o;e.style.transform=tf};
+  const cxp=411/EW*100,cyp=476/EH*100;
+  // aro: desenhado no sentido horário a partir do norte
+  const ar=eio(seg(t,.15,2.1)),deg=ar*362;
+  const aro=$('ly-aro');aro.style.webkitMaskImage=aro.style.maskImage=ar>=1?'none':`conic-gradient(from 0deg at ${cxp}% ${cyp}%,#000 0deg,#000 ${Math.max(0,deg-6)}deg,transparent ${deg}deg)`;
+  // pontos cardeais: N, L, S, O em sequência, acompanhando o traço
+  ['n','l','s','o'].forEach((k,i)=>{const p=eo5(seg(t,.45+i*.42,.85+i*.42));const b=LET[k],ox=(b[0]+b[2])/2/EW*100,oy=(b[1]+b[3])/2/EH*100;
+   const e=$('ly-'+k);e.style.transformOrigin=`${ox}% ${oy}%`;at(k,{o:p,tf:`scale(${lerp(1.6,1,p)})`})});
+  // estrela: abre girando a partir do centro; o raio sul sobe do aro
+  const st=eo5(seg(t,1.6,2.9));const E=$('ly-estrela');E.style.transformOrigin=`${405/EW*100}% ${205/EH*100}%`;
+  at('estrela',{o:seg(t,1.6,1.9),tf:`rotate(${lerp(-150,0,st)}deg) scale(${lerp(.1,1,st)})`});
+  const su=eo(seg(t,2.2,2.9));$('ly-sul').style.clipPath=pct(380,lerp(848,700,su),430,850);at('sul',{o:su>0?1:0});
+  // montanhas sobem; as árvores vêm junto; depois os pássaros
+  const mo=eo5(seg(t,2.5,3.9));$('ly-mont').style.clipPath=`inset(${lerp(40.4,24,mo)}% 0 0 0)`;at('mont',{o:mo>0?1:0,tf:`translateY(${(1-mo)*3}%)`});
+  const pa=eo(seg(t,3.5,4.4));at('pass',{o:pa,tf:`translate(${(1-pa)*-2.5}%,${(1-pa)*1.2}%)`});
+  // o nome é escrito da esquerda para a direita
+  const wr=(id,a,b,x0,x1)=>{const p=eio(seg(t,a,b)),X=lerp(x0,x1,p),e=$('ly-'+id);
+   e.style.webkitMaskImage=e.style.maskImage=p>=1?'none':`linear-gradient(90deg,#000 ${X-3}%,transparent ${X+3}%)`;e.style.opacity=p>0?1:0};
+  wr('cartas',3.7,5.1,5,96);
+  const dp=eo(seg(t,4.85,5.45));const D=$('ly-do');D.style.transformOrigin=`${435/EW*100}% ${522/EH*100}%`;at('do',{o:dp,tf:`scale(${lerp(.85,1,dp)})`});
+  wr('norte',5.0,6.3,9,92);
+  const ma=eo(seg(t,5.7,6.6));$('ly-mar').style.clipPath=`inset(0 ${lerp(51,0,ma)}% 0 ${lerp(49,0,ma)}%)`;at('mar',{o:ma>0?1:0,tf:`translateY(${(1-ma)*1.5}%)`});
+  // brilho que atravessa o emblema montado
+  const sh=seg(t,6.25,7.15),S_=$('sheen');S_.style.opacity=sh>0&&sh<1?Math.sin(Math.PI*sh)*.85:0;S_.style.backgroundPosition=`${lerp(100,0,eio(sh))}% 0`;
+  place($('s1a'),cx,V?SH*.73:SH*.93,{});reveal($('s1a'),seg(t,6.0,6.9));
+  $('s1a').style.fontSize=(V?42:38)*U+'px';
  }
 
  // 2 ── a carta lacrada
@@ -353,7 +369,7 @@ window.render=function(t){
   place($('s6a'),cx,ry+(V?100:44),{});reveal($('s6a'),seg(t,t0+1.8,t0+2.6));
   const cp=eo5(seg(t,t0+2.5,t0+3.2));place($('cta'),cx,V?SH*.75:SH*.92,{o:cp,s:lerp(.94,1,cp)});
   if(!V){$('s6k').style.opacity=0}
-  const fade=seg(t,29.45,30);stage.style.filter=fade>0?`brightness(${1-fade})`:'none';
+  const fade=seg(t,DUR-.55,DUR);stage.style.filter=fade>0?`brightness(${1-fade})`:'none';
  } else stage.style.filter='none';
 };
 const SHOTS=['desk_atrio','desk_reader','desk_letter','m_atrio','m_sound'].map(n=>{const i=new Image();i.src='shots/'+n+'.jpg';return i});

@@ -1,17 +1,17 @@
 #!/usr/bin/env python3
-"""Som do vídeo promocional (30 s): a faixa "Amazing Grace (lofi instrumental)" com efeitos discretos de papel e lacre.
+"""Som do vídeo promocional (32,6 s): a faixa "Amazing Grace (lofi instrumental)" com efeitos discretos de papel e lacre.
 
-A faixa começa de modo que a entrada da bateria (46,42 s na gravação) caia em 15 s no vídeo, no corte para o mosaico.
-Efeitos: sopro de papel em cada cortina dourada, o carimbo do lacre, o lacre se partindo, a aba e a folha, um toque
-leve a cada pino da rota. Uso: python3 tools/promo/promo_som.py <faixa> <saida.wav>
+A faixa começa de modo que a entrada da bateria (46,42 s na gravação) caia em 17,6 s no vídeo, no corte para o mosaico.
+Efeitos: um brilho leve quando o emblema termina de se montar, sopro de papel em cada cortina dourada, o carimbo
+do lacre, o lacre se partindo, a aba e a folha, um toque a cada pino da rota. Uso: python3 tools/promo/promo_som.py <faixa> <saida.wav>
 """
 import subprocess, sys
 import numpy as np
 from scipy import signal
 from scipy.io import wavfile
 
-SR = 48000; DUR = 30.0; N = int(SR * DUR)
-BEAT = .858; BAR = 3 * BEAT; DROP = 15.0
+SR = 48000
+BEAT = .858; BAR = 3 * BEAT; DROP = 15.0 + BAR; DUR = 30.0 + BAR; N = int(SR * DUR)
 CUTS = [DROP - 4 * BAR, DROP - 2 * BAR, DROP, DROP + 2 * BAR, DROP + 4 * BAR]
 rng = np.random.default_rng(7)
 
@@ -46,6 +46,11 @@ def rustle(d=.7):
     mod = np.clip(signal.sosfilt(signal.butter(2, 18, 'lowpass', fs=SR, output='sos'), np.abs(rng.normal(0, 1, n))) * 3, 0, 1)
     return x * mod * env(n, .05, .3) * .22
 
+def shimmer():
+    n = int(2.2 * SR); t = np.arange(n) / SR
+    tones = sum(np.sin(2 * np.pi * f * t + k) for k, f in enumerate((1396.9, 1760.0, 2093.0)))   # fá, lá, dó: acorde de fá maior, o tom da faixa
+    return tones * np.exp(-t * 2.2) * np.clip(t / .08, 0, 1) * .025
+
 def tick():
     n = int(.12 * SR); t = np.arange(n) / SR
     return (np.sin(2 * np.pi * 1800 * t) * .4 + bp(rng.normal(0, 1, n), 2500, 8000)) * np.exp(-t * 60) * .12
@@ -66,6 +71,7 @@ def build(track, out):
     fx = np.zeros((N, 2))
     for c in CUTS:
         if c != DROP: add(fx, c - .45, whoosh(), pan=-.3)
+    add(fx, 6.25, shimmer())                            # o emblema montado
     add(fx, CUTS[0] + 1.3, thock())                       # o lacre carimba a carta
     add(fx, CUTS[0] + 3.45, crack(), pan=.1)              # o lacre se parte
     add(fx, CUTS[0] + 3.7, rustle(.6), pan=-.2)           # a aba abre
