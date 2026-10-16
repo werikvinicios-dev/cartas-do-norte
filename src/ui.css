@@ -767,3 +767,4 @@ html:not(.can-animate) .l4{margin-top:10px}html:not(.can-animate) .act-light .ac
 .menu-list li{padding-top:clamp(8px,1.4vw,22px)}
 .room-head h1,.lib-hero h1,.sec-head h2{margin-top:.3em}
 .room-head .eyebrow,.lib-hero .eyebrow{position:relative;z-index:1}
+.search-form{flex-wrap:wrap}.search-form input{min-width:0;flex:1 1 200px}
