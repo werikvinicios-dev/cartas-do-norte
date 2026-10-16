@@ -3,7 +3,7 @@
 ## Entregues (`assets/video/`)
 | Arquivo | Conteúdo |
 |---|---|
-| `trailer.mp4` | **Principal**, 80 s, 1920×1080, 24 fps, H.264 + AAC 48 kHz estéreo, −14 LUFS, pico −1 dBTP. Sem narração; as frases aparecem na tela. É o que o site exibe. |
+| `trailer.mp4` | **Principal**, 80 s, 1920×1080, 24 fps, H.264 + AAC 48 kHz estéreo, −14 LUFS, pico −1,5 dBFS. Sem narração; as frases aparecem na tela. É o que o site exibe. |
 | `trailer-vertical.mp4` | 9:16 (1080×1920), mesmo filme com enquadramentos e textos refeitos para a vertical, não cortados do 16:9. O site usa esta versão em celulares na vertical. |
 | `trailer-30s.mp4` | Versão reduzida de 30 s. |
 | `trailer-15s.mp4` | Teaser de 15 s. |
@@ -19,9 +19,10 @@ Projeto editável: `tools/trailer_oficial.py` (imagem; `TRAILER_W/TRAILER_H` def
 - **Sem spoilers:** apenas a Parte I e o início da II, a prancha de abertura da Parte IV (paisagem sem pessoas) e uma prancha avulsa usada só pelo detalhe da mão e do relógio.
 - **Animação:** nada na pintura é deformado. Chuva, névoa, ondulação abaixo da linha d'água, luz, brilho na bússola e uma folha fora de foco são camadas próprias. A câmera se move pouco. Sem flashes, glitch ou tremor.
 - **Frases:** são texto publicitário do roteiro, não citações do romance.
-- **Trilha original** em ré menor que resolve em ré maior. Instrumentos sintetizados; mar, vento e chuva são as ambiências originais da edição. A sequência V tem gritos muito distantes, filtrados, sob o mar escuro (pedido anterior), em nível baixo; para tirar, apague o bloco `cries` em `trailer_oficial_som.py`.
+- **Trilha:** "Amazing Grace (lofi instrumental)", de The Lofi Christian, enviada pelo autor, montada sobre a linha do tempo em `tools/trailer_oficial_som.py --trilha` (bateria entra com a Constância aos 30,9 s; abafada no confronto; parada seca aos 59 s; retorno pleno no emblema aos 70 s). A partitura original sintetizada, em ré menor → ré maior, continua disponível rodando o script sem `--trilha`. Mar, vento e chuva são as ambiências originais da edição. A sequência V tem gritos muito distantes, filtrados, sob o mar escuro (pedido anterior), em nível baixo; para tirar, apague o bloco `cries` em `trailer_oficial_som.py`.
 
 ## Limitações
+- **Direitos da gravação:** a melodia de Amazing Grace é de domínio público, mas a gravação lofi pertence a quem a produziu. Para publicar o trailer (site, redes, YouTube), confirme a licença de uso com The Lofi Christian ou com a distribuidora. Sem isso, plataformas podem bloquear ou desmonetizar o vídeo por Content ID.
 - **4K:** não renderizado. As aquarelas originais têm no máximo 1536 px; em 3840×2160 elas seriam só ampliadas, sem ganho de detalhe, e o render passaria de algumas horas neste ambiente. A matriz é 1920×1080.
 - **Instrumentos sintetizados:** não são uma orquestra gravada. O resultado é limpo e dinâmico, mas tem timbre de sintetizador nas cordas.
 - **Parallax 2.5D real:** exigiria separar camadas de cada aquarela à mão. Para não deformar as pinturas, o movimento ficou na câmera mínima e nas camadas atmosféricas.

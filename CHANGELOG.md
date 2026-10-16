@@ -1,8 +1,14 @@
 # Histórico de versões do Arquivo Vivo
 
+## v0.11 · 16 de outubro de 2026 — Trailer com "Amazing Grace (lofi instrumental)"
+- Os quatro vídeos do trailer passam a usar a gravação enviada pelo autor, "Amazing Grace (lofi instrumental)", de The Lofi Christian, no lugar da partitura sintetizada. A imagem não mudou.
+- Montagem na grade de tempos da faixa (70 bpm, fá maior): o piano solo da introdução acompanha a memória e o funeral; a bateria entra quando a Constância surge (30,9 s); no confronto a faixa fica abafada, como ouvida debaixo d'água, e se abre aos poucos até a parada seca aos 59 s; a ponte mais leve acompanha a primeira luz e o retorno pleno cai na revelação do emblema (70 s).
+- Foley, mar, vento, chuva, gritos distantes e o recuo em "enterradas" foram mantidos. −14 LUFS, pico −1,5 dBFS.
+- `python3 tools/trailer_oficial_som.py saida.wav --trilha <faixa>` (pontos de corte em `TRACK_MAP`). A faixa original não está no repositório.
+
 ## v0.10 · 16 de outubro de 2026 — Graça
 - **Música de leitura "Graça"** no painel de som: variações de Amazing Grace ao piano (introdução em arpejos; melodia simples; melodia uma oitava acima com apojaturas e violoncelo; melodia no tenor sob arpejos agudos; coda). 2 min 46 s, em repetição sem emenda (a reverberação do fim cai sobre o início), −22 LUFS para não competir com o texto. `tools/musica_leitura.py`.
-- **Trilha do trailer:** o hino está mais presente e mais agudo, com piano clássico. No ato I o violoncelo sobe uma oitava, com o piano dobrando. O ato II cita o hino em menor. No ato IV a melodia vem uma oitava acima, com apojaturas, terças, mão esquerda em baixo de Alberti e acorde final arpejado. Os vídeos ainda usam a trilha anterior: serão remontados depois da aprovação do som.
+- **Trilha do trailer:** o hino está mais presente e mais agudo, com piano clássico. No ato I o violoncelo sobe uma oitava, com o piano dobrando. O ato II cita o hino em menor. No ato IV a melodia vem uma oitava acima, com apojaturas, terças, mão esquerda em baixo de Alberti e acorde final arpejado. Essa versão não chegou aos vídeos: foi substituída pela gravação lofi (v0.11).
 
 ## v0.9 · 16 de outubro de 2026 — Trailer oficial "Uma aquarela que respira"
 - Trailer refeito a partir do prompt mestre, em 7 sequências e 80 s (16:9, 24 fps): o mar se lembra; o funeral do faroleiro; o que ficou para trás; a travessia; o peso do passado; o silêncio antes da luz; o nome da história. Sem narração: as frases aparecem na tela, com fade, revelação por máscara e movimento mínimo.

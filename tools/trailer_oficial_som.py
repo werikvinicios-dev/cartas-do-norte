@@ -12,6 +12,11 @@ Ato IV  Esperança   59–80   silêncio com uma única onda; piano em primeiro 
 Amazing Grace: melodia "New Britain" (1829, domínio público), arranjo instrumental original, sem letra.
 A primeira frase aparece no violoncelo aos 4 s; a segunda metade fecha o trailer no piano.
 Versões: sem narração (principal) e com narração (voz neural pm_alex, Kokoro) — `build(path, narrated)`.
+
+Trilha externa (`--trilha arquivo`): substitui a partitura sintetizada por uma gravação, montada em quatro blocos
+alinhados à grade de tempos da faixa e mantendo foley, ambiências, gritos distantes, o recuo em "enterradas" e a
+parada seca aos 59 s. Os pontos de corte (`TRACK_MAP`) foram medidos em "Amazing Grace (lofi instrumental)",
+The Lofi Christian (70 bpm, fá maior; entrada da bateria aos 46,42 s e retorno pleno aos 142,52 s).
 """
 import math, sys
 from pathlib import Path
@@ -100,7 +105,29 @@ BEAT1 = .75; BEAT2 = (74.8 - 60.6) / 24          # a última nota ("see") cai no
 HARM2 = ['D', 'D', 'G', 'D', 'D', 'Bm', 'A', 'D']
 CHORDS2 = {'D': ['D3', 'A3', 'D4', 'F#4'], 'G': ['G2', 'B3', 'D4', 'G4'], 'Bm': ['B2', 'B3', 'D4', 'F#4'], 'A': ['A2', 'A3', 'C#4', 'E4']}
 
-def build(path, narrated=False):
+# (início no trailer, fim no trailer, início na faixa): a bateria entra quando a Constância surge (30,9 s); o retorno
+# pleno da faixa cai na revelação do emblema (70 s); a ponte mais leve da faixa acompanha a primeira luz.
+TRACK_MAP = [(0.0, 59.0, 46.424 - 30.9), (60.6, 80.0, 142.52 - 9.4)]
+
+def external_score(track):
+    """Monta a gravação sobre a linha do tempo do trailer (mesmas curvas de recuo e silêncio da partitura original)."""
+    import subprocess
+    raw = subprocess.run(['ffmpeg', '-v', 'error', '-i', str(track), '-f', 'f32le', '-ac', '2', '-ar', str(SR), '-'],
+                         capture_output=True, check=True).stdout
+    src = np.frombuffer(raw, np.float32).reshape(-1, 2).astype(float)
+    out = np.zeros((TA.N, 2))
+    for t0, t1, s0 in TRACK_MAP:
+        i0, i1, j0 = int(t0 * SR), int(t1 * SR), int(s0 * SR)
+        seg = src[j0:j0 + i1 - i0]; out[i0:i0 + len(seg)] += seg
+    # Ato III: a faixa fica abafada, como ouvida debaixo d'água, e se abre aos poucos até a parada seca
+    muffled = lp(lp(out, 650, 2), 900, 2)
+    open_ = curve([(0, 1), (43.9, 1), (44.15, .0), (50.0, .05), (56.0, .35), (58.9, 1), (80, 1)])[:, None]
+    out = out * open_ + muffled * (1 - open_) * 1.6
+    out *= curve([(0, 0), (1.0, 0), (4.0, 1), (80, 1)])[:, None]                               # entra sob a água
+    out *= curve([(0, 1), (60.59, 1), (60.6, 0), (61.4, 1), (80, 1)])[:, None]                 # volta depois do silêncio
+    return out
+
+def build(path, narrated=False, track=None):
     mus, fx, amb = Bus(), Bus(), Bus()
     # Ato I
     fx.add(.4, swell(3.6, .7), .55, .1)
@@ -174,14 +201,14 @@ def build(path, narrated=False):
     amb.x += np.stack([ogg('vento') * curve([(0, 0), (1, .12), (8, .2), (15.4, .3), (20, .15), (31, .1), (44, .25), (58.9, .35), (59.0, 0), (75, 0), (77, .15), (80, 0)])] * 2, 1)
     amb.x += np.stack([ogg('chuva') * curve([(0, 0), (7.9, 0), (8.0, .45), (12.4, .5), (15.3, .5), (15.4, .2), (20, .1), (21, 0), (80, 0)])] * 2, 1)
     # mixagem
-    music = reverb(mus.x, 3.6, 5200, .035, .45)
+    music = external_score(track) if track else reverb(mus.x, 3.6, 5200, .035, .45)
     # "enterradas": a música recua e a chuva ocupa o espaço
     music *= curve([(0, 1), (13.2, 1), (13.6, .35), (15.2, .35), (15.4, 1), (80, 1)])[:, None]
     music *= curve([(0, 1), (58.95, 1), (59.0, 0), (60.4, 0), (60.6, 1), (80, 1)])[:, None]   # parada seca
     music *= curve([(0, 1), (77.0, 1), (79.5, 0), (80, 0)])[:, None]                             # a música desaparece
     effects = reverb(fx.x, 2.4, 4200, .02, .3)
     cry_mix = lp(reverb(cry.x, 3.6, 3000, .06, 1.2), 1600, 2)
-    mix = music * .8 + effects * .8 + amb.x * .75 + cry_mix * .5
+    mix = music * .8 + effects * .8 + amb.x * (.5 if track else .75) + cry_mix * .5   # com a gravação, a música vem à frente
     if narrated:
         vo = narration(); env = signal.lfilter([.0015], [1, -.9985], np.abs(vo))
         duck = 1 - .45 * np.clip(env / .05, 0, 1)
@@ -192,4 +219,5 @@ def build(path, narrated=False):
     wavfile.write(path, SR, (mix * 32767).astype(np.int16))
 
 if __name__ == '__main__':
-    build(sys.argv[1], '--narrado' in sys.argv)
+    a = sys.argv[1:]
+    build(a[0], '--narrado' in a, a[a.index('--trilha') + 1] if '--trilha' in a else None)
