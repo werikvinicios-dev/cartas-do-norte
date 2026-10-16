@@ -1,443 +1,266 @@
 {
-  "id": "ch48",
-  "type": "chapter",
-  "title": "O canal da agulha",
-  "subtitle": null,
-  "part": "PARTE IV — O FAROL",
-  "blocks": [
-    {
-      "id": "p-830388f9ab3c-1",
-      "type": "h2",
-      "text": "O canal da agulha"
-    },
-    {
-      "id": "p-19f8c9451d4e-1",
-      "type": "para",
-      "text": "No alto do Farol da Vigília, a lente se recusava a girar."
-    },
-    {
-      "id": "p-791f548e1a27-1",
-      "type": "para",
-      "text": "Miguel removeu a lona. O enorme conjunto de vidro ainda preservava a forma, mas sal e ferrugem prendiam o mecanismo. O eixo do gerador empurrava sob o piso; engrenagens batiam sem completar a volta."
-    },
-    {
-      "id": "p-2134a3bd20ff-1",
-      "type": "para",
-      "text": "A tempestade golpeava as janelas. Algumas já tinham rachado. Cada rajada fazia a torre oscilar o bastante para Miguel lembrar que pedra também possuía limites."
-    },
-    {
-      "id": "p-a57031d397c1-1",
-      "type": "para",
-      "text": "Tomás chegou ofegante."
-    },
-    {
-      "id": "p-1301d8a065a3-1",
-      "type": "para",
-      "text": "— Clara mandou isto."
-    },
-    {
-      "id": "p-b6ee78c69d66-1",
-      "type": "para",
-      "text": "Entregou uma lata de óleo e uma barra de ferro."
-    },
-    {
-      "id": "p-41da0a4f42fa-1",
-      "type": "para",
-      "text": "— Como está o navio?"
-    },
-    {
-      "id": "p-016ace7c7a94-1",
-      "type": "para",
-      "text": "— Oito milhas. Sem a luz falsa, reduziu velocidade. Mas a corrente leva para a Coroa."
-    },
-    {
-      "id": "p-4addaf10f064-1",
-      "type": "para",
-      "text": "Miguel derramou óleo entre os dentes da engrenagem."
-    },
-    {
-      "id": "p-f96a496c447f-1",
-      "type": "para",
-      "text": "— Precisamos girar manualmente."
-    },
-    {
-      "id": "p-be2457942eb2-1",
-      "type": "para",
-      "text": "Enfiaram a barra. O metal não se moveu."
-    },
-    {
-      "id": "p-1cdf66fcb4e8-1",
-      "type": "para",
-      "text": "— Juntos — disse Tomás."
-    },
-    {
-      "id": "p-b8210fa5cc50-1",
-      "type": "para",
-      "text": "Empurraram."
-    },
-    {
-      "id": "p-88b19ee9bc3d-1",
-      "type": "para",
-      "text": "Por um instante, nada. Depois a ferrugem se rompeu com um som semelhante a osso. A lente avançou alguns centímetros."
-    },
-    {
-      "id": "p-650d433c3332-1",
-      "type": "para",
-      "text": "— Outra vez."
-    },
-    {
-      "id": "p-1437b54ea5ab-1",
-      "type": "para",
-      "text": "Empurraram até os músculos tremerem. A lente girou um quarto de volta e parou."
-    },
-    {
-      "id": "p-e7b8673a1c09-1",
-      "type": "para",
-      "text": "— Quando acendermos, teremos de continuar assim — disse Miguel."
-    },
-    {
-      "id": "p-1845a7b4d3b5-1",
-      "type": "para",
-      "text": "— Por quanto tempo?"
-    },
-    {
-      "id": "p-99ab768ca9e7-1",
-      "type": "para",
-      "text": "— Até o navio passar."
-    },
-    {
-      "id": "p-8c64484e5f10-1",
-      "type": "para",
-      "text": "— Naturalmente."
-    },
-    {
-      "id": "p-3b1d5df3dedf-1",
-      "type": "para",
-      "text": "Lá embaixo, Clara preparava a lâmpada. O farol antigo usava um arco de óleo pressurizado, mais brilhante do que dezenas de lanternas. Afonso e os operários bombeavam pressão. Estevão mantinha o rádio."
-    },
-    {
-      "id": "p-d39559fb422a-1",
-      "type": "para",
-      "text": "— Boa Esperança, procurem três pulsações, pausa, três pulsações — disse Clara. — Esse é o Farol da Vigília. O canal seguro fica a oeste do facho."
-    },
-    {
-      "id": "p-217d32868a8d-1",
-      "type": "para",
-      "text": "— ...mapa indica leste..."
-    },
-    {
-      "id": "p-945c3d364210-1",
-      "type": "para",
-      "text": "— Seu mapa foi alterado. Capitão, sou Clara Moura, hidrógrafa da Oficina Central. Meu registro é quatro-sete-norte. Assumo responsabilidade pela orientação."
-    },
-    {
-      "id": "p-d8b30f4e14ee-1",
-      "type": "para",
-      "text": "— ...Moura? Filha de Elias Moura?"
-    },
-    {
-      "id": "p-53a06bcf8a19-1",
-      "type": "para",
-      "text": "Clara fechou os olhos."
-    },
-    {
-      "id": "p-47c7fb5c5024-1",
-      "type": "para",
-      "text": "— Sim."
-    },
-    {
-      "id": "p-6c25df5fb675-1",
-      "type": "para",
-      "text": "— Naveguei sob seu pai. Vou seguir."
-    },
-    {
-      "id": "p-9a67bed2dd21-1",
-      "type": "para",
-      "text": "Tomás ouviu pelo transmissor no alto."
-    },
-    {
-      "id": "p-bdeaba365b57-1",
-      "type": "para",
-      "text": "— Às vezes nomes fazem trabalho — disse."
-    },
-    {
-      "id": "p-afea95261910-1",
-      "type": "para",
-      "text": "Miguel colocou um fósforo na lâmpada piloto. A mão tremia."
-    },
-    {
-      "id": "p-7c963d97f820-1",
-      "type": "para",
-      "text": "Cheiro de óleo. Vidro. Névoa. Gabriel gritando."
-    },
-    {
-      "id": "p-ebd2952674d8-1",
-      "type": "para",
-      "text": "Tomás tomou a caixa de fósforos."
-    },
-    {
-      "id": "p-15bc9fa3b381-1",
-      "type": "para",
-      "text": "— Posso acender."
-    },
-    {
-      "id": "p-941d8ac2d797-1",
-      "type": "para",
-      "text": "Miguel quase entregou."
-    },
-    {
-      "id": "p-30a43014ea56-1",
-      "type": "para",
-      "text": "Depois fechou os dedos."
-    },
-    {
-      "id": "p-c9d06b5baa9c-1",
-      "type": "para",
-      "text": "— Não. Desta vez eu sei para que serve."
-    },
-    {
-      "id": "p-66ec1b026df7-1",
-      "type": "para",
-      "text": "Riscou."
-    },
-    {
-      "id": "p-bd19a9b3e33e-1",
-      "type": "para",
-      "text": "A pequena chama encontrou o pavio. O óleo pressurizado respondeu com um sopro. Luz branca encheu a lente e atravessou a primeira janela."
-    },
-    {
-      "id": "p-203c27e2881e-1",
-      "type": "para",
-      "text": "Por um segundo, ficou imóvel."
-    },
-    {
-      "id": "p-a2563a935f6d-1",
-      "type": "para",
-      "text": "— Agora! — gritou Miguel."
-    },
-    {
-      "id": "p-97613bcf3daf-1",
-      "type": "para",
-      "text": "Ele e Tomás empurraram a barra. A lente girou."
-    },
-    {
-      "id": "p-f76f8f5e775e-1",
-      "type": "para",
-      "text": "Um facho varreu o mar."
-    },
-    {
-      "id": "p-6e7d7bd0f95a-1",
-      "type": "para",
-      "text": "Primeira pulsação. Segunda. Terceira."
-    },
-    {
-      "id": "p-f1a52586e414-1",
-      "type": "para",
-      "text": "Pausa."
-    },
-    {
-      "id": "p-6cb23b43db9f-1",
-      "type": "para",
-      "text": "Outra vez."
-    },
-    {
-      "id": "p-675250c47b2f-1",
-      "type": "para",
-      "text": "Na casa de rádio, uma voz gritou:"
-    },
-    {
-      "id": "p-cec0dc2e77bb-1",
-      "type": "para",
-      "text": "— Boa Esperança avistou!"
-    },
-    {
-      "id": "p-615f17df0e70-1",
-      "type": "para",
-      "text": "Gente comemorou no porão. Clara não."
-    },
-    {
-      "id": "p-0831985708ac-1",
-      "type": "para",
-      "text": "— Ainda não passaram — disse."
-    },
-    {
-      "id": "p-4d1d60a97768-1",
-      "type": "para",
-      "text": "O transporte aparecia como sombra além do recife. A proa subia e desaparecia entre ondas. A corrente o empurrava para os Rochedos da Coroa."
-    },
-    {
-      "id": "p-b66655292cb4-1",
-      "type": "para",
-      "text": "— Dois graus a bombordo — orientou Clara. — Mantenha até o sino submerso."
-    },
-    {
-      "id": "p-c1ad0cdc37cb-1",
-      "type": "para",
-      "text": "— Não ouvimos sino."
-    },
-    {
-      "id": "p-084da358b242-1",
-      "type": "para",
-      "text": "— Ouvirão."
-    },
-    {
-      "id": "p-9933e60137b3-1",
-      "type": "para",
-      "text": "Miguel e Tomás empurravam. Três pulsações. Pausa. Três. O calor da lâmpada tornava o quarto insuportável. Sangue apareceu nas palmas de Tomás."
-    },
-    {
-      "id": "p-8ff51bb13d83-1",
-      "type": "para",
-      "text": "— Pare um turno — disse Miguel."
-    },
-    {
-      "id": "p-e233e44e8e68-1",
-      "type": "para",
-      "text": "— Se parar, você não move sozinho."
-    },
-    {
-      "id": "p-912dcd1df914-1",
-      "type": "para",
-      "text": "— Vai desmaiar."
-    },
-    {
-      "id": "p-c801033ec7eb-1",
-      "type": "para",
-      "text": "— Sempre quis uma ocasião dramática."
-    },
-    {
-      "id": "p-5884b26c1fc1-1",
-      "type": "para",
-      "text": "— Essa piada era de Balu."
-    },
-    {
-      "id": "p-9852827781e9-1",
-      "type": "para",
-      "text": "— Ele não está aqui para reclamar do roubo."
-    },
-    {
-      "id": "p-8004993e7faa-1",
-      "type": "para",
-      "text": "O gerador falhou."
-    },
-    {
-      "id": "p-d8c7179f7e12-1",
-      "type": "para",
-      "text": "A luz diminuiu."
-    },
-    {
-      "id": "p-c3ee39a3d76e-1",
-      "type": "para",
-      "text": "Lá embaixo, Afonso gritou por combustível. Uma correia se soltara. Os operários tentaram recolocar enquanto o eixo ainda girava."
-    },
-    {
-      "id": "p-a08288c1f5be-1",
-      "type": "para",
-      "text": "O facho morreu."
-    },
-    {
-      "id": "p-81fe72dbcaee-1",
-      "type": "para",
-      "text": "No rádio, o capitão falou:"
-    },
-    {
-      "id": "p-98130131538e-1",
-      "type": "para",
-      "text": "— Perdemos referência. Corrente nos leva a leste."
-    },
-    {
-      "id": "p-92aaa7259b9e-1",
-      "type": "para",
-      "text": "Clara correu à janela. A luz do navio inclinava-se para o recife."
-    },
-    {
-      "id": "p-2c4c89517b14-1",
-      "type": "para",
-      "text": "— Miguel!"
-    },
-    {
-      "id": "p-d409ca6f6964-1",
-      "type": "para",
-      "text": "No quarto da lente havia um sistema manual de emergência: uma manivela para a rotação e um reservatório menor de óleo. Jonas obrigara os netos a aprender, rindo da possibilidade de meninos girarem uma tonelada de vidro."
-    },
-    {
-      "id": "p-f38f86f4cb10-1",
-      "type": "para",
-      "text": "Miguel abriu a válvula auxiliar. A chama retornou fraca."
-    },
-    {
-      "id": "p-3bf487c5e55e-1",
-      "type": "para",
-      "text": "— A manivela — disse."
-    },
-    {
-      "id": "p-66d86828b5ac-1",
-      "type": "para",
-      "text": "Tomás encaixou. Girou. O mecanismo moveu um dente."
-    },
-    {
-      "id": "p-73197993a9bf-1",
-      "type": "para",
-      "text": "— Levará quatro homens."
-    },
-    {
-      "id": "p-a69b5ccf6a88-1",
-      "type": "para",
-      "text": "Passos subiram a escada."
-    },
-    {
-      "id": "p-cb2705302aef-1",
-      "type": "para",
-      "text": "Davi apareceu, seguido por dois trabalhadores da ponta. Tinha o rosto inchado e as mãos envolvidas em pano."
-    },
-    {
-      "id": "p-53f09c7fc6a9-1",
-      "type": "para",
-      "text": "— Eu sabia que guardariam o trabalho fácil — disse."
-    },
-    {
-      "id": "p-4e9c62dd64bc-1",
-      "type": "para",
-      "text": "— Silas?"
-    },
-    {
-      "id": "p-97f738db7061-1",
-      "type": "para",
-      "text": "— Leonor está com ele. Vai viver, principalmente para irritá-la."
-    },
-    {
-      "id": "p-d51d56245656-1",
-      "type": "para",
-      "text": "Davi tomou a manivela com as mãos feridas."
-    },
-    {
-      "id": "p-1dc5c60c2f22-1",
-      "type": "para",
-      "text": "— Não consegue — disse Miguel."
-    },
-    {
-      "id": "p-557cf381c0f8-1",
-      "type": "para",
-      "text": "— Então segure comigo."
-    },
-    {
-      "id": "p-ee1d87710111-1",
-      "type": "para",
-      "text": "Os quatro empurraram."
-    },
-    {
-      "id": "p-22b80a7be327-1",
-      "type": "para",
-      "text": "A luz girou."
-    }
-  ],
-  "provenance": {
-    "source": "production-v4:manifests/chapters.json",
-    "original_chapter_ids": [
-      65
-    ],
-    "source_pdf_page": 484,
-    "verification": "structured-source"
+ "id": "ch48",
+ "type": "chapter",
+ "title": "A fenda das vozes",
+ "subtitle": "",
+ "part": "PARTE III — A TEMPESTADE",
+ "blocks": [
+  {
+   "id": "p-4816fdd4e206-1",
+   "type": "h2",
+   "text": "A fenda das vozes"
   },
-  "blocks_sha256": "4b6955689af358dd354dd9e684af3f335380f6504277c3fc6a1c155d2cc73dd7"
+  {
+   "id": "p-836cf4249dbe-1",
+   "type": "para",
+   "text": "A gruta recebeu o nome por devolver palavras com a voz de outras pessoas."
+  },
+  {
+   "id": "p-bebfea5fc5e8-1",
+   "type": "para",
+   "text": "Quando Davi gritou “há alguém?”, a pergunta percorreu os túneis e retornou mais grave, mais velha, multiplicada por bocas invisíveis."
+  },
+  {
+   "id": "p-d0b19bf85514-1",
+   "type": "para",
+   "text": "— Não faça isso — disse Clara."
+  },
+  {
+   "id": "p-74246601c3e9-1",
+   "type": "para",
+   "text": "*Faça isso, isso, isso*, responderam as pedras."
+  },
+  {
+   "id": "p-4ace88f235c7-1",
+   "type": "para",
+   "text": "Tinham ancorado a Constância numa enseada estreita. Nenhum sinal dos homens de Severo. Baltasar ficou a bordo com o rádio, enquanto Miguel, Clara e Davi entraram num bote. A maré deixava apenas um metro entre a água e o teto da primeira passagem."
+  },
+  {
+   "id": "p-e5624f2cfb30-1",
+   "type": "para",
+   "text": "Clara remava. Davi segurava o lampião com a mão boa. Miguel comparava marcas nas paredes com o diário de Jonas."
+  },
+  {
+   "id": "p-6a3708f10258-1",
+   "type": "para",
+   "text": "Depois de cem metros, o túnel se abriu numa câmara alta. Destroços cobriam uma praia subterrânea: tábuas, pedaços de metal, sapatos, talheres presos em coral. A corrente depositara ali uma parte do Aurora."
+  },
+  {
+   "id": "p-99403d3bb17c-1",
+   "type": "para",
+   "text": "Davi desceu primeiro."
+  },
+  {
+   "id": "p-b34add78cea1-1",
+   "type": "para",
+   "text": "— Não toque em nada — disse Miguel."
+  },
+  {
+   "id": "p-ad32c0c7702d-1",
+   "type": "para",
+   "text": "— Você diz isso porque é responsável ou porque quer tocar antes?"
+  },
+  {
+   "id": "p-b145a8d06a9e-1",
+   "type": "para",
+   "text": "— Os dois."
+  },
+  {
+   "id": "p-4cd9ed189582-1",
+   "type": "para",
+   "text": "Encontraram uma porta de cabine com o número 18, o aro de um salva-vidas e uma mala de couro transformada em ninho de caranguejos. Clara ajoelhou-se diante de um sino de mão com as iniciais E.M."
+  },
+  {
+   "id": "p-6b575b26ddc2-1",
+   "type": "para",
+   "text": "— Era da ponte — disse."
+  },
+  {
+   "id": "p-11c49360d441-1",
+   "type": "para",
+   "text": "Miguel colocou a mão em seu ombro. Ela não se afastou, mas também não se inclinou para ele."
+  },
+  {
+   "id": "p-0cac81fb345c-1",
+   "type": "para",
+   "text": "No fundo da câmara, doze riscos haviam sido gravados na rocha. Jonas desenhara o mesmo símbolo no diário. Sob os riscos, uma seta apontava para uma pilha de pedras."
+  },
+  {
+   "id": "p-0b1f195f4208-1",
+   "type": "para",
+   "text": "Davi ajudou a removê-las. Encontraram uma caixa de madeira quase desfeita. Dentro, protegida por cera, havia uma lista de passageiros."
+  },
+  {
+   "id": "p-36fa3afa42b2-1",
+   "type": "para",
+   "text": "Não era o manifesto oficial. Cinquenta e oito nomes preenchiam a folha."
+  },
+  {
+   "id": "p-e10ec2c0b3c4-1",
+   "type": "para",
+   "text": "— Quatro a mais — disse Davi."
+  },
+  {
+   "id": "p-4637f5be3138-1",
+   "type": "para",
+   "text": "Clara leu em voz alta. Dois eram crianças. Um não tinha sobrenome. O último era Raul Serpa."
+  },
+  {
+   "id": "p-ebefc6a84b40-1",
+   "type": "para",
+   "text": "Davi tomou a folha."
+  },
+  {
+   "id": "p-27fe02de3c2c-1",
+   "type": "para",
+   "text": "— Meu pai estava no Aurora."
+  },
+  {
+   "id": "p-154a4d00f249-1",
+   "type": "para",
+   "text": "— Marta disse que ele permanecera nas Salinas — falou Miguel."
+  },
+  {
+   "id": "p-addc0722bd0e-1",
+   "type": "para",
+   "text": "— Ela não sabia."
+  },
+  {
+   "id": "p-0ba3fe8093a8-1",
+   "type": "para",
+   "text": "Uma anotação ao lado do nome indicava supervisor de carga."
+  },
+  {
+   "id": "p-e01b7a2e8c8a-1",
+   "type": "para",
+   "text": "— Ele acompanhava o combustível ilegal — disse Clara. — Talvez tenha sido quem coordenou o canal falso."
+  },
+  {
+   "id": "p-9002d7188a6c-1",
+   "type": "para",
+   "text": "Davi encarou as palavras."
+  },
+  {
+   "id": "p-7b9ca289b79e-1",
+   "type": "para",
+   "text": "— Gabriel salvou minha mãe de um navio para o qual meu pai ajudou a conduzi-la."
+  },
+  {
+   "id": "p-fa4649ed17c8-1",
+   "type": "para",
+   "text": "— Você não herda a culpa dele — disse Miguel."
+  },
+  {
+   "id": "p-b0af9176aaa6-1",
+   "type": "para",
+   "text": "— Nem a dívida de Gabriel. Eu sei. — O menino dobrou a folha com cuidado. — Saber não impede de doer."
+  },
+  {
+   "id": "p-c51f645e2b78-1",
+   "type": "para",
+   "text": "Um ruído veio do túnel."
+  },
+  {
+   "id": "p-d17aaeda3f00-1",
+   "type": "para",
+   "text": "Remo contra pedra."
+  },
+  {
+   "id": "p-d6f4eb511498-1",
+   "type": "para",
+   "text": "Clara apagou o lampião."
+  },
+  {
+   "id": "p-ada11afdaf72-1",
+   "type": "para",
+   "text": "Vozes entraram na câmara, multiplicadas pelas paredes."
+  },
+  {
+   "id": "p-cfc22588c314-1",
+   "type": "para",
+   "text": "— Procurem a lista. Queimem o resto."
+  },
+  {
+   "id": "p-f9a73954dceb-1",
+   "type": "para",
+   "text": "Homens de Severo."
+  },
+  {
+   "id": "p-2a638cbcbeca-1",
+   "type": "para",
+   "text": "Miguel guiou Clara e Davi por uma abertura atrás dos destroços. O diário indicava uma saída alta, acessível na maré baixa. Subiram por uma fenda estreita enquanto luzes surgiam na praia."
+  },
+  {
+   "id": "p-5f42c4acbcbc-1",
+   "type": "para",
+   "text": "Davi deixou uma pedra cair. O eco explodiu."
+  },
+  {
+   "id": "p-00b5eee19426-1",
+   "type": "para",
+   "text": "— Ali! — gritou alguém."
+  },
+  {
+   "id": "p-d63af466bcdb-1",
+   "type": "para",
+   "text": "Um tiro atingiu a parede. Clara puxou Davi. Miguel empurrou os dois por uma passagem e ficou por último. O teto tremeu."
+  },
+  {
+   "id": "p-4e212216e515-1",
+   "type": "para",
+   "text": "— Eles trouxeram explosivos — disse Clara."
+  },
+  {
+   "id": "p-bd8d27f93846-1",
+   "type": "para",
+   "text": "— Se detonarem aqui, enterram todos."
+  },
+  {
+   "id": "p-61deb46e41d4-1",
+   "type": "para",
+   "text": "— Homens pagos por Severo não são conhecidos pelo planejamento de longo prazo."
+  },
+  {
+   "id": "p-27283b1fdfc0-1",
+   "type": "para",
+   "text": "Outro disparo. Depois, um clarão."
+  },
+  {
+   "id": "p-f108a71724af-1",
+   "type": "para",
+   "text": "A explosão arrancou a passagem sob os pés de Miguel."
+  },
+  {
+   "id": "p-4282da5271d5-1",
+   "type": "para",
+   "text": "Ele caiu."
+  },
+  {
+   "id": "p-b35904d3676d-1",
+   "type": "para",
+   "text": "Por alguns segundos, houve apenas pedra, água e escuridão. Quando abriu os olhos, estava numa câmara inferior. O lampião quebrado ardia sobre uma poça de óleo."
+  },
+  {
+   "id": "p-f060169a2b30-1",
+   "type": "para",
+   "text": "Cheiro de cedro."
+  },
+  {
+   "id": "p-1c7d8a24a3b3-1",
+   "type": "para",
+   "text": "Luz amarela."
+  },
+  {
+   "id": "p-9878eb1dbb9a-1",
+   "type": "para",
+   "text": "Sangue em sua mão."
+  },
+  {
+   "id": "p-7e81c46fc4a4-1",
+   "type": "para",
+   "text": "O presente se abriu e deixou a memória entrar."
+  }
+ ],
+ "provenance": "Edição Final do autor (.docx)",
+ "blocks_sha256": "8c2139e47eea1691eda187b4c902c8d7a0e56591c11b374a047a6bd09944d707"
 }

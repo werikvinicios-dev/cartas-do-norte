@@ -1,473 +1,466 @@
 {
-  "id": "ch1",
-  "type": "chapter",
-  "title": "O funeral do faroleiro",
-  "subtitle": null,
-  "part": "PARTE I — A COSTA",
-  "blocks": [
-    {
-      "id": "p-1f3531f54454-1",
-      "type": "h2",
-      "text": "O funeral do faroleiro"
-    },
-    {
-      "id": "p-0936e3842f08-1",
-      "type": "para",
-      "text": "Choveu no funeral de Jonas Vale, embora o céu tivesse passado a manhã inteira prometendo que não choveria."
-    },
-    {
-      "id": "p-a8a1e377714c-1",
-      "type": "para",
-      "text": "Miguel achou apropriado. O avô sempre desconfiara de promessas feitas pelo tempo e pelos homens, sobretudo quando vinham com muita segurança."
-    },
-    {
-      "id": "p-1f8298b25cb4-1",
-      "type": "para",
-      "text": "A chuva começou quando o pastor Estevão leu as primeiras palavras do salmo e engrossou antes que ele chegasse ao vale da sombra da morte. Ninguém abriu guarda-chuva. No alto do cemitério, o vento os teria virado do avesso. As pessoas apenas baixaram a cabeça e deixaram que a água escorresse pelos cabelos, pelos casacos escuros e pelas flores já cansadas sobre o caixão."
-    },
-    {
-      "id": "p-1691e3475a7e-1",
-      "type": "para",
-      "text": "Miguel ficou na primeira fila porque era o único parente que restava."
-    },
-    {
-      "id": "p-7fb015c95874-1",
-      "type": "para",
-      "text": "Essa era uma forma técnica de dizer que não sobrara ninguém disposto a ocupar o lugar."
-    },
-    {
-      "id": "p-82dd9718807f-1",
-      "type": "para",
-      "text": "Havia quarenta e duas pessoas diante da sepultura. Miguel contou sem perceber que contava. Fazia isso quando precisava afastar de si alguma emoção: janelas numa fachada, passos até uma porta, linhas de latitude num mapa. Quarenta e duas pessoas para se despedir do homem mais odiado do Porto da Vigília. Metade fora por respeito à idade. A outra metade, Miguel suspeitava, queria se certificar de que Jonas finalmente seria colocado sob uma pedra pesada."
-    },
-    {
-      "id": "p-934f1c5eaae8-1",
-      "type": "para",
-      "text": "Quando os coveiros começaram a baixar o caixão, alguém cuspiu junto ao muro."
-    },
-    {
-      "id": "p-36e357f094b8-1",
-      "type": "para",
-      "text": "O som foi pequeno. Ainda assim, Miguel o ouviu."
-    },
-    {
-      "id": "p-d97bf264ccec-1",
-      "type": "para",
-      "text": "Virou-se. Um homem de barba branca o encarou sem constrangimento. Faltavam-lhe dois dedos na mão esquerda. Miguel não lembrava seu nome, mas reconheceu o rosto de alguma fotografia antiga do porto."
-    },
-    {
-      "id": "p-d6dddf53c492-1",
-      "type": "para",
-      "text": "— Deixe — murmurou uma voz ao lado."
-    },
-    {
-      "id": "p-28eec654f57e-1",
-      "type": "para",
-      "text": "Miguel olhou para Clara Moura."
-    },
-    {
-      "id": "p-0160e1cbd108-1",
-      "type": "para",
-      "text": "Durante alguns segundos, a chuva pareceu cair mais devagar."
-    },
-    {
-      "id": "p-4d28de1989c5-1",
-      "type": "para",
-      "text": "Ele a teria reconhecido em qualquer lugar, embora quase tudo nela tivesse mudado. Aos quinze anos, Clara era magra, impaciente e usava o cabelo preso de qualquer maneira, sempre com um lápis atrás da orelha. A mulher ao lado dele conservava a impaciência nos olhos, mas o restante adquirira contornos mais firmes. O cabelo escuro estava preso numa trança molhada. Havia linhas discretas no canto de sua boca, como marcas de quem aprendera a sorrir com economia."
-    },
-    {
-      "id": "p-77bfa11f7d3f-1",
-      "type": "para",
-      "text": "— Olá, Miguel."
-    },
-    {
-      "id": "p-82186ef696fe-1",
-      "type": "para",
-      "text": "— Clara."
-    },
-    {
-      "id": "p-06e612bfc607-1",
-      "type": "para",
-      "text": "Não se abraçaram. Entre os dois havia um caixão, dezessete anos e o pai dela no fundo do mar."
-    },
-    {
-      "id": "p-cb8658d2ff12-1",
-      "type": "para",
-      "text": "Estevão fechou a Bíblia."
-    },
-    {
-      "id": "p-7801214753a5-1",
-      "type": "para",
-      "text": "— Jonas gostava de consertar minhas pregações — disse o pastor. Algumas pessoas ergueram o rosto. — Às vezes antes que eu terminasse. Portanto, serei breve, para reduzir as oportunidades de ele discordar lá de onde está."
-    },
-    {
-      "id": "p-535edf0568fb-1",
-      "type": "para",
-      "text": "Um riso incerto percorreu o pequeno grupo e desapareceu depressa."
-    },
-    {
-      "id": "p-6a7a0ad28f94-1",
-      "type": "para",
-      "text": "Estevão apoiou a mão no caixão."
-    },
-    {
-      "id": "p-a7bef18260c7-1",
-      "type": "para",
-      "text": "— Eu poderia falar das coisas boas que este homem fez. Foram muitas. Poderia também fingir que suas escolhas ruins não feriram ninguém. Seria uma mentira diante de Deus e diante dos senhores. A esperança cristã não nos pede que chamemos escuridão de luz. Ela nos permite enterrar um homem inteiro: o que amou, o que falhou, o que se arrependeu e o que não conseguiu reparar."
-    },
-    {
-      "id": "p-c267470b29a9-1",
-      "type": "para",
-      "text": "Miguel sentiu o maxilar endurecer."
-    },
-    {
-      "id": "p-bcf878c4df47-1",
-      "type": "para",
-      "text": "Era uma frase digna de Jonas: bonita o bastante para parecer honesta e vaga o bastante para não confessar nada."
-    },
-    {
-      "id": "p-cc307db4464e-1",
-      "type": "para",
-      "text": "— Entregamos Jonas Vale à misericórdia de um Juiz que conhece toda a verdade — continuou Estevão. — E isso deve nos consolar e nos tornar humildes. Porque nenhum de nós a conhece por completo."
-    },
-    {
-      "id": "p-6e08c8c8d3c1-1",
-      "type": "para",
-      "text": "O primeiro punhado de terra caiu sobre a madeira."
-    },
-    {
-      "id": "p-fa1e5a95b366-1",
-      "type": "para",
-      "text": "Miguel não chorou. Chorara no trem, mas somente porque uma menina no banco da frente dividira uma laranja com o irmão menor e o cheiro lhe lembrara as tardes no farol. Não choraria agora, onde alguém poderia interpretar lágrimas como defesa do avô."
-    },
-    {
-      "id": "p-49107126ae3c-1",
-      "type": "para",
-      "text": "Depois da oração, as pessoas formaram uma fila desajeitada. Alguns apertaram sua mão. Outros passaram direto. Uma mulher muito idosa tocou-lhe o rosto e disse que ele tinha os olhos de Lídia. Miguel agradeceu antes de se lembrar de que Lídia era sua mãe e de que aquilo deveria significar alguma coisa."
-    },
-    {
-      "id": "p-18524c358daa-1",
-      "type": "para",
-      "text": "Tomás Varela foi o último."
-    },
-    {
-      "id": "p-fc5150bda331-1",
-      "type": "para",
-      "text": "Vestia um sobretudo cinza que provavelmente custara mais do que a casa de Estevão. A chuva não conseguia desarrumá-lo. Aos trinta e seis anos, Tomás ainda tinha o mesmo sorriso que usava quando roubava maçãs do quintal dos Vale e convencia Gabriel a assumir a culpa: aberto, caloroso e com uma pequena sombra de cálculo no canto direito."
-    },
-    {
-      "id": "p-417529088ba8-1",
-      "type": "para",
-      "text": "— Eu viria buscá-lo na estação se soubesse o horário — disse."
-    },
-    {
-      "id": "p-5c8d3a0b76e6-1",
-      "type": "para",
-      "text": "— Foi por isso que não avisei."
-    },
-    {
-      "id": "p-2a3b08f8d535-1",
-      "type": "para",
-      "text": "Tomás aceitou o golpe com uma inclinação de cabeça."
-    },
-    {
-      "id": "p-484f462e1947-1",
-      "type": "para",
-      "text": "— Sinto muito por Jonas."
-    },
-    {
-      "id": "p-9ee2945d77e5-1",
-      "type": "para",
-      "text": "— Você não gostava dele."
-    },
-    {
-      "id": "p-452b2348026a-1",
-      "type": "para",
-      "text": "— Ele também não gostava de mim. A tristeza não exige amizade."
-    },
-    {
-      "id": "p-4406cee939af-1",
-      "type": "para",
-      "text": "Miguel olhou para além dele. Na encosta oposta, as chaminés da Companhia Setentrional soltavam fumaça sobre o porto. Guindastes riscavam o céu. Quase todos os homens no cemitério usavam o pequeno emblema de uma estrela do norte costurado à roupa de trabalho."
-    },
-    {
-      "id": "p-3f3d29c65fb3-1",
-      "type": "para",
-      "text": "Tomás acompanhou seu olhar."
-    },
-    {
-      "id": "p-b990f863d871-1",
-      "type": "para",
-      "text": "— A cidade mudou."
-    },
-    {
-      "id": "p-73673c539f72-1",
-      "type": "para",
-      "text": "— Algumas coisas não."
-    },
-    {
-      "id": "p-707626965081-1",
-      "type": "para",
-      "text": "— Venha ao escritório amanhã. Há questões sobre o terreno do farol que podem ser resolvidas sem dificuldade."
-    },
-    {
-      "id": "p-4f3c0b5dbcd5-1",
-      "type": "para",
-      "text": "— O corpo ainda está descendo, Tomás."
-    },
-    {
-      "id": "p-88b9c61fac0c-1",
-      "type": "para",
-      "text": "O sorriso dele diminuiu."
-    },
-    {
-      "id": "p-e19da5c86ae6-1",
-      "type": "para",
-      "text": "— E o terreno continua sobre o penhasco. É assim que o mundo consegue ser cruel e prático ao mesmo tempo."
-    },
-    {
-      "id": "p-23f71aa3a3a1-1",
-      "type": "para",
-      "text": "Tomás apertou seu ombro e se afastou."
-    },
-    {
-      "id": "p-056635f6a006-1",
-      "type": "para",
-      "text": "Clara continuava junto a uma figueira torta, protegendo do vento uma mulher de cabelos completamente brancos. Ana Moura. A viúva do capitão Elias Moura olhou para Miguel como se ele fosse uma carta que ela decidira não abrir."
-    },
-    {
-      "id": "p-998847c276b6-1",
-      "type": "para",
-      "text": "Miguel pensou em ir até as duas. Tinha preparado palavras durante a viagem. Sinto muito. Eu era um menino. Meu avô carregou isso até o fim. Nenhuma pareceu menos ofensiva do que o silêncio."
-    },
-    {
-      "id": "p-9c3a93258522-1",
-      "type": "para",
-      "text": "Ana virou as costas."
-    },
-    {
-      "id": "p-6643560b293f-1",
-      "type": "para",
-      "text": "Clara ficou."
-    },
-    {
-      "id": "p-d5ffca0a8772-1",
-      "type": "para",
-      "text": "— Você vai vender a casa? — perguntou."
-    },
-    {
-      "id": "p-5f9b858b91cb-1",
-      "type": "para",
-      "text": "— Pretendo pegar o primeiro trem assim que o advogado terminar de inventar documentos para me prender aqui."
-    },
-    {
-      "id": "p-3c3980b76e6e-1",
-      "type": "para",
-      "text": "— Então vai vender."
-    },
-    {
-      "id": "p-90fdbb78ba56-1",
-      "type": "para",
-      "text": "— Por que se importa?"
-    },
-    {
-      "id": "p-fc1c6bdb10c5-1",
-      "type": "para",
-      "text": "— Porque o farol faz parte do que aconteceu."
-    },
-    {
-      "id": "p-fd495fb529d3-1",
-      "type": "para",
-      "text": "— O farol não fez nada."
-    },
-    {
-      "id": "p-c7e8d6e263a6-1",
-      "type": "para",
-      "text": "— Exatamente — disse ela. — Foi esse o problema."
-    },
-    {
-      "id": "p-ab84b16e551e-1",
-      "type": "para",
-      "text": "Miguel sentiu a resposta antes de encontrar palavras para ela. Clara percebeu e desviou os olhos para a sepultura."
-    },
-    {
-      "id": "p-da9c7ec50b7f-1",
-      "type": "para",
-      "text": "— Desculpe — disse, sem parecer arrependida. — Hoje talvez não seja o dia."
-    },
-    {
-      "id": "p-075bfd7d90ed-1",
-      "type": "para",
-      "text": "— Houve um dia certo nos últimos dezessete anos?"
-    },
-    {
-      "id": "p-b638080a3689-1",
-      "type": "para",
-      "text": "Ela o fitou. A chuva se acumulava nos cílios dela."
-    },
-    {
-      "id": "p-317d4e18ff70-1",
-      "type": "para",
-      "text": "— Não. Mas houve muitos dias em que você poderia ter voltado."
-    },
-    {
-      "id": "p-1b0b1eda6f83-1",
-      "type": "para",
-      "text": "Miguel passou a mão pelo rosto."
-    },
-    {
-      "id": "p-e9ad13ae2f01-1",
-      "type": "para",
-      "text": "— Minha mãe adoeceu. Eu trabalhava. O avô não queria..."
-    },
-    {
-      "id": "p-5a5702a9764d-1",
-      "type": "para",
-      "text": "— Eu não estava falando de Jonas."
-    },
-    {
-      "id": "p-f8bbe8221d5e-1",
-      "type": "para",
-      "text": "Clara seguiu a mãe antes que ele pudesse responder."
-    },
-    {
-      "id": "p-f7c51c99ae8f-1",
-      "type": "para",
-      "text": "O pastor Estevão esperou até que restassem apenas os coveiros. Era mais baixo do que Miguel lembrava e parecia ter envelhecido sobretudo nas mãos, grandes e manchadas, próprias de quem construíra bancos da igreja além de pregar neles."
-    },
-    {
-      "id": "p-15f0922ecebe-1",
-      "type": "para",
-      "text": "— Seu avô deixou isto comigo — disse."
-    },
-    {
-      "id": "p-f24fb965cb28-1",
-      "type": "para",
-      "text": "Entregou-lhe uma chave de ferro presa a um cordão azul."
-    },
-    {
-      "id": "p-9431b17dc31a-1",
-      "type": "para",
-      "text": "— Da casa?"
-    },
-    {
-      "id": "p-513ab060ab32-1",
-      "type": "para",
-      "text": "— Daquilo que ele não conseguiu abrir."
-    },
-    {
-      "id": "p-2a1b542016d5-1",
-      "type": "para",
-      "text": "— Isso é linguagem de pastor ou você realmente não sabe?"
-    },
-    {
-      "id": "p-6365a39c91da-1",
-      "type": "para",
-      "text": "— Convivi quarenta anos com Jonas. Aprendi que uma resposta incompleta costuma ser mais segura do que uma resposta errada."
-    },
-    {
-      "id": "p-4944299d33dd-1",
-      "type": "para",
-      "text": "Miguel guardou a chave."
-    },
-    {
-      "id": "p-b307947409fe-1",
-      "type": "para",
-      "text": "— Ele sofreu?"
-    },
-    {
-      "id": "p-4ba5f9dc0b85-1",
-      "type": "para",
-      "text": "Estevão demorou."
-    },
-    {
-      "id": "p-68072aec536b-1",
-      "type": "para",
-      "text": "— No fim, não."
-    },
-    {
-      "id": "p-6188f9ed41c2-1",
-      "type": "para",
-      "text": "— E antes?"
-    },
-    {
-      "id": "p-2789656a636a-1",
-      "type": "para",
-      "text": "— Muito."
-    },
-    {
-      "id": "p-b867d3a21769-1",
-      "type": "para",
-      "text": "Miguel assentiu. Não sabia se aquilo lhe trazia consolo."
-    },
-    {
-      "id": "p-787d8a32b68b-1",
-      "type": "para",
-      "text": "Do alto do cemitério, viu o Farol da Vigília na extremidade do promontório. A torre estava apagada havia dezessete anos. A Companhia construíra uma estrutura moderna do outro lado do canal, de metal e concreto, e a cidade aprendera a voltar para casa sem Jonas."
-    },
-    {
-      "id": "p-2d85c8a7a832-1",
-      "type": "para",
-      "text": "Por um segundo, Miguel teve a impressão de que havia alguém na galeria da velha torre."
-    },
-    {
-      "id": "p-7b68bc80a18e-1",
-      "type": "para",
-      "text": "Uma figura estreita, imóvel, olhando para o mar."
-    },
-    {
-      "id": "p-f38b52ebaa18-1",
-      "type": "para",
-      "text": "Piscou. Não havia ninguém."
-    },
-    {
-      "id": "p-a38287c54a1a-1",
-      "type": "para",
-      "text": "Quando tornou a olhar para a sepultura, os coveiros já cobriam o caixão."
-    },
-    {
-      "id": "p-3522b37fe427-1",
-      "type": "para",
-      "text": "O homem de barba branca permanecia perto do muro. Cuspiu outra vez, agora deliberadamente aos pés de Miguel."
-    },
-    {
-      "id": "p-700707013ea6-1",
-      "type": "para",
-      "text": "— Quarenta e três — disse."
-    },
-    {
-      "id": "p-003a5886c790-1",
-      "type": "para",
-      "text": "— O quê?"
-    },
-    {
-      "id": "p-b5fc4c575a34-1",
-      "type": "para",
-      "text": "— Quarenta e três mortos. Para que você não precise contar."
-    },
-    {
-      "id": "p-ba0f3779463e-1",
-      "type": "para",
-      "text": "O homem foi embora sob a chuva."
-    },
-    {
-      "id": "p-4db495a1d284-1",
-      "type": "para",
-      "text": "Miguel ficou sozinho entre a sepultura e o mar, com uma chave no bolso e o número errado na cabeça."
-    },
-    {
-      "id": "p-a25143035d3b-1",
-      "type": "para",
-      "text": "Porque, por alguma razão que não compreendia, ele tinha certeza de que não haviam sido quarenta e três."
-    }
-  ],
-  "provenance": {
-    "source": "production-v4:manifests/chapters.json",
-    "original_chapter_ids": [
-      1
-    ],
-    "source_pdf_page": 21,
-    "verification": "structured-source"
+ "id": "ch1",
+ "type": "chapter",
+ "title": "O funeral do faroleiro",
+ "subtitle": "",
+ "part": "PARTE I — A COSTA",
+ "blocks": [
+  {
+   "id": "p-1f3531f54454-1",
+   "type": "h2",
+   "text": "O funeral do faroleiro"
   },
-  "blocks_sha256": "c7f0ebeb373e1f9333bb7ed708fe7a45d133a92445eedb48e3c8968381152a0f"
+  {
+   "id": "p-0936e3842f08-1",
+   "type": "para",
+   "text": "Choveu no funeral de Jonas Vale, embora o céu tivesse passado a manhã inteira prometendo que não choveria."
+  },
+  {
+   "id": "p-a8a1e377714c-1",
+   "type": "para",
+   "text": "Miguel achou apropriado. O avô sempre desconfiara de promessas feitas pelo tempo e pelos homens, sobretudo quando vinham com muita segurança."
+  },
+  {
+   "id": "p-1f8298b25cb4-1",
+   "type": "para",
+   "text": "A chuva começou quando o pastor Estevão leu as primeiras palavras do salmo e engrossou antes que ele chegasse ao vale da sombra da morte. Ninguém abriu guarda-chuva. No alto do cemitério, o vento os teria virado do avesso. As pessoas apenas baixaram a cabeça e deixaram que a água escorresse pelos cabelos, pelos casacos escuros e pelas flores já cansadas sobre o caixão."
+  },
+  {
+   "id": "p-1691e3475a7e-1",
+   "type": "para",
+   "text": "Miguel ficou na primeira fila porque era o único parente que restava."
+  },
+  {
+   "id": "p-7fb015c95874-1",
+   "type": "para",
+   "text": "Essa era uma forma técnica de dizer que não sobrara ninguém disposto a ocupar o lugar."
+  },
+  {
+   "id": "p-82dd9718807f-1",
+   "type": "para",
+   "text": "Havia quarenta e duas pessoas diante da sepultura. Miguel contou sem perceber que contava. Fazia isso quando precisava afastar de si alguma emoção: janelas numa fachada, passos até uma porta, linhas de latitude num mapa. Quarenta e duas pessoas para se despedir do homem mais odiado do Porto da Vigília. Metade fora por respeito à idade. A outra metade, Miguel suspeitava, queria se certificar de que Jonas finalmente seria colocado sob uma pedra pesada."
+  },
+  {
+   "id": "p-934f1c5eaae8-1",
+   "type": "para",
+   "text": "Quando os coveiros começaram a baixar o caixão, alguém cuspiu junto ao muro."
+  },
+  {
+   "id": "p-36e357f094b8-1",
+   "type": "para",
+   "text": "O som foi pequeno. Ainda assim, Miguel o ouviu."
+  },
+  {
+   "id": "p-d97bf264ccec-1",
+   "type": "para",
+   "text": "Virou-se. Um homem de barba branca o encarou sem constrangimento. Faltavam-lhe dois dedos na mão esquerda. Miguel não lembrava seu nome, mas reconheceu o rosto de alguma fotografia antiga do porto."
+  },
+  {
+   "id": "p-d6dddf53c492-1",
+   "type": "para",
+   "text": "— Deixe — murmurou uma voz ao lado."
+  },
+  {
+   "id": "p-28eec654f57e-1",
+   "type": "para",
+   "text": "Miguel olhou para Clara Moura."
+  },
+  {
+   "id": "p-0160e1cbd108-1",
+   "type": "para",
+   "text": "Durante alguns segundos, a chuva pareceu cair mais devagar."
+  },
+  {
+   "id": "p-4d28de1989c5-1",
+   "type": "para",
+   "text": "Ele a teria reconhecido em qualquer lugar, embora quase tudo nela tivesse mudado. Aos quinze anos, Clara era magra, impaciente e usava o cabelo preso de qualquer maneira, sempre com um lápis atrás da orelha. A mulher ao lado dele conservava a impaciência nos olhos, mas o restante adquirira contornos mais firmes. O cabelo escuro estava preso numa trança molhada. Havia linhas discretas no canto de sua boca, como marcas de quem aprendera a sorrir com economia."
+  },
+  {
+   "id": "p-77bfa11f7d3f-1",
+   "type": "para",
+   "text": "— Olá, Miguel."
+  },
+  {
+   "id": "p-82186ef696fe-1",
+   "type": "para",
+   "text": "— Clara."
+  },
+  {
+   "id": "p-06e612bfc607-1",
+   "type": "para",
+   "text": "Não se abraçaram. Entre os dois havia um caixão, dezessete anos e o pai dela no fundo do mar."
+  },
+  {
+   "id": "p-cb8658d2ff12-1",
+   "type": "para",
+   "text": "Estevão fechou a Bíblia."
+  },
+  {
+   "id": "p-7801214753a5-1",
+   "type": "para",
+   "text": "— Jonas gostava de consertar minhas pregações — disse o pastor. Algumas pessoas ergueram o rosto. — Às vezes antes que eu terminasse. Portanto, serei breve, para reduzir as oportunidades de ele discordar lá de onde está."
+  },
+  {
+   "id": "p-535edf0568fb-1",
+   "type": "para",
+   "text": "Um riso incerto percorreu o pequeno grupo e desapareceu depressa."
+  },
+  {
+   "id": "p-6a7a0ad28f94-1",
+   "type": "para",
+   "text": "Estevão apoiou a mão no caixão."
+  },
+  {
+   "id": "p-a7bef18260c7-1",
+   "type": "para",
+   "text": "— Eu poderia falar das coisas boas que este homem fez. Foram muitas. Poderia também fingir que suas escolhas ruins não feriram ninguém. Seria uma mentira diante de Deus e diante dos senhores. A esperança cristã não nos pede que chamemos escuridão de luz. Ela nos permite enterrar um homem inteiro: o que amou, o que falhou, o que se arrependeu e o que não conseguiu reparar."
+  },
+  {
+   "id": "p-c267470b29a9-1",
+   "type": "para",
+   "text": "Miguel sentiu o maxilar endurecer."
+  },
+  {
+   "id": "p-bcf878c4df47-1",
+   "type": "para",
+   "text": "Era uma frase digna de Jonas: bonita o bastante para parecer honesta e vaga o bastante para não confessar nada."
+  },
+  {
+   "id": "p-cc307db4464e-1",
+   "type": "para",
+   "text": "— Entregamos Jonas Vale à misericórdia de um Juiz que conhece toda a verdade — continuou Estevão. — E isso deve nos consolar e nos tornar humildes. Porque nenhum de nós a conhece por completo."
+  },
+  {
+   "id": "p-6e08c8c8d3c1-1",
+   "type": "para",
+   "text": "O primeiro punhado de terra caiu sobre a madeira."
+  },
+  {
+   "id": "p-fa1e5a95b366-1",
+   "type": "para",
+   "text": "Miguel não chorou. Chorara no trem, mas somente porque uma menina no banco da frente dividira uma laranja com o irmão menor e o cheiro lhe lembrara as tardes no farol. Não choraria agora, onde alguém poderia interpretar lágrimas como defesa do avô."
+  },
+  {
+   "id": "p-49107126ae3c-1",
+   "type": "para",
+   "text": "Depois da oração, as pessoas formaram uma fila desajeitada. Alguns apertaram sua mão. Outros passaram direto. Uma mulher muito idosa tocou-lhe o rosto e disse que ele tinha os olhos de Lídia. Miguel agradeceu antes de se lembrar de que Lídia era sua mãe e de que aquilo deveria significar alguma coisa."
+  },
+  {
+   "id": "p-18524c358daa-1",
+   "type": "para",
+   "text": "Tomás Varela foi o último."
+  },
+  {
+   "id": "p-fc5150bda331-1",
+   "type": "para",
+   "text": "Vestia um sobretudo cinza que provavelmente custara mais do que a casa de Estevão. A chuva não conseguia desarrumá-lo. Aos trinta e seis anos, Tomás ainda tinha o mesmo sorriso que usava quando roubava maçãs do quintal dos Vale e convencia Gabriel a assumir a culpa: aberto, caloroso e com uma pequena sombra de cálculo no canto direito."
+  },
+  {
+   "id": "p-417529088ba8-1",
+   "type": "para",
+   "text": "— Eu viria buscá-lo na estação se soubesse o horário — disse."
+  },
+  {
+   "id": "p-5c8d3a0b76e6-1",
+   "type": "para",
+   "text": "— Foi por isso que não avisei."
+  },
+  {
+   "id": "p-2a3b08f8d535-1",
+   "type": "para",
+   "text": "Tomás aceitou o golpe com uma inclinação de cabeça."
+  },
+  {
+   "id": "p-484f462e1947-1",
+   "type": "para",
+   "text": "— Sinto muito por Jonas."
+  },
+  {
+   "id": "p-9ee2945d77e5-1",
+   "type": "para",
+   "text": "— Você não gostava dele."
+  },
+  {
+   "id": "p-452b2348026a-1",
+   "type": "para",
+   "text": "— Ele também não gostava de mim. A tristeza não exige amizade."
+  },
+  {
+   "id": "p-4406cee939af-1",
+   "type": "para",
+   "text": "Miguel olhou para além dele. Na encosta oposta, as chaminés da Companhia Setentrional soltavam fumaça sobre o porto. Guindastes riscavam o céu. Quase todos os homens no cemitério usavam o pequeno emblema de uma estrela do norte costurado à roupa de trabalho."
+  },
+  {
+   "id": "p-3f3d29c65fb3-1",
+   "type": "para",
+   "text": "Tomás acompanhou seu olhar."
+  },
+  {
+   "id": "p-b990f863d871-1",
+   "type": "para",
+   "text": "— A cidade mudou."
+  },
+  {
+   "id": "p-73673c539f72-1",
+   "type": "para",
+   "text": "— Algumas coisas não."
+  },
+  {
+   "id": "p-707626965081-1",
+   "type": "para",
+   "text": "— Venha ao escritório amanhã. Há questões sobre o terreno do farol que podem ser resolvidas sem dificuldade."
+  },
+  {
+   "id": "p-4f3c0b5dbcd5-1",
+   "type": "para",
+   "text": "— O corpo ainda está descendo, Tomás."
+  },
+  {
+   "id": "p-88b9c61fac0c-1",
+   "type": "para",
+   "text": "O sorriso dele diminuiu."
+  },
+  {
+   "id": "p-e19da5c86ae6-1",
+   "type": "para",
+   "text": "— E o terreno continua sobre o penhasco. É assim que o mundo consegue ser cruel e prático ao mesmo tempo."
+  },
+  {
+   "id": "p-23f71aa3a3a1-1",
+   "type": "para",
+   "text": "Tomás apertou seu ombro e se afastou."
+  },
+  {
+   "id": "p-056635f6a006-1",
+   "type": "para",
+   "text": "Clara continuava junto a uma figueira torta, protegendo do vento uma mulher de cabelos completamente brancos. Ana Moura. A viúva do capitão Elias Moura olhou para Miguel como se ele fosse uma carta que ela decidira não abrir."
+  },
+  {
+   "id": "p-998847c276b6-1",
+   "type": "para",
+   "text": "Miguel pensou em ir até as duas. Tinha preparado palavras durante a viagem. Sinto muito. Eu era um menino. Meu avô carregou isso até o fim. Nenhuma pareceu menos ofensiva do que o silêncio."
+  },
+  {
+   "id": "p-9c3a93258522-1",
+   "type": "para",
+   "text": "Ana virou as costas."
+  },
+  {
+   "id": "p-6643560b293f-1",
+   "type": "para",
+   "text": "Clara ficou."
+  },
+  {
+   "id": "p-d5ffca0a8772-1",
+   "type": "para",
+   "text": "— Você vai vender a casa? — perguntou."
+  },
+  {
+   "id": "p-5f9b858b91cb-1",
+   "type": "para",
+   "text": "— Pretendo pegar o primeiro trem assim que o advogado terminar de inventar documentos para me prender aqui."
+  },
+  {
+   "id": "p-3c3980b76e6e-1",
+   "type": "para",
+   "text": "— Então vai vender."
+  },
+  {
+   "id": "p-90fdbb78ba56-1",
+   "type": "para",
+   "text": "— Por que se importa?"
+  },
+  {
+   "id": "p-fc1c6bdb10c5-1",
+   "type": "para",
+   "text": "— Porque o farol faz parte do que aconteceu."
+  },
+  {
+   "id": "p-fd495fb529d3-1",
+   "type": "para",
+   "text": "— O farol não fez nada."
+  },
+  {
+   "id": "p-c7e8d6e263a6-1",
+   "type": "para",
+   "text": "— Exatamente — disse ela. — Foi esse o problema."
+  },
+  {
+   "id": "p-ab84b16e551e-1",
+   "type": "para",
+   "text": "Miguel sentiu a resposta antes de encontrar palavras para ela. Clara percebeu e desviou os olhos para a sepultura."
+  },
+  {
+   "id": "p-da9c7ec50b7f-1",
+   "type": "para",
+   "text": "— Desculpe — disse, sem parecer arrependida. — Hoje talvez não seja o dia."
+  },
+  {
+   "id": "p-075bfd7d90ed-1",
+   "type": "para",
+   "text": "— Houve um dia certo nos últimos dezessete anos?"
+  },
+  {
+   "id": "p-b638080a3689-1",
+   "type": "para",
+   "text": "Ela o fitou. A chuva se acumulava nos cílios dela."
+  },
+  {
+   "id": "p-317d4e18ff70-1",
+   "type": "para",
+   "text": "— Não. Mas houve muitos dias em que você poderia ter voltado."
+  },
+  {
+   "id": "p-1b0b1eda6f83-1",
+   "type": "para",
+   "text": "Miguel passou a mão pelo rosto."
+  },
+  {
+   "id": "p-e9ad13ae2f01-1",
+   "type": "para",
+   "text": "— Minha mãe adoeceu. Eu trabalhava. O avô não queria..."
+  },
+  {
+   "id": "p-5a5702a9764d-1",
+   "type": "para",
+   "text": "— Eu não estava falando de Jonas."
+  },
+  {
+   "id": "p-f8bbe8221d5e-1",
+   "type": "para",
+   "text": "Clara seguiu a mãe antes que ele pudesse responder."
+  },
+  {
+   "id": "p-f7c51c99ae8f-1",
+   "type": "para",
+   "text": "O pastor Estevão esperou até que restassem apenas os coveiros. Era mais baixo do que Miguel lembrava e parecia ter envelhecido sobretudo nas mãos, grandes e manchadas, próprias de quem construíra bancos da igreja além de pregar neles."
+  },
+  {
+   "id": "p-15f0922ecebe-1",
+   "type": "para",
+   "text": "— Seu avô deixou isto comigo — disse."
+  },
+  {
+   "id": "p-f24fb965cb28-1",
+   "type": "para",
+   "text": "Entregou-lhe uma chave de ferro presa a um cordão azul."
+  },
+  {
+   "id": "p-9431b17dc31a-1",
+   "type": "para",
+   "text": "— Da casa?"
+  },
+  {
+   "id": "p-513ab060ab32-1",
+   "type": "para",
+   "text": "— Daquilo que ele não conseguiu abrir."
+  },
+  {
+   "id": "p-2a1b542016d5-1",
+   "type": "para",
+   "text": "— Isso é linguagem de pastor ou você realmente não sabe?"
+  },
+  {
+   "id": "p-6365a39c91da-1",
+   "type": "para",
+   "text": "— Convivi quarenta anos com Jonas. Aprendi que uma resposta incompleta costuma ser mais segura do que uma resposta errada."
+  },
+  {
+   "id": "p-4944299d33dd-1",
+   "type": "para",
+   "text": "Miguel guardou a chave."
+  },
+  {
+   "id": "p-b307947409fe-1",
+   "type": "para",
+   "text": "— Ele sofreu?"
+  },
+  {
+   "id": "p-4ba5f9dc0b85-1",
+   "type": "para",
+   "text": "Estevão demorou."
+  },
+  {
+   "id": "p-68072aec536b-1",
+   "type": "para",
+   "text": "— No fim, não."
+  },
+  {
+   "id": "p-6188f9ed41c2-1",
+   "type": "para",
+   "text": "— E antes?"
+  },
+  {
+   "id": "p-2789656a636a-1",
+   "type": "para",
+   "text": "— Muito."
+  },
+  {
+   "id": "p-b867d3a21769-1",
+   "type": "para",
+   "text": "Miguel assentiu. Não sabia se aquilo lhe trazia consolo."
+  },
+  {
+   "id": "p-787d8a32b68b-1",
+   "type": "para",
+   "text": "Do alto do cemitério, viu o Farol da Vigília na extremidade do promontório. A torre estava apagada havia dezessete anos. A Companhia construíra uma estrutura moderna do outro lado do canal, de metal e concreto, e a cidade aprendera a voltar para casa sem Jonas."
+  },
+  {
+   "id": "p-2d85c8a7a832-1",
+   "type": "para",
+   "text": "Por um segundo, Miguel teve a impressão de que havia alguém na galeria da velha torre."
+  },
+  {
+   "id": "p-7b68bc80a18e-1",
+   "type": "para",
+   "text": "Uma figura estreita, imóvel, olhando para o mar."
+  },
+  {
+   "id": "p-f38b52ebaa18-1",
+   "type": "para",
+   "text": "Piscou. Não havia ninguém."
+  },
+  {
+   "id": "p-a38287c54a1a-1",
+   "type": "para",
+   "text": "Quando tornou a olhar para a sepultura, os coveiros já cobriam o caixão."
+  },
+  {
+   "id": "p-3522b37fe427-1",
+   "type": "para",
+   "text": "O homem de barba branca permanecia perto do muro. Cuspiu outra vez, agora deliberadamente aos pés de Miguel."
+  },
+  {
+   "id": "p-700707013ea6-1",
+   "type": "para",
+   "text": "— Quarenta e três — disse."
+  },
+  {
+   "id": "p-003a5886c790-1",
+   "type": "para",
+   "text": "— O quê?"
+  },
+  {
+   "id": "p-b5fc4c575a34-1",
+   "type": "para",
+   "text": "— Quarenta e três mortos. Para que você não precise contar."
+  },
+  {
+   "id": "p-ba0f3779463e-1",
+   "type": "para",
+   "text": "O homem foi embora sob a chuva."
+  },
+  {
+   "id": "p-4db495a1d284-1",
+   "type": "para",
+   "text": "Miguel ficou sozinho entre a sepultura e o mar, com uma chave no bolso e o número errado na cabeça."
+  },
+  {
+   "id": "p-a25143035d3b-1",
+   "type": "para",
+   "text": "Porque, por alguma razão que não compreendia, ele tinha certeza de que não haviam sido quarenta e três."
+  }
+ ],
+ "provenance": "Edição Final do autor (.docx)",
+ "blocks_sha256": "c7f0ebeb373e1f9333bb7ed708fe7a45d133a92445eedb48e3c8968381152a0f"
 }

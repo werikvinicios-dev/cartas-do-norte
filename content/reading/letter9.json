@@ -1,68 +1,61 @@
 {
-  "id": "letter9",
-  "type": "letter",
-  "title": "Carta IX",
-  "subtitle": null,
-  "part": "PARTE III — A TEMPESTADE",
-  "blocks": [
-    {
-      "id": "p-00277e4cc6aa-1",
-      "type": "para",
-      "text": "Para Clara Moura"
-    },
-    {
-      "id": "p-5400994f6ac6-1",
-      "type": "para",
-      "text": "Clara,"
-    },
-    {
-      "id": "p-1245f2111162-1",
-      "type": "para",
-      "text": "Seu pai não deixou o leme."
-    },
-    {
-      "id": "p-e33ad25b2947-1",
-      "type": "para",
-      "text": "Escrevo isso primeiro porque sei que foi a pergunta que ninguém respondeu. Elias permaneceu na ponte até a água alcançar as janelas. Abel ouviu sua voz no rádio. Três sobreviventes o viram libertar passageiros do convés inferior. Gabriel encontrou a bússola presa à corrente de seu casaco quando tentou convencê-lo a entrar num bote. Elias entregou o instrumento e disse: “Dê a alguém que ainda tenha viagem”."
-    },
-    {
-      "id": "p-97babe62b87f-1",
-      "type": "para",
-      "text": "Gabriel deu a Sara."
-    },
-    {
-      "id": "p-92260a8f6d30-1",
-      "type": "para",
-      "text": "Não posso devolver seu pai. Posso apenas parar de permitir que a Companhia descreva a coragem dele como desobediência e minha mentira como causa única."
-    },
-    {
-      "id": "p-4035cfd1f382-1",
-      "type": "para",
-      "text": "Você me perguntou por quatro anos por que eu não contava tudo. A resposta menos vergonhosa é que eu preparava provas. A mais verdadeira é que tinha medo de Miguel não sobreviver. Decidi, como tantos homens que dizem amar, que cabia a mim escolher qual dor uma mulher e um rapaz poderiam suportar. Peço perdão por isso."
-    },
-    {
-      "id": "p-05ddf578c4cf-1",
-      "type": "para",
-      "text": "Se descobrir o papel de Miguel, não lhe ofereça misericórdia por minha causa. Não transforme perdão em herança obrigatória. Veja o homem que ele se tornou, a verdade que escolhe quando já não pode alegar ignorância, e decida diante de Deus."
-    },
-    {
-      "id": "p-77a637ae87fc-1",
-      "type": "para",
-      "text": "Há uma diferença entre alguém que acende uma luz sem saber e alguém que, conhecendo os destroços, continua alimentando a chama."
-    },
-    {
-      "id": "p-8588e74c3dbb-1",
-      "type": "para",
-      "text": "Jonas Vale"
-    }
-  ],
-  "provenance": {
-    "source": "collector-v4-reading-pdf",
-    "source_pdf_pages": [
-      379,
-      380
-    ],
-    "verification": "pdf-extracted-needs-human-paragraph-proof"
+ "id": "letter9",
+ "type": "letter",
+ "title": "Carta IX",
+ "subtitle": "Para Clara Moura",
+ "part": "PARTE III — A TEMPESTADE",
+ "blocks": [
+  {
+   "id": "p-850b8e461df0-1",
+   "type": "rule",
+   "text": "✧"
   },
-  "blocks_sha256": "cfc8a021639d3525bdc8a137d22a508678fc37e11c9307981a045d71bbb597f0"
+  {
+   "id": "p-71576051ee9e-1",
+   "type": "para",
+   "text": "*Clara,*"
+  },
+  {
+   "id": "p-f801772020cd-1",
+   "type": "para",
+   "text": "*Seu pai não deixou o leme.*"
+  },
+  {
+   "id": "p-93ccc2559e33-1",
+   "type": "para",
+   "text": "*Escrevo isso primeiro porque sei que foi a pergunta que ninguém respondeu. Elias permaneceu na ponte até a água alcançar as janelas. Abel ouviu sua voz no rádio. Três sobreviventes o viram libertar passageiros do convés inferior. Gabriel encontrou a bússola presa à corrente de seu casaco quando tentou convencê-lo a entrar num bote. Elias entregou o instrumento e disse: “Dê a alguém que ainda tenha viagem”.*"
+  },
+  {
+   "id": "p-dc7fa1fe1f7c-1",
+   "type": "para",
+   "text": "*Gabriel deu a Sara.*"
+  },
+  {
+   "id": "p-d8d67bbd2ff3-1",
+   "type": "para",
+   "text": "*Não posso devolver seu pai. Posso apenas parar de permitir que a Companhia descreva a coragem dele como desobediência e minha mentira como causa única.*"
+  },
+  {
+   "id": "p-cfaa8868557f-1",
+   "type": "para",
+   "text": "*Você me perguntou por quatro anos por que eu não contava tudo. A resposta menos vergonhosa é que eu preparava provas. A mais verdadeira é que tinha medo de Miguel não sobreviver. Decidi, como tantos homens que dizem amar, que cabia a mim escolher qual dor uma mulher e um rapaz poderiam suportar. Peço perdão por isso.*"
+  },
+  {
+   "id": "p-18e998e5607e-1",
+   "type": "para",
+   "text": "*Se descobrir o papel de Miguel, não lhe ofereça misericórdia por minha causa. Não transforme perdão em herança obrigatória. Veja o homem que ele se tornou, a verdade que escolhe quando já não pode alegar ignorância, e decida diante de Deus.*"
+  },
+  {
+   "id": "p-e1a1872141e7-1",
+   "type": "para",
+   "text": "*Há uma diferença entre alguém que acende uma luz sem saber e alguém que, conhecendo os destroços, continua alimentando a chama.*"
+  },
+  {
+   "id": "p-021ba983aa11-1",
+   "type": "para",
+   "text": "*Jonas Vale*"
+  }
+ ],
+ "provenance": "Edição Final do autor (.docx)",
+ "blocks_sha256": "b25a78b2bd449ae9622ea773569a4e8a5745788f44075bbeff479417d4aaa23e"
 }

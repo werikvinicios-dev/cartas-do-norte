@@ -1,103 +1,71 @@
 {
-  "id": "letter1",
-  "type": "letter",
-  "title": "Carta I",
-  "subtitle": null,
-  "part": "PARTE I — A COSTA",
-  "blocks": [
-    {
-      "id": "p-125f1169b8d8-1",
-      "type": "para",
-      "text": "Para Ana Moura"
-    },
-    {
-      "id": "p-927eebf35720-1",
-      "type": "para",
-      "text": "Dona Ana,"
-    },
-    {
-      "id": "p-dd9a0ab4c31f-1",
-      "type": "para",
-      "text": "Não lhe escrevo para pedir que me perdoe. Um pedido assim, vindo de mim, seria outra forma de exigir alguma coisa da senhora. Escrevo porque seu marido merece uma verdade que eu ajudei a esconder."
-    },
-    {
-      "id": "p-5bbb04d439b8-1",
-      "type": "para",
-      "text": "Elias Moura não abandonou o comando do Aurora."
-    },
-    {
-      "id": "p-dd7a6ca999e9-1",
-      "type": "para",
-      "text": "Quando o casco tocou o recife, ele poderia ter entrado no primeiro bote. Em vez disso, abriu os conveses inferiores com as próprias mãos. Abel Faria o ouviu ordenar que retirassem as correntes das portas de carga, embora soubesse que a água entraria mais depressa. Fez isso porque havia gente trancada onde os registros diziam que só existiam caixas."
-    },
-    {
-      "id": "p-b5ccd50beff2-1",
-      "type": "para",
-      "text": "A Companhia chamou essa decisão de erro. Eu a chamo pelo nome correto: coragem."
-    },
-    {
-      "id": "p-1958b34a9661-1",
-      "type": "para",
-      "text": "Eu estava no farol. Vi a luz que não deveria existir. Vi o navio virar. Vi seu marido permanecer."
-    },
-    {
-      "id": "p-8dc5f68d95a2-1",
-      "type": "para",
-      "text": "Durante dezessete anos, permiti que a senhora acreditasse que Elias seguira uma orientação errada dada por um velho negligente. Essa versão me condenava, mas protegia algo que eu amava. Na época, chamei isso de sacrifício. Hoje sei que sacrifício é oferecer a própria vida; não a verdade de outras pessoas."
-    },
-    {
-      "id": "p-26a3b5b3f75b-1",
-      "type": "para",
-      "text": "Não espero paz desta carta. Talvez a verdade primeiro perturbe aquilo que a mentira ensinou a permanecer quieto."
-    },
-    {
-      "id": "p-a355b23313e0-1",
-      "type": "para",
-      "text": "Há um caderno de Elias escondido sob a terceira tábua da antiga sala de cartas de sua casa. Ele o entregou a Gabriel na tarde do naufrágio. Eu o devolvi ali depois, por covardia. A senhora tem o direito de lê-lo antes de qualquer outra pessoa."
-    },
-    {
-      "id": "p-04760c3a93eb-1",
-      "type": "para",
-      "text": "Perdoe-me somente se um dia isso for parte da obediência da senhora a Deus. Nunca para aliviar um morto."
-    },
-    {
-      "id": "p-208b0b2779f0-1",
-      "type": "para",
-      "text": "Jonas Vale Carta do Canal da Agulha"
-    },
-    {
-      "id": "p-6cfbc4d94231-1",
-      "type": "para",
-      "text": "Farol da Vigília Ponta do Corvo"
-    },
-    {
-      "id": "p-f307df32ed08-1",
-      "type": "para",
-      "text": "Canal da Agulha"
-    },
-    {
-      "id": "p-f4f2270aed07-1",
-      "type": "para",
-      "text": "Porto da Vigília recifes"
-    },
-    {
-      "id": "p-341f35870930-1",
-      "type": "para",
-      "text": "Uma rota não é segura porque alguém a desenhou com régua."
-    },
-    {
-      "id": "p-28cb093da4f3-1",
-      "type": "para",
-      "text": "10 milhas"
-    }
-  ],
-  "provenance": {
-    "source": "collector-v4-reading-pdf",
-    "source_pdf_pages": [
-      47,
-      49
-    ],
-    "verification": "pdf-extracted-needs-human-paragraph-proof"
+ "id": "letter1",
+ "type": "letter",
+ "title": "Carta I",
+ "subtitle": "Para Ana Moura",
+ "part": "PARTE I — A COSTA",
+ "blocks": [
+  {
+   "id": "p-850b8e461df0-1",
+   "type": "rule",
+   "text": "✧"
   },
-  "blocks_sha256": "07e31d6872d56a99d8eeb5d55ea433fce052d6ca114e97eb0de9137789111016"
+  {
+   "id": "p-d9be6221d8b9-1",
+   "type": "para",
+   "text": "*Dona Ana,*"
+  },
+  {
+   "id": "p-4bb83d2e5b92-1",
+   "type": "para",
+   "text": "*Não lhe escrevo para pedir que me perdoe. Um pedido assim, vindo de mim, seria outra forma de exigir alguma coisa da senhora. Escrevo porque seu marido merece uma verdade que eu ajudei a esconder.*"
+  },
+  {
+   "id": "p-ad94be5aef20-1",
+   "type": "para",
+   "text": "*Elias Moura não abandonou o comando do Aurora.*"
+  },
+  {
+   "id": "p-6ae3d5edf3b5-1",
+   "type": "para",
+   "text": "*Quando o casco tocou o recife, ele poderia ter entrado no primeiro bote. Em vez disso, abriu os conveses inferiores com as próprias mãos. Abel Faria o ouviu ordenar que retirassem as correntes das portas de carga, embora soubesse que a água entraria mais depressa. Fez isso porque havia gente trancada onde os registros diziam que só existiam caixas.*"
+  },
+  {
+   "id": "p-c7c9770d0a80-1",
+   "type": "para",
+   "text": "*A Companhia chamou essa decisão de erro. Eu a chamo pelo nome correto: coragem.*"
+  },
+  {
+   "id": "p-a00ff0a522bb-1",
+   "type": "para",
+   "text": "*Eu estava no farol. Vi a luz que não deveria existir. Vi o navio virar. Vi seu marido permanecer.*"
+  },
+  {
+   "id": "p-4c4dec7c2ef9-1",
+   "type": "para",
+   "text": "*Durante dezessete anos, permiti que a senhora acreditasse que Elias seguira uma orientação errada dada por um velho negligente. Essa versão me condenava, mas protegia algo que eu amava. Na época, chamei isso de sacrifício. Hoje sei que sacrifício é oferecer a própria vida; não a verdade de outras pessoas.*"
+  },
+  {
+   "id": "p-c5de2932de17-1",
+   "type": "para",
+   "text": "*Não espero paz desta carta. Talvez a verdade primeiro perturbe aquilo que a mentira ensinou a permanecer quieto.*"
+  },
+  {
+   "id": "p-19ddcef8a878-1",
+   "type": "para",
+   "text": "*Há um caderno de Elias escondido sob a terceira tábua da antiga sala de cartas de sua casa. Ele o entregou a Gabriel na tarde do naufrágio. Eu o devolvi ali depois, por covardia. A senhora tem o direito de lê-lo antes de qualquer outra pessoa.*"
+  },
+  {
+   "id": "p-8d929c64a067-1",
+   "type": "para",
+   "text": "*Perdoe-me somente se um dia isso for parte da obediência da senhora a Deus. Nunca para aliviar um morto.*"
+  },
+  {
+   "id": "p-021ba983aa11-1",
+   "type": "para",
+   "text": "*Jonas Vale*"
+  }
+ ],
+ "provenance": "Edição Final do autor (.docx)",
+ "blocks_sha256": "2b3294ad959e29ef4bfe0fb3120399b6d2a1b1b78914665aa23fc075dadd6d06"
 }

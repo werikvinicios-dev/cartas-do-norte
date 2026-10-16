@@ -1,268 +1,376 @@
 {
-  "id": "ch42",
-  "type": "chapter",
-  "title": "O herdeiro de Severo",
-  "subtitle": null,
-  "part": "PARTE IV — O FAROL",
-  "blocks": [
-    {
-      "id": "p-babae723f25f-1",
-      "type": "h2",
-      "text": "O herdeiro de Severo"
-    },
-    {
-      "id": "p-431af47cb88e-1",
-      "type": "para",
-      "text": "Tomás sempre soubera que se tornaria o pai."
-    },
-    {
-      "id": "p-6f6affc87fef-1",
-      "type": "para",
-      "text": "Passara a juventude fugindo dessa certeza e a idade adulta chamando a fuga de reforma. Construíra escolas onde Severo teria erguido depósitos. Perdoara dívidas que o pai cobraria até dos mortos. Proibira castigos físicos nos navios e criara um fundo para viúvas."
-    },
-    {
-      "id": "p-9b5cd9fd7919-1",
-      "type": "para",
-      "text": "Usara o mesmo dinheiro. O mesmo poder. O mesmo hábito de decidir sozinho qual preço outras pessoas deveriam pagar."
-    },
-    {
-      "id": "p-3c40956453d7-1",
-      "type": "para",
-      "text": "Severo o esperava na sala de mapas da Companhia."
-    },
-    {
-      "id": "p-0d4d626f60c4-1",
-      "type": "para",
-      "text": "— Foi um espetáculo comovente — disse o velho. — Nomes, cartas, pecadores chorando. Estevão poderia vender ingressos."
-    },
-    {
-      "id": "p-1a458c0a8e1d-1",
-      "type": "para",
-      "text": "Tomás fechou a porta."
-    },
-    {
-      "id": "p-d22a4965de3c-1",
-      "type": "para",
-      "text": "— Mandou incendiar a Constância."
-    },
-    {
-      "id": "p-fd1e4d05cee4-1",
-      "type": "para",
-      "text": "— Mandei destruir documentos roubados."
-    },
-    {
-      "id": "p-ca4ab5700579-1",
-      "type": "para",
-      "text": "— Baltasar morreu."
-    },
-    {
-      "id": "p-699dfee0e02b-1",
-      "type": "para",
-      "text": "— Baltasar passou sessenta anos tentando encontrar uma ocasião dramática. Ao menos morreu satisfeito."
-    },
-    {
-      "id": "p-e60a1cad7bd4-1",
-      "type": "para",
-      "text": "Tomás atingiu o pai."
-    },
-    {
-      "id": "p-bbbec2accf52-1",
-      "type": "para",
-      "text": "Severo caiu contra a mesa. Levou a mão ao lábio e observou o sangue com surpresa, não medo."
-    },
-    {
-      "id": "p-b0d0ce22ec07-1",
-      "type": "para",
-      "text": "— Finalmente — disse. — Passei a vida esperando descobrir se havia um homem debaixo de sua bondade."
-    },
-    {
-      "id": "p-54f931326578-1",
-      "type": "para",
-      "text": "— Há. Foi você quem o criou."
-    },
-    {
-      "id": "p-662a9ef9e530-1",
-      "type": "para",
-      "text": "— Eu criei tudo que existe nesta cidade."
-    },
-    {
-      "id": "p-82221dc972fb-1",
-      "type": "para",
-      "text": "— Não criou o mar."
-    },
-    {
-      "id": "p-f0c019fccd8d-1",
-      "type": "para",
-      "text": "— Dominei o suficiente."
-    },
-    {
-      "id": "p-a4b95a460ee7-1",
-      "type": "para",
-      "text": "Severo endireitou o casaco."
-    },
-    {
-      "id": "p-92188c939437-1",
-      "type": "para",
-      "text": "— A tempestade chega amanhã à noite. A equipe já está na Ponta do Corvo. Quando a Maré do Norte baixar, explodirão a fenda. O tubo, se existir, deixará de existir."
-    },
-    {
-      "id": "p-7c9ea3ca409b-1",
-      "type": "para",
-      "text": "— Cancele."
-    },
-    {
-      "id": "p-8d716080dfdc-1",
-      "type": "para",
-      "text": "— Você perdeu o direito de dar ordens quando permitiu aquela audiência."
-    },
-    {
-      "id": "p-3f983fd5cef7-1",
-      "type": "para",
-      "text": "— A Companhia está em meu nome."
-    },
-    {
-      "id": "p-6dbbfa37908e-1",
-      "type": "para",
-      "text": "— Os capitães respondem a mim. Os bancos também. Até sua escola existe porque permiti que usasse minhas moedas para brincar de santo."
-    },
-    {
-      "id": "p-a076b80a485c-1",
-      "type": "para",
-      "text": "Tomás tirou do bolso a ordem original. Colocou-a sobre a mesa."
-    },
-    {
-      "id": "p-a61fa41fd9c2-1",
-      "type": "para",
-      "text": "— Gabriel confiou em mim."
-    },
-    {
-      "id": "p-5ee23a4fc972-1",
-      "type": "para",
-      "text": "Severo olhou a folha."
-    },
-    {
-      "id": "p-6bca30411df1-1",
-      "type": "para",
-      "text": "— Gabriel era um rapaz excitável. Teria destruído a Companhia, e então voltaria a pescar enquanto eu reconstruía a cidade."
-    },
-    {
-      "id": "p-b477ac35c42f-1",
-      "type": "para",
-      "text": "— Ele morreu."
-    },
-    {
-      "id": "p-aeeb0ac64621-1",
-      "type": "para",
-      "text": "— Porque entrou no mar. Não porque mandei."
-    },
-    {
-      "id": "p-ce450ea90fd2-1",
-      "type": "para",
-      "text": "— O senhor preparou a luz."
-    },
-    {
-      "id": "p-fc0c557e7742-1",
-      "type": "para",
-      "text": "— Preparei uma rota de descarga. O capitão deveria reduzir velocidade. A tempestade mudou. O leme falhou. Cinquenta decisões produziram o acidente, e todos decidiram que precisavam de um monstro. Eu apenas fui inteligente o bastante para oferecer Jonas."
-    },
-    {
-      "id": "p-e7f8f7ff9b61-1",
-      "type": "para",
-      "text": "Tomás percebeu que o pai acreditava em cada palavra. Severo não escondia um monstro; escondia a possibilidade de que inteligência e monstruosidade pudessem habitar a mesma decisão."
-    },
-    {
-      "id": "p-fb5a4e9cbbd0-1",
-      "type": "para",
-      "text": "— Destruirei esta folha — disse Severo. — Você retomará a audiência, concederá indenização e culpará práticas antigas. Em seis meses, ninguém desejará perder trabalho por mortos que não conheceu."
-    },
-    {
-      "id": "p-401ac250c1a5-1",
-      "type": "para",
-      "text": "— Não."
-    },
-    {
-      "id": "p-5b97f69b65bb-1",
-      "type": "para",
-      "text": "— Você tem uma alternativa?"
-    },
-    {
-      "id": "p-62fbf16bd903-1",
-      "type": "para",
-      "text": "— Tenho."
-    },
-    {
-      "id": "p-fa50b939947e-1",
-      "type": "para",
-      "text": "Tomás dobrou a folha e guardou-a."
-    },
-    {
-      "id": "p-6040a98f8d7c-1",
-      "type": "para",
-      "text": "— Pela primeira vez, não preciso saber se sobreviveremos à verdade antes de dizê-la."
-    },
-    {
-      "id": "p-13ef08d21e75-1",
-      "type": "para",
-      "text": "Severo avançou para ele, mas a porta abriu. Silas entrou com três guardas que não usavam o emblema da Companhia."
-    },
-    {
-      "id": "p-0c61f678fe0a-1",
-      "type": "para",
-      "text": "— Seu filho pediu que o senhor permanecesse no edifício — disse."
-    },
-    {
-      "id": "p-15e4ad958fc8-1",
-      "type": "para",
-      "text": "— Você não dá ordens a mim."
-    },
-    {
-      "id": "p-bd9c7b3d60d4-1",
-      "type": "para",
-      "text": "Silas tirou do bolso o tecido de Alina."
-    },
-    {
-      "id": "p-56ecb1034835-1",
-      "type": "para",
-      "text": "— Durante dezessete anos, dei."
-    },
-    {
-      "id": "p-82978cdd2249-1",
-      "type": "para",
-      "text": "Tomás saiu pela porta lateral."
-    },
-    {
-      "id": "p-407c1c3f2452-1",
-      "type": "para",
-      "text": "No corredor, entregou a um mensageiro um envelope para Clara. Dentro havia a chave do depósito de explosivos, coordenadas dos homens na ponta e uma cópia da ordem. A original iria para o magistrado no primeiro trem."
-    },
-    {
-      "id": "p-dd80c3979512-1",
-      "type": "para",
-      "text": "A prisão de Miguel não fora ideia de Severo. Tomás a ordenara para retirá-lo do armazém antes que agentes do pai o alcançassem."
-    },
-    {
-      "id": "p-569e93089e94-1",
-      "type": "para",
-      "text": "Era outra escolha feita por alguém sem permissão."
-    },
-    {
-      "id": "p-ef37a592c58a-1",
-      "type": "para",
-      "text": "Tomás sabia disso."
-    },
-    {
-      "id": "p-e26f7c9a729f-1",
-      "type": "para",
-      "text": "Ainda não aprendera uma forma diferente de proteger."
-    }
-  ],
-  "provenance": {
-    "source": "production-v4:manifests/chapters.json",
-    "original_chapter_ids": [
-      58
-    ],
-    "source_pdf_page": 437,
-    "verification": "structured-source"
+ "id": "ch42",
+ "type": "chapter",
+ "title": "O amigo que ficou",
+ "subtitle": "",
+ "part": "PARTE III — A TEMPESTADE",
+ "blocks": [
+  {
+   "id": "p-9e9e3b8a3ab1-1",
+   "type": "h2",
+   "text": "O amigo que ficou"
   },
-  "blocks_sha256": "164990e22c28d8f717f20d0ac1b95966c5c49b0e82fbed24b4a325e00c8b2fde"
+  {
+   "id": "p-a162128e6854-1",
+   "type": "para",
+   "text": "O navio de Tomás apareceu ao amanhecer."
+  },
+  {
+   "id": "p-47365fc03cc7-1",
+   "type": "para",
+   "text": "Chamava-se Providência, nome que Miguel considerou presunçoso para uma embarcação da Companhia. Era três vezes maior que a Constância, pintada de branco, com uma chaminé azul-marinho. Não se aproximou como ameaça. Lançou âncora fora do mangue e enviou um bote com apenas Tomás e um remador."
+  },
+  {
+   "id": "p-d08653853d7f-1",
+   "type": "para",
+   "text": "— Vim conversar — disse ao desembarcar."
+  },
+  {
+   "id": "p-30be01f70786-1",
+   "type": "para",
+   "text": "— Seu chefe de segurança atirou em nós — respondeu Clara."
+  },
+  {
+   "id": "p-929cbe471b4e-1",
+   "type": "para",
+   "text": "— Ele não é mais meu chefe de segurança."
+  },
+  {
+   "id": "p-e639426e1fc4-1",
+   "type": "para",
+   "text": "— Continua recebendo ordens de seu pai."
+  },
+  {
+   "id": "p-1bc7ad1a92d6-1",
+   "type": "para",
+   "text": "Tomás viu os túmulos. Sua expressão se contraiu."
+  },
+  {
+   "id": "p-2a974775ff95-1",
+   "type": "para",
+   "text": "— Silas encontrou Alina."
+  },
+  {
+   "id": "p-34127c869a1a-1",
+   "type": "para",
+   "text": "— Você sabia? — perguntou Miguel."
+  },
+  {
+   "id": "p-522c8060bd54-1",
+   "type": "para",
+   "text": "— Não o nome. Sabia que o manifesto estava incompleto."
+  },
+  {
+   "id": "p-1490e6d25de2-1",
+   "type": "para",
+   "text": "Davi deu um passo à frente, mas Baltasar tocou seu ombro."
+  },
+  {
+   "id": "p-e15ddb531003-1",
+   "type": "para",
+   "text": "Tomás pediu para falar com Miguel sozinho. Clara recusou. Miguel aceitou sob a condição de permanecerem à vista, na praia."
+  },
+  {
+   "id": "p-7eb4ae7c819d-1",
+   "type": "para",
+   "text": "Caminharam até o outro lado da ilha. A Providência dominava o horizonte."
+  },
+  {
+   "id": "p-91f6b2cea377-1",
+   "type": "para",
+   "text": "— Devolva o diário de Elias — disse Miguel."
+  },
+  {
+   "id": "p-f50be1f421db-1",
+   "type": "para",
+   "text": "Tomás tirou-o de dentro do casaco."
+  },
+  {
+   "id": "p-c43959fb2db5-1",
+   "type": "para",
+   "text": "— Precisava confirmar uma anotação."
+  },
+  {
+   "id": "p-7fc66894f9af-1",
+   "type": "para",
+   "text": "— Podia pedir."
+  },
+  {
+   "id": "p-5a66b70e7f05-1",
+   "type": "para",
+   "text": "— Você teria recusado."
+  },
+  {
+   "id": "p-224e05c593ae-1",
+   "type": "para",
+   "text": "— Então roubar se torna razoável."
+  },
+  {
+   "id": "p-53178dc254b9-1",
+   "type": "para",
+   "text": "— Não. Torna-se necessário."
+  },
+  {
+   "id": "p-d2db7e8d9882-1",
+   "type": "para",
+   "text": "Miguel reconheceu a palavra de Clara e percebeu que, na boca de Tomás, ela parecia diferente."
+  },
+  {
+   "id": "p-17aef1cf6986-1",
+   "type": "para",
+   "text": "— O que confirmou?"
+  },
+  {
+   "id": "p-e127e424bf2e-1",
+   "type": "para",
+   "text": "— Gabriel tinha cópias das ordens de carga e desvio. Eu as vi na tarde do naufrágio."
+  },
+  {
+   "id": "p-5ecabe40a98d-1",
+   "type": "para",
+   "text": "— Por que seu nome está no caderno?"
+  },
+  {
+   "id": "p-013f47093110-1",
+   "type": "para",
+   "text": "— Eu as entreguei a ele."
+  },
+  {
+   "id": "p-a938ed6882ae-1",
+   "type": "para",
+   "text": "Miguel parou."
+  },
+  {
+   "id": "p-7ff7e8786033-1",
+   "type": "para",
+   "text": "— Você ajudava Gabriel?"
+  },
+  {
+   "id": "p-4b28d7d77bba-1",
+   "type": "para",
+   "text": "— Descobri que meu pai transportava combustível sem declarar e trabalhadores sem passagem. Achei que, se mostrássemos ao capitão, ele adiaria a partida. Gabriel faria a denúncia. Eu fingiria surpresa. Era o tipo de coragem que eu possuía aos dezenove anos."
+  },
+  {
+   "id": "p-de5396909bbd-1",
+   "type": "para",
+   "text": "— E depois?"
+  },
+  {
+   "id": "p-d3dbafb4593f-1",
+   "type": "para",
+   "text": "— Depois o navio afundou. Gabriel morreu. Meu pai encontrou uma das folhas no escritório de Elias e me perguntou de onde viera. Eu disse que Gabriel roubara sozinho."
+  },
+  {
+   "id": "p-ea7487905603-1",
+   "type": "para",
+   "text": "— Deixou um morto carregar."
+  },
+  {
+   "id": "p-47c7fb5c5024-1",
+   "type": "para",
+   "text": "— Sim."
+  },
+  {
+   "id": "p-1547cb4a68c0-1",
+   "type": "para",
+   "text": "Tomás olhou o mar."
+  },
+  {
+   "id": "p-635c8366f59f-1",
+   "type": "para",
+   "text": "— Severo ameaçou acusar você de sabotagem. Jonas já decidira confessar. Fechamos um acordo sem papel: o faroleiro assumiria negligência; a Companhia cuidaria para que ninguém investigasse a Ponta do Corvo ou um menino ferido."
+  },
+  {
+   "id": "p-15b3abc51bd5-1",
+   "type": "para",
+   "text": "— Você sabia que acendi a luz."
+  },
+  {
+   "id": "p-9f0a02b44138-1",
+   "type": "para",
+   "text": "— Soube depois. Baltasar contou ao meu pai durante o interrogatório particular."
+  },
+  {
+   "id": "p-c9ec6b540097-1",
+   "type": "para",
+   "text": "Miguel sentiu vontade de atingi-lo. Não o fez."
+  },
+  {
+   "id": "p-9257fa95b3a7-1",
+   "type": "para",
+   "text": "— E continuou vindo à nossa casa."
+  },
+  {
+   "id": "p-96755b3675e7-1",
+   "type": "para",
+   "text": "— Porque você era meu amigo."
+  },
+  {
+   "id": "p-3f803118b60b-1",
+   "type": "para",
+   "text": "— Amigos contam."
+  },
+  {
+   "id": "p-3318aefaf71a-1",
+   "type": "para",
+   "text": "— Amigos também têm medo de ver o outro enforcado."
+  },
+  {
+   "id": "p-ad3bea9348de-1",
+   "type": "para",
+   "text": "— Eu tinha dezesseis anos."
+  },
+  {
+   "id": "p-ae201119c717-1",
+   "type": "para",
+   "text": "— O tribunal queria um responsável. Jonas ofereceu um."
+  },
+  {
+   "id": "p-c1246003bc80-1",
+   "type": "para",
+   "text": "Tomás retirou uma folha dobrada do bolso interno. Não a abriu."
+  },
+  {
+   "id": "p-4eb73ce9f251-1",
+   "type": "para",
+   "text": "— Esta é a única ordem original que restou fora do tubo de Gabriel. Está assinada por Severo. Prova a carga e o desvio."
+  },
+  {
+   "id": "p-9db2bd5343df-1",
+   "type": "para",
+   "text": "Miguel estendeu a mão."
+  },
+  {
+   "id": "p-75ed0aa35935-1",
+   "type": "para",
+   "text": "Tomás guardou-a."
+  },
+  {
+   "id": "p-58e3bd58ea02-1",
+   "type": "para",
+   "text": "— Tenho uma proposta."
+  },
+  {
+   "id": "p-8c64484e5f10-1",
+   "type": "para",
+   "text": "— Naturalmente."
+  },
+  {
+   "id": "p-3c101adb53d9-1",
+   "type": "para",
+   "text": "— Publico a ordem. Meu pai responde. A Companhia indeniza todas as famílias, inclusive as omitidas. O nome de Elias é restaurado. Jonas deixa de ser o único responsável."
+  },
+  {
+   "id": "p-aaa19f135140-1",
+   "type": "para",
+   "text": "— E meu papel?"
+  },
+  {
+   "id": "p-06d9f43e2e94-1",
+   "type": "para",
+   "text": "— Não aparece."
+  },
+  {
+   "id": "p-11a15ad3f06d-1",
+   "type": "para",
+   "text": "Miguel riu, incrédulo."
+  },
+  {
+   "id": "p-b8aeafad86a1-1",
+   "type": "para",
+   "text": "— Sua solução para uma mentira é outra mentira."
+  },
+  {
+   "id": "p-7765bd6813f1-1",
+   "type": "para",
+   "text": "— Minha solução separa responsabilidade de destruição. Você era uma criança manipulada. Expor seu nome não devolve ninguém."
+  },
+  {
+   "id": "p-a1e54c3cb64e-1",
+   "type": "para",
+   "text": "— As famílias decidem isso."
+  },
+  {
+   "id": "p-b7c82130ec1b-1",
+   "type": "para",
+   "text": "— Famílias enlutadas não administram cidades."
+  },
+  {
+   "id": "p-9cbddc1c6f0c-1",
+   "type": "para",
+   "text": "— Nem você administra a consciência delas."
+  },
+  {
+   "id": "p-71da08bd04ad-1",
+   "type": "para",
+   "text": "Tomás se aproximou."
+  },
+  {
+   "id": "p-41c6dcbd6762-1",
+   "type": "para",
+   "text": "— Quando a Companhia cair, as salinas fecham em um mês. O hospital, em dois. O governo colocará um interventor que nunca pisou numa ilha. As mesmas famílias que receberem sua verdade perderão comida. Você irá para a capital cumprir pena ou escrever memórias. Eu fico com os vivos."
+  },
+  {
+   "id": "p-7af41728b9c4-1",
+   "type": "para",
+   "text": "— Ficou muito bem com os mortos."
+  },
+  {
+   "id": "p-8be1df00c1d1-1",
+   "type": "para",
+   "text": "Tomás recebeu a crueldade sem piscar."
+  },
+  {
+   "id": "p-3f96bd938c7e-1",
+   "type": "para",
+   "text": "— Sim. E é por isso que sei o preço."
+  },
+  {
+   "id": "p-539a11aa450e-1",
+   "type": "para",
+   "text": "Entregou o diário de Elias."
+  },
+  {
+   "id": "p-d7cf65a2957d-1",
+   "type": "para",
+   "text": "— Pense até chegarmos às Salinas. Mostrarei os livros da Companhia. Não são apenas números, Miguel. Cada coluna é uma casa acesa à noite."
+  },
+  {
+   "id": "p-8099540117d1-1",
+   "type": "para",
+   "text": "— E cada linha apagada é uma sepultura sem nome."
+  },
+  {
+   "id": "p-f0a8411af910-1",
+   "type": "para",
+   "text": "— Eu sei."
+  },
+  {
+   "id": "p-f049cc387241-1",
+   "type": "para",
+   "text": "Tomás voltou ao bote."
+  },
+  {
+   "id": "p-7e515982c498-1",
+   "type": "para",
+   "text": "Clara esperou Miguel retornar."
+  },
+  {
+   "id": "p-d7d2755bf3cb-1",
+   "type": "para",
+   "text": "— O que ele ofereceu?"
+  },
+  {
+   "id": "p-4a2b9757773a-1",
+   "type": "para",
+   "text": "Miguel olhou para Davi, para Baltasar e para as pedras dos mortos."
+  },
+  {
+   "id": "p-220ebdd05685-1",
+   "type": "para",
+   "text": "— A verdade — respondeu. — Com meu nome arrancado."
+  }
+ ],
+ "provenance": "Edição Final do autor (.docx)",
+ "blocks_sha256": "70de753dd343ad9ce196a3ae065042e2ba159eda38289e07cb22d92ea77e4a20"
 }

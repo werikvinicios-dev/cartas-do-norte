@@ -1,58 +1,51 @@
 {
-  "id": "letter3",
-  "type": "letter",
-  "title": "Carta III",
-  "subtitle": null,
-  "part": "PARTE I — A COSTA",
-  "blocks": [
-    {
-      "id": "p-149ca7779b04-1",
-      "type": "para",
-      "text": "Para Estevão Reis"
-    },
-    {
-      "id": "p-bae41df0fe81-1",
-      "type": "para",
-      "text": "Meu amigo,"
-    },
-    {
-      "id": "p-5b744b0173e6-1",
-      "type": "para",
-      "text": "Você me perguntou muitas vezes se eu guardava silêncio para proteger Miguel ou a mim mesmo. Fiquei ofendido porque a pergunta alcançou o lugar que eu mantinha trancado."
-    },
-    {
-      "id": "p-67cb0a537aa3-1",
-      "type": "para",
-      "text": "Protegi o menino. Também protegi a imagem que ele tinha de mim. Protegi Lídia da possibilidade de perder outro filho para um tribunal comprado. Protegi Baltasar de admitir que abandonara o posto por alguns minutos. Protegi Ana da verdade sobre as pessoas escondidas no navio. Protegi a Companhia sem desejar protegê-la. Quando um homem decide ser providência, logo descobre que não possui sabedoria suficiente para escolher quem sofrerá."
-    },
-    {
-      "id": "p-4898be58634c-1",
-      "type": "para",
-      "text": "Chamei meu medo de amor. Chamei minha mentira de sacrifício. Chamei minha demora de prudência. Usei palavras boas como roupas em pecados que eu não queria reconhecer nus."
-    },
-    {
-      "id": "p-79fbf6beee2f-1",
-      "type": "para",
-      "text": "Deus me perdoou. Creio nisso não porque minha consciência tenha ficado leve, mas porque Cristo carregou aquilo que não consigo desfazer. Ainda assim, perdão não fez os mortos respirarem nem devolveu a infância de Miguel. Há reparações que pertencem aos vivos."
-    },
-    {
-      "id": "p-400b7151c48d-1",
-      "type": "para",
-      "text": "Se ele voltar, não ofereça respostas pequenas. Dê-lhe pão. Ouça sua raiva. E, se puder, ajude-o a compreender que lamentar não é negar a ressurreição. Às vezes é a única maneira honesta de esperar por ela."
-    },
-    {
-      "id": "p-9b67e15f271a-1",
-      "type": "para",
-      "text": "Jonas"
-    }
-  ],
-  "provenance": {
-    "source": "collector-v4-reading-pdf",
-    "source_pdf_pages": [
-      133,
-      134
-    ],
-    "verification": "pdf-extracted-needs-human-paragraph-proof"
+ "id": "letter3",
+ "type": "letter",
+ "title": "Carta III",
+ "subtitle": "Para Estevão Reis",
+ "part": "PARTE I — A COSTA",
+ "blocks": [
+  {
+   "id": "p-850b8e461df0-1",
+   "type": "rule",
+   "text": "✧"
   },
-  "blocks_sha256": "095befe0031ebbadd482a9bc98f4d5df4123c413490582a879194baf0524c5d8"
+  {
+   "id": "p-6324266d90f0-1",
+   "type": "para",
+   "text": "*Meu amigo,*"
+  },
+  {
+   "id": "p-b37df6fd5c0b-1",
+   "type": "para",
+   "text": "*Você me perguntou muitas vezes se eu guardava silêncio para proteger Miguel ou a mim mesmo. Fiquei ofendido porque a pergunta alcançou o lugar que eu mantinha trancado.*"
+  },
+  {
+   "id": "p-40cb41749bb1-1",
+   "type": "para",
+   "text": "*Protegi o menino. Também protegi a imagem que ele tinha de mim. Protegi Lídia da possibilidade de perder outro filho para um tribunal comprado. Protegi Baltasar de admitir que abandonara o posto por alguns minutos. Protegi Ana da verdade sobre as pessoas escondidas no navio. Protegi a Companhia sem desejar protegê-la. Quando um homem decide ser providência, logo descobre que não possui sabedoria suficiente para escolher quem sofrerá.*"
+  },
+  {
+   "id": "p-d9d2ac5716a7-1",
+   "type": "para",
+   "text": "*Chamei meu medo de amor. Chamei minha mentira de sacrifício. Chamei minha demora de prudência. Usei palavras boas como roupas em pecados que eu não queria reconhecer nus.*"
+  },
+  {
+   "id": "p-f10f5c0278b1-1",
+   "type": "para",
+   "text": "*Deus me perdoou. Creio nisso não porque minha consciência tenha ficado leve, mas porque Cristo carregou aquilo que não consigo desfazer. Ainda assim, perdão não fez os mortos respirarem nem devolveu a infância de Miguel. Há reparações que pertencem aos vivos.*"
+  },
+  {
+   "id": "p-bcd44c152122-1",
+   "type": "para",
+   "text": "*Se ele voltar, não ofereça respostas pequenas. Dê-lhe pão. Ouça sua raiva. E, se puder, ajude-o a compreender que lamentar não é negar a ressurreição. Às vezes é a única maneira honesta de esperar por ela.*"
+  },
+  {
+   "id": "p-6245e61fac90-1",
+   "type": "para",
+   "text": "*Jonas*"
+  }
+ ],
+ "provenance": "Edição Final do autor (.docx)",
+ "blocks_sha256": "c5294a235460b4baa4bafcf8ca155a2c727d5baed1dd29d9c00a83f226c79a1d"
 }

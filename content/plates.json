@@ -1,0 +1,145 @@
+[
+ {
+  "id": "lanternas-de-papel",
+  "src": "/assets/art/lanternas-de-papel.webp",
+  "w": 1536,
+  "h": 1024,
+  "section": "ch19",
+  "anchor": "p-cf683593cf7c-1",
+  "caption": "“Cada pequena embarcação de papel carregava um nome.”",
+  "alt": "Clara e Baltasar, ajoelhados no cais à noite, soltam barcos de papel com velas acesas; famílias fazem o mesmo ao longo da margem, sob um campanário",
+  "placement": "confirmada pela passagem"
+ },
+ {
+  "id": "vozes-das-baleias",
+  "src": "/assets/art/vozes-das-baleias.webp",
+  "w": 1536,
+  "h": 1024,
+  "section": "ch31",
+  "anchor": "p-c1f7e655bfce-1",
+  "caption": "“A água se iluminava ao redor dos corpos.”",
+  "alt": "Quatro pessoas observam de uma plataforma sobre as rochas duas baleias que deixam rastros luminosos azuis no mar escuro",
+  "placement": "confirmada pela passagem"
+ },
+ {
+  "id": "primeiros-sinos",
+  "src": "/assets/art/primeiros-sinos.webp",
+  "w": 1536,
+  "h": 1024,
+  "section": "ch54",
+  "anchor": "p-6e716dc42adb-1",
+  "caption": "“Os primeiros sinos começaram.”",
+  "alt": "Um barco entra no porto sob chuva fina enquanto moradores, em silêncio, esperam no cais junto aos sinos",
+  "placement": "confirmada pela passagem"
+ },
+ {
+  "id": "manivela-da-lente",
+  "src": "/assets/art/manivela-da-lente.webp",
+  "w": 1024,
+  "h": 1536,
+  "section": "ch65",
+  "anchor": "p-d409ca6f6964-1",
+  "caption": "A manivela de emergência do quarto da lente.",
+  "alt": "Corte do farol durante a tempestade: um jovem gira a manivela junto à escada em espiral enquanto o facho atravessa a chuva",
+  "placement": "confirmada pela passagem"
+ },
+ {
+  "id": "tres-pulsacoes",
+  "src": "/assets/art/tres-pulsacoes.webp",
+  "w": 1536,
+  "h": 1024,
+  "section": "ch72",
+  "anchor": "p-79e95fb232f8-1",
+  "caption": "“Três pulsações. Uma pausa. Três pulsações.”",
+  "alt": "O farol sobre a vila lança o facho em pulsos sobre o mar ao amanhecer; barcos de pesca seguem para fora da baía",
+  "placement": "confirmada pela passagem"
+ },
+ {
+  "id": "oficina-de-pranchas",
+  "src": "/assets/art/oficina-de-pranchas.webp",
+  "w": 1024,
+  "h": 1536,
+  "section": "epilogue",
+  "anchor": null,
+  "caption": "Prancha avulsa do autor · capítulo ainda não identificado",
+  "alt": "Bancada com desenhos de casco, compasso e aparas de madeira; pela porta, um barco no porto ao entardecer",
+  "placement": "avulsa"
+ },
+ {
+  "id": "vigilia-no-convés",
+  "src": "/assets/art/vigilia-no-convés.webp",
+  "w": 1024,
+  "h": 1536,
+  "section": "epilogue",
+  "anchor": null,
+  "caption": "Prancha avulsa do autor · capítulo ainda não identificado",
+  "alt": "Miguel e Davi sentados no convés à noite, diante das luzes de uma ilha",
+  "placement": "avulsa"
+ },
+ {
+  "id": "a-mao-e-a-lente",
+  "src": "/assets/art/a-mao-e-a-lente.webp",
+  "w": 1024,
+  "h": 1536,
+  "section": "epilogue",
+  "anchor": null,
+  "caption": "Prancha avulsa do autor · capítulo ainda não identificado",
+  "alt": "Uma mão com cicatriz sobre a mesa, ao lado de um fragmento de lente quebrada e de um relógio de bolso sobre uma carta náutica",
+  "placement": "avulsa"
+ },
+ {
+  "id": "salinas-ao-entardecer",
+  "src": "/assets/art/salinas-ao-entardecer.webp",
+  "w": 1536,
+  "h": 1024,
+  "section": "epilogue",
+  "anchor": null,
+  "caption": "Prancha avulsa do autor · capítulo ainda não identificado",
+  "alt": "Miguel e Davi caminham sobre os muros das salinas ao pôr do sol, refletidos na água",
+  "placement": "avulsa"
+ },
+ {
+  "id": "dois-no-convés",
+  "src": "/assets/art/dois-no-convés.webp",
+  "w": 1024,
+  "h": 1536,
+  "section": "epilogue",
+  "anchor": null,
+  "caption": "Prancha avulsa do autor · capítulo ainda não identificado",
+  "alt": "Dois homens sentados no convés de um navio à noite, junto a uma porta de ferro iluminada por uma lanterna",
+  "placement": "avulsa"
+ },
+ {
+  "id": "a-cidade-na-tempestade",
+  "src": "/assets/art/a-cidade-na-tempestade.webp",
+  "w": 1536,
+  "h": 1024,
+  "section": "epilogue",
+  "anchor": null,
+  "caption": "Prancha avulsa do autor · capítulo ainda não identificado",
+  "alt": "Moradores carregam cobertores, cordas e lanternas pela rua de pedra sob a tempestade, entre uma enfermaria e o farol",
+  "placement": "avulsa"
+ },
+ {
+  "id": "a-galeria-do-farol",
+  "src": "/assets/art/a-galeria-do-farol.webp",
+  "w": 1024,
+  "h": 1536,
+  "section": "epilogue",
+  "anchor": null,
+  "caption": "Prancha avulsa do autor · capítulo ainda não identificado",
+  "alt": "Miguel e Clara na galeria do farol, olhando a vila e os barcos enquanto o facho se acende",
+  "placement": "avulsa"
+ },
+ {
+  "id": "a-mesa-de-cartas",
+  "src": "/assets/art/a-mesa-de-cartas.webp",
+  "w": 1024,
+  "h": 1536,
+  "section": "epilogue",
+  "anchor": null,
+  "caption": "Prancha avulsa do autor · capítulo ainda não identificado",
+  "alt": "Miguel e Clara à mesa com uma carta náutica ao entardecer",
+  "placement": "avulsa"
+ }
+]

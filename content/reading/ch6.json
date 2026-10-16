@@ -1,744 +1,491 @@
 {
-  "id": "ch6",
-  "type": "chapter",
-  "title": "A cor errada do fogo",
-  "subtitle": null,
-  "part": "PARTE I — A COSTA",
-  "blocks": [
-    {
-      "id": "p-397565c0103c-1",
-      "type": "h2",
-      "text": "Fogo no arquivo"
-    },
-    {
-      "id": "p-e8aa55e19852-1",
-      "type": "para",
-      "text": "O fogo tinha a cor errada."
-    },
-    {
-      "id": "p-e5fa35ca0e50-1",
-      "type": "para",
-      "text": "Miguel conhecia chamas de lareira, de lampião, de papel queimado em pátios. A que saía das janelas inferiores do farol era verde nas bordas. Produto químico. Acelerante."
-    },
-    {
-      "id": "p-d42f53bc0f5e-1",
-      "type": "para",
-      "text": "Correu sem esperar Clara. A estrada da encosta estava tomada por gente descendo enquanto ele subia. Dois homens da Companhia arrastavam uma mangueira curta demais. O sino do porto continuava a tocar, espalhando pânico até entre quem não sabia o que queimava."
-    },
-    {
-      "id": "p-f5a38267baaf-1",
-      "type": "para",
-      "text": "A porta da casa estava aberta."
-    },
-    {
-      "id": "p-c1a785ec85d3-1",
-      "type": "para",
-      "text": "— Miguel! — gritou Clara atrás dele."
-    },
-    {
-      "id": "p-5f1423dd5ffe-1",
-      "type": "para",
-      "text": "Ele cobriu a boca com a manga e entrou."
-    },
-    {
-      "id": "p-c9e388fafa74-1",
-      "type": "para",
-      "text": "A fumaça transformara o corredor num túnel. O fogo começara na sala dos mapas. As paredes já ardiam; pedaços de papel em chamas voavam pelo teto como pássaros. Miguel viu anos de anotações de Jonas se enrolarem em cinza."
-    },
-    {
-      "id": "p-53c5ff4907c3-1",
-      "type": "para",
-      "text": "Na capital, passara semanas restaurando uma carta marítima do século anterior depois que um colecionador derramara vinho sobre ela. Usara pinças, fibras japonesas e um pincel de um único pelo. Agora tentou salvar mapas com as mãos."
-    },
-    {
-      "id": "p-39ea1d391766-1",
-      "type": "para",
-      "text": "Arrancou um rolo da parede. O barbante queimou sua pele. Jogou-o no corredor e voltou."
-    },
-    {
-      "id": "p-e12b07c2524d-1",
-      "type": "para",
-      "text": "Uma viga estalou acima."
-    },
-    {
-      "id": "p-34ef74fc6ce0-1",
-      "type": "para",
-      "text": "— Saia! — Clara aparecera à porta com um pano molhado sobre o rosto."
-    },
-    {
-      "id": "p-194d7cf904e7-1",
-      "type": "para",
-      "text": "— O diário está na torre."
-    },
-    {
-      "id": "p-d485b3e1d559-1",
-      "type": "para",
-      "text": "— Então o fogo ainda não chegou a ele."
-    },
-    {
-      "id": "p-792fbb8f21dd-1",
-      "type": "para",
-      "text": "— Ainda."
-    },
-    {
-      "id": "p-65f3f333beb0-1",
-      "type": "para",
-      "text": "Miguel correu para a porta da escada. O calor o seguiu. Subiu dois degraus de cada vez até a fumaça rarear. No quarto da luz, agarrou a caixa de cedro, colocou as cartas e o diário dentro e soltou a corrente do piso."
-    },
-    {
-      "id": "p-d4591476de8c-1",
-      "type": "para",
-      "text": "Ao erguer a caixa, olhou pela janela."
-    },
-    {
-      "id": "p-85e5fa415e3e-1",
-      "type": "para",
-      "text": "Um homem estava na Ponta do Corvo."
-    },
-    {
-      "id": "p-331f505a86f4-1",
-      "type": "para",
-      "text": "Alto, casaco escuro, chapéu puxado sobre o rosto. Mesmo à distância, Miguel reconheceu a postura de Silas Prado, chefe de segurança da Companhia. Silas levantou a mão. Não foi um aceno. Parecia uma confirmação para alguém abaixo."
-    },
-    {
-      "id": "p-154738131986-1",
-      "type": "para",
-      "text": "Um estrondo sacudiu a torre."
-    },
-    {
-      "id": "p-54311ca949a8-1",
-      "type": "para",
-      "text": "O lampião de Miguel caiu e apagou. O chão inclinou-se sob seus pés, embora soubesse que torres não inclinavam. O cheiro de óleo de cedro encheu sua garganta. Por trás das pálpebras, uma alavanca de metal coberta de sangue."
-    },
-    {
-      "id": "p-487b772dba92-1",
-      "type": "para",
-      "text": "*Por favor.*"
-    },
-    {
-      "id": "p-2c4c89517b14-1",
-      "type": "para",
-      "text": "— Miguel!"
-    },
-    {
-      "id": "p-106edc31919d-1",
-      "type": "para",
-      "text": "Clara o encontrou ajoelhado junto à caixa."
-    },
-    {
-      "id": "p-cf192abbed52-1",
-      "type": "para",
-      "text": "— Não consigo — disse ele."
-    },
-    {
-      "id": "p-a63204e60771-1",
-      "type": "para",
-      "text": "— Consegue, sim."
-    },
-    {
-      "id": "p-295a44042be9-1",
-      "type": "para",
-      "text": "— Não consigo respirar."
-    },
-    {
-      "id": "p-65b1ef9806b6-1",
-      "type": "para",
-      "text": "Ela se agachou, segurou seu rosto e obrigou-o a encará-la."
-    },
-    {
-      "id": "p-0a0daadeba37-1",
-      "type": "para",
-      "text": "— Não tente respirar o dia inteiro. Só esta respiração."
-    },
-    {
-      "id": "p-7aa48cc88544-1",
-      "type": "para",
-      "text": "Miguel puxou ar. Tossiu."
-    },
-    {
-      "id": "p-83658ecc5413-1",
-      "type": "para",
-      "text": "— Outra."
-    },
-    {
-      "id": "p-7cbf16235a8a-1",
-      "type": "para",
-      "text": "Ele obedeceu."
-    },
-    {
-      "id": "p-33ad9fecc85d-1",
-      "type": "para",
-      "text": "— Agora levante."
-    },
-    {
-      "id": "p-d7563014c74c-1",
-      "type": "para",
-      "text": "Desceram juntos. Clara carregou a caixa; Miguel, dois rolos de mapas. No último lance, uma parte do teto desabou e bloqueou a cozinha. Saíram por uma janela lateral segundos antes de as chamas alcançarem o corredor."
-    },
-    {
-      "id": "p-306f825543d6-1",
-      "type": "para",
-      "text": "Baltasar e Davi esperavam no quintal. O velho tomou a caixa de Clara. Davi jogou um balde de água sobre a manga de Miguel, que começara a fumegar."
-    },
-    {
-      "id": "p-a0f6ea67f084-1",
-      "type": "para",
-      "text": "— Eu estava apagando você — explicou."
-    },
-    {
-      "id": "p-adc70ae81822-1",
-      "type": "para",
-      "text": "— Da próxima vez, avise."
-    },
-    {
-      "id": "p-9f406c0bce28-1",
-      "type": "para",
-      "text": "— Incêndios raramente marcam horário."
-    },
-    {
-      "id": "p-baccc37e2179-1",
-      "type": "para",
-      "text": "Homens formaram uma fila desde a cisterna. Outros abriram caminho para uma carroça da Companhia com uma bomba a vapor. Tomás desceu antes que ela parasse."
-    },
-    {
-      "id": "p-8a0b5827cd65-1",
-      "type": "para",
-      "text": "— Todos para longe da torre! — ordenou. — Silas, feche a estrada!"
-    },
-    {
-      "id": "p-3f355b5de463-1",
-      "type": "para",
-      "text": "Miguel procurou o chefe de segurança. Silas surgiu ao lado da carroça, sem chapéu, o rosto vermelho do esforço."
-    },
-    {
-      "id": "p-8630d1887684-1",
-      "type": "para",
-      "text": "— Ele estava na Ponta do Corvo — disse Miguel."
-    },
-    {
-      "id": "p-41b063f01180-1",
-      "type": "para",
-      "text": "Tomás virou-se."
-    },
-    {
-      "id": "p-5304dd881ccc-1",
-      "type": "para",
-      "text": "— Quem?"
-    },
-    {
-      "id": "p-0eb7b8a4403b-1",
-      "type": "para",
-      "text": "— Silas."
-    },
-    {
-      "id": "p-4a173d8c5733-1",
-      "type": "para",
-      "text": "— Eu o encontrei no depósito quando o alarme tocou."
-    },
-    {
-      "id": "p-f3bdd8f5860d-1",
-      "type": "para",
-      "text": "— Eu vi."
-    },
-    {
-      "id": "p-4ff562c3d247-1",
-      "type": "para",
-      "text": "Silas aproximou-se. Tinha uma cicatriz grossa da orelha ao maxilar e olhos que pareciam sempre calcular a distância até uma saída."
-    },
-    {
-      "id": "p-86bb6ef31b48-1",
-      "type": "para",
-      "text": "— Fui à ponta verificar a linha de combustível esta manhã — disse. — Posso ter sido eu."
-    },
-    {
-      "id": "p-fc96307511d9-1",
-      "type": "para",
-      "text": "— Esta manhã? O fogo começou há dez minutos."
-    },
-    {
-      "id": "p-07fc10d0ba62-1",
-      "type": "para",
-      "text": "— A névoa altera distância."
-    },
-    {
-      "id": "p-457f9166a742-1",
-      "type": "para",
-      "text": "— E troca a cor do casaco?"
-    },
-    {
-      "id": "p-2ab88107c0e9-1",
-      "type": "para",
-      "text": "Silas olhou para a manga chamuscada de Miguel."
-    },
-    {
-      "id": "p-7498259f2822-1",
-      "type": "para",
-      "text": "— Fumaça também."
-    },
-    {
-      "id": "p-9c9689d85d76-1",
-      "type": "para",
-      "text": "Tomás se colocou entre eles."
-    },
-    {
-      "id": "p-f77062c29104-1",
-      "type": "para",
-      "text": "— Vamos discutir depois que impedirmos a torre de cair sobre metade da encosta."
-    },
-    {
-      "id": "p-5072f004519b-1",
-      "type": "para",
-      "text": "O incêndio levou duas horas para ser controlado."
-    },
-    {
-      "id": "p-600f6d203ff3-1",
-      "type": "para",
-      "text": "A sala de mapas tornou-se um esqueleto negro. A cozinha e o quarto de Jonas sobreviveram; a torre permaneceu de pé. Quando a fumaça diminuiu, Miguel abriu os rolos que salvara."
-    },
-    {
-      "id": "p-610407caa15d-1",
-      "type": "para",
-      "text": "Um deles era a carta do Canal da Agulha. A borda queimara, e uma camada de papel colada por baixo se soltara com o calor. Entre as duas folhas havia um desenho oculto."
-    },
-    {
-      "id": "p-3944dd35b180-1",
-      "type": "para",
-      "text": "Parecia uma rosa dos ventos com treze pontas."
-    },
-    {
-      "id": "p-2bbf1163e77f-1",
-      "type": "para",
-      "text": "Clara se ajoelhou ao lado."
-    },
-    {
-      "id": "p-d2a75dfe3a06-1",
-      "type": "para",
-      "text": "— Isso não é uma rosa."
-    },
-    {
-      "id": "p-7de612a80cd1-1",
-      "type": "para",
-      "text": "— O que é?"
-    },
-    {
-      "id": "p-2570ad38fb07-1",
-      "type": "para",
-      "text": "Ela girou o mapa."
-    },
-    {
-      "id": "p-ae2e5f03cb70-1",
-      "type": "para",
-      "text": "— Um mecanismo visto de cima. Talvez uma lente."
-    },
-    {
-      "id": "p-6a5a7264ad11-1",
-      "type": "para",
-      "text": "Davi, que observava por cima do ombro, tirou o papel dobrado do casaco."
-    },
-    {
-      "id": "p-e3f7c5dde1a8-1",
-      "type": "para",
-      "text": "— É igual a este."
-    },
-    {
-      "id": "p-20030f0cbb54-1",
-      "type": "para",
-      "text": "Abriu a metade de página que se recusara a entregar na noite anterior. O mesmo símbolo ocupava o centro, acompanhado por uma frase na letra de Jonas:"
-    },
-    {
-      "id": "p-f66ca1e2f4bb-1",
-      "type": "para",
-      "text": "*Quando duas luzes afirmarem ser o norte, procure quem lucra com o naufrágio.*"
-    },
-    {
-      "id": "p-966943f30675-1",
-      "type": "para",
-      "text": "Tomás estava atrás deles."
-    },
-    {
-      "id": "p-df16e28368d9-1",
-      "type": "para",
-      "text": "Miguel não o ouvira se aproximar."
-    },
-    {
-      "id": "p-f0014017bf1b-1",
-      "type": "para",
-      "text": "O diretor da Companhia fitava o símbolo sem piscar."
-    },
-    {
-      "id": "p-4fdfa1503384-1",
-      "type": "para",
-      "text": "— Onde encontrou isso? — perguntou."
-    },
-    {
-      "id": "p-ba33f4271f96-1",
-      "type": "para",
-      "text": "Ninguém respondeu."
-    },
-    {
-      "id": "p-9f2055b15157-1",
-      "type": "para",
-      "text": "Tomás ergueu os olhos para a caixa de cedro nas mãos de Baltasar."
-    },
-    {
-      "id": "p-0a791e3c48a1-1",
-      "type": "para",
-      "text": "Por um instante breve, todo o calor abandonou seu rosto."
-    },
-    {
-      "id": "p-2832cd034baa-1",
-      "type": "para",
-      "text": "— Jonas terminou as cartas — disse."
-    },
-    {
-      "id": "p-121d68b72fdc-1",
-      "type": "para",
-      "text": "Não era uma pergunta."
-    },
-    {
-      "id": "p-62b687db8e53-1",
-      "type": "h2",
-      "text": "Cinzas não dormem"
-    },
-    {
-      "id": "p-903243d52b9f-1",
-      "type": "para",
-      "text": "Na noite do incêndio, Miguel ficou de guarda junto às ruínas."
-    },
-    {
-      "id": "p-bf66298741ab-1",
-      "type": "para",
-      "text": "Os bombeiros apagaram as últimas chamas perto da meia-noite. A torre sobrevivera, mas a casa perdera metade do telhado e toda a sala de mapas. Água negra cobria o piso. Folhas queimadas colavam-se às paredes como sombras."
-    },
-    {
-      "id": "p-d6760849c9f5-1",
-      "type": "para",
-      "text": "Clara levou Davi para a tipografia. Baltasar dormia no galpão com a caixa de cedro sob a cama e uma espingarda descarregada ao alcance da mão. Miguel recusou ir."
-    },
-    {
-      "id": "p-8d8027e52b90-1",
-      "type": "para",
-      "text": "Sentou-se na varanda, envolto num cobertor, observando pontos vermelhos dentro da madeira. Descobriu que cinzas não dormiam; apenas esperavam vento suficiente para parecer vivas outra vez."
-    },
-    {
-      "id": "p-6908ce6fb210-1",
-      "type": "para",
-      "text": "Severo Varela chegou numa carruagem fechada."
-    },
-    {
-      "id": "p-f554882c1a82-1",
-      "type": "para",
-      "text": "Não trouxera criados. Desceu apoiado na bengala e subiu a escada com lentidão, como se cada degrau de propriedade alheia precisasse reconhecê-lo."
-    },
-    {
-      "id": "p-f7203f7bcf09-1",
-      "type": "para",
-      "text": "— Você se parece com Augusto — disse."
-    },
-    {
-      "id": "p-b646ac2bf86d-1",
-      "type": "para",
-      "text": "Miguel não se levantou."
-    },
-    {
-      "id": "p-f7bd3e53964d-1",
-      "type": "para",
-      "text": "— Meu pai morreu quando eu tinha seis anos."
-    },
-    {
-      "id": "p-080bbf227907-1",
-      "type": "para",
-      "text": "— Ainda assim conseguiu aprender a maneira como ele olhava para homens de quem precisava."
-    },
-    {
-      "id": "p-97cd1887fe91-1",
-      "type": "para",
-      "text": "Severo tinha o rosto fino, pele translúcida e olhos claros demais. Sua voz era baixa. Miguel compreendeu por que tantas pessoas se inclinavam para ouvi-lo e acabavam numa posição semelhante a reverência."
-    },
-    {
-      "id": "p-7ef4f5298703-1",
-      "type": "para",
-      "text": "— Veio verificar se o fogo terminou o trabalho?"
-    },
-    {
-      "id": "p-b8feb537d9a2-1",
-      "type": "para",
-      "text": "— Se eu tivesse iniciado, não haveria varanda."
-    },
-    {
-      "id": "p-ead4cc48f25f-1",
-      "type": "para",
-      "text": "Era quase a mesma frase de Tomás."
-    },
-    {
-      "id": "p-3549c39cc846-1",
-      "type": "para",
-      "text": "— Família unida."
-    },
-    {
-      "id": "p-eb6b1bf5fa1f-1",
-      "type": "para",
-      "text": "Severo sentou-se na outra ponta do banco sem convite."
-    },
-    {
-      "id": "p-f6b75101a6a7-1",
-      "type": "para",
-      "text": "— Jonas tentou me destruir três vezes. Na primeira, procurou o governo. Na segunda, a imprensa. Na terceira, Deus."
-    },
-    {
-      "id": "p-b687b48a3c57-1",
-      "type": "para",
-      "text": "— Deus recusou o cargo?"
-    },
-    {
-      "id": "p-a96d8cbc1eea-1",
-      "type": "para",
-      "text": "— Jonas descobriu que oração não altera balanços contábeis."
-    },
-    {
-      "id": "p-eedc6b9acf69-1",
-      "type": "para",
-      "text": "— Nem mortos."
-    },
-    {
-      "id": "p-b5cc9aa72c33-1",
-      "type": "para",
-      "text": "Severo olhou para o farol."
-    },
-    {
-      "id": "p-fc15722e471b-1",
-      "type": "para",
-      "text": "— Seu avô era um homem admirável antes de precisar ser culpado. Depois tornou a culpa sua profissão. Há pessoas que gostam de sofrer porque o sofrimento lhes dá importância."
-    },
-    {
-      "id": "p-cdc47ea816eb-1",
-      "type": "para",
-      "text": "— O senhor veio insultar um morto?"
-    },
-    {
-      "id": "p-635e0d61b2e8-1",
-      "type": "para",
-      "text": "— Vim impedir que ele use você para continuar uma guerra."
-    },
-    {
-      "id": "p-7a45c90845c2-1",
-      "type": "para",
-      "text": "O velho retirou do bolso uma oferta de compra, três vezes maior do que Miguel esperava."
-    },
-    {
-      "id": "p-1ff4a54b31e0-1",
-      "type": "para",
-      "text": "— Assine amanhã. A Companhia reconstrói a casa para um memorial, preserva a torre e deposita o valor na capital. Você parte sem dívidas."
-    },
-    {
-      "id": "p-6adcbc5be1dd-1",
-      "type": "para",
-      "text": "— E as cartas?"
-    },
-    {
-      "id": "p-b64d59a94537-1",
-      "type": "para",
-      "text": "— Papel. Leia se precisa. Depois queime."
-    },
-    {
-      "id": "p-1e192291f8d4-1",
-      "type": "para",
-      "text": "— Alguém tentou primeiro."
-    },
-    {
-      "id": "p-ab6baae80c98-1",
-      "type": "para",
-      "text": "— Jovens imaginam que todo acontecimento ao redor deles é conspiração. Com idade suficiente, descobrirá que incompetência explica mais."
-    },
-    {
-      "id": "p-0ec082b9e529-1",
-      "type": "para",
-      "text": "Miguel observou a bengala. A cabeça de prata trazia a estrela da Companhia. Havia fuligem fresca perto da ponteira."
-    },
-    {
-      "id": "p-8a4e46aa77e0-1",
-      "type": "para",
-      "text": "— O senhor sabia que Jonas terminou as cartas."
-    },
-    {
-      "id": "p-75640cca746b-1",
-      "type": "para",
-      "text": "— Jonas anunciou a intenção a metade do arquipélago. Gostava de transformar segredo em plateia."
-    },
-    {
-      "id": "p-ed0a13ce235c-1",
-      "type": "para",
-      "text": "— Tomás sabe também."
-    },
-    {
-      "id": "p-66b94c92dec1-1",
-      "type": "para",
-      "text": "Uma pequena irritação surgiu nos olhos de Severo."
-    },
-    {
-      "id": "p-56aa2d7226a2-1",
-      "type": "para",
-      "text": "— Meu filho confunde transparência com virtude. Constrói janelas em casas que precisam de paredes."
-    },
-    {
-      "id": "p-18128a2619d8-1",
-      "type": "para",
-      "text": "— Ele é melhor do que o senhor?"
-    },
-    {
-      "id": "p-126f18acca88-1",
-      "type": "para",
-      "text": "— Sem dúvida. Essa é a razão de ser mais perigoso. Homens que sabem ser maus reconhecem os limites. Os bons acreditam que suas intenções santificam qualquer autoridade."
-    },
-    {
-      "id": "p-2106fcfb0ab8-1",
-      "type": "para",
-      "text": "Miguel pensou na escola e na enfermaria. Pensou em Tomás dizendo que os mortos não deveriam governar os vivos."
-    },
-    {
-      "id": "p-8282badf975a-1",
-      "type": "para",
-      "text": "— O que aconteceu na Ponta do Corvo?"
-    },
-    {
-      "id": "p-1cf329066f58-1",
-      "type": "para",
-      "text": "Severo cruzou as mãos sobre a bengala."
-    },
-    {
-      "id": "p-dae5d27ff856-1",
-      "type": "para",
-      "text": "— Um rapaz acendeu uma luz. Um capitão tomou uma decisão. Um faroleiro mentiu. Uma tempestade fez o restante."
-    },
-    {
-      "id": "p-e682680b8614-1",
-      "type": "para",
-      "text": "O coração de Miguel acelerou."
-    },
-    {
-      "id": "p-86982b6ba921-1",
-      "type": "para",
-      "text": "— Que rapaz?"
-    },
-    {
-      "id": "p-c486005320a3-1",
-      "type": "para",
-      "text": "— Assine o papel."
-    },
-    {
-      "id": "p-7acdd846f2f8-1",
-      "type": "para",
-      "text": "— Era Gabriel?"
-    },
-    {
-      "id": "p-03cf697c2745-1",
-      "type": "para",
-      "text": "— Gabriel entrou no mar. Você sabe disso."
-    },
-    {
-      "id": "p-fb8cf9217444-1",
-      "type": "para",
-      "text": "— Quem acendeu?"
-    },
-    {
-      "id": "p-e12b6f5959f1-1",
-      "type": "para",
-      "text": "Severo se levantou."
-    },
-    {
-      "id": "p-2b6bac37279b-1",
-      "type": "para",
-      "text": "— Há perguntas cuja resposta não melhora a vida de quem as faz."
-    },
-    {
-      "id": "p-6dadb1f7574f-1",
-      "type": "para",
-      "text": "— Isso não cabe ao senhor."
-    },
-    {
-      "id": "p-4cf77fad4d09-1",
-      "type": "para",
-      "text": "— Tudo acaba cabendo a alguém. O mundo não é governado pela verdade, Miguel. É governado por quem assume a responsabilidade de decidir quando ela pode ser suportada."
-    },
-    {
-      "id": "p-b1e422a8455b-1",
-      "type": "para",
-      "text": "Deixou a oferta sobre o banco."
-    },
-    {
-      "id": "p-35e0d586fe04-1",
-      "type": "para",
-      "text": "Na estrada, Silas segurava a porta da carruagem. Quando viu Miguel, desviou o rosto depressa demais."
-    },
-    {
-      "id": "p-974b35c44fee-1",
-      "type": "para",
-      "text": "— Senhor Varela — chamou Miguel."
-    },
-    {
-      "id": "p-2a58192bce59-1",
-      "type": "para",
-      "text": "Severo parou."
-    },
-    {
-      "id": "p-54129dec241d-1",
-      "type": "para",
-      "text": "— Quarenta e três?"
-    },
-    {
-      "id": "p-48c9183042f1-1",
-      "type": "para",
-      "text": "— Esse é o número oficial."
-    },
-    {
-      "id": "p-1511a1fac5f0-1",
-      "type": "para",
-      "text": "— E o verdadeiro?"
-    },
-    {
-      "id": "p-76b132931693-1",
-      "type": "para",
-      "text": "O velho olhou para as cinzas."
-    },
-    {
-      "id": "p-11bd16c5af52-1",
-      "type": "para",
-      "text": "— Números verdadeiros são caros."
-    },
-    {
-      "id": "p-cdff848136e1-1",
-      "type": "para",
-      "text": "Entrou na carruagem."
-    },
-    {
-      "id": "p-bdc8ee0c1380-1",
-      "type": "para",
-      "text": "Miguel esperou as rodas desaparecerem. Depois aproximou a oferta de uma brasa e deixou o papel começar a queimar."
-    },
-    {
-      "id": "p-1a4d0a75a762-1",
-      "type": "para",
-      "text": "Retirou antes que as chamas alcançassem o valor."
-    },
-    {
-      "id": "p-4d6a13a436b7-1",
-      "type": "para",
-      "text": "Dobrou e guardou no bolso."
-    },
-    {
-      "id": "p-92471e735a0b-1",
-      "type": "para",
-      "text": "Não sabia se preservava prova ou possibilidade."
-    }
-  ],
-  "provenance": {
-    "source": "production-v4:manifests/chapters.json",
-    "original_chapter_ids": [
-      7,
-      8
-    ],
-    "source_pdf_page": 73,
-    "verification": "structured-source"
+ "id": "ch6",
+ "type": "chapter",
+ "title": "A filha do capitão",
+ "subtitle": "",
+ "part": "PARTE I — A COSTA",
+ "blocks": [
+  {
+   "id": "p-35f1bd15fd38-1",
+   "type": "h2",
+   "text": "A filha do capitão"
   },
-  "blocks_sha256": "2bf878ba91ef2c7f10053505761413a7c107f35bb632e0db2c2fba5bc1ffa323"
+  {
+   "id": "p-b34c2c20ccc5-1",
+   "type": "para",
+   "text": "Clara escolhera a antiga sala de cartas da casa de Ana para a conversa, o que Miguel considerou uma declaração de guerra antes mesmo de se sentar."
+  },
+  {
+   "id": "p-8229fd3fb55d-1",
+   "type": "para",
+   "text": "O aposento permanecia quase igual ao tempo em que o capitão Elias era vivo. Uma mesa larga ocupava o centro. Réguas, compassos e pesos de bronze alinhavam-se em caixas abertas. Na parede, um mapa do arquipélago fora perfurado por tantos alfinetes que parecia ter contraído alguma doença."
+  },
+  {
+   "id": "p-8cb2bda1fc41-1",
+   "type": "para",
+   "text": "Ana Moura colocou quatro xícaras de café sobre a mesa."
+  },
+  {
+   "id": "p-4d75243530a7-1",
+   "type": "para",
+   "text": "Não ofereceu nenhuma a Miguel."
+  },
+  {
+   "id": "p-e22a53367f95-1",
+   "type": "para",
+   "text": "Baltasar pegou a sua e empurrou discretamente outra na direção dele. Ana viu, mas não comentou. Davi recebeu pão com manteiga e comeu como se a investigação dependesse da velocidade de sua mandíbula."
+  },
+  {
+   "id": "p-337a04a9a5a9-1",
+   "type": "para",
+   "text": "Clara pôs a bússola no centro."
+  },
+  {
+   "id": "p-2f6723c93fcd-1",
+   "type": "para",
+   "text": "— Meu pai a carregava desde a primeira viagem — disse. — Minha mãe reconheceria até o arranhão."
+  },
+  {
+   "id": "p-3d953f4ef8f2-1",
+   "type": "para",
+   "text": "Ana continuou de pé junto à janela."
+  },
+  {
+   "id": "p-63edc049fe55-1",
+   "type": "para",
+   "text": "— Eu reconheço."
+  },
+  {
+   "id": "p-5e40779b63af-1",
+   "type": "para",
+   "text": "— Gabriel tirou isto do Aurora? — perguntou Miguel."
+  },
+  {
+   "id": "p-c994523f64d7-1",
+   "type": "para",
+   "text": "— Gabriel entrou no navio depois do impacto — disse Baltasar. — Três vezes, pelo que os sobreviventes contaram."
+  },
+  {
+   "id": "p-48b27f4f83b6-1",
+   "type": "para",
+   "text": "— E você nunca achou importante me dizer?"
+  },
+  {
+   "id": "p-88da4cf98fa5-1",
+   "type": "para",
+   "text": "— Você nunca perguntou como ele morreu. Só perguntou de quem era a culpa."
+  },
+  {
+   "id": "p-7717d34cd031-1",
+   "type": "para",
+   "text": "A frase encontrou seu alvo. Miguel bebeu o café para não responder."
+  },
+  {
+   "id": "p-cab094d82ced-1",
+   "type": "para",
+   "text": "Clara abriu o envelope de Jonas. Leu em silêncio, os lábios pressionados. Na metade, passou a folha para Ana."
+  },
+  {
+   "id": "p-8ae2b3c0f91a-1",
+   "type": "para",
+   "text": "A mãe não a pegou."
+  },
+  {
+   "id": "p-c1f5d286cc1c-1",
+   "type": "para",
+   "text": "— Leia em voz alta."
+  },
+  {
+   "id": "p-9afc9a3b801e-1",
+   "type": "para",
+   "text": "Clara leu."
+  },
+  {
+   "id": "p-25468c27154c-1",
+   "type": "para",
+   "text": "Quando chegou à passagem sobre Elias abrindo os conveses inferiores, a mão de Ana procurou a beirada da janela. Quando terminou, ninguém falou por algum tempo."
+  },
+  {
+   "id": "p-74c5231eb521-1",
+   "type": "para",
+   "text": "— Terceira tábua — disse Ana."
+  },
+  {
+   "id": "p-548a93d20518-1",
+   "type": "para",
+   "text": "Clara se ajoelhou perto do armário de mapas. A madeira resistiu até Baltasar usar uma lâmina para levantar a borda. Sob a tábua havia um embrulho de tecido encerado."
+  },
+  {
+   "id": "p-ac6c5f8ab5b4-1",
+   "type": "para",
+   "text": "O caderno de Elias Moura estava seco."
+  },
+  {
+   "id": "p-cf29d7ffe4a9-1",
+   "type": "para",
+   "text": "Ana o tomou com as duas mãos. Abriu na primeira página, viu a letra do marido e fechou depressa."
+  },
+  {
+   "id": "p-78672e96c60a-1",
+   "type": "para",
+   "text": "— Dezessete anos — disse."
+  },
+  {
+   "id": "p-eec473701ff9-1",
+   "type": "para",
+   "text": "Não parecia falar com ninguém presente."
+  },
+  {
+   "id": "p-ad44035177a7-1",
+   "type": "para",
+   "text": "— Minha mãe esperou notícias durante três dias. Eu esperei o corpo por três semanas. Depois esperei a investigação. O julgamento. Um pedido de desculpas que não dissesse apenas que o tempo estava ruim e homens cometem erros. Dezessete anos, e aquele velho tinha isto debaixo do meu chão."
+  },
+  {
+   "id": "p-8e473eab52b2-1",
+   "type": "para",
+   "text": "Miguel sentiu o impulso automático de defender Jonas. Engoliu-o."
+  },
+  {
+   "id": "p-b080f861ee29-1",
+   "type": "para",
+   "text": "— Eu não sabia."
+  },
+  {
+   "id": "p-7386082da2e2-1",
+   "type": "para",
+   "text": "Ana riu uma única vez."
+  },
+  {
+   "id": "p-6da981836ccf-1",
+   "type": "para",
+   "text": "— Essa frase deve ser confortável. Cabe em qualquer culpa."
+  },
+  {
+   "id": "p-3cae41f8bdfb-1",
+   "type": "para",
+   "text": "— Mãe — disse Clara."
+  },
+  {
+   "id": "p-f610fb6ba12a-1",
+   "type": "para",
+   "text": "— Não. Ele precisa ouvir. — Ana se aproximou de Miguel. Era pequena, mas o fez recuar sem mover os pés. — Seu avô decidiu o que eu podia saber. Decidiu quanto da história do meu marido seria permitido à minha filha. E agora escreve que não exige perdão, como se a humildade da frase devolvesse os anos."
+  },
+  {
+   "id": "p-4512524fb83b-1",
+   "type": "para",
+   "text": "— Não devolve."
+  },
+  {
+   "id": "p-8e29a4f44dba-1",
+   "type": "para",
+   "text": "— Então não me peça para agradecer pela verdade atrasada."
+  },
+  {
+   "id": "p-94182ece27a7-1",
+   "type": "para",
+   "text": "— Eu não pediria."
+  },
+  {
+   "id": "p-35a433c918cf-1",
+   "type": "para",
+   "text": "Ana o estudou. Talvez esperasse resistência. A ausência dela pareceu cansá-la mais."
+  },
+  {
+   "id": "p-31aff956844d-1",
+   "type": "para",
+   "text": "— Clara pode ler o caderno. Depois você. Eu ainda não consigo."
+  },
+  {
+   "id": "p-e8228cafd6e1-1",
+   "type": "para",
+   "text": "Ela saiu com a carta de Jonas numa mão e a xícara intacta na outra."
+  },
+  {
+   "id": "p-13fbf055da2b-1",
+   "type": "para",
+   "text": "Davi parou de mastigar."
+  },
+  {
+   "id": "p-ee54468967b5-1",
+   "type": "para",
+   "text": "— Ela sempre é assim?"
+  },
+  {
+   "id": "p-a54323075b3b-1",
+   "type": "para",
+   "text": "— Não — disse Clara. — Hoje está sendo gentil."
+  },
+  {
+   "id": "p-48e3c20cdb59-1",
+   "type": "para",
+   "text": "Baltasar levou o menino para a cozinha sob o pretexto de procurar mais pão."
+  },
+  {
+   "id": "p-e339f458c2f8-1",
+   "type": "para",
+   "text": "Clara sentou-se diante de Miguel. Abriu o caderno do pai com cuidado profissional. As primeiras páginas continham rotas, despesas e observações sobre tripulantes. Elias desenhava nuvens nas margens quando estava preocupado. Miguel lembrava disso."
+  },
+  {
+   "id": "p-52e32d7c3e3f-1",
+   "type": "para",
+   "text": "— Você realmente pretende vender o farol? — perguntou ela."
+  },
+  {
+   "id": "p-b3079b5d8762-1",
+   "type": "para",
+   "text": "— Depois disto, talvez eu doe à cidade para ser demolido."
+  },
+  {
+   "id": "p-bb6457c0d19a-1",
+   "type": "para",
+   "text": "— A Companhia quer o promontório para ampliar o canal. Se vender a Tomás, o arquivo, a casa e qualquer prova que Jonas escondeu desaparecerão sob concreto."
+  },
+  {
+   "id": "p-e1cf901065a7-1",
+   "type": "para",
+   "text": "— Você acha que Tomás queimaria documentos?"
+  },
+  {
+   "id": "p-832b17756e56-1",
+   "type": "para",
+   "text": "— Acho que Tomás conseguiria explicar por que queimá-los salvaria empregos."
+  },
+  {
+   "id": "p-10b54262360b-1",
+   "type": "para",
+   "text": "Miguel olhou para o mapa perfurado."
+  },
+  {
+   "id": "p-55780c308b5c-1",
+   "type": "para",
+   "text": "— Ele era amigo de Gabriel."
+  },
+  {
+   "id": "p-560c7f415d91-1",
+   "type": "para",
+   "text": "— Também era filho de Severo Varela."
+  },
+  {
+   "id": "p-92644a16f10d-1",
+   "type": "para",
+   "text": "— As duas coisas podem ser verdade."
+  },
+  {
+   "id": "p-31b66c26845d-1",
+   "type": "para",
+   "text": "— Esse é o problema com as coisas verdadeiras. Raramente têm a educação de vir sozinhas."
+  },
+  {
+   "id": "p-c7ee3c1ce9fa-1",
+   "type": "para",
+   "text": "Clara virou várias páginas. Perto do fim, encontrou um registro da tarde do naufrágio."
+  },
+  {
+   "id": "p-542df08a5d75-1",
+   "type": "para",
+   "text": "*17h40 — Gabriel V. trouxe cópias das ordens de carga. Diz que T.V. pode confirmar. Leme responde tarde. Vento norte piorando. Solicitei atraso. Resposta de S.V.: “Mantenha a rota comercial. Farol confirmará canal alternativo.”*"
+  },
+  {
+   "id": "p-a1133084b9bd-1",
+   "type": "para",
+   "text": "Miguel releu as iniciais."
+  },
+  {
+   "id": "p-ee97f7c82def-1",
+   "type": "para",
+   "text": "— T.V. é Tomás."
+  },
+  {
+   "id": "p-4715ea562511-1",
+   "type": "para",
+   "text": "— E S.V. é o pai dele."
+  },
+  {
+   "id": "p-13301768984f-1",
+   "type": "para",
+   "text": "Na linha seguinte, a letra de Elias estava mais pressionada."
+  },
+  {
+   "id": "p-1274850d4912-1",
+   "type": "para",
+   "text": "*Não existe canal alternativo na Ponta do Corvo.*"
+  },
+  {
+   "id": "p-139a1a21e5ab-1",
+   "type": "para",
+   "text": "Clara virou a página."
+  },
+  {
+   "id": "p-a869a1a2f0a5-1",
+   "type": "para",
+   "text": "O papel seguinte fora arrancado."
+  },
+  {
+   "id": "p-9a2723055a34-1",
+   "type": "para",
+   "text": "Miguel sentiu frio apesar do café."
+  },
+  {
+   "id": "p-f82532040087-1",
+   "type": "para",
+   "text": "— O avô disse que viu uma segunda luz."
+  },
+  {
+   "id": "p-b90f70135b4b-1",
+   "type": "para",
+   "text": "— Meu pai recebeu ordem para segui-la."
+  },
+  {
+   "id": "p-834f0e42b30b-1",
+   "type": "para",
+   "text": "— E Gabriel tinha cópias."
+  },
+  {
+   "id": "p-de1aef01c852-1",
+   "type": "para",
+   "text": "— Que não estão aqui."
+  },
+  {
+   "id": "p-3eb33fc7a429-1",
+   "type": "para",
+   "text": "Clara fechou o caderno."
+  },
+  {
+   "id": "p-50baab04742b-1",
+   "type": "para",
+   "text": "— Vou com você entregar as cartas."
+  },
+  {
+   "id": "p-0afc3255dccf-1",
+   "type": "para",
+   "text": "— Não disse que vou entregá-las."
+  },
+  {
+   "id": "p-1c3319e23121-1",
+   "type": "para",
+   "text": "— Vai."
+  },
+  {
+   "id": "p-6e1b27ee33e2-1",
+   "type": "para",
+   "text": "— Como sabe?"
+  },
+  {
+   "id": "p-0e7e3e317c26-1",
+   "type": "para",
+   "text": "— Porque você restaura mapas."
+  },
+  {
+   "id": "p-9df6de295fa3-1",
+   "type": "para",
+   "text": "— Isso não significa nada."
+  },
+  {
+   "id": "p-8df72a63e72b-1",
+   "type": "para",
+   "text": "— Significa que passou a vida consertando caminhos desenhados por mortos. — Pela primeira vez, algo parecido com ternura atravessou o rosto dela. — Você pode fugir de muita coisa, Miguel. Nunca soube fugir de uma linha incompleta."
+  },
+  {
+   "id": "p-b1268c71d975-1",
+   "type": "para",
+   "text": "Ele desviou o olhar."
+  },
+  {
+   "id": "p-1338c1604eae-1",
+   "type": "para",
+   "text": "— E se as cartas provarem que Jonas era culpado de algo pior?"
+  },
+  {
+   "id": "p-5e43939efd78-1",
+   "type": "para",
+   "text": "— Então você ficará sabendo."
+  },
+  {
+   "id": "p-733baa3bc809-1",
+   "type": "para",
+   "text": "— E se provarem que seu pai errou?"
+  },
+  {
+   "id": "p-0f1f9e8c8455-1",
+   "type": "para",
+   "text": "A ternura desapareceu."
+  },
+  {
+   "id": "p-9b0cdb50bf22-1",
+   "type": "para",
+   "text": "— Então eu ficarei sabendo."
+  },
+  {
+   "id": "p-a4940aecd1af-1",
+   "type": "para",
+   "text": "— Parece simples quando você diz."
+  },
+  {
+   "id": "p-44bf2a7c70cd-1",
+   "type": "para",
+   "text": "— Não é simples. É necessário."
+  },
+  {
+   "id": "p-fae1a9824aca-1",
+   "type": "para",
+   "text": "Clara empurrou a bússola para ele."
+  },
+  {
+   "id": "p-8e5e956da10c-1",
+   "type": "para",
+   "text": "— Fique com ela."
+  },
+  {
+   "id": "p-f833efbae336-1",
+   "type": "para",
+   "text": "— Era de seu pai."
+  },
+  {
+   "id": "p-99ced09a401b-1",
+   "type": "para",
+   "text": "— Depois foi de Gabriel. Depois, da mãe de Davi. Uma bússola que passou por quatro mãos talvez não pertença a uma pessoa. Pertence à viagem."
+  },
+  {
+   "id": "p-f52aad95f369-1",
+   "type": "para",
+   "text": "Miguel tocou o vidro rachado. A agulha continuava presa a nordeste."
+  },
+  {
+   "id": "p-2b579c3414a7-1",
+   "type": "para",
+   "text": "— Ela está quebrada."
+  },
+  {
+   "id": "p-9435c6a075dd-1",
+   "type": "para",
+   "text": "— Ainda aponta para algum lugar."
+  },
+  {
+   "id": "p-73504877be67-1",
+   "type": "para",
+   "text": "Do lado de fora, um sino começou a tocar."
+  },
+  {
+   "id": "p-434600f933ae-1",
+   "type": "para",
+   "text": "Não era o sino da igreja. Era o alarme do porto."
+  },
+  {
+   "id": "p-789fcfb83611-1",
+   "type": "para",
+   "text": "Clara chegou à janela primeiro."
+  },
+  {
+   "id": "p-421c1b3af065-1",
+   "type": "para",
+   "text": "Uma coluna de fumaça subia da encosta."
+  },
+  {
+   "id": "p-7241ad76e76d-1",
+   "type": "para",
+   "text": "Do Farol da Vigília."
+  }
+ ],
+ "provenance": "Edição Final do autor (.docx)",
+ "blocks_sha256": "bda45719210b02874d129efd0c2d0f4b8cdf21580ed766aef66ab56634ba5123"
 }

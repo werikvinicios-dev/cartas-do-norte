@@ -1,408 +1,401 @@
 {
-  "id": "ch2",
-  "type": "chapter",
-  "title": "O testamento de um homem culpado",
-  "subtitle": null,
-  "part": "PARTE I — A COSTA",
-  "blocks": [
-    {
-      "id": "p-89277a9736b2-1",
-      "type": "h2",
-      "text": "O testamento de um homem culpado"
-    },
-    {
-      "id": "p-977089c2f215-1",
-      "type": "para",
-      "text": "O advogado de Jonas atendia sobre uma loja de caixões."
-    },
-    {
-      "id": "p-2adbb6d2e118-1",
-      "type": "para",
-      "text": "— É aluguel conveniente — explicou Bento Amaral quando percebeu Miguel olhando a placa. — Clientes sobem preocupados com bens e descem lembrados de que não ficarão com nenhum."
-    },
-    {
-      "id": "p-0fdce17c1f77-1",
-      "type": "para",
-      "text": "Bento era um homem comprido, com mangas curtas e tinta nos punhos. Abriu o testamento diante de Miguel, Estevão, Tomás e uma cadeira vazia destinada a qualquer representante das famílias do Aurora. Ana recusara. Clara compareceu no lugar dela, mas permaneceu em pé."
-    },
-    {
-      "id": "p-970e78e4a8f4-1",
-      "type": "para",
-      "text": "— Jonas Vale deixou a casa, o Farol da Vigília, o galpão e a embarcação em construção denominada Constância ao neto Miguel Vale — leu Bento. — Deixa ferramentas e livros a Baltasar Rocha; a quantia depositada na Caixa dos Pescadores a Davi Leme, para educação e viagem; e seus cadernos à Igreja da Rocha, sob condição de acesso público após conclusão de inventário."
-    },
-    {
-      "id": "p-949dd278b769-1",
-      "type": "para",
-      "text": "Tomás mexeu-se quando ouviu os cadernos."
-    },
-    {
-      "id": "p-215a8ad1be69-1",
-      "type": "para",
-      "text": "— Que quantia? — perguntou Davi da porta."
-    },
-    {
-      "id": "p-29a5d9a3f4ca-1",
-      "type": "para",
-      "text": "Miguel se virou."
-    },
-    {
-      "id": "p-f7829fdb2a65-1",
-      "type": "para",
-      "text": "— Quem deixou você entrar?"
-    },
-    {
-      "id": "p-40c392e99e36-1",
-      "type": "para",
-      "text": "— A porta."
-    },
-    {
-      "id": "p-23751af2ce10-1",
-      "type": "para",
-      "text": "Bento ajustou os óculos."
-    },
-    {
-      "id": "p-a07fa69dba67-1",
-      "type": "para",
-      "text": "— O suficiente para duas passagens à capital ou seis meses de estudo."
-    },
-    {
-      "id": "p-18d2fbcf1d24-1",
-      "type": "para",
-      "text": "— Posso escolher facas?"
-    },
-    {
-      "id": "p-0d2abb6cd32c-1",
-      "type": "para",
-      "text": "— Não — responderam todos."
-    },
-    {
-      "id": "p-761529d7a0a7-1",
-      "type": "para",
-      "text": "O advogado continuou. Havia dívidas de imposto sobre o terreno, taxas portuárias atrasadas e uma hipoteca antiga da Constância."
-    },
-    {
-      "id": "p-313ddc22c301-1",
-      "type": "para",
-      "text": "— Credor? — perguntou Miguel."
-    },
-    {
-      "id": "p-145df3f9331d-1",
-      "type": "para",
-      "text": "Bento olhou para Tomás."
-    },
-    {
-      "id": "p-3fe4fef155a1-1",
-      "type": "para",
-      "text": "— Companhia Setentrional."
-    },
-    {
-      "id": "p-8c64484e5f10-1",
-      "type": "para",
-      "text": "— Naturalmente."
-    },
-    {
-      "id": "p-0aa899ee6289-1",
-      "type": "para",
-      "text": "Tomás cruzou as mãos."
-    },
-    {
-      "id": "p-3737c7d84c63-1",
-      "type": "para",
-      "text": "— Jonas pediu madeira e motor quando retomou a construção. Não cobrei juros nos últimos cinco anos."
-    },
-    {
-      "id": "p-ec0e21763e42-1",
-      "type": "para",
-      "text": "— Bondade anotada em contrato continua sendo contrato — disse Clara."
-    },
-    {
-      "id": "p-b4985376e535-1",
-      "type": "para",
-      "text": "— Por isso está anotada."
-    },
-    {
-      "id": "p-3bd7aa045bcf-1",
-      "type": "para",
-      "text": "O testamento não obrigava Miguel a entregar cartas nem completar rota. Jonas escrevera uma declaração separada:"
-    },
-    {
-      "id": "p-dfde7d23a8f9-1",
-      "type": "para",
-      "text": "*Não coloco a verdade como condição de herança. Um homem não deve comprar obediência de quem ama depois de morrer. Miguel pode vender tudo e partir. Se ficar, que seja escolha dele.*"
-    },
-    {
-      "id": "p-9591471b35b7-1",
-      "type": "para",
-      "text": "— Ele sabia que você recomendaria venda — disse Estevão a Tomás."
-    },
-    {
-      "id": "p-365d821474ed-1",
-      "type": "para",
-      "text": "— Recomendação sensata não se torna manipulação apenas porque Jonas a previu."
-    },
-    {
-      "id": "p-8ccd89613528-1",
-      "type": "para",
-      "text": "Bento apresentou valores. A oferta preliminar da Companhia pagaria todas as dívidas e deixaria Miguel rico o bastante para abandonar o emprego na capital. Se recusasse, teria trinta dias para quitar taxas antes de o município leiloar parte do terreno."
-    },
-    {
-      "id": "p-a160388f1b30-1",
-      "type": "para",
-      "text": "— Trinta dias — repetiu Miguel."
-    },
-    {
-      "id": "p-c71691a44ce2-1",
-      "type": "para",
-      "text": "— A Maré do Norte vem em quarenta e nove — disse Davi."
-    },
-    {
-      "id": "p-b6779c23e67e-1",
-      "type": "para",
-      "text": "Tomás olhou para ele."
-    },
-    {
-      "id": "p-6e1b27ee33e2-1",
-      "type": "para",
-      "text": "— Como sabe?"
-    },
-    {
-      "id": "p-9ffb8f386d91-1",
-      "type": "para",
-      "text": "— Leio almanaques. Crianças pobres também têm acesso a letras."
-    },
-    {
-      "id": "p-bfee9e60787c-1",
-      "type": "para",
-      "text": "Bento tossiu para esconder riso."
-    },
-    {
-      "id": "p-c12b9d61efcd-1",
-      "type": "para",
-      "text": "— Há ainda um objeto sob minha guarda — disse."
-    },
-    {
-      "id": "p-00f9b748eaa4-1",
-      "type": "para",
-      "text": "Retirou um relógio de bolso. A tampa trazia uma âncora e, no interior, uma fotografia de Lídia com os dois filhos. Gabriel fazia careta. Miguel olhava para ele em vez da câmera."
-    },
-    {
-      "id": "p-e83c70913eb3-1",
-      "type": "para",
-      "text": "— Seu avô carregava até o dia em que morreu."
-    },
-    {
-      "id": "p-26be3d362bfa-1",
-      "type": "para",
-      "text": "Miguel abriu a parte posterior. O mecanismo estava parado às duas e dezessete, mesmo horário do relógio no quarto."
-    },
-    {
-      "id": "p-a8d2152f93aa-1",
-      "type": "para",
-      "text": "— Quebrou na noite do naufrágio — explicou Estevão. — Jonas recusou consertar."
-    },
-    {
-      "id": "p-b2a724e42ef7-1",
-      "type": "para",
-      "text": "— Gostava de transformar culpa em mobília — disse Clara."
-    },
-    {
-      "id": "p-57a4c1d32b99-1",
-      "type": "para",
-      "text": "Miguel fechou o relógio."
-    },
-    {
-      "id": "p-5a6f41416897-1",
-      "type": "para",
-      "text": "— Ou tinha medo de que o tempo continuar parecesse traição — respondeu, antes de perceber que defendera o avô."
-    },
-    {
-      "id": "p-01ba176c2c4b-1",
-      "type": "para",
-      "text": "Clara não discutiu."
-    },
-    {
-      "id": "p-0071430d7a4f-1",
-      "type": "para",
-      "text": "Depois da leitura, Tomás pediu um minuto a sós. Miguel recusou. O diretor falou diante de todos."
-    },
-    {
-      "id": "p-1d5a7dd8a9f6-1",
-      "type": "para",
-      "text": "— A Companhia comprará o terreno por valor acima de mercado, preservará a torre e assumirá as dívidas. Não precisa decidir hoje."
-    },
-    {
-      "id": "p-361a9ad90f46-1",
-      "type": "para",
-      "text": "— Que parte do promontório vocês querem?"
-    },
-    {
-      "id": "p-e24362e14b08-1",
-      "type": "para",
-      "text": "— A faixa junto ao canal."
-    },
-    {
-      "id": "p-51c5a8542009-1",
-      "type": "para",
-      "text": "— Ponta do Corvo?"
-    },
-    {
-      "id": "p-a5bba844352f-1",
-      "type": "para",
-      "text": "Pela primeira vez, Tomás hesitou."
-    },
-    {
-      "id": "p-b3a625636438-1",
-      "type": "para",
-      "text": "— O projeto inclui estabilização da área."
-    },
-    {
-      "id": "p-2b8726256f0a-1",
-      "type": "para",
-      "text": "— Com explosivos? — perguntou Clara."
-    },
-    {
-      "id": "p-a82f1a91ca18-1",
-      "type": "para",
-      "text": "— Com engenharia."
-    },
-    {
-      "id": "p-59add4e2606f-1",
-      "type": "para",
-      "text": "— Engenharia é o nome que ricos dão aos explosivos quando possuem licença — disse Davi."
-    },
-    {
-      "id": "p-9ea34e955d85-1",
-      "type": "para",
-      "text": "Tomás ignorou."
-    },
-    {
-      "id": "p-e7106e9fce5c-1",
-      "type": "para",
-      "text": "— Miguel, pode voltar à capital em uma semana sem carregar a ruína de Jonas. Foi o que quis durante anos."
-    },
-    {
-      "id": "p-d25d97aaf8cc-1",
-      "type": "para",
-      "text": "Era verdade. A oferta não o prendia; libertava exatamente da maneira que sempre imaginara desejar."
-    },
-    {
-      "id": "p-4745c1b63ef4-1",
-      "type": "para",
-      "text": "— Vou ver a casa primeiro."
-    },
-    {
-      "id": "p-2d8338965d85-1",
-      "type": "para",
-      "text": "— Ela está condenada em partes."
-    },
-    {
-      "id": "p-53839d838706-1",
-      "type": "para",
-      "text": "— Assim como o proprietário."
-    },
-    {
-      "id": "p-71da08bd04ad-1",
-      "type": "para",
-      "text": "Tomás se aproximou."
-    },
-    {
-      "id": "p-3782558575d8-1",
-      "type": "para",
-      "text": "— Não deixe um morto definir o restante de sua vida."
-    },
-    {
-      "id": "p-0040828cb036-1",
-      "type": "para",
-      "text": "— Engraçado. A cidade fez isso com ele."
-    },
-    {
-      "id": "p-c6e9f6d6932e-1",
-      "type": "para",
-      "text": "Miguel guardou o relógio."
-    },
-    {
-      "id": "p-bccc3b69af5a-1",
-      "type": "para",
-      "text": "Na escada, Clara o alcançou."
-    },
-    {
-      "id": "p-5ce6767fde5e-1",
-      "type": "para",
-      "text": "— Vai vender?"
-    },
-    {
-      "id": "p-d9260859bd1a-1",
-      "type": "para",
-      "text": "— Provavelmente."
-    },
-    {
-      "id": "p-ecb364f32000-1",
-      "type": "para",
-      "text": "— Então por que subir ao farol?"
-    },
-    {
-      "id": "p-7b911ebc7d95-1",
-      "type": "para",
-      "text": "— Para saber o que estou vendendo."
-    },
-    {
-      "id": "p-89cf6df7b10e-1",
-      "type": "para",
-      "text": "Davi desceu atrás deles."
-    },
-    {
-      "id": "p-1e8dbaeea24f-1",
-      "type": "para",
-      "text": "— Resposta de homem que já decidiu abrir a caixa."
-    },
-    {
-      "id": "p-aed7229f0968-1",
-      "type": "para",
-      "text": "— Pare de me seguir."
-    },
-    {
-      "id": "p-456c6993eedd-1",
-      "type": "para",
-      "text": "— Jonas também deixou dinheiro para mim. Tecnicamente, sou parte interessada."
-    },
-    {
-      "id": "p-223fd467b945-1",
-      "type": "para",
-      "text": "— Tecnicamente, é invasor profissional."
-    },
-    {
-      "id": "p-847bc642241a-1",
-      "type": "para",
-      "text": "— Uma ocupação não exclui a outra."
-    },
-    {
-      "id": "p-fdf65734f900-1",
-      "type": "para",
-      "text": "Do alto da escada, Bento os observou partir. Depois fechou o testamento e olhou para a cadeira vazia das famílias."
-    },
-    {
-      "id": "p-f9e8988b61a1-1",
-      "type": "para",
-      "text": "— Mortos deixam bens — disse a Estevão. — Quase nunca deixam instruções suficientes para o peso."
-    },
-    {
-      "id": "p-d7db692f1c43-1",
-      "type": "para",
-      "text": "O pastor tocou a Bíblia no bolso."
-    },
-    {
-      "id": "p-5c57a5c4ac67-1",
-      "type": "para",
-      "text": "— Talvez porque peso precise ser carregado pelos vivos."
-    }
-  ],
-  "provenance": {
-    "source": "production-v4:manifests/chapters.json",
-    "original_chapter_ids": [
-      2
-    ],
-    "source_pdf_page": 30,
-    "verification": "structured-source"
+ "id": "ch2",
+ "type": "chapter",
+ "title": "O testamento de um homem culpado",
+ "subtitle": "",
+ "part": "PARTE I — A COSTA",
+ "blocks": [
+  {
+   "id": "p-89277a9736b2-1",
+   "type": "h2",
+   "text": "O testamento de um homem culpado"
   },
-  "blocks_sha256": "1c1e7dd21f171601fd7608ceb231f6ddec008fe8399b667559b4d8c1a3a9ade6"
+  {
+   "id": "p-977089c2f215-1",
+   "type": "para",
+   "text": "O advogado de Jonas atendia sobre uma loja de caixões."
+  },
+  {
+   "id": "p-2adbb6d2e118-1",
+   "type": "para",
+   "text": "— É aluguel conveniente — explicou Bento Amaral quando percebeu Miguel olhando a placa. — Clientes sobem preocupados com bens e descem lembrados de que não ficarão com nenhum."
+  },
+  {
+   "id": "p-0fdce17c1f77-1",
+   "type": "para",
+   "text": "Bento era um homem comprido, com mangas curtas e tinta nos punhos. Abriu o testamento diante de Miguel, Estevão, Tomás e uma cadeira vazia destinada a qualquer representante das famílias do Aurora. Ana recusara. Clara compareceu no lugar dela, mas permaneceu em pé."
+  },
+  {
+   "id": "p-970e78e4a8f4-1",
+   "type": "para",
+   "text": "— Jonas Vale deixou a casa, o Farol da Vigília, o galpão e a embarcação em construção denominada Constância ao neto Miguel Vale — leu Bento. — Deixa ferramentas e livros a Baltasar Rocha; a quantia depositada na Caixa dos Pescadores a Davi Leme, para educação e viagem; e seus cadernos à Igreja da Rocha, sob condição de acesso público após conclusão de inventário."
+  },
+  {
+   "id": "p-949dd278b769-1",
+   "type": "para",
+   "text": "Tomás mexeu-se quando ouviu os cadernos."
+  },
+  {
+   "id": "p-215a8ad1be69-1",
+   "type": "para",
+   "text": "— Que quantia? — perguntou Davi da porta."
+  },
+  {
+   "id": "p-29a5d9a3f4ca-1",
+   "type": "para",
+   "text": "Miguel se virou."
+  },
+  {
+   "id": "p-f7829fdb2a65-1",
+   "type": "para",
+   "text": "— Quem deixou você entrar?"
+  },
+  {
+   "id": "p-40c392e99e36-1",
+   "type": "para",
+   "text": "— A porta."
+  },
+  {
+   "id": "p-23751af2ce10-1",
+   "type": "para",
+   "text": "Bento ajustou os óculos."
+  },
+  {
+   "id": "p-a07fa69dba67-1",
+   "type": "para",
+   "text": "— O suficiente para duas passagens à capital ou seis meses de estudo."
+  },
+  {
+   "id": "p-18d2fbcf1d24-1",
+   "type": "para",
+   "text": "— Posso escolher facas?"
+  },
+  {
+   "id": "p-0d2abb6cd32c-1",
+   "type": "para",
+   "text": "— Não — responderam todos."
+  },
+  {
+   "id": "p-761529d7a0a7-1",
+   "type": "para",
+   "text": "O advogado continuou. Havia dívidas de imposto sobre o terreno, taxas portuárias atrasadas e uma hipoteca antiga da Constância."
+  },
+  {
+   "id": "p-313ddc22c301-1",
+   "type": "para",
+   "text": "— Credor? — perguntou Miguel."
+  },
+  {
+   "id": "p-145df3f9331d-1",
+   "type": "para",
+   "text": "Bento olhou para Tomás."
+  },
+  {
+   "id": "p-3fe4fef155a1-1",
+   "type": "para",
+   "text": "— Companhia Setentrional."
+  },
+  {
+   "id": "p-8c64484e5f10-1",
+   "type": "para",
+   "text": "— Naturalmente."
+  },
+  {
+   "id": "p-0aa899ee6289-1",
+   "type": "para",
+   "text": "Tomás cruzou as mãos."
+  },
+  {
+   "id": "p-3737c7d84c63-1",
+   "type": "para",
+   "text": "— Jonas pediu madeira e motor quando retomou a construção. Não cobrei juros nos últimos cinco anos."
+  },
+  {
+   "id": "p-ec0e21763e42-1",
+   "type": "para",
+   "text": "— Bondade anotada em contrato continua sendo contrato — disse Clara."
+  },
+  {
+   "id": "p-b4985376e535-1",
+   "type": "para",
+   "text": "— Por isso está anotada."
+  },
+  {
+   "id": "p-3bd7aa045bcf-1",
+   "type": "para",
+   "text": "O testamento não obrigava Miguel a entregar cartas nem completar rota. Jonas escrevera uma declaração separada:"
+  },
+  {
+   "id": "p-dfde7d23a8f9-1",
+   "type": "para",
+   "text": "*Não coloco a verdade como condição de herança. Um homem não deve comprar obediência de quem ama depois de morrer. Miguel pode vender tudo e partir. Se ficar, que seja escolha dele.*"
+  },
+  {
+   "id": "p-9591471b35b7-1",
+   "type": "para",
+   "text": "— Ele sabia que você recomendaria venda — disse Estevão a Tomás."
+  },
+  {
+   "id": "p-365d821474ed-1",
+   "type": "para",
+   "text": "— Recomendação sensata não se torna manipulação apenas porque Jonas a previu."
+  },
+  {
+   "id": "p-8ccd89613528-1",
+   "type": "para",
+   "text": "Bento apresentou valores. A oferta preliminar da Companhia pagaria todas as dívidas e deixaria Miguel rico o bastante para abandonar o emprego na capital. Se recusasse, teria trinta dias para quitar taxas antes de o município leiloar parte do terreno."
+  },
+  {
+   "id": "p-a160388f1b30-1",
+   "type": "para",
+   "text": "— Trinta dias — repetiu Miguel."
+  },
+  {
+   "id": "p-c71691a44ce2-1",
+   "type": "para",
+   "text": "— A Maré do Norte vem em quarenta e nove — disse Davi."
+  },
+  {
+   "id": "p-b6779c23e67e-1",
+   "type": "para",
+   "text": "Tomás olhou para ele."
+  },
+  {
+   "id": "p-6e1b27ee33e2-1",
+   "type": "para",
+   "text": "— Como sabe?"
+  },
+  {
+   "id": "p-9ffb8f386d91-1",
+   "type": "para",
+   "text": "— Leio almanaques. Crianças pobres também têm acesso a letras."
+  },
+  {
+   "id": "p-bfee9e60787c-1",
+   "type": "para",
+   "text": "Bento tossiu para esconder riso."
+  },
+  {
+   "id": "p-c12b9d61efcd-1",
+   "type": "para",
+   "text": "— Há ainda um objeto sob minha guarda — disse."
+  },
+  {
+   "id": "p-00f9b748eaa4-1",
+   "type": "para",
+   "text": "Retirou um relógio de bolso. A tampa trazia uma âncora e, no interior, uma fotografia de Lídia com os dois filhos. Gabriel fazia careta. Miguel olhava para ele em vez da câmera."
+  },
+  {
+   "id": "p-e83c70913eb3-1",
+   "type": "para",
+   "text": "— Seu avô carregava até o dia em que morreu."
+  },
+  {
+   "id": "p-26be3d362bfa-1",
+   "type": "para",
+   "text": "Miguel abriu a parte posterior. O mecanismo estava parado às duas e dezessete, mesmo horário do relógio no quarto."
+  },
+  {
+   "id": "p-a8d2152f93aa-1",
+   "type": "para",
+   "text": "— Quebrou na noite do naufrágio — explicou Estevão. — Jonas recusou consertar."
+  },
+  {
+   "id": "p-b2a724e42ef7-1",
+   "type": "para",
+   "text": "— Gostava de transformar culpa em mobília — disse Clara."
+  },
+  {
+   "id": "p-57a4c1d32b99-1",
+   "type": "para",
+   "text": "Miguel fechou o relógio."
+  },
+  {
+   "id": "p-5a6f41416897-1",
+   "type": "para",
+   "text": "— Ou tinha medo de que o tempo continuar parecesse traição — respondeu, antes de perceber que defendera o avô."
+  },
+  {
+   "id": "p-01ba176c2c4b-1",
+   "type": "para",
+   "text": "Clara não discutiu."
+  },
+  {
+   "id": "p-0071430d7a4f-1",
+   "type": "para",
+   "text": "Depois da leitura, Tomás pediu um minuto a sós. Miguel recusou. O diretor falou diante de todos."
+  },
+  {
+   "id": "p-1d5a7dd8a9f6-1",
+   "type": "para",
+   "text": "— A Companhia comprará o terreno por valor acima de mercado, preservará a torre e assumirá as dívidas. Não precisa decidir hoje."
+  },
+  {
+   "id": "p-361a9ad90f46-1",
+   "type": "para",
+   "text": "— Que parte do promontório vocês querem?"
+  },
+  {
+   "id": "p-e24362e14b08-1",
+   "type": "para",
+   "text": "— A faixa junto ao canal."
+  },
+  {
+   "id": "p-51c5a8542009-1",
+   "type": "para",
+   "text": "— Ponta do Corvo?"
+  },
+  {
+   "id": "p-a5bba844352f-1",
+   "type": "para",
+   "text": "Pela primeira vez, Tomás hesitou."
+  },
+  {
+   "id": "p-b3a625636438-1",
+   "type": "para",
+   "text": "— O projeto inclui estabilização da área."
+  },
+  {
+   "id": "p-2b8726256f0a-1",
+   "type": "para",
+   "text": "— Com explosivos? — perguntou Clara."
+  },
+  {
+   "id": "p-a82f1a91ca18-1",
+   "type": "para",
+   "text": "— Com engenharia."
+  },
+  {
+   "id": "p-59add4e2606f-1",
+   "type": "para",
+   "text": "— Engenharia é o nome que ricos dão aos explosivos quando possuem licença — disse Davi."
+  },
+  {
+   "id": "p-9ea34e955d85-1",
+   "type": "para",
+   "text": "Tomás ignorou."
+  },
+  {
+   "id": "p-e7106e9fce5c-1",
+   "type": "para",
+   "text": "— Miguel, pode voltar à capital em uma semana sem carregar a ruína de Jonas. Foi o que quis durante anos."
+  },
+  {
+   "id": "p-d25d97aaf8cc-1",
+   "type": "para",
+   "text": "Era verdade. A oferta não o prendia; libertava exatamente da maneira que sempre imaginara desejar."
+  },
+  {
+   "id": "p-4745c1b63ef4-1",
+   "type": "para",
+   "text": "— Vou ver a casa primeiro."
+  },
+  {
+   "id": "p-2d8338965d85-1",
+   "type": "para",
+   "text": "— Ela está condenada em partes."
+  },
+  {
+   "id": "p-53839d838706-1",
+   "type": "para",
+   "text": "— Assim como o proprietário."
+  },
+  {
+   "id": "p-71da08bd04ad-1",
+   "type": "para",
+   "text": "Tomás se aproximou."
+  },
+  {
+   "id": "p-3782558575d8-1",
+   "type": "para",
+   "text": "— Não deixe um morto definir o restante de sua vida."
+  },
+  {
+   "id": "p-0040828cb036-1",
+   "type": "para",
+   "text": "— Engraçado. A cidade fez isso com ele."
+  },
+  {
+   "id": "p-c6e9f6d6932e-1",
+   "type": "para",
+   "text": "Miguel guardou o relógio."
+  },
+  {
+   "id": "p-bccc3b69af5a-1",
+   "type": "para",
+   "text": "Na escada, Clara o alcançou."
+  },
+  {
+   "id": "p-5ce6767fde5e-1",
+   "type": "para",
+   "text": "— Vai vender?"
+  },
+  {
+   "id": "p-d9260859bd1a-1",
+   "type": "para",
+   "text": "— Provavelmente."
+  },
+  {
+   "id": "p-ecb364f32000-1",
+   "type": "para",
+   "text": "— Então por que subir ao farol?"
+  },
+  {
+   "id": "p-7b911ebc7d95-1",
+   "type": "para",
+   "text": "— Para saber o que estou vendendo."
+  },
+  {
+   "id": "p-89cf6df7b10e-1",
+   "type": "para",
+   "text": "Davi desceu atrás deles."
+  },
+  {
+   "id": "p-1e8dbaeea24f-1",
+   "type": "para",
+   "text": "— Resposta de homem que já decidiu abrir a caixa."
+  },
+  {
+   "id": "p-aed7229f0968-1",
+   "type": "para",
+   "text": "— Pare de me seguir."
+  },
+  {
+   "id": "p-456c6993eedd-1",
+   "type": "para",
+   "text": "— Jonas também deixou dinheiro para mim. Tecnicamente, sou parte interessada."
+  },
+  {
+   "id": "p-223fd467b945-1",
+   "type": "para",
+   "text": "— Tecnicamente, é invasor profissional."
+  },
+  {
+   "id": "p-847bc642241a-1",
+   "type": "para",
+   "text": "— Uma ocupação não exclui a outra."
+  },
+  {
+   "id": "p-fdf65734f900-1",
+   "type": "para",
+   "text": "Do alto da escada, Bento os observou partir. Depois fechou o testamento e olhou para a cadeira vazia das famílias."
+  },
+  {
+   "id": "p-f9e8988b61a1-1",
+   "type": "para",
+   "text": "— Mortos deixam bens — disse a Estevão. — Quase nunca deixam instruções suficientes para o peso."
+  },
+  {
+   "id": "p-d7db692f1c43-1",
+   "type": "para",
+   "text": "O pastor tocou a Bíblia no bolso."
+  },
+  {
+   "id": "p-5c57a5c4ac67-1",
+   "type": "para",
+   "text": "— Talvez porque peso precise ser carregado pelos vivos."
+  }
+ ],
+ "provenance": "Edição Final do autor (.docx)",
+ "blocks_sha256": "1c1e7dd21f171601fd7608ceb231f6ddec008fe8399b667559b4d8c1a3a9ade6"
 }

@@ -1,5 +1,14 @@
 # Histórico de versões do Arquivo Vivo
 
+## v0.5 · 16 de outubro de 2026 — Edição Final e identidade oficial
+- **Texto da Edição Final do autor** (`sources/Cartas_do_Norte_Edicao_Final.docx`): prólogo, 72 capítulos, 12 cartas e epílogo (86 unidades). Itálicos do autor exibidos no leitor. Corrige resíduos da extração do PDF da v4 (rótulos de mapa dentro da Carta I, cartas duplicadas dentro de capítulos). Detalhes em `docs/RELATORIO_EDICAO_FINAL.md`.
+- **Migração automática** do progresso, marcadores, destaques e notas salvos na v4 para a nova numeração, parágrafo a parágrafo (`content/migration-v4.json`).
+- Aquarelas, vestígios e pranchas transferidos para os capítulos correspondentes da Edição Final.
+- **Pranchas no texto:** cinco ilustrações aparecem dentro do capítulo, na passagem que mostram (lanternas de papel, baleias, primeiros sinos, manivela da lente, três pulsações); oito pranchas avulsas na Galeria, liberadas após o epílogo até que o capítulo seja identificado. Capítulo 37 em alta.
+- **Identidade oficial:** emblema (versões ouro e azul) no Átrio, no frontispício e nos ícones do aplicativo; fonte oficial *Cartas do Norte Display* nos títulos; paleta do script de identidade v5.
+- **Frontispício** na Biblioteca com moldura ilustrada, epígrafe (Hebreus 6:19) e dedicatória da Edição Final.
+- Papel envelhecido nas cartas.
+
 ## v0.4 · 16 de outubro de 2026 — Reconstrução imersiva
 - **Átrio como Cena Viva:** a aquarela da capa vira plano de câmera, com abertura em movimento (do céu ao mar), paralaxe pelo ponteiro, arrasto no celular, névoa em duas profundidades, luzes do porto e o farol pulsando três vezes, como no prólogo.
 - **Pontos de luz reais:** farol → Cena do Farol; barco → leitura; costa → Atlas. Bússola funciona como instrumento de navegação (rosa dos ventos).

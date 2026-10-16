@@ -1,438 +1,421 @@
 {
-  "id": "ch12",
-  "type": "chapter",
-  "title": "Ana lê o mar",
-  "subtitle": null,
-  "part": "PARTE I — A COSTA",
-  "blocks": [
-    {
-      "id": "p-ae64549114f7-1",
-      "type": "h2",
-      "text": "Ana lê o mar"
-    },
-    {
-      "id": "p-327f27a2e438-1",
-      "type": "para",
-      "text": "Clara encontrou a mãe na sala de cartas às três da manhã."
-    },
-    {
-      "id": "p-c1743f947c86-1",
-      "type": "para",
-      "text": "Ana estava sentada no chão, cercada por páginas do diário de Elias. Não as arrancara; abrira o caderno com tanto cuidado que a lombada se soltara, permitindo espalhar as folhas por datas. Uma lamparina ardia sobre a mesa. Ao lado, havia uma xícara de café frio e a carta de Jonas dobrada quatro vezes."
-    },
-    {
-      "id": "p-7ca72d74fa36-1",
-      "type": "para",
-      "text": "— Você devia dormir — disse Clara."
-    },
-    {
-      "id": "p-9867788b01f2-1",
-      "type": "para",
-      "text": "— Passei dezessete anos dormindo sem isto. Posso perder uma noite."
-    },
-    {
-      "id": "p-e5b691d4528a-1",
-      "type": "para",
-      "text": "Clara se sentou."
-    },
-    {
-      "id": "p-587f3425b700-1",
-      "type": "para",
-      "text": "As páginas mostravam um pai que ela conhecia e outro que não. Elias registrava correntes, manutenção e disciplina. Também desenhava o perfil de Ana quando sentia saudade, anotava frases de Clara e reclamava da sopa servida no Aurora."
-    },
-    {
-      "id": "p-f583d377a5db-1",
-      "type": "para",
-      "text": "*Clara diz que mapas são promessas. Corrigi: mapas são argumentos. Ela respondeu que todo argumento é promessa de que existe alguma ordem. Quinze anos e já tornou impossível vencer.*"
-    },
-    {
-      "id": "p-63b900eaf42b-1",
-      "type": "para",
-      "text": "— Ele escreveu sobre mim — disse Clara."
-    },
-    {
-      "id": "p-44dd7284ffcb-1",
-      "type": "para",
-      "text": "— Seu pai escrevia sobre você em tudo. Encontrei seu nome numa conta de combustível."
-    },
-    {
-      "id": "p-ed1aef5fbc6e-1",
-      "type": "para",
-      "text": "Ana entregou outra página."
-    },
-    {
-      "id": "p-a81010eb350d-1",
-      "type": "para",
-      "text": "*Tomás trouxe Gabriel. Os dois encontraram carga não declarada. O rapaz Varela está aterrorizado. Gabriel está feliz demais por ter inimigo. Preciso impedir que coragem juvenil se transforme em funeral.*"
-    },
-    {
-      "id": "p-53a06bcf8a19-1",
-      "type": "para",
-      "text": "Clara fechou os olhos."
-    },
-    {
-      "id": "p-185384a0fcac-1",
-      "type": "para",
-      "text": "— Ele sabia."
-    },
-    {
-      "id": "p-a18ce3256120-1",
-      "type": "para",
-      "text": "— Sabia uma parte."
-    },
-    {
-      "id": "p-798779d74794-1",
-      "type": "para",
-      "text": "— E não contou a você."
-    },
-    {
-      "id": "p-9bc282ca6656-1",
-      "type": "para",
-      "text": "Ana riu sem humor."
-    },
-    {
-      "id": "p-6047c86cee95-1",
-      "type": "para",
-      "text": "— Homens daquele tempo acreditavam que esposas eram portos: lugares para os quais voltavam depois de decidir sozinhos quais tempestades enfrentar."
-    },
-    {
-      "id": "p-e041217c48e3-1",
-      "type": "para",
-      "text": "— Você o perdoa?"
-    },
-    {
-      "id": "p-8cc2d70475fd-1",
-      "type": "para",
-      "text": "— Por morrer?"
-    },
-    {
-      "id": "p-6940d0ec28de-1",
-      "type": "para",
-      "text": "— Por esconder."
-    },
-    {
-      "id": "p-bdb3a38e89da-1",
-      "type": "para",
-      "text": "Ana recolheu uma folha."
-    },
-    {
-      "id": "p-f86bc62b9e71-1",
-      "type": "para",
-      "text": "— Às vezes. Em outras manhãs, quero ressuscitá-lo apenas para terminar uma discussão."
-    },
-    {
-      "id": "p-70560e98cf41-1",
-      "type": "para",
-      "text": "Clara apoiou a cabeça no joelho da mãe, gesto que não fazia desde criança."
-    },
-    {
-      "id": "p-b2aa6aac8031-1",
-      "type": "para",
-      "text": "— Tenho medo de descobrir algo que mude quem ele era."
-    },
-    {
-      "id": "p-458c854827bd-1",
-      "type": "para",
-      "text": "— Vai mudar."
-    },
-    {
-      "id": "p-2b72c6cf4af7-1",
-      "type": "para",
-      "text": "— Você diz com muita tranquilidade."
-    },
-    {
-      "id": "p-0915a8204e4a-1",
-      "type": "para",
-      "text": "— Porque já aconteceu. Durante anos, seu pai foi o homem perfeito que Jonas matou. Isso também não era Elias. Era uma estátua construída pela minha dor. Seu pai tinha orgulho, escondia contas, tratava marinheiros com dureza quando estava cansado e acreditava que podia salvar todos. Foi corajoso naquela noite. Uma verdade não precisa apagar as outras."
-    },
-    {
-      "id": "p-87984c6b36e8-1",
-      "type": "para",
-      "text": "— E Jonas?"
-    },
-    {
-      "id": "p-a8ae3646f23c-1",
-      "type": "para",
-      "text": "— Ainda não sei."
-    },
-    {
-      "id": "p-c2c2ade7f07c-1",
-      "type": "para",
-      "text": "Ana abriu a carta."
-    },
-    {
-      "id": "p-87c7e3a4b39e-1",
-      "type": "para",
-      "text": "— Quero odiá-lo. O ódio tornou minha vida organizada. Havia um homem no farol, um homem no navio e uma luz apagada entre eles. Agora descubro segunda luz, carga, passageiros escondidos, Gabriel, Tomás. Parece que alguém derramou água sobre o mapa."
-    },
-    {
-      "id": "p-5ad1a193c46d-1",
-      "type": "para",
-      "text": "— Podemos esperar."
-    },
-    {
-      "id": "p-8263473aeaf1-1",
-      "type": "para",
-      "text": "— Esperar o quê? Outra morte para nos entregar uma caixa?"
-    },
-    {
-      "id": "p-57d98fb82dda-1",
-      "type": "para",
-      "text": "Clara sentiu a repreensão embora não fosse dirigida a ela."
-    },
-    {
-      "id": "p-e731fdb9de23-1",
-      "type": "para",
-      "text": "— Miguel vai partir."
-    },
-    {
-      "id": "p-34cc7499e43b-1",
-      "type": "para",
-      "text": "— E você pretende ir."
-    },
-    {
-      "id": "p-cf0d8dbebee5-1",
-      "type": "para",
-      "text": "Não era pergunta."
-    },
-    {
-      "id": "p-47c7fb5c5024-1",
-      "type": "para",
-      "text": "— Sim."
-    },
-    {
-      "id": "p-2199b07cf57b-1",
-      "type": "para",
-      "text": "— Por causa de Elias?"
-    },
-    {
-      "id": "p-c78036328e3c-1",
-      "type": "para",
-      "text": "— Por causa da verdade."
-    },
-    {
-      "id": "p-9e2bf06a7583-1",
-      "type": "para",
-      "text": "Ana segurou seu queixo."
-    },
-    {
-      "id": "p-15a2c96499ce-1",
-      "type": "para",
-      "text": "— Não use palavras grandes para esconder pessoas. Vai também por Miguel."
-    },
-    {
-      "id": "p-3ed950c86234-1",
-      "type": "para",
-      "text": "Clara se afastou."
-    },
-    {
-      "id": "p-1221ec4c9e5a-1",
-      "type": "para",
-      "text": "— Ele foi embora."
-    },
-    {
-      "id": "p-b058b9e2f21e-1",
-      "type": "para",
-      "text": "— E voltou."
-    },
-    {
-      "id": "p-6a7dc45ce62f-1",
-      "type": "para",
-      "text": "— Para o funeral."
-    },
-    {
-      "id": "p-e587f8229857-1",
-      "type": "para",
-      "text": "— Ainda assim, está aqui."
-    },
-    {
-      "id": "p-246a3ce5d4c4-1",
-      "type": "para",
-      "text": "— Que padrão exigente."
-    },
-    {
-      "id": "p-84a80378aae8-1",
-      "type": "para",
-      "text": "Ana sorriu com tristeza."
-    },
-    {
-      "id": "p-b3b24b8d9f9b-1",
-      "type": "para",
-      "text": "— Você o amava."
-    },
-    {
-      "id": "p-8c75d85ee19f-1",
-      "type": "para",
-      "text": "— Eu tinha quinze anos."
-    },
-    {
-      "id": "p-d40567bd4422-1",
-      "type": "para",
-      "text": "— Aos quinze, amava Gabriel porque ele fazia barulho. Aos dezessete, esperava cartas de Miguel porque ele entendia seus silêncios. Não confunda as duas histórias só porque uma terminou antes de começar."
-    },
-    {
-      "id": "p-4052db54a3f3-1",
-      "type": "para",
-      "text": "Clara olhou a caligrafia do pai."
-    },
-    {
-      "id": "p-7958c7882a8d-1",
-      "type": "para",
-      "text": "— Não sei quem ele é agora."
-    },
-    {
-      "id": "p-3f3f0ce3f5c8-1",
-      "type": "para",
-      "text": "— Descubra. Mas não faça do rapaz um tribunal no qual Jonas será julgado. Nem transforme a viagem num modo elegante de obrigá-lo a permanecer perto."
-    },
-    {
-      "id": "p-cb1575ef2643-1",
-      "type": "para",
-      "text": "— Eu não faria."
-    },
-    {
-      "id": "p-3d0398cb9529-1",
-      "type": "para",
-      "text": "Ana ergueu uma sobrancelha."
-    },
-    {
-      "id": "p-e38e279ae8fa-1",
-      "type": "para",
-      "text": "— Você é filha de Elias Moura. Homens desta família não possuem monopólio sobre decisões disfarçadas de dever."
-    },
-    {
-      "id": "p-ac4f7181ca14-1",
-      "type": "para",
-      "text": "O sino da igreja marcou quatro horas."
-    },
-    {
-      "id": "p-4f9fb26e484d-1",
-      "type": "para",
-      "text": "Ana recolocou as páginas na ordem. Separou o caderno que levariam."
-    },
-    {
-      "id": "p-02818b9ca7b9-1",
-      "type": "para",
-      "text": "— Ainda não perdoei Jonas — disse. — Talvez nunca sinta vontade."
-    },
-    {
-      "id": "p-cf963aa1a635-1",
-      "type": "para",
-      "text": "— Estevão diz que perdão não começa na vontade."
-    },
-    {
-      "id": "p-18de2308afab-1",
-      "type": "para",
-      "text": "— Estevão dorme sozinho e dá opiniões sobre coisas que não precisa praticar às quatro da manhã."
-    },
-    {
-      "id": "p-8ebfd797138f-1",
-      "type": "para",
-      "text": "Clara riu."
-    },
-    {
-      "id": "p-cffc3093ca2e-1",
-      "type": "para",
-      "text": "A mãe tocou a folha sobre a segunda luz."
-    },
-    {
-      "id": "p-af7e3606e619-1",
-      "type": "para",
-      "text": "— Se encontrar o responsável, não prometa que trará justiça."
-    },
-    {
-      "id": "p-ecbb44e5bd84-1",
-      "type": "para",
-      "text": "— Por quê?"
-    },
-    {
-      "id": "p-26561293f274-1",
-      "type": "para",
-      "text": "— Porque justiça pertence a mais pessoas do que você. Traga a verdade. Depois teremos de decidir juntos o que fazer com ela."
-    },
-    {
-      "id": "p-11290d746e67-1",
-      "type": "para",
-      "text": "Clara ajudou a guardar o diário."
-    },
-    {
-      "id": "p-e037b506b6d8-1",
-      "type": "para",
-      "text": "Antes de apagar a lamparina, Ana leu uma última linha escrita por Elias:"
-    },
-    {
-      "id": "p-55686528c4e0-1",
-      "type": "para",
-      "text": "*Luz do farol em três pulsos. Se tudo falhar, Clara saberá ler o caminho.*"
-    },
-    {
-      "id": "p-cb869c57ba68-1",
-      "type": "para",
-      "text": "A mãe beijou o papel."
-    },
-    {
-      "id": "p-0a02271aff01-1",
-      "type": "para",
-      "text": "— Volte — disse."
-    },
-    {
-      "id": "p-420943a115e9-1",
-      "type": "para",
-      "text": "Clara entendeu que Ana não falava apenas da viagem."
-    },
-    {
-      "id": "p-a7411161dd16-1",
-      "type": "h2",
-      "text": "CARTA III"
-    },
-    {
-      "id": "p-149ca7779b04-1",
-      "type": "h3",
-      "text": "Para Estevão Reis"
-    },
-    {
-      "id": "p-6324266d90f0-1",
-      "type": "para",
-      "text": "*Meu amigo,*"
-    },
-    {
-      "id": "p-b37df6fd5c0b-1",
-      "type": "para",
-      "text": "*Você me perguntou muitas vezes se eu guardava silêncio para proteger Miguel ou a mim mesmo. Fiquei ofendido porque a pergunta alcançou o lugar que eu mantinha trancado.*"
-    },
-    {
-      "id": "p-40cb41749bb1-1",
-      "type": "para",
-      "text": "*Protegi o menino. Também protegi a imagem que ele tinha de mim. Protegi Lídia da possibilidade de perder outro filho para um tribunal comprado. Protegi Baltasar de admitir que abandonara o posto por alguns minutos. Protegi Ana da verdade sobre as pessoas escondidas no navio. Protegi a Companhia sem desejar protegê-la. Quando um homem decide ser providência, logo descobre que não possui sabedoria suficiente para escolher quem sofrerá.*"
-    },
-    {
-      "id": "p-d9d2ac5716a7-1",
-      "type": "para",
-      "text": "*Chamei meu medo de amor. Chamei minha mentira de sacrifício. Chamei minha demora de prudência. Usei palavras boas como roupas em pecados que eu não queria reconhecer nus.*"
-    },
-    {
-      "id": "p-f10f5c0278b1-1",
-      "type": "para",
-      "text": "*Deus me perdoou. Creio nisso não porque minha consciência tenha ficado leve, mas porque Cristo carregou aquilo que não consigo desfazer. Ainda assim, perdão não fez os mortos respirarem nem devolveu a infância de Miguel. Há reparações que pertencem aos vivos.*"
-    },
-    {
-      "id": "p-bcd44c152122-1",
-      "type": "para",
-      "text": "*Se ele voltar, não ofereça respostas pequenas. Dê-lhe pão. Ouça sua raiva. E, se puder, ajude-o a compreender que lamentar não é negar a ressurreição. Às vezes é a única maneira honesta de esperar por ela.*"
-    },
-    {
-      "id": "p-6245e61fac90-1",
-      "type": "para",
-      "text": "*Jonas*"
-    }
-  ],
-  "provenance": {
-    "source": "production-v4:manifests/chapters.json",
-    "original_chapter_ids": [
-      14
-    ],
-    "source_pdf_page": 125,
-    "verification": "structured-source"
+ "id": "ch12",
+ "type": "chapter",
+ "title": "Doze sobreviventes",
+ "subtitle": "",
+ "part": "PARTE I — A COSTA",
+ "blocks": [
+  {
+   "id": "p-de93e333df13-1",
+   "type": "h2",
+   "text": "Doze sobreviventes"
   },
-  "blocks_sha256": "12dcff4793fdba816371dd382f8471bde21d0bd6817d1140dced1f23b42b89ad"
+  {
+   "id": "p-84c9acdbd223-1",
+   "type": "para",
+   "text": "Davi morava nos fundos da tipografia de Tobias Leme, seu tio, entre pilhas de papel e tipos de chumbo. Quando Miguel chegou, o menino operava a prensa com violência suficiente para imprimir a mesma notícia na mesa."
+  },
+  {
+   "id": "p-a29363708307-1",
+   "type": "para",
+   "text": "Tobias não levantou os olhos do componedor."
+  },
+  {
+   "id": "p-cabf5d884a76-1",
+   "type": "para",
+   "text": "— Se veio pedir desculpas, espere terminar a tiragem. Pedidos de desculpas interrompem o serviço e raramente pagam tinta."
+  },
+  {
+   "id": "p-66145050202b-1",
+   "type": "para",
+   "text": "— Vim falar com Davi."
+  },
+  {
+   "id": "p-f781659f22e2-1",
+   "type": "para",
+   "text": "— Então vai precisar pedir desculpas."
+  },
+  {
+   "id": "p-3675b2db9874-1",
+   "type": "para",
+   "text": "Miguel esperou."
+  },
+  {
+   "id": "p-859a72875cd3-1",
+   "type": "para",
+   "text": "A página impressa anunciava a Maré do Norte para dali a quarenta e seis dias. Segundo o almanaque, seria a maior variação em quase duas décadas. Havia um aviso da Companhia proibindo navegação no Canal da Agulha."
+  },
+  {
+   "id": "p-8332d95a1468-1",
+   "type": "para",
+   "text": "Davi pendurou a última folha no varal."
+  },
+  {
+   "id": "p-c4d526f549c7-1",
+   "type": "para",
+   "text": "— Minha mãe morreu — disse, sem olhar para Miguel. — Essa parte estava correta."
+  },
+  {
+   "id": "p-64f4e5e5bbf3-1",
+   "type": "para",
+   "text": "— A maneira como falei não estava."
+  },
+  {
+   "id": "p-7fb8a5cbbfd5-1",
+   "type": "para",
+   "text": "— Algumas pessoas usam verdade como faca e depois culpam a lâmina."
+  },
+  {
+   "id": "p-26457ae67ec2-1",
+   "type": "para",
+   "text": "— Jonas também escreveu isso?"
+  },
+  {
+   "id": "p-debc652547ba-1",
+   "type": "para",
+   "text": "— Minha mãe."
+  },
+  {
+   "id": "p-67bf693f0450-1",
+   "type": "para",
+   "text": "Miguel encostou-se à bancada."
+  },
+  {
+   "id": "p-3962a00a2932-1",
+   "type": "para",
+   "text": "— Sinto muito."
+  },
+  {
+   "id": "p-a01e336b8689-1",
+   "type": "para",
+   "text": "Davi alinhou os tipos numa caixa."
+  },
+  {
+   "id": "p-2b20a0fcab3c-1",
+   "type": "para",
+   "text": "— Pelo que disse ou por ela ter morrido?"
+  },
+  {
+   "id": "p-ab61c75c9dfa-1",
+   "type": "para",
+   "text": "— Pelos dois. Mas só tenho culpa pelo primeiro."
+  },
+  {
+   "id": "p-f867c979b965-1",
+   "type": "para",
+   "text": "O menino enfim o olhou."
+  },
+  {
+   "id": "p-d1c4a5cdb04a-1",
+   "type": "para",
+   "text": "— Melhor do que a maioria dos pedidos que recebi."
+  },
+  {
+   "id": "p-fd6313c773de-1",
+   "type": "para",
+   "text": "Tobias fez um ruído de aprovação sem interromper o trabalho."
+  },
+  {
+   "id": "p-f7905fc46522-1",
+   "type": "para",
+   "text": "— Quero entender por que Jonas escreveu para sua avó — disse Miguel."
+  },
+  {
+   "id": "p-c02737c6017f-1",
+   "type": "para",
+   "text": "Davi limpou tinta dos dedos."
+  },
+  {
+   "id": "p-5750b67514e8-1",
+   "type": "para",
+   "text": "— Minha mãe se chamava Sara. Tinha dezessete anos quando entrou escondida no Aurora. Estava grávida e fugia de um homem nas Salinas. Não tinha passagem. Uma cozinheira deixou que dormisse perto das caixas de mantimentos. Quando o navio bateu, as portas de carga estavam acorrentadas."
+  },
+  {
+   "id": "p-dab27bb60b78-1",
+   "type": "para",
+   "text": "Miguel lembrou a carta de Ana. Elias abrira os conveses inferiores porque havia gente onde os registros diziam haver caixas."
+  },
+  {
+   "id": "p-daa14372ac2d-1",
+   "type": "para",
+   "text": "— Gabriel a encontrou?"
+  },
+  {
+   "id": "p-eec93428f41d-1",
+   "type": "para",
+   "text": "— Ela dizia que um rapaz voltou três vezes. Na primeira, levou uma criança. Na segunda, um homem com a perna quebrada. Na terceira, encontrou minha mãe presa numa grade. Deu a bússola para ela segurar enquanto cortava a corrente."
+  },
+  {
+   "id": "p-ecbb44e5bd84-1",
+   "type": "para",
+   "text": "— Por quê?"
+  },
+  {
+   "id": "p-89ac0001a822-1",
+   "type": "para",
+   "text": "— Ela estava entrando em pânico. Ele disse: “Segure o norte para mim”."
+  },
+  {
+   "id": "p-cab4c312602c-1",
+   "type": "para",
+   "text": "Miguel fechou os olhos."
+  },
+  {
+   "id": "p-51d9532797c8-1",
+   "type": "para",
+   "text": "Era uma frase de Gabriel. Fazia pedidos absurdos como se fossem tarefas domésticas. Segure o barco. Convença a chuva. Guarde o horizonte até eu voltar."
+  },
+  {
+   "id": "p-8da363439cd1-1",
+   "type": "para",
+   "text": "— Ela viu quando ele morreu?"
+  },
+  {
+   "id": "p-bec7223c082a-1",
+   "type": "para",
+   "text": "Davi negou."
+  },
+  {
+   "id": "p-465f5c852a0d-1",
+   "type": "para",
+   "text": "— Desmaiou no bote. Quando acordou, Jonas estava com ela. Pegou a bússola, mas a devolveu depois. Anos mais tarde, quando ela adoeceu, pediu que ele cuidasse de mim."
+  },
+  {
+   "id": "p-eec0f4c6502b-1",
+   "type": "para",
+   "text": "— E ele tomou a bússola."
+  },
+  {
+   "id": "p-d34aa43ca9da-1",
+   "type": "para",
+   "text": "— Disse que eu queria transformá-la numa arma."
+  },
+  {
+   "id": "p-28c996c847bb-1",
+   "type": "para",
+   "text": "— Queria?"
+  },
+  {
+   "id": "p-80be3597c7a9-1",
+   "type": "para",
+   "text": "— Queria encontrar o responsável e enfiar no peito dele."
+  },
+  {
+   "id": "p-fa74f815fe6a-1",
+   "type": "para",
+   "text": "— Uma bússola é uma arma ruim."
+  },
+  {
+   "id": "p-59a37757a508-1",
+   "type": "para",
+   "text": "— Eu tinha doze anos. Meus critérios melhoraram."
+  },
+  {
+   "id": "p-4a3b44eb3479-1",
+   "type": "para",
+   "text": "Miguel sentou-se num banco baixo."
+  },
+  {
+   "id": "p-ba794a1cbdc9-1",
+   "type": "para",
+   "text": "— Quantos morreram, Davi?"
+  },
+  {
+   "id": "p-e30c1c7d42dd-1",
+   "type": "para",
+   "text": "O menino abriu uma gaveta e retirou uma folha impressa. Nomes ocupavam duas colunas. Quarenta e três estavam numerados. Abaixo, separados por uma linha, havia outros onze."
+  },
+  {
+   "id": "p-7c2b89b49b90-1",
+   "type": "para",
+   "text": "— Cinquenta e quatro que conseguimos provar — disse. — Talvez mais. Trabalhadores das ilhas, duas famílias sem passagem, gente que a Companhia transportava escondida para não pagar taxa. Minha mãe não aparece porque sobreviveu. Nem eu, porque ainda estava dentro dela."
+  },
+  {
+   "id": "p-d2a07bce1293-1",
+   "type": "para",
+   "text": "Miguel percorreu a lista."
+  },
+  {
+   "id": "p-6b33c0ed1e05-1",
+   "type": "para",
+   "text": "— Quem é “A. Prado”?"
+  },
+  {
+   "id": "p-cc36a252b8af-1",
+   "type": "para",
+   "text": "— Alina Prado. Camareira. Irmã de Silas."
+  },
+  {
+   "id": "p-9411551df519-1",
+   "type": "para",
+   "text": "A cicatriz no rosto do chefe de segurança adquiriu novo significado."
+  },
+  {
+   "id": "p-136ee406ac57-1",
+   "type": "para",
+   "text": "— Ele sabe?"
+  },
+  {
+   "id": "p-dab967c5e022-1",
+   "type": "para",
+   "text": "— Sabe que ela morreu. Não sabe que estava no navio. A versão oficial diz que um barco de pesca desapareceu na mesma tempestade. A Companhia pagou indenização por acidente de trabalho."
+  },
+  {
+   "id": "p-f889cf94815e-1",
+   "type": "para",
+   "text": "— Como Jonas descobriu?"
+  },
+  {
+   "id": "p-8798c9e44dca-1",
+   "type": "para",
+   "text": "— Passou dezessete anos perguntando. O senhor passou fazendo o quê?"
+  },
+  {
+   "id": "p-4d7696782782-1",
+   "type": "para",
+   "text": "Miguel recebeu o golpe sem defesa."
+  },
+  {
+   "id": "p-4b66230febbe-1",
+   "type": "para",
+   "text": "— Restaurando mapas."
+  },
+  {
+   "id": "p-5c08ed9ed532-1",
+   "type": "para",
+   "text": "— Isso ajuda os mortos?"
+  },
+  {
+   "id": "p-40f5528508e1-1",
+   "type": "para",
+   "text": "— Não. Mas evita que mapas morram."
+  },
+  {
+   "id": "p-3428e9eae302-1",
+   "type": "para",
+   "text": "Davi franziu o cenho, como se a resposta fosse menos desprezível do que esperava."
+  },
+  {
+   "id": "p-179529482710-1",
+   "type": "para",
+   "text": "— A rota de Jonas passa pelas Salinas — disse. — Minha avó Marta está lá. Se existe uma carta para ela, eu vou."
+  },
+  {
+   "id": "p-1cf7817bcb3c-1",
+   "type": "para",
+   "text": "— Você tem dezesseis anos."
+  },
+  {
+   "id": "p-5ae1f2e42ba4-1",
+   "type": "para",
+   "text": "— Minha mãe tinha dezessete quando atravessou escondida. Já estou quase autorizado a tomar decisões ruins."
+  },
+  {
+   "id": "p-248da88a3086-1",
+   "type": "para",
+   "text": "Tobias colocou o componedor sobre a mesa."
+  },
+  {
+   "id": "p-2ec19a0f52ee-1",
+   "type": "para",
+   "text": "— Ele vai — falou."
+  },
+  {
+   "id": "p-9a9fb0772c8b-1",
+   "type": "para",
+   "text": "— O senhor é responsável por ele."
+  },
+  {
+   "id": "p-5d4702b3588f-1",
+   "type": "para",
+   "text": "— Sou tio, não carcereiro. E Jonas deixou dinheiro para a passagem."
+  },
+  {
+   "id": "p-55c07281be28-1",
+   "type": "para",
+   "text": "— Não haverá passagem. É um barco particular, uma rota perigosa e pessoas tentando queimar as provas."
+  },
+  {
+   "id": "p-377c9e1ac00a-1",
+   "type": "para",
+   "text": "— Por isso ele precisa de adultos competentes — disse Tobias. — Infelizmente, temos você e Baltasar."
+  },
+  {
+   "id": "p-68c1c1bc9ba9-1",
+   "type": "para",
+   "text": "Davi sorriu."
+  },
+  {
+   "id": "p-e7239e43f530-1",
+   "type": "para",
+   "text": "Miguel passou a mão pela cicatriz na palma."
+  },
+  {
+   "id": "p-62243bbf6e43-1",
+   "type": "para",
+   "text": "— Se vier, obedece no barco."
+  },
+  {
+   "id": "p-f1228b66bdc0-1",
+   "type": "para",
+   "text": "— A quem?"
+  },
+  {
+   "id": "p-3b104b8f3661-1",
+   "type": "para",
+   "text": "— A mim."
+  },
+  {
+   "id": "p-7d706418743b-1",
+   "type": "para",
+   "text": "— Então prefiro o naufrágio."
+  },
+  {
+   "id": "p-7246680e9277-1",
+   "type": "para",
+   "text": "— A Clara."
+  },
+  {
+   "id": "p-c377d37451c2-1",
+   "type": "para",
+   "text": "— Aceito."
+  },
+  {
+   "id": "p-242a27e242c1-1",
+   "type": "para",
+   "text": "— Trabalha, não rouba e não desaparece."
+  },
+  {
+   "id": "p-020c51614f05-1",
+   "type": "para",
+   "text": "— Posso negociar o último."
+  },
+  {
+   "id": "p-401ac250c1a5-1",
+   "type": "para",
+   "text": "— Não."
+  },
+  {
+   "id": "p-a3d515aeaac3-1",
+   "type": "para",
+   "text": "Davi estendeu a mão manchada de tinta."
+  },
+  {
+   "id": "p-b8ca07451805-1",
+   "type": "para",
+   "text": "— Trato."
+  },
+  {
+   "id": "p-b6b73159bd67-1",
+   "type": "para",
+   "text": "Miguel apertou-a."
+  },
+  {
+   "id": "p-e9ea8012a77a-1",
+   "type": "para",
+   "text": "Do lado de fora, a prensa continuou rangendo com o movimento residual. A folha sobre a mesa trazia cinquenta e quatro nomes, e ainda assim parecia conter espaços demais."
+  }
+ ],
+ "provenance": "Edição Final do autor (.docx)",
+ "blocks_sha256": "4db2666920d5867d86b6656dc28192323af5a1f2e8c581e2cdcdf4e1fc374d44"
 }

@@ -1,443 +1,451 @@
 {
-  "id": "ch36",
-  "type": "chapter",
-  "title": "A última manhã da Constância",
-  "subtitle": null,
-  "part": "PARTE III — A TEMPESTADE",
-  "blocks": [
-    {
-      "id": "p-b922d20de62d-1",
-      "type": "h2",
-      "text": "A última manhã da Constância"
-    },
-    {
-      "id": "p-ad7d9cea6654-1",
-      "type": "para",
-      "text": "Baltasar decidiu que o café da manhã precisava ser uma celebração."
-    },
-    {
-      "id": "p-816ea76a8609-1",
-      "type": "para",
-      "text": "Ninguém compreendeu o motivo. Tinham escapado de uma gruta destruída, perdido parte dos mantimentos e descoberto que a lista de mortos era ainda maior. A Constância fazia água por duas juntas. Tomás os esperava com um acordo. Severo enviava homens armados."
-    },
-    {
-      "id": "p-c97196d20533-1",
-      "type": "para",
-      "text": "— Justamente — disse Balu. — Se esperarmos ocasião apropriada, morreremos comendo biscoito seco."
-    },
-    {
-      "id": "p-91f3af87a803-1",
-      "type": "para",
-      "text": "Encontrou ovos numa fazenda da costa, trocou uma ferramenta por queijo e convenceu Davi a pescar. O menino voltou com um peixe tão pequeno que Baltasar o devolveu e pediu desculpas à espécie."
-    },
-    {
-      "id": "p-4adc4765c7d6-1",
-      "type": "para",
-      "text": "Clara preparou pão na chapa. Miguel cortou frutas. Davi roubou metade antes de chegarem à mesa."
-    },
-    {
-      "id": "p-96c64c5cd946-1",
-      "type": "para",
-      "text": "Comeram no convés sob um céu claro. Pela primeira vez em dias, a água estava lisa. A Constância balançava como se respirasse."
-    },
-    {
-      "id": "p-4c769a03180c-1",
-      "type": "para",
-      "text": "— Quero propor um brinde — disse Baltasar, erguendo café."
-    },
-    {
-      "id": "p-8afa7a0eb536-1",
-      "type": "para",
-      "text": "— Isso não é brinde — falou Davi."
-    },
-    {
-      "id": "p-cce87b4aac1b-1",
-      "type": "para",
-      "text": "— Passei anos brindando com coisas piores. Às viagens que ainda não terminaram."
-    },
-    {
-      "id": "p-e4b4a3186eb2-1",
-      "type": "para",
-      "text": "— E aos barcos que não pegaram fogo — acrescentou Miguel."
-    },
-    {
-      "id": "p-c4aaefd9df42-1",
-      "type": "para",
-      "text": "— Exigência pessimista."
-    },
-    {
-      "id": "p-80e0fd8ccac7-1",
-      "type": "para",
-      "text": "Clara tocou a caneca na dele."
-    },
-    {
-      "id": "p-55145051fa94-1",
-      "type": "para",
-      "text": "— À verdade inteira, mesmo quando chega em partes."
-    },
-    {
-      "id": "p-b776ce362d73-1",
-      "type": "para",
-      "text": "Davi pensou."
-    },
-    {
-      "id": "p-13928fa2b594-1",
-      "type": "para",
-      "text": "— Ao bolo que deveria acompanhar celebrações."
-    },
-    {
-      "id": "p-30fe25a8fb73-1",
-      "type": "para",
-      "text": "Beberam."
-    },
-    {
-      "id": "p-8024731b03e8-1",
-      "type": "para",
-      "text": "Depois do café, Baltasar abriu uma caixa guardada no fundo do compartimento. Dentro havia uma fita amarela, duas cartas e um pequeno livro de orações."
-    },
-    {
-      "id": "p-e13935c12b6d-1",
-      "type": "para",
-      "text": "— Eram de Beatriz — explicou."
-    },
-    {
-      "id": "p-1c5bad641336-1",
-      "type": "para",
-      "text": "Entregou a fita a Davi."
-    },
-    {
-      "id": "p-19723cfb1bb7-1",
-      "type": "para",
-      "text": "— Eu não uso isso."
-    },
-    {
-      "id": "p-0554576c39ac-1",
-      "type": "para",
-      "text": "— Não é para usar. É para guardar até saber quem precisa."
-    },
-    {
-      "id": "p-bc1dc7332322-1",
-      "type": "para",
-      "text": "— Por que eu?"
-    },
-    {
-      "id": "p-e2bc16bcaed9-1",
-      "type": "para",
-      "text": "— Porque você transforma objetos em perguntas. Ela também fazia."
-    },
-    {
-      "id": "p-bd6ffd90e10f-1",
-      "type": "para",
-      "text": "Davi passou a fita entre os dedos."
-    },
-    {
-      "id": "p-ea9a866ccca0-1",
-      "type": "para",
-      "text": "— Como morreu?"
-    },
-    {
-      "id": "p-107bc61bb67f-1",
-      "type": "para",
-      "text": "— Doente. Eu estava ao lado."
-    },
-    {
-      "id": "p-8e46f7387d4e-1",
-      "type": "para",
-      "text": "— Você disse que passaram anos ruins."
-    },
-    {
-      "id": "p-d1ebf58f3e0d-1",
-      "type": "para",
-      "text": "— Passei. Ela não teve escolha. Quando parei de beber, imaginei que nove anos bons apagariam os anteriores. Beatriz me explicou que somar bem não subtrai mal. Ainda assim, permitiu que eu ficasse."
-    },
-    {
-      "id": "p-d48bfe3de50b-1",
-      "type": "para",
-      "text": "— Perdoou?"
-    },
-    {
-      "id": "p-752285cd1a3f-1",
-      "type": "para",
-      "text": "— Em alguns dias. Em outros, apenas não me expulsou."
-    },
-    {
-      "id": "p-69cf44405284-1",
-      "type": "para",
-      "text": "Clara olhou para o mar."
-    },
-    {
-      "id": "p-84f4459f523f-1",
-      "type": "para",
-      "text": "— Parece pouco."
-    },
-    {
-      "id": "p-b729dfa76ece-1",
-      "type": "para",
-      "text": "— Foi o bastante para termos aqueles anos."
-    },
-    {
-      "id": "p-7a163bc068ed-1",
-      "type": "para",
-      "text": "Baltasar abriu o livro. Na folha de rosto, Beatriz escrevera: *Pai, arrependimento não é prometer que nunca cairá. É parar de chamar o chão de casa.*"
-    },
-    {
-      "id": "p-8b615577534c-1",
-      "type": "para",
-      "text": "— Ela escrevia melhor do que Jonas — disse Miguel."
-    },
-    {
-      "id": "p-2a0f0b2fb721-1",
-      "type": "para",
-      "text": "— Eu dizia isso para irritá-lo."
-    },
-    {
-      "id": "p-440ff0ffea88-1",
-      "type": "para",
-      "text": "Davi guardou a fita no próprio caderno."
-    },
-    {
-      "id": "p-54179e49c905-1",
-      "type": "para",
-      "text": "— Vai para quem?"
-    },
-    {
-      "id": "p-3628650f1252-1",
-      "type": "para",
-      "text": "— Descubra depois."
-    },
-    {
-      "id": "p-2431dbad6b42-1",
-      "type": "para",
-      "text": "Passaram a manhã consertando juntas. Clara e Miguel trabalharam debaixo do convés. O espaço estreito obrigava os ombros a se tocar."
-    },
-    {
-      "id": "p-4ee415376f91-1",
-      "type": "para",
-      "text": "— Li a carta — disse ela."
-    },
-    {
-      "id": "p-86fe2dcd9695-1",
-      "type": "para",
-      "text": "— E?"
-    },
-    {
-      "id": "p-45c308fdb2ac-1",
-      "type": "para",
-      "text": "— Jonas continua morto. Não posso discutir."
-    },
-    {
-      "id": "p-67602a8759d9-1",
-      "type": "para",
-      "text": "— Posso discordar em nome dele, se ajudar."
-    },
-    {
-      "id": "p-b059ba12e43f-1",
-      "type": "para",
-      "text": "— Você tem talento, mas não o suficiente."
-    },
-    {
-      "id": "p-bf1bafa91d94-1",
-      "type": "para",
-      "text": "Ela apertou uma cunha."
-    },
-    {
-      "id": "p-56b7c9d5bdda-1",
-      "type": "para",
-      "text": "— Ele disse para eu observar o homem que você escolhe ser depois de saber."
-    },
-    {
-      "id": "p-45e57eeba789-1",
-      "type": "para",
-      "text": "— Isso parece ameaçador."
-    },
-    {
-      "id": "p-221672dc586e-1",
-      "type": "para",
-      "text": "— É."
-    },
-    {
-      "id": "p-6e50e8851f93-1",
-      "type": "para",
-      "text": "— Ainda está no barco."
-    },
-    {
-      "id": "p-4d49455567e5-1",
-      "type": "para",
-      "text": "— Hoje."
-    },
-    {
-      "id": "p-8779a2e4afc8-1",
-      "type": "para",
-      "text": "Miguel assentiu."
-    },
-    {
-      "id": "p-615f96350b5e-1",
-      "type": "para",
-      "text": "— Hoje serve."
-    },
-    {
-      "id": "p-764301643c3d-1",
-      "type": "para",
-      "text": "Clara olhou para ele. Havia surpresa e algo mais brando."
-    },
-    {
-      "id": "p-69b56cce11a4-1",
-      "type": "para",
-      "text": "— Está aprendendo a não exigir o mapa inteiro."
-    },
-    {
-      "id": "p-2e52d0a9baf1-1",
-      "type": "para",
-      "text": "— Talvez o mar tenha danificado meu julgamento."
-    },
-    {
-      "id": "p-48934fa175e1-1",
-      "type": "para",
-      "text": "Ela o beijou de leve, sem promessa, e voltou ao trabalho."
-    },
-    {
-      "id": "p-d64b4898620a-1",
-      "type": "para",
-      "text": "Na popa, Baltasar enfim ensinou Davi o lais de guia. O menino tentou seis vezes. Na sétima, o nó surgiu correto."
-    },
-    {
-      "id": "p-b53166039111-1",
-      "type": "para",
-      "text": "— Ele segura uma pessoa? — perguntou."
-    },
-    {
-      "id": "p-cc86fe038f66-1",
-      "type": "para",
-      "text": "— Se feito direito."
-    },
-    {
-      "id": "p-d3d1612b63b1-1",
-      "type": "para",
-      "text": "— E se a pessoa não quiser ser segurada?"
-    },
-    {
-      "id": "p-a434e341fe53-1",
-      "type": "para",
-      "text": "— Então primeiro pergunta."
-    },
-    {
-      "id": "p-1655fdea8e42-1",
-      "type": "para",
-      "text": "— Nós podem pedir autorização?"
-    },
-    {
-      "id": "p-608b4a56c4c7-1",
-      "type": "para",
-      "text": "— Quem segura deve."
-    },
-    {
-      "id": "p-a97a6b2d2f85-1",
-      "type": "para",
-      "text": "Davi desfez e refez."
-    },
-    {
-      "id": "p-e00e858b91e5-1",
-      "type": "para",
-      "text": "Baltasar ficou sério."
-    },
-    {
-      "id": "p-5af0a0e34a56-1",
-      "type": "para",
-      "text": "— Se alguma coisa acontecer comigo, não transforme em dívida."
-    },
-    {
-      "id": "p-babedfc29744-1",
-      "type": "para",
-      "text": "— O que aconteceria?"
-    },
-    {
-      "id": "p-00a0f1e0c854-1",
-      "type": "para",
-      "text": "— Tenho sessenta e quatro anos num barco perseguido por homens armados. Estatística é uma forma de profecia sem imaginação."
-    },
-    {
-      "id": "p-6a0b6cc8ee9d-1",
-      "type": "para",
-      "text": "— Não fale assim."
-    },
-    {
-      "id": "p-74c3383c2e6f-1",
-      "type": "para",
-      "text": "— Estou falando para que depois não diga que adultos esconderam."
-    },
-    {
-      "id": "p-d8233f23406e-1",
-      "type": "para",
-      "text": "Davi apertou o nó."
-    },
-    {
-      "id": "p-1aeb080e57c7-1",
-      "type": "para",
-      "text": "— Então eu digo agora que não permito."
-    },
-    {
-      "id": "p-577ac2afc50f-1",
-      "type": "para",
-      "text": "— Registrado."
-    },
-    {
-      "id": "p-9fe9aa7507ed-1",
-      "type": "para",
-      "text": "O velho colocou a mão sobre seu cabelo."
-    },
-    {
-      "id": "p-489666f05a7a-1",
-      "type": "para",
-      "text": "— Você não deve sua vida a Gabriel. Nem a mim. Mas deve alguma coisa ao fato de estar vivo."
-    },
-    {
-      "id": "p-003a5886c790-1",
-      "type": "para",
-      "text": "— O quê?"
-    },
-    {
-      "id": "p-b9c063136f5e-1",
-      "type": "para",
-      "text": "— Atenção. Receba os dias. Veja quem está diante de você. Volte quando puder. Peça ajuda antes de afundar."
-    },
-    {
-      "id": "p-1b338fa7b70c-1",
-      "type": "para",
-      "text": "— Parece muita coisa."
-    },
-    {
-      "id": "p-feb72aebc026-1",
-      "type": "para",
-      "text": "— Comece com os nós."
-    },
-    {
-      "id": "p-22c890c74ec1-1",
-      "type": "para",
-      "text": "À tarde, levantaram vela para Porto da Vigília. Baltasar tomou o primeiro turno e cantou alto. Davi acompanhou fora do tom. Clara desenhou. Miguel completou uma linha do mapa de Gabriel."
-    },
-    {
-      "id": "p-e80245f21967-1",
-      "type": "para",
-      "text": "O sol se pôs atrás deles."
-    },
-    {
-      "id": "p-65d64e3802bb-1",
-      "type": "para",
-      "text": "Nenhum sabia que era a última manhã da Constância."
-    },
-    {
-      "id": "p-66b9364fbc93-1",
-      "type": "para",
-      "text": "Talvez soubessem apenas o suficiente para não desperdiçá-la."
-    }
-  ],
-  "provenance": {
-    "source": "production-v4:manifests/chapters.json",
-    "original_chapter_ids": [
-      51
-    ],
-    "source_pdf_page": 381,
-    "verification": "structured-source"
+ "id": "ch36",
+ "type": "chapter",
+ "title": "O roubo de Gabriel",
+ "subtitle": "",
+ "part": "PARTE III — A TEMPESTADE",
+ "blocks": [
+  {
+   "id": "p-0d2dfcb5a637-1",
+   "type": "h2",
+   "text": "O roubo de Gabriel"
   },
-  "blocks_sha256": "7cefab4a1a0f5a81eca2dd15f8bd62b185d5146e76b907cf31a13c05dca30e10"
+  {
+   "id": "p-3df65e9e242f-1",
+   "type": "para",
+   "text": "Dezessete anos antes, Tomás entregara a Gabriel uma chave."
+  },
+  {
+   "id": "p-c61be7f2b2e5-1",
+   "type": "para",
+   "text": "— Abre o arquivo de carga — disse. — Dez minutos depois da troca do turno. Meu pai janta às oito. O guarda percorre o pátio às oito e cinco."
+  },
+  {
+   "id": "p-fbe57203cb10-1",
+   "type": "para",
+   "text": "Gabriel girou a chave entre os dedos."
+  },
+  {
+   "id": "p-f0d9e3a759e6-1",
+   "type": "para",
+   "text": "— Você vem."
+  },
+  {
+   "id": "p-bd31ae9498fe-1",
+   "type": "para",
+   "text": "— Se me virem, Severo muda os documentos antes que Elias receba."
+  },
+  {
+   "id": "p-9c00a5c7be3c-1",
+   "type": "para",
+   "text": "— Se me virem, ele me joga no mar."
+  },
+  {
+   "id": "p-f78b7ceaaafd-1",
+   "type": "para",
+   "text": "— Você sabe nadar."
+  },
+  {
+   "id": "p-89683d44aef0-1",
+   "type": "para",
+   "text": "— Amizade com rico é experiência profundamente desigual."
+  },
+  {
+   "id": "p-00398b794747-1",
+   "type": "para",
+   "text": "Encontraram-se no depósito naquela noite. Apesar do plano, Tomás aparecera. Trazia casaco escuro e uma lanterna coberta."
+  },
+  {
+   "id": "p-6cdb482ea6df-1",
+   "type": "para",
+   "text": "— Mudou de ideia? — perguntou Gabriel."
+  },
+  {
+   "id": "p-cb4cae99c2a6-1",
+   "type": "para",
+   "text": "— Não confio que saiba ler livros contábeis."
+  },
+  {
+   "id": "p-07852044f4f0-1",
+   "type": "para",
+   "text": "— Leio palavras. Números são palavras com vergonha."
+  },
+  {
+   "id": "p-5865531da2e0-1",
+   "type": "para",
+   "text": "O arquivo cheirava a papel e óleo. Encontraram o livro do Aurora numa gaveta trancada: combustível não declarado, cinquenta e oito refeições por passageiro, apenas quarenta e três bilhetes emitidos. Uma ordem instruía Elias a seguir o “canal operacional do Corvo” para descarga antes da inspeção."
+  },
+  {
+   "id": "p-c8c80283c89f-1",
+   "type": "para",
+   "text": "— Não existe canal — disse Gabriel."
+  },
+  {
+   "id": "p-267397540c4c-1",
+   "type": "para",
+   "text": "— Meu pai instalou boias no mês passado. Disse que eram para levantamento."
+  },
+  {
+   "id": "p-d8c3c5da3223-1",
+   "type": "para",
+   "text": "— E a luz antiga?"
+  },
+  {
+   "id": "p-fc1d0d214d42-1",
+   "type": "para",
+   "text": "Tomás sentiu frio."
+  },
+  {
+   "id": "p-24e13fc5a26a-1",
+   "type": "para",
+   "text": "— Vi homens trabalhando na armação."
+  },
+  {
+   "id": "p-b98e677cdd90-1",
+   "type": "para",
+   "text": "Copiaram quatro folhas. Gabriel escreveu depressa. Tomás ficou junto à porta."
+  },
+  {
+   "id": "p-a450eef7eb65-1",
+   "type": "para",
+   "text": "— Por que o Aurora precisa sair amanhã? — perguntou Gabriel."
+  },
+  {
+   "id": "p-c526c918329c-1",
+   "type": "para",
+   "text": "— O fiscal da capital chega depois. Se a carga desembarcar antes, não há prova."
+  },
+  {
+   "id": "p-f0efb7816fc7-1",
+   "type": "para",
+   "text": "— Elias pode recusar."
+  },
+  {
+   "id": "p-741a6bf002e3-1",
+   "type": "para",
+   "text": "— Pode perder licença."
+  },
+  {
+   "id": "p-e5469c462b64-1",
+   "type": "para",
+   "text": "— Melhor licença do que navio."
+  },
+  {
+   "id": "p-f72e3db61864-1",
+   "type": "para",
+   "text": "— Você não conhece meu pai."
+  },
+  {
+   "id": "p-9b7919b8c4c3-1",
+   "type": "para",
+   "text": "Gabriel parou de escrever."
+  },
+  {
+   "id": "p-a8fbccb934d7-1",
+   "type": "para",
+   "text": "— Conheço homens que dizem sustentar muita gente. Sempre usam as mesmas pessoas como escudo quando querem fazer mal a uma só."
+  },
+  {
+   "id": "p-f5bd28927a83-1",
+   "type": "para",
+   "text": "— A Companhia realmente sustenta as ilhas."
+  },
+  {
+   "id": "p-1fee62de122c-1",
+   "type": "para",
+   "text": "— Então deve ser forte o bastante para sobreviver sem carga escondida."
+  },
+  {
+   "id": "p-4dbad8dc6594-1",
+   "type": "para",
+   "text": "Um passo soou no corredor."
+  },
+  {
+   "id": "p-2a2ac24f4991-1",
+   "type": "para",
+   "text": "Tomás apagou a lanterna. Esconderam-se atrás de estantes. A porta abriu. Severo entrou com Raul Serpa."
+  },
+  {
+   "id": "p-cdcdc15ff7f4-1",
+   "type": "para",
+   "text": "— A armação está pronta? — perguntou o pai."
+  },
+  {
+   "id": "p-5e45b8c9e7bf-1",
+   "type": "para",
+   "text": "— Sim — respondeu Raul. — Falta confirmar o sinal. O rapaz do faroleiro costuma usar a luz para encontrar o irmão. Podemos fazer parecer brincadeira."
+  },
+  {
+   "id": "p-89ffc93f4e14-1",
+   "type": "para",
+   "text": "Tomás sentiu Gabriel endurecer ao lado."
+  },
+  {
+   "id": "p-a5101d6f098c-1",
+   "type": "para",
+   "text": "— Qual rapaz? — perguntou Severo."
+  },
+  {
+   "id": "p-3d4cec2c0f48-1",
+   "type": "para",
+   "text": "— O mais novo. Miguel."
+  },
+  {
+   "id": "p-272369c10af1-1",
+   "type": "para",
+   "text": "— Não envolva crianças além do necessário. Acenda pela equipe quando o navio estiver a seis milhas. Depois destrua mecanismo."
+  },
+  {
+   "id": "p-a124d3d28bcd-1",
+   "type": "para",
+   "text": "— E se Jonas vir?"
+  },
+  {
+   "id": "p-194233aa1d9b-1",
+   "type": "para",
+   "text": "— Estará olhando a luz principal. Homens raramente procuram outra quando confiam na própria."
+  },
+  {
+   "id": "p-934939c72767-1",
+   "type": "para",
+   "text": "Os dois saíram."
+  },
+  {
+   "id": "p-e85ac1f29d88-1",
+   "type": "para",
+   "text": "Gabriel agarrou Tomás pelo casaco."
+  },
+  {
+   "id": "p-fa75f57b8d59-1",
+   "type": "para",
+   "text": "— Eles sabem que usamos a ponta."
+  },
+  {
+   "id": "p-814d4d5b4899-1",
+   "type": "para",
+   "text": "— Talvez tenham seguido vocês."
+  },
+  {
+   "id": "p-45c237efb99a-1",
+   "type": "para",
+   "text": "— Miguel recebeu meu bilhete esta tarde."
+  },
+  {
+   "id": "p-2c7045361278-1",
+   "type": "para",
+   "text": "— Que bilhete?"
+  },
+  {
+   "id": "p-b6980b186bf1-1",
+   "type": "para",
+   "text": "— Pedi que acendesse às uma e quarenta e cinco para eu entrar escondido."
+  },
+  {
+   "id": "p-187f912e2413-1",
+   "type": "para",
+   "text": "Tomás sentiu pânico."
+  },
+  {
+   "id": "p-7c9ea3ca409b-1",
+   "type": "para",
+   "text": "— Cancele."
+  },
+  {
+   "id": "p-653132dac179-1",
+   "type": "para",
+   "text": "— Como? Ele está no farol. Não posso passar pelo cais sem que me vejam."
+  },
+  {
+   "id": "p-7f7e9c83b665-1",
+   "type": "para",
+   "text": "— Eu mando um homem."
+  },
+  {
+   "id": "p-58a24d53e1af-1",
+   "type": "para",
+   "text": "— Um homem de quem?"
+  },
+  {
+   "id": "p-e21c8fa78c38-1",
+   "type": "para",
+   "text": "Não havia resposta."
+  },
+  {
+   "id": "p-49fabdc22339-1",
+   "type": "para",
+   "text": "Gabriel enrolou as cópias e colocou num tubo de latão."
+  },
+  {
+   "id": "p-cc76d74563a0-1",
+   "type": "para",
+   "text": "— Vou a Elias. Ele pode parar a partida."
+  },
+  {
+   "id": "p-008e154e4008-1",
+   "type": "para",
+   "text": "— Espere. Precisamos pensar."
+  },
+  {
+   "id": "p-141674c01ffe-1",
+   "type": "para",
+   "text": "— Você pensa como quem tem tempo porque outras pessoas pagam enquanto decide."
+  },
+  {
+   "id": "p-fd319a932246-1",
+   "type": "para",
+   "text": "— Severo destrói minha família."
+  },
+  {
+   "id": "p-3084b14f9536-1",
+   "type": "para",
+   "text": "— Seu pai é sua família. Não sua consciência."
+  },
+  {
+   "id": "p-2ed6f312e936-1",
+   "type": "para",
+   "text": "Tomás o segurou."
+  },
+  {
+   "id": "p-e41ebe74f0aa-1",
+   "type": "para",
+   "text": "— Não vá sozinho."
+  },
+  {
+   "id": "p-1df97a0a663b-1",
+   "type": "para",
+   "text": "Gabriel olhou a mão em seu braço."
+  },
+  {
+   "id": "p-f70b8a015a49-1",
+   "type": "para",
+   "text": "— Então venha."
+  },
+  {
+   "id": "p-bb28e4077457-1",
+   "type": "para",
+   "text": "Tomás soltou."
+  },
+  {
+   "id": "p-983b248cc25b-1",
+   "type": "para",
+   "text": "Naquela escolha, pequena o bastante para caber entre duas respirações, estava o restante de sua vida."
+  },
+  {
+   "id": "p-ce3ee448cfab-1",
+   "type": "para",
+   "text": "— Preciso retirar minha mãe da casa primeiro — mentiu. Ela estava no continente havia meses."
+  },
+  {
+   "id": "p-b8a0ca7543b4-1",
+   "type": "para",
+   "text": "Gabriel soube."
+  },
+  {
+   "id": "p-c407e1cdbe5b-1",
+   "type": "para",
+   "text": "— Claro."
+  },
+  {
+   "id": "p-2632bc860e94-1",
+   "type": "para",
+   "text": "Saiu com o tubo."
+  },
+  {
+   "id": "p-051ea4c0873f-1",
+   "type": "para",
+   "text": "Tomás permaneceu no arquivo. Poderia correr atrás. Poderia procurar Miguel. Poderia entrar no escritório de Severo e confrontá-lo. Em vez disso, recolocou o livro na gaveta e limpou a mesa para que ninguém soubesse que estivera ali."
+  },
+  {
+   "id": "p-f86451d916cf-1",
+   "type": "para",
+   "text": "Quando saiu, encontrou Raul no corredor."
+  },
+  {
+   "id": "p-f24285889047-1",
+   "type": "para",
+   "text": "O supervisor sorriu."
+  },
+  {
+   "id": "p-56985f2d44a0-1",
+   "type": "para",
+   "text": "— Seu pai quer vê-lo."
+  },
+  {
+   "id": "p-de2adbdbdc5c-1",
+   "type": "para",
+   "text": "Severo esperava no escritório com uma das cópias nas mãos. Gabriel deixara cair ao passar pela cerca."
+  },
+  {
+   "id": "p-79b7a8cc77b2-1",
+   "type": "para",
+   "text": "— Quem entrou no arquivo? — perguntou."
+  },
+  {
+   "id": "p-949bf8130b11-1",
+   "type": "para",
+   "text": "Tomás pensou na mãe ausente, nos funcionários, na escola que ainda não existia, no poder do homem diante dele."
+  },
+  {
+   "id": "p-cddb95ced18e-1",
+   "type": "para",
+   "text": "— Gabriel Vale — respondeu."
+  },
+  {
+   "id": "p-fae7c338df0f-1",
+   "type": "para",
+   "text": "— Sozinho?"
+  },
+  {
+   "id": "p-b2c2b003f915-1",
+   "type": "para",
+   "text": "Tomás olhou para o pai."
+  },
+  {
+   "id": "p-edf7116b2eb2-1",
+   "type": "para",
+   "text": "— Sozinho."
+  },
+  {
+   "id": "p-45bea6c19552-1",
+   "type": "para",
+   "text": "Horas depois, quando o sino do naufrágio tocou, ele correu ao farol. Viu Miguel inconsciente, Jonas coberto de óleo e Gabriel desaparecido no mar."
+  },
+  {
+   "id": "p-8fd7e43739d4-1",
+   "type": "para",
+   "text": "Severo colocou a mão sobre seu ombro."
+  },
+  {
+   "id": "p-4890e2720511-1",
+   "type": "para",
+   "text": "— Agora entende — disse. — Decisões governam; intenções são enterradas."
+  },
+  {
+   "id": "p-f1af2274e878-1",
+   "type": "para",
+   "text": "Tomás acreditou por muito tempo."
+  },
+  {
+   "id": "p-37c7976fd3fb-1",
+   "type": "para",
+   "text": "Na manhã em que enviou a coordenada da Estação Norte, abriu o cofre e tocou a última folha das ordens."
+  },
+  {
+   "id": "p-859eecca09cd-1",
+   "type": "para",
+   "text": "Ainda podia ouvir Gabriel:"
+  },
+  {
+   "id": "p-e300f04d363f-1",
+   "type": "para",
+   "text": "*Então venha.*"
+  },
+  {
+   "id": "p-81d018ed6ff5-1",
+   "type": "para",
+   "text": "Dezessete anos depois, Tomás continuava no arquivo, limpando a mesa."
+  }
+ ],
+ "provenance": "Edição Final do autor (.docx)",
+ "blocks_sha256": "24ee95f09e8d33a2d17eb119c3aa78716c6de30aaa4f2f74e5442b16c080632b"
 }

@@ -1,864 +1,436 @@
 {
-  "id": "ch22",
-  "type": "chapter",
-  "title": "A ilha sem instrumentos",
-  "subtitle": null,
-  "part": "PARTE II — AS ÁGUAS PROFUNDAS",
-  "blocks": [
-    {
-      "id": "p-96d94b057403-1",
-      "type": "h2",
-      "text": "A ilha dos espelhos"
-    },
-    {
-      "id": "p-4996ba94857a-1",
-      "type": "para",
-      "text": "O problema dos espelhos era que não inventavam nada."
-    },
-    {
-      "id": "p-4d22e77d788b-1",
-      "type": "para",
-      "text": "Mostravam apenas coisas verdadeiras no lugar errado."
-    },
-    {
-      "id": "p-7c6b476a04c9-1",
-      "type": "para",
-      "text": "As rochas da ilha eram atravessadas por mica e quartzo. Ao entardecer, cada agulha devolvia o sol em ângulo diferente. Luzes surgiam onde não havia casas. O reflexo do farolete da Constância aparecia adiante, atrás e sobre a água."
-    },
-    {
-      "id": "p-485fbc5305d2-1",
-      "type": "para",
-      "text": "Clara ficou no leme. Miguel ocupou a proa com a carta de Elias. Baltasar media profundidade com uma linha. Davi repetia os números."
-    },
-    {
-      "id": "p-01298cab3abd-1",
-      "type": "para",
-      "text": "— Cinco braças!"
-    },
-    {
-      "id": "p-dc3dc7c19248-1",
-      "type": "para",
-      "text": "— Canal para leste — disse Miguel."
-    },
-    {
-      "id": "p-41c3c2b5fb22-1",
-      "type": "para",
-      "text": "— Há duas entradas — respondeu Clara."
-    },
-    {
-      "id": "p-6363fe3ad985-1",
-      "type": "para",
-      "text": "— Uma é reflexo. Siga a sombra, não a luz."
-    },
-    {
-      "id": "p-1304887628fd-1",
-      "type": "para",
-      "text": "A Constância inclinou-se. Uma parede de rocha passou tão perto que Davi poderia tocá-la. O mar à direita parecia aberto, mas Baltasar lançou a linha e encontrou menos de um metro."
-    },
-    {
-      "id": "p-f5e676051a3a-1",
-      "type": "para",
-      "text": "— Mapa mentiroso — murmurou Davi."
-    },
-    {
-      "id": "p-03c392615370-1",
-      "type": "para",
-      "text": "— O mapa mostra profundidade de maré alta — disse Clara. — A mentira está em não dizer quando foi medida."
-    },
-    {
-      "id": "p-8b532cacf478-1",
-      "type": "para",
-      "text": "Um estalo veio do motor. O ruído cessou."
-    },
-    {
-      "id": "p-809b74f478e0-1",
-      "type": "para",
-      "text": "Sem propulsão, a corrente começou a empurrá-los para um recife."
-    },
-    {
-      "id": "p-ec6306b3165f-1",
-      "type": "para",
-      "text": "— Vela de proa! — ordenou Clara."
-    },
-    {
-      "id": "p-de6f94c313bc-1",
-      "type": "para",
-      "text": "Baltasar correu para o motor. Davi soltou a adriça errada, e metade da vela principal caiu sobre Miguel."
-    },
-    {
-      "id": "p-d40bd7f9cbed-1",
-      "type": "para",
-      "text": "— A outra corda!"
-    },
-    {
-      "id": "p-abce9934c5ed-1",
-      "type": "para",
-      "text": "— Todas parecem a outra corda!"
-    },
-    {
-      "id": "p-e24a79e1dc00-1",
-      "type": "para",
-      "text": "Miguel se libertou, agarrou a adriça correta e puxou com Davi. A vela subiu. O vento veio de frente, inútil."
-    },
-    {
-      "id": "p-00be66ef1643-1",
-      "type": "para",
-      "text": "— Âncora! — gritou Clara."
-    },
-    {
-      "id": "p-4e5684c4d94a-1",
-      "type": "para",
-      "text": "Davi lançou. A corda correu, queimando-lhe as mãos, mas a âncora não encontrou fundo. O recife se aproximava."
-    },
-    {
-      "id": "p-d78b3a31ebbc-1",
-      "type": "para",
-      "text": "Miguel olhou as rochas refletidas. O sol aparecia em cinco pontos. O mapa de Elias trazia pequenos traços escuros junto ao canal. Não eram pedras. Eram horários."
-    },
-    {
-      "id": "p-4f29cd4a638d-1",
-      "type": "para",
-      "text": "— Espere o reflexo apagar — disse."
-    },
-    {
-      "id": "p-db4dc97bd7be-1",
-      "type": "para",
-      "text": "— Temos dez segundos — respondeu Clara."
-    },
-    {
-      "id": "p-58fc34aad156-1",
-      "type": "para",
-      "text": "— Quando a luz deixar aquela agulha, vire para ela."
-    },
-    {
-      "id": "p-58ef1aa69274-1",
-      "type": "para",
-      "text": "— A carta diz oeste."
-    },
-    {
-      "id": "p-a37b4043608b-1",
-      "type": "para",
-      "text": "— Meu pai dizia para seguir a sombra — lembrou Clara."
-    },
-    {
-      "id": "p-770a777c692f-1",
-      "type": "para",
-      "text": "O reflexo se moveu."
-    },
-    {
-      "id": "p-0bd9a17a9377-1",
-      "type": "para",
-      "text": "— Agora!"
-    },
-    {
-      "id": "p-b765eedc42b2-1",
-      "type": "para",
-      "text": "Ela lançou o leme. Uma rajada atingiu a vela no mesmo instante. A Constância girou dentro de um corredor que parecia rocha sólida. Passaram entre duas agulhas ocultas pelos reflexos. Atrás delas, a corrente perdeu força e o barco entrou numa lagoa calma."
-    },
-    {
-      "id": "p-6ae1489e3670-1",
-      "type": "para",
-      "text": "O motor voltou à vida com um rugido."
-    },
-    {
-      "id": "p-8365d213c45c-1",
-      "type": "para",
-      "text": "Baltasar ergueu a cabeça da cabine."
-    },
-    {
-      "id": "p-3fc9da17b560-1",
-      "type": "para",
-      "text": "— Resolvido."
-    },
-    {
-      "id": "p-586b3453446c-1",
-      "type": "para",
-      "text": "Davi caiu sentado."
-    },
-    {
-      "id": "p-beb1406f800d-1",
-      "type": "para",
-      "text": "— Claro. Não estávamos fazendo nada importante."
-    },
-    {
-      "id": "p-bbb420aeba12-1",
-      "type": "para",
-      "text": "Ancoraram na lagoa. A aldeia principal ficava do outro lado da ilha; precisariam esperar a maré seguinte para atravessar o canal interno."
-    },
-    {
-      "id": "p-c1a29dc9e727-1",
-      "type": "para",
-      "text": "Baltasar levou Davi para pescar. Miguel permaneceu consertando a pele queimada das mãos do menino. Clara subiu uma trilha para conferir pontos de observação. Quando voltou, encontrou Miguel na praia, desenhando as agulhas."
-    },
-    {
-      "id": "p-8eecafc5acf6-1",
-      "type": "para",
-      "text": "— Você lê paisagens como lê papel — disse."
-    },
-    {
-      "id": "p-f09ff1d7749b-1",
-      "type": "para",
-      "text": "— Paisagens apagam menos de propósito."
-    },
-    {
-      "id": "p-bde7f88b76d4-1",
-      "type": "para",
-      "text": "— Ainda está com raiva."
-    },
-    {
-      "id": "p-b6d3ec70588c-1",
-      "type": "para",
-      "text": "— Estou tentando ser constante."
-    },
-    {
-      "id": "p-12806b908cb4-1",
-      "type": "para",
-      "text": "Clara sentou-se ao lado dele."
-    },
-    {
-      "id": "p-75645a52c6c4-1",
-      "type": "para",
-      "text": "— Encontrei as cópias de meu pai quatro anos atrás. Procurei Jonas. Ele disse que ainda não podia falar."
-    },
-    {
-      "id": "p-b1c8a0c065c9-1",
-      "type": "para",
-      "text": "— Por causa de mim?"
-    },
-    {
-      "id": "p-8071a2540f29-1",
-      "type": "para",
-      "text": "— Não explicou. Eu disse que o odiava. Ele respondeu que isso talvez fosse mais seguro do que amá-lo."
-    },
-    {
-      "id": "p-8d6d3f016c50-1",
-      "type": "para",
-      "text": "Miguel desenhou outra linha."
-    },
-    {
-      "id": "p-c11e9db81cbb-1",
-      "type": "para",
-      "text": "— Parece algo que diria."
-    },
-    {
-      "id": "p-90551cd9fdc0-1",
-      "type": "para",
-      "text": "— Voltei todos os anos. Ele sempre entregava um fragmento. Um nome, uma data, um destino. Achei que estava brincando comigo. Só depois entendi que construía a rota."
-    },
-    {
-      "id": "p-e04311cd0bc8-1",
-      "type": "para",
-      "text": "— Então sabia das cartas."
-    },
-    {
-      "id": "p-0b57135aaa44-1",
-      "type": "para",
-      "text": "— Sabia que existiriam. Não sabia o conteúdo."
-    },
-    {
-      "id": "p-f67fde450b1a-1",
-      "type": "para",
-      "text": "— Por que não me procurou outra vez?"
-    },
-    {
-      "id": "p-9bf9d39d2a73-1",
-      "type": "para",
-      "text": "— Eu já tinha enviado duas cartas."
-    },
-    {
-      "id": "p-034e313cf632-1",
-      "type": "para",
-      "text": "Ele assentiu."
-    },
-    {
-      "id": "p-56b7ec9acdee-1",
-      "type": "para",
-      "text": "O mar tocava a praia com ondas pequenas. Nas pedras, centenas de pontos de luz dançavam sem fonte aparente."
-    },
-    {
-      "id": "p-fc22d037efee-1",
-      "type": "para",
-      "text": "— Eu pensei em você — disse Miguel. — Na capital. Muitas vezes."
-    },
-    {
-      "id": "p-a3f9f2966365-1",
-      "type": "para",
-      "text": "— Pensar é a forma mais segura de amar alguém. A pessoa nunca responde diferente do que imaginamos."
-    },
-    {
-      "id": "p-7595e511f1d2-1",
-      "type": "para",
-      "text": "— Tem razão."
-    },
-    {
-      "id": "p-a6078235de5e-1",
-      "type": "para",
-      "text": "Clara virou-se, surpresa pela falta de defesa."
-    },
-    {
-      "id": "p-355428f63258-1",
-      "type": "para",
-      "text": "— Estou cansado de tentar vencer todas as conversas."
-    },
-    {
-      "id": "p-4ce3d6d17cb4-1",
-      "type": "para",
-      "text": "— Isso deve ser grave."
-    },
-    {
-      "id": "p-19e0fd2cdf70-1",
-      "type": "para",
-      "text": "— Talvez seja terminal."
-    },
-    {
-      "id": "p-c4885d11289c-1",
-      "type": "para",
-      "text": "Ela sorriu."
-    },
-    {
-      "id": "p-1e2753e022d1-1",
-      "type": "para",
-      "text": "Miguel tocou a mão dela. Clara não se afastou."
-    },
-    {
-      "id": "p-d9a1b1b2360c-1",
-      "type": "para",
-      "text": "— Não prometo que vou confiar em você — disse."
-    },
-    {
-      "id": "p-94182ece27a7-1",
-      "type": "para",
-      "text": "— Eu não pediria."
-    },
-    {
-      "id": "p-3a7505107506-1",
-      "type": "para",
-      "text": "— Também não prometo que não vou embora quando descobrir o que aconteceu."
-    },
-    {
-      "id": "p-71843032e94a-1",
-      "type": "para",
-      "text": "— Entendo."
-    },
-    {
-      "id": "p-81611871543e-1",
-      "type": "para",
-      "text": "— Pare de concordar. Está perturbador."
-    },
-    {
-      "id": "p-c2004f15a34d-1",
-      "type": "para",
-      "text": "Ele a beijou."
-    },
-    {
-      "id": "p-aa6b24abb995-1",
-      "type": "para",
-      "text": "Não houve música, nem maré que parasse, nem luz correta descendo do céu. Clara tinha gosto de sal e café. Por um instante, Miguel sentiu alegria sem precisar justificá-la."
-    },
-    {
-      "id": "p-69f49758fc29-1",
-      "type": "para",
-      "text": "Quando se afastaram, ela encostou a testa na dele."
-    },
-    {
-      "id": "p-0ae329675e83-1",
-      "type": "para",
-      "text": "— Isso foi uma decisão ruim."
-    },
-    {
-      "id": "p-461db3aaed42-1",
-      "type": "para",
-      "text": "— Davi disse que já tem idade para algumas."
-    },
-    {
-      "id": "p-d8d727839a2b-1",
-      "type": "para",
-      "text": "— Davi vomitou numa caixa de cordas esta manhã."
-    },
-    {
-      "id": "p-e430ba99d62b-1",
-      "type": "para",
-      "text": "— Não é meu melhor conselheiro."
-    },
-    {
-      "id": "p-6dd81326ecfc-1",
-      "type": "para",
-      "text": "Clara riu. Depois seus olhos encontraram a cicatriz na mão dele, pousada sobre a areia."
-    },
-    {
-      "id": "p-fee5e4d807b4-1",
-      "type": "para",
-      "text": "O momento mudou."
-    },
-    {
-      "id": "p-3cbde9979b30-1",
-      "type": "para",
-      "text": "— Precisamos saber — disse."
-    },
-    {
-      "id": "p-f0a8411af910-1",
-      "type": "para",
-      "text": "— Eu sei."
-    },
-    {
-      "id": "p-2a6a5d6440e8-1",
-      "type": "para",
-      "text": "— Mesmo que destrua isto."
-    },
-    {
-      "id": "p-2a5cbef87493-1",
-      "type": "para",
-      "text": "Miguel olhou para as luzes falsas nas pedras."
-    },
-    {
-      "id": "p-3eafc529aacf-1",
-      "type": "para",
-      "text": "— Principalmente se puder destruir."
-    },
-    {
-      "id": "p-75ed2e0878ab-1",
-      "type": "para",
-      "text": "Na aldeia, encontraram a casa de Leonor Salles fechada. Uma vizinha informou que a médica passava as noites numa estação de pesquisa no alto da montanha."
-    },
-    {
-      "id": "p-0842059010fa-1",
-      "type": "para",
-      "text": "No caminho, Davi começou a cantar a canção da mãe."
-    },
-    {
-      "id": "p-b2a987f08157-1",
-      "type": "para",
-      "text": "Leonor abriu a porta antes que batessem."
-    },
-    {
-      "id": "p-52962df08660-1",
-      "type": "para",
-      "text": "Tinha uma espingarda nas mãos."
-    },
-    {
-      "id": "p-9ee88bdabd1b-1",
-      "type": "para",
-      "text": "— Se vieram da Companhia, errem meu nome no relatório — disse. — Quero manter a tradição."
-    },
-    {
-      "id": "p-56ebc6d14f5e-1",
-      "type": "h2",
-      "text": "A noite sem instrumentos"
-    },
-    {
-      "id": "p-0e9ac985114d-1",
-      "type": "para",
-      "text": "Leonor não permitiu que entrassem até verificar cada caixa e bolso."
-    },
-    {
-      "id": "p-3f17cbad29d5-1",
-      "type": "para",
-      "text": "— Homens da Companhia vieram ontem — explicou. — Procuravam prontuários do Aurora. Um usava o rosto no lugar errado, outro o chapéu."
-    },
-    {
-      "id": "p-852ead71fa7c-1",
-      "type": "para",
-      "text": "— Silas? — perguntou Miguel."
-    },
-    {
-      "id": "p-473f1d163d01-1",
-      "type": "para",
-      "text": "— Não. Gente mais jovem. Pecados antigos costumam contratar pernas novas."
-    },
-    {
-      "id": "p-51ae691a9243-1",
-      "type": "para",
-      "text": "Ela aceitou a carta de Jonas, mas recusou abrir naquela noite."
-    },
-    {
-      "id": "p-3698b3a0a895-1",
-      "type": "para",
-      "text": "— O tempo está fechando. Meus instrumentos precisam ser recolhidos. Se querem respostas, ajudem."
-    },
-    {
-      "id": "p-cc20ddffbde4-1",
-      "type": "para",
-      "text": "Passaram uma hora desmontando medidores de vento e cobrindo caixas. Quando terminaram, nuvens esconderam todas as estrelas. A estação tinha apenas dois quartos, e Leonor declarou que homens capazes de sobreviver ao mar sobreviveriam ao piso."
-    },
-    {
-      "id": "p-efeb6edfc503-1",
-      "type": "para",
-      "text": "Acenderam fogo numa lareira de pedra."
-    },
-    {
-      "id": "p-d470b8cf2e23-1",
-      "type": "para",
-      "text": "Davi encontrou um telescópio e apontou para o céu negro."
-    },
-    {
-      "id": "p-54f6707a1a4f-1",
-      "type": "para",
-      "text": "— Não há nada."
-    },
-    {
-      "id": "p-867126b83687-1",
-      "type": "para",
-      "text": "— Há nuvens — disse Leonor."
-    },
-    {
-      "id": "p-2ed1433fcf0a-1",
-      "type": "para",
-      "text": "— Quis dizer além."
-    },
-    {
-      "id": "p-b1233c000415-1",
-      "type": "para",
-      "text": "— O fato de não enxergar não remove."
-    },
-    {
-      "id": "p-c62636a5efb3-1",
-      "type": "para",
-      "text": "— Isso é astronomia ou religião?"
-    },
-    {
-      "id": "p-308a475c095d-1",
-      "type": "para",
-      "text": "— Depende de quem está irritado."
-    },
-    {
-      "id": "p-e35253917430-1",
-      "type": "para",
-      "text": "Comeram sopa de raízes. O beijo na praia permanecia entre Miguel e Clara como uma vela que ninguém decidira recolher. Davi percebeu. Baltasar percebeu que Davi percebeu e o ocupou com perguntas sobre constelações."
-    },
-    {
-      "id": "p-6dcabaf13fe1-1",
-      "type": "para",
-      "text": "— Se não há estrelas, como antigos navegavam? — perguntou o menino."
-    },
-    {
-      "id": "p-bf7ae14171b1-1",
-      "type": "para",
-      "text": "— Não navegavam — respondeu Clara. — Reduziam vela, mediam corrente e esperavam."
-    },
-    {
-      "id": "p-34d30e9b66b5-1",
-      "type": "para",
-      "text": "— Parece covardia."
-    },
-    {
-      "id": "p-6d0397580278-1",
-      "type": "para",
-      "text": "— Parece sobreviver."
-    },
-    {
-      "id": "p-11217a9a4760-1",
-      "type": "para",
-      "text": "— Gabriel teria continuado."
-    },
-    {
-      "id": "p-b26c7e962cf8-1",
-      "type": "para",
-      "text": "Miguel olhou para o fogo."
-    },
-    {
-      "id": "p-b1702e1c1a7f-1",
-      "type": "para",
-      "text": "— Provavelmente. Por isso precisava de nós para desenhar os recifes."
-    },
-    {
-      "id": "p-5b2b9cfbf161-1",
-      "type": "para",
-      "text": "— Você fala dele como pessoa agora — observou Davi."
-    },
-    {
-      "id": "p-e02a32b93b86-1",
-      "type": "para",
-      "text": "— Antes falava como quê?"
-    },
-    {
-      "id": "p-093b83a2afdf-1",
-      "type": "para",
-      "text": "— Como ferida."
-    },
-    {
-      "id": "p-b3090a6130ce-1",
-      "type": "para",
-      "text": "Ninguém encontrou resposta rápida."
-    },
-    {
-      "id": "p-bd2b3dccc3a2-1",
-      "type": "para",
-      "text": "Leonor retirou um tabuleiro. Jogaram um antigo jogo de navegação em que peças precisavam atravessar ilhas sem que o adversário conhecesse a rota. Davi trapaceou. Clara descobriu. Baltasar defendeu que criatividade era competência marítima. Miguel perdeu três vezes."
-    },
-    {
-      "id": "p-9bf6dc57c098-1",
-      "type": "para",
-      "text": "— Restauradores devem ser bons em estratégia — disse Leonor."
-    },
-    {
-      "id": "p-d8de4957f863-1",
-      "type": "para",
-      "text": "— Sou bom em coisas que não se movem de propósito."
-    },
-    {
-      "id": "p-f4306b4ecc0f-1",
-      "type": "para",
-      "text": "— Então escolheu amigos ruins."
-    },
-    {
-      "id": "p-c9ae7f815828-1",
-      "type": "para",
-      "text": "Clara venceu a última partida conduzindo uma peça por uma rota aparentemente suicida entre dois adversários. Quando Davi acusou sorte, ela mostrou as marcas que vinha fazendo desde o início."
-    },
-    {
-      "id": "p-406f38583767-1",
-      "type": "para",
-      "text": "— Preparou dezenove jogadas antes — disse Miguel."
-    },
-    {
-      "id": "p-04368a0bce93-1",
-      "type": "para",
-      "text": "— Vinte e duas. Você atrapalhou três."
-    },
-    {
-      "id": "p-3cb2d55974c0-1",
-      "type": "para",
-      "text": "— Isso foi quase elogio."
-    },
-    {
-      "id": "p-f648c69c3405-1",
-      "type": "para",
-      "text": "Por algumas horas, riram. A estação ficou quente. O mundo se reduziu ao fogo, ao tabuleiro e a quatro pessoas cuja viagem ainda não alcançara o pior."
-    },
-    {
-      "id": "p-4403f5224bba-1",
-      "type": "para",
-      "text": "Depois que Leonor se recolheu, Baltasar contou sobre a primeira vez que Jonas o levou ao mar. Uma tempestade apagou estrelas e bússola. Balu, então menino, perguntou como voltariam."
-    },
-    {
-      "id": "p-472cf56e42c7-1",
-      "type": "para",
-      "text": "— Jonas disse que não voltariam naquela noite. Lançou âncora e dormiu."
-    },
-    {
-      "id": "p-14005d8233fb-1",
-      "type": "para",
-      "text": "— Só isso? — perguntou Davi."
-    },
-    {
-      "id": "p-78cd131cf7ac-1",
-      "type": "para",
-      "text": "— Eu passei horas esperando revelação. Pela manhã, as nuvens abriram. Ele acordou e falou: “Agora temos informação suficiente”. Fiquei ofendido por anos."
-    },
-    {
-      "id": "p-856cc960563d-1",
-      "type": "para",
-      "text": "— Qual a moral?"
-    },
-    {
-      "id": "p-0a75affcdee7-1",
-      "type": "para",
-      "text": "— Às vezes esperar é uma ação. E às vezes velhos dormem porque estão cansados. Não confunda toda história com parábola."
-    },
-    {
-      "id": "p-1a0c1beca814-1",
-      "type": "para",
-      "text": "Davi adormeceu perto do fogo. Baltasar cobriu-o e tomou um canto da sala."
-    },
-    {
-      "id": "p-18a1324bc1ce-1",
-      "type": "para",
-      "text": "Miguel e Clara ficaram junto à janela. Do lado de fora, a escuridão era completa."
-    },
-    {
-      "id": "p-634060f888c0-1",
-      "type": "para",
-      "text": "— Arrependeu-se? — perguntou ele."
-    },
-    {
-      "id": "p-667c1eea2fce-1",
-      "type": "para",
-      "text": "— Do quê?"
-    },
-    {
-      "id": "p-0623c54158ad-1",
-      "type": "para",
-      "text": "— Praia."
-    },
-    {
-      "id": "p-fc5fe26ebfd1-1",
-      "type": "para",
-      "text": "— Ainda estou avaliando consequências hidrográficas."
-    },
-    {
-      "id": "p-832e1b09cdde-1",
-      "type": "para",
-      "text": "— Pareceram graves."
-    },
-    {
-      "id": "p-ec9e222854e7-1",
-      "type": "para",
-      "text": "Clara encostou a cabeça no vidro."
-    },
-    {
-      "id": "p-65dbe0088701-1",
-      "type": "para",
-      "text": "— Tenho medo de que você esteja procurando em mim uma versão da vida que teria se Gabriel não morresse."
-    },
-    {
-      "id": "p-ae903bf002b4-1",
-      "type": "para",
-      "text": "— Eu tinha dezesseis anos. Não sabia que vida queria."
-    },
-    {
-      "id": "p-e604553c6706-1",
-      "type": "para",
-      "text": "— E agora?"
-    },
-    {
-      "id": "p-969d68df83ae-1",
-      "type": "para",
-      "text": "— Quero abrir a próxima carta. Descobrir o que fiz. Voltar ao porto e não partir no primeiro trem. Depois disso, não sei."
-    },
-    {
-      "id": "p-268d0de75584-1",
-      "type": "para",
-      "text": "— Uma lista romântica."
-    },
-    {
-      "id": "p-d45d03a7321a-1",
-      "type": "para",
-      "text": "— Estou tentando não prometer além do que consigo sustentar."
-    },
-    {
-      "id": "p-5a14095def3f-1",
-      "type": "para",
-      "text": "Ela se virou."
-    },
-    {
-      "id": "p-2334e2f69868-1",
-      "type": "para",
-      "text": "— Hoje eu queria beijar você outra vez."
-    },
-    {
-      "id": "p-3d1160c450a4-1",
-      "type": "para",
-      "text": "— Hoje ainda não terminou."
-    },
-    {
-      "id": "p-6bb14f32d05f-1",
-      "type": "para",
-      "text": "— Também queria acertá-lo por queimar minha carta."
-    },
-    {
-      "id": "p-acff115d902b-1",
-      "type": "para",
-      "text": "— As duas coisas podem ocorrer em ordem negociada."
-    },
-    {
-      "id": "p-1fe56df22d2c-1",
-      "type": "para",
-      "text": "Clara sorriu e o beijou. Depois lhe deu um tapa leve no ombro."
-    },
-    {
-      "id": "p-e612cbdb9644-1",
-      "type": "para",
-      "text": "— Isso não corresponde a três anos."
-    },
-    {
-      "id": "p-209eaaa21c6a-1",
-      "type": "para",
-      "text": "— Podemos parcelar."
-    },
-    {
-      "id": "p-c1f7e655bfce-1",
-      "type": "para",
-      "text": "Mais tarde, Miguel acordou com o som de baleias. Vozes profundas atravessavam a ilha, vindas do canal abaixo. Todos foram para a plataforma. Não havia estrelas, mas a água se iluminava ao redor dos corpos com plâncton azul. Cada baleia desenhava uma linha viva na escuridão."
-    },
-    {
-      "id": "p-d2c7dfb14b41-1",
-      "type": "para",
-      "text": "Davi esqueceu de fazer piada."
-    },
-    {
-      "id": "p-ab42b74d174d-1",
-      "type": "para",
-      "text": "— Como sabem para onde ir? — perguntou."
-    },
-    {
-      "id": "p-8a416758f12a-1",
-      "type": "para",
-      "text": "Leonor apoiou os braços no corrimão."
-    },
-    {
-      "id": "p-a4b4c7c06a08-1",
-      "type": "para",
-      "text": "— Ouvem umas às outras a distâncias que não compreendemos."
-    },
-    {
-      "id": "p-0fde7bb3947a-1",
-      "type": "para",
-      "text": "Ficaram ali até as últimas luzes desaparecerem."
-    },
-    {
-      "id": "p-7e23ca568854-1",
-      "type": "para",
-      "text": "Não tinham bússola confiável, estrelas ou mapa para aquele instante."
-    },
-    {
-      "id": "p-939b5e55af4e-1",
-      "type": "para",
-      "text": "Ainda assim, ninguém parecia perdido."
-    },
-    {
-      "id": "p-78f0271587e2-1",
-      "type": "h2",
-      "text": "CARTA VI"
-    },
-    {
-      "id": "p-6e896fd8e569-1",
-      "type": "h3",
-      "text": "Para Leonor Salles"
-    },
-    {
-      "id": "p-bde0fb769771-1",
-      "type": "para",
-      "text": "*Doutora,*"
-    },
-    {
-      "id": "p-e78bc12aa1f6-1",
-      "type": "para",
-      "text": "*A senhora guardou o silêncio porque eu disse que Miguel morreria se lembrasse. Naquele momento, talvez estivesse certa. Um corpo ferido escolhe às vezes fechar uma porta até que a pessoa consiga permanecer de pé diante dela.*"
-    },
-    {
-      "id": "p-8158387afa1a-1",
-      "type": "para",
-      "text": "*Dezessete anos se passaram. A porta deixou de protegê-lo e se tornou uma parede ao redor de sua vida.*"
-    },
-    {
-      "id": "p-93b76368448d-1",
-      "type": "para",
-      "text": "*Peço que conte tudo o que observou: o corte na mão, o óleo nas roupas, a pedra da Ponta do Corvo dentro do ferimento, as palavras que ele repetia durante a febre. Não sugira memórias. Não preencha o que falta. Dê-lhe apenas os fatos que pertencem à senhora.*"
-    },
-    {
-      "id": "p-20c3bbd7641a-1",
-      "type": "para",
-      "text": "*Eu quis que Miguel conservasse a inocência. Em vez disso, dei-lhe uma culpa sem forma, grande demais para ser confessada e vaga demais para ser enfrentada. O amor que recusa a verdade não mantém alguém inteiro. Mantém apenas a aparência que desejamos salvar.*"
-    },
-    {
-      "id": "p-d570e3d5b24b-1",
-      "type": "para",
-      "text": "*Se ele me odiar depois, não o convença do contrário. Há uma ira que faz parte do caminho até o perdão. Cristo não nos chamou a apressar a ressurreição e pular a cruz.*"
-    },
-    {
-      "id": "p-021ba983aa11-1",
-      "type": "para",
-      "text": "*Jonas Vale*"
-    }
-  ],
-  "provenance": {
-    "source": "production-v4:manifests/chapters.json",
-    "original_chapter_ids": [
-      30,
-      31
-    ],
-    "source_pdf_page": 242,
-    "verification": "structured-source"
+ "id": "ch22",
+ "type": "chapter",
+ "title": "O homem que precisava de um culpado",
+ "subtitle": "",
+ "part": "PARTE II — AS ÁGUAS PROFUNDAS",
+ "blocks": [
+  {
+   "id": "p-6da11e148ee9-1",
+   "type": "h2",
+   "text": "O homem que precisava de um culpado"
   },
-  "blocks_sha256": "6244b9a3d2d2fa97e02f2ee216d436ed9931a8a95d0bf593d1d36d0ee16cde50"
+  {
+   "id": "p-a83d8f1a6476-1",
+   "type": "para",
+   "text": "Silas os alcançou antes do meio-dia."
+  },
+  {
+   "id": "p-07e753d4cde7-1",
+   "type": "para",
+   "text": "A Constância deixara a Ilha do Sino sob vento fraco. Abel permanecera com o médico e uma cópia do registro; Clara guardara os originais numa caixa metálica sob o piso da cabine. Baltasar insistia que Silas não os atacaria em mar aberto."
+  },
+  {
+   "id": "p-33e77b1bd32c-1",
+   "type": "para",
+   "text": "— Há testemunhas em todos os barcos — disse."
+  },
+  {
+   "id": "p-63ff67786ecc-1",
+   "type": "para",
+   "text": "— Que barcos? — perguntou Davi."
+  },
+  {
+   "id": "p-b17ed6209fda-1",
+   "type": "para",
+   "text": "A névoa da manhã escondera a ilha. Não havia outra vela no horizonte."
+  },
+  {
+   "id": "p-ca2cb07cff3c-1",
+   "type": "para",
+   "text": "O motor da lancha surgiu atrás deles como um zumbido crescente."
+  },
+  {
+   "id": "p-0182b1069d39-1",
+   "type": "para",
+   "text": "Silas vinha com dois homens. Não mostrou bandeira de autoridade. Aproximou a embarcação pela popa e lançou um gancho sobre a amurada."
+  },
+  {
+   "id": "p-ca12c00803c2-1",
+   "type": "para",
+   "text": "— Cortem! — gritou Clara."
+  },
+  {
+   "id": "p-faee303a8195-1",
+   "type": "para",
+   "text": "Davi ergueu uma faca."
+  },
+  {
+   "id": "p-df2cfa006bb9-1",
+   "type": "para",
+   "text": "— Finalmente uma justificativa."
+  },
+  {
+   "id": "p-e6a4034ea289-1",
+   "type": "para",
+   "text": "Antes que alcançasse a corda, um dos homens saltou. Baltasar o recebeu com um remo. O segundo disparou para o alto."
+  },
+  {
+   "id": "p-a37213063c4f-1",
+   "type": "para",
+   "text": "— Entreguem o registro e ninguém se machuca!"
+  },
+  {
+   "id": "p-02ffc16e1a26-1",
+   "type": "para",
+   "text": "— Essa frase melhoraria se vocês parassem de atirar — respondeu Miguel."
+  },
+  {
+   "id": "p-98cf35021542-1",
+   "type": "para",
+   "text": "Silas subiu por último. Carregava uma pistola, mas a manteve apontada para o chão."
+  },
+  {
+   "id": "p-01fa9ba0d60f-1",
+   "type": "para",
+   "text": "— Onde está?"
+  },
+  {
+   "id": "p-ab88760f5624-1",
+   "type": "para",
+   "text": "— No sino — disse Davi."
+  },
+  {
+   "id": "p-b3a7e381c1fc-1",
+   "type": "para",
+   "text": "— Eu o vi sair com as tiras."
+  },
+  {
+   "id": "p-e0e3580b4e44-1",
+   "type": "para",
+   "text": "— Então não deveria fazer perguntas cujas respostas já escolheu."
+  },
+  {
+   "id": "p-c7020891d9da-1",
+   "type": "para",
+   "text": "Silas atingiu o menino com o dorso da mão."
+  },
+  {
+   "id": "p-e33b86727429-1",
+   "type": "para",
+   "text": "Miguel avançou. A pistola ergueu-se para seu peito."
+  },
+  {
+   "id": "p-32fe38ce1e99-1",
+   "type": "para",
+   "text": "— Mais um passo."
+  },
+  {
+   "id": "p-e26afff04823-1",
+   "type": "para",
+   "text": "— Ele tem dezesseis anos."
+  },
+  {
+   "id": "p-436fe474a44f-1",
+   "type": "para",
+   "text": "— Alina tinha dezessete."
+  },
+  {
+   "id": "p-86dcbab2a9fa-1",
+   "type": "para",
+   "text": "O nome parou todos."
+  },
+  {
+   "id": "p-012da2a064ea-1",
+   "type": "para",
+   "text": "Silas encarou Miguel."
+  },
+  {
+   "id": "p-125133bd8c4a-1",
+   "type": "para",
+   "text": "— Como sabe da minha irmã?"
+  },
+  {
+   "id": "p-59628f69c3d9-1",
+   "type": "para",
+   "text": "— Ela estava no Aurora."
+  },
+  {
+   "id": "p-776fe55d3f82-1",
+   "type": "para",
+   "text": "— Mentira."
+  },
+  {
+   "id": "p-c98f1914d20f-1",
+   "type": "para",
+   "text": "— O nome dela aparece numa lista de passageiros não registrados."
+  },
+  {
+   "id": "p-9a62e7ec998c-1",
+   "type": "para",
+   "text": "— Ela morreu num barco de pesca."
+  },
+  {
+   "id": "p-2b0149b7182b-1",
+   "type": "para",
+   "text": "— Foi o que a Companhia imprimiu."
+  },
+  {
+   "id": "p-8b09aeb1393c-1",
+   "type": "para",
+   "text": "A pistola tremeu quase imperceptivelmente."
+  },
+  {
+   "id": "p-eccaa2448c1e-1",
+   "type": "para",
+   "text": "— Tomás pagou o enterro."
+  },
+  {
+   "id": "p-0db16a5f4343-1",
+   "type": "para",
+   "text": "— Enterrou o quê?"
+  },
+  {
+   "id": "p-8cf17458971a-1",
+   "type": "para",
+   "text": "Silas golpeou Miguel no estômago. Quando ele se dobrou, agarrou-o pela nuca."
+  },
+  {
+   "id": "p-5ca825035d7a-1",
+   "type": "para",
+   "text": "— Não use minha irmã."
+  },
+  {
+   "id": "p-7f07d0335c5d-1",
+   "type": "para",
+   "text": "— Não estou usando. Estou dizendo que talvez tenham mentido para você também."
+  },
+  {
+   "id": "p-9d16445dde8f-1",
+   "type": "para",
+   "text": "— Mostre a lista."
+  },
+  {
+   "id": "p-0b7ac89185c5-1",
+   "type": "para",
+   "text": "— Solte Davi."
+  },
+  {
+   "id": "p-49c209483b9b-1",
+   "type": "para",
+   "text": "— Mostre."
+  },
+  {
+   "id": "p-effe9c84d7b5-1",
+   "type": "para",
+   "text": "— Solte todos e terá uma cópia."
+  },
+  {
+   "id": "p-542ce0399c2d-1",
+   "type": "para",
+   "text": "Silas olhou para os próprios homens. Um mantinha Baltasar ajoelhado; o outro revistava a cabine sob a mira de Clara, que parecia calcular se conseguiria matá-lo com um compasso."
+  },
+  {
+   "id": "p-7a80e0d2e088-1",
+   "type": "para",
+   "text": "O chefe de segurança empurrou Miguel contra o mastro."
+  },
+  {
+   "id": "p-433c8a883c91-1",
+   "type": "para",
+   "text": "— Jonas Vale matou quarenta e três pessoas. Passei metade da vida sabendo o nome do homem responsável. Não venha me oferecer uma mentira mais complicada porque precisa limpar seu sangue."
+  },
+  {
+   "id": "p-e82810eb1819-1",
+   "type": "para",
+   "text": "— Cinquenta e quatro — disse Davi, o lábio sangrando. — E sua irmã está entre os onze que eles apagaram."
+  },
+  {
+   "id": "p-fda051f14689-1",
+   "type": "para",
+   "text": "Silas virou a arma para o menino."
+  },
+  {
+   "id": "p-b7cdf5447496-1",
+   "type": "para",
+   "text": "Clara se moveu."
+  },
+  {
+   "id": "p-fee54e1fcdf3-1",
+   "type": "para",
+   "text": "O compasso de navegação voou de sua mão e atingiu o pulso de Silas. A pistola disparou contra o convés. Baltasar lançou o corpo para trás, derrubando o homem que o segurava. Miguel atingiu Silas com o ombro."
+  },
+  {
+   "id": "p-a3bf85566f28-1",
+   "type": "para",
+   "text": "Durante alguns segundos, o convés tornou-se braços, botas e cordas."
+  },
+  {
+   "id": "p-8d1ffeebb221-1",
+   "type": "para",
+   "text": "Davi cortou o gancho que prendia as embarcações."
+  },
+  {
+   "id": "p-1f3c52c90516-1",
+   "type": "para",
+   "text": "A lancha separou-se, levando um dos homens ainda a bordo. O outro tentou saltar e caiu entre os cascos. Baltasar o puxou pela gola antes que a hélice o alcançasse."
+  },
+  {
+   "id": "p-ed0d77f29414-1",
+   "type": "para",
+   "text": "Silas permaneceu na Constância."
+  },
+  {
+   "id": "p-b43b59a747e5-1",
+   "type": "para",
+   "text": "Miguel tinha a pistola agora."
+  },
+  {
+   "id": "p-0f5b7091a9f0-1",
+   "type": "para",
+   "text": "Apontou para o chefe de segurança. Silas ergueu as mãos."
+  },
+  {
+   "id": "p-6dffc98e7626-1",
+   "type": "para",
+   "text": "— Mostre a lista — disse."
+  },
+  {
+   "id": "p-607a9dd7b415-1",
+   "type": "para",
+   "text": "Davi trouxe a folha impressa de Tobias."
+  },
+  {
+   "id": "p-5e0057fe868f-1",
+   "type": "para",
+   "text": "Silas encontrou o nome. A dureza de seu rosto não desapareceu; rachou."
+  },
+  {
+   "id": "p-631e775f8018-1",
+   "type": "para",
+   "text": "— Isso não prova nada."
+  },
+  {
+   "id": "p-f1e4b4a5674b-1",
+   "type": "para",
+   "text": "— Vamos à Ilha Sem Nome — disse Davi. — Jonas marcou sepulturas."
+  },
+  {
+   "id": "p-ecbb44e5bd84-1",
+   "type": "para",
+   "text": "— Por quê?"
+  },
+  {
+   "id": "p-d313a0ea7d8a-1",
+   "type": "para",
+   "text": "— Porque sua Companhia não marcou."
+  },
+  {
+   "id": "p-d07c69013a2c-1",
+   "type": "para",
+   "text": "A lancha retornava. O homem no leme empunhava um rifle."
+  },
+  {
+   "id": "p-710c19d3cb7d-1",
+   "type": "para",
+   "text": "Clara assumiu o comando."
+  },
+  {
+   "id": "p-81b3f8a523f3-1",
+   "type": "para",
+   "text": "— Miguel, mantenha a arma nele. Balu, motor. Davi, solte toda a vela de proa quando eu mandar."
+  },
+  {
+   "id": "p-44edf4efc14b-1",
+   "type": "para",
+   "text": "— Há recifes a oeste — disse Baltasar."
+  },
+  {
+   "id": "p-f0a8411af910-1",
+   "type": "para",
+   "text": "— Eu sei."
+  },
+  {
+   "id": "p-e9c35b6d1b78-1",
+   "type": "para",
+   "text": "Ela girou a Constância diretamente para as águas rasas."
+  },
+  {
+   "id": "p-07b54e8d6834-1",
+   "type": "para",
+   "text": "— Vai destruir o casco — falou Silas."
+  },
+  {
+   "id": "p-e5ee196249a3-1",
+   "type": "para",
+   "text": "— Meu pai me ensinou a diferença entre pedras que afundam navios e pedras que assustam homens com navios maiores."
+  },
+  {
+   "id": "p-da541c515193-1",
+   "type": "para",
+   "text": "A lancha os seguiu por cem metros. Depois reduziu. Clara guiou a Constância entre duas linhas de espuma tão estreitas que Davi podia ver corais sob a água. Uma onda os levantou; a quilha raspou, mas passou."
+  },
+  {
+   "id": "p-8bd1d9da2eb2-1",
+   "type": "para",
+   "text": "A embarcação da Companhia tentou acompanhar. O casco bateu no primeiro banco e girou de lado."
+  },
+  {
+   "id": "p-6090b0a5c9cc-1",
+   "type": "para",
+   "text": "Davi abriu a vela. O vento os puxou para longe."
+  },
+  {
+   "id": "p-b74a329e482f-1",
+   "type": "para",
+   "text": "Miguel baixou a pistola."
+  },
+  {
+   "id": "p-3264e924513d-1",
+   "type": "para",
+   "text": "— Você vem conosco até a próxima ilha — disse a Silas. — Depois pode voltar e dizer a Tomás que ainda temos os registros."
+  },
+  {
+   "id": "p-a761dd300e3d-1",
+   "type": "para",
+   "text": "Silas continuou olhando o nome da irmã."
+  },
+  {
+   "id": "p-8a5b8c599c35-1",
+   "type": "para",
+   "text": "— Tomás não ordenou isso."
+  },
+  {
+   "id": "p-aa6b5124a2c8-1",
+   "type": "para",
+   "text": "— Quem ordenou?"
+  },
+  {
+   "id": "p-c11904680c01-1",
+   "type": "para",
+   "text": "— Existem homens acima dele."
+  },
+  {
+   "id": "p-785f635578df-1",
+   "type": "para",
+   "text": "— Só conheço um Varela acima de Tomás."
+  },
+  {
+   "id": "p-dd53bd793a23-1",
+   "type": "para",
+   "text": "Silas não respondeu."
+  },
+  {
+   "id": "p-138c06624d35-1",
+   "type": "para",
+   "text": "Guardou a folha dentro do casaco como se fosse frágil."
+  },
+  {
+   "id": "p-83cc59b69ab1-1",
+   "type": "para",
+   "text": "— Se isso for mentira — disse a Davi —, eu encontro você."
+  },
+  {
+   "id": "p-a7680c41ba9b-1",
+   "type": "para",
+   "text": "O menino limpou o sangue da boca."
+  },
+  {
+   "id": "p-02f5ffb975e3-1",
+   "type": "para",
+   "text": "— Se for verdade, espero que encontre quem mandou escondê-la."
+  }
+ ],
+ "provenance": "Edição Final do autor (.docx)",
+ "blocks_sha256": "9ee761cffd287c375fbaf070faba766728372d5ab94b894250465f9835f0a748"
 }

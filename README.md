@@ -1,8 +1,10 @@
 # Cartas do Norte — O Arquivo Vivo
 
-**Edição Imersiva v0.4 · Reconstrução imersiva · 16 de outubro de 2026**
+**Edição Imersiva v0.5 · Edição Final do autor · 16 de outubro de 2026**
 
-Novidades da v0.4 em `CHANGELOG.md`; sistema visual em `docs/design-system.md`; estado de QA em `docs/QA_V4.md`.
+Texto: Edição Final (72 capítulos), reconstruída com `python3 tools/build_final_edition.py sources/Cartas_do_Norte_Edicao_Final.docx`. Atenção: a pasta `sources/` vai junto se o site for publicado inteiro; remova-a da hospedagem se não quiser o .docx público.
+
+Novidades em `CHANGELOG.md`; sistema visual em `docs/design-system.md`; estado de QA em `docs/QA_V4.md`.
 
 Uma aplicação literária responsiva com a obra integral, Atlas, Acervo, Galeria, Observatório, som opcional, filme audiovisual, experiências visuais amplas e leitor confiável. Esta versão utiliza a **Edição de Colecionador v4 aprovada** como fonte de verdade editorial.
 

@@ -1,328 +1,406 @@
 {
-  "id": "ch37",
-  "type": "chapter",
-  "title": "Fogo sobre a água",
-  "subtitle": null,
-  "part": "PARTE III — A TEMPESTADE",
-  "blocks": [
-    {
-      "id": "p-b334f35664de-1",
-      "type": "h2",
-      "text": "Fogo sobre a água"
-    },
-    {
-      "id": "p-da70473c019e-1",
-      "type": "para",
-      "text": "O incêndio começou depois da meia-noite."
-    },
-    {
-      "id": "p-0bcca85e773a-1",
-      "type": "para",
-      "text": "A Constância navegava para Porto da Vigília com a lista de cinquenta e oito nomes, o registro de rádio, o prontuário de Miguel e as cartas restantes. Faltavam doze dias para a Maré do Norte. O vento vinha de popa e Baltasar calculava dois dias até a Ponta do Corvo."
-    },
-    {
-      "id": "p-3d3b786e6d85-1",
-      "type": "para",
-      "text": "Davi dormia na cabine. Clara fazia o primeiro turno. Miguel estava acordado na proa, revendo a memória, quando sentiu cheiro de querosene."
-    },
-    {
-      "id": "p-fd5c75e76f5d-1",
-      "type": "para",
-      "text": "Não era cedro."
-    },
-    {
-      "id": "p-76a94fe08988-1",
-      "type": "para",
-      "text": "— Balu!"
-    },
-    {
-      "id": "p-a1ac4e23ae30-1",
-      "type": "para",
-      "text": "Uma chama saiu pela escotilha do motor. Outra apareceu junto às caixas de vela. O fogo começara em dois lugares."
-    },
-    {
-      "id": "p-c6a031661191-1",
-      "type": "para",
-      "text": "Baltasar subiu sem camisa, carregando um cobertor. Clara girou a Constância para tirar vento das chamas."
-    },
-    {
-      "id": "p-4c75fef0463a-1",
-      "type": "para",
-      "text": "— Davi! — gritou Miguel."
-    },
-    {
-      "id": "p-125391690717-1",
-      "type": "para",
-      "text": "Nenhuma resposta."
-    },
-    {
-      "id": "p-e0a34248a657-1",
-      "type": "para",
-      "text": "A porta da cabine estava presa por fora com um arame."
-    },
-    {
-      "id": "p-7ba51bd9a04e-1",
-      "type": "para",
-      "text": "Miguel tentou arrancá-lo. O metal queimou seus dedos. Clara trouxe uma ferramenta e cortou, mas a porta abriu apenas alguns centímetros; uma caixa caída bloqueava por dentro."
-    },
-    {
-      "id": "p-9ad4ee8fa15b-1",
-      "type": "para",
-      "text": "— Davi!"
-    },
-    {
-      "id": "p-84d2f4ea8f6e-1",
-      "type": "para",
-      "text": "O menino tossiu atrás da madeira."
-    },
-    {
-      "id": "p-3201b09485f2-1",
-      "type": "para",
-      "text": "— Estou aqui."
-    },
-    {
-      "id": "p-893025e6f2f6-1",
-      "type": "para",
-      "text": "Uma lancha sem luz surgiu a bombordo. Silas estava no leme."
-    },
-    {
-      "id": "p-00caf3190907-1",
-      "type": "para",
-      "text": "— Saltem! — gritou. — Há explosivo no tanque!"
-    },
-    {
-      "id": "p-f92268d6b5af-1",
-      "type": "para",
-      "text": "Miguel pegou um balde."
-    },
-    {
-      "id": "p-b6e335fd7feb-1",
-      "type": "para",
-      "text": "— Quem colocou?"
-    },
-    {
-      "id": "p-0915ad7f2dff-1",
-      "type": "para",
-      "text": "— Um homem de Severo embarcou nas Salinas. Eu o segui tarde demais."
-    },
-    {
-      "id": "p-1d4fe72da2e9-1",
-      "type": "para",
-      "text": "Clara entrou na água e nadou até a lancha para assumir o leme enquanto Silas saltava para o convés. Juntos, ele e Miguel forçaram a porta."
-    },
-    {
-      "id": "p-aee8e5951a1b-1",
-      "type": "para",
-      "text": "Não cedeu."
-    },
-    {
-      "id": "p-2e8e7433b9dd-1",
-      "type": "para",
-      "text": "Baltasar apareceu com um machado."
-    },
-    {
-      "id": "p-7799b92b5d7f-1",
-      "type": "para",
-      "text": "— Afastem."
-    },
-    {
-      "id": "p-118aeb3febee-1",
-      "type": "para",
-      "text": "Golpeou a madeira. Uma vez. Duas. O fogo alcançou sua calça. Silas tentou apagá-lo, mas Balu o empurrou."
-    },
-    {
-      "id": "p-2c3401f860b2-1",
-      "type": "para",
-      "text": "— Tire as cartas!"
-    },
-    {
-      "id": "p-2ee47f99d241-1",
-      "type": "para",
-      "text": "Miguel abriu a caixa sob o piso. A fumaça o cegava. Colocou documentos num saco encerado e lançou para Clara. Silas carregou o rádio e os coletes."
-    },
-    {
-      "id": "p-ffa1643521df-1",
-      "type": "para",
-      "text": "O machado abriu um buraco na porta."
-    },
-    {
-      "id": "p-d7c547c458f9-1",
-      "type": "para",
-      "text": "Davi enfiou a mão boa. Baltasar agarrou-a."
-    },
-    {
-      "id": "p-7524f99241d5-1",
-      "type": "para",
-      "text": "— A caixa está sobre minha perna! — gritou o menino."
-    },
-    {
-      "id": "p-8ca2a49f676a-1",
-      "type": "para",
-      "text": "O velho ampliou a abertura, entrou na cabine em chamas e desapareceu."
-    },
-    {
-      "id": "p-d7b1cb62c08d-1",
-      "type": "para",
-      "text": "— Balu! — Miguel tentou segui-lo."
-    },
-    {
-      "id": "p-86278428619f-1",
-      "type": "para",
-      "text": "Uma explosão menor arrancou a escotilha. Silas o segurou."
-    },
-    {
-      "id": "p-488bb39ec538-1",
-      "type": "para",
-      "text": "— O tanque principal será o próximo."
-    },
-    {
-      "id": "p-83ac6a6ee92a-1",
-      "type": "para",
-      "text": "— Ele está lá."
-    },
-    {
-      "id": "p-0d36195d8e2e-1",
-      "type": "para",
-      "text": "— Se entrar, serão três."
-    },
-    {
-      "id": "p-e7168240ccd1-1",
-      "type": "para",
-      "text": "A porta se abriu com violência."
-    },
-    {
-      "id": "p-ecc6fff89fc1-1",
-      "type": "para",
-      "text": "Baltasar surgiu carregando Davi sobre o ombro. O cabelo e a barba estavam chamuscados; a pele de suas costas, vermelha e aberta. Ele lançou o menino nos braços de Miguel."
-    },
-    {
-      "id": "p-c22edc6d79bf-1",
-      "type": "para",
-      "text": "— Para a lancha!"
-    },
-    {
-      "id": "p-32435ed2560c-1",
-      "type": "para",
-      "text": "Clara aproximou o casco. Silas saltou primeiro com o saco. Miguel passou Davi. Baltasar tentou atravessar, mas a Constância inclinou-se e os barcos se separaram."
-    },
-    {
-      "id": "p-65649cff43f3-1",
-      "type": "para",
-      "text": "— Pule! — gritou Miguel."
-    },
-    {
-      "id": "p-1c51c7de4bd8-1",
-      "type": "para",
-      "text": "Balu olhou para o mastro em chamas. Cortou uma corda, soltando a vela principal para impedir que o fogo alcançasse o tanque mais depressa. Depois correu e saltou."
-    },
-    {
-      "id": "p-49e0d9a59bab-1",
-      "type": "para",
-      "text": "Miguel o puxou da água."
-    },
-    {
-      "id": "p-e5c0f1a77b34-1",
-      "type": "para",
-      "text": "Segundos depois, a Constância explodiu."
-    },
-    {
-      "id": "p-3d8f51af7247-1",
-      "type": "para",
-      "text": "O céu ficou branco. Fragmentos caíram ao redor. A onda atingiu a lancha e quase a virou."
-    },
-    {
-      "id": "p-2ec9628805d4-1",
-      "type": "para",
-      "text": "Davi gritava o nome do barco como se fosse pessoa."
-    },
-    {
-      "id": "p-ff70a2f2c011-1",
-      "type": "para",
-      "text": "A proa da Constância permaneceu visível por algum tempo. As letras pintadas por Lídia queimaram por último."
-    },
-    {
-      "id": "p-f590950c52c1-1",
-      "type": "para",
-      "text": "Então o mar fechou sobre ela."
-    },
-    {
-      "id": "p-4b96c94ddef5-1",
-      "type": "para",
-      "text": "Baltasar estava consciente, mas respirava em pequenos gemidos. Clara examinou as queimaduras e evitou olhar para Miguel."
-    },
-    {
-      "id": "p-3535678a011c-1",
-      "type": "para",
-      "text": "— Precisamos de um médico agora."
-    },
-    {
-      "id": "p-453cd08cb860-1",
-      "type": "para",
-      "text": "— Enseada dos Cedros — disse Silas. — Quatro horas com o motor no máximo."
-    },
-    {
-      "id": "p-674ccc28532f-1",
-      "type": "para",
-      "text": "— Ele não tem quatro horas."
-    },
-    {
-      "id": "p-e4410655afa4-1",
-      "type": "para",
-      "text": "Baltasar abriu os olhos."
-    },
-    {
-      "id": "p-995236232e89-1",
-      "type": "para",
-      "text": "— Sempre detestei diagnósticos apressados."
-    },
-    {
-      "id": "p-bb3e497fd549-1",
-      "type": "para",
-      "text": "Davi se ajoelhou ao lado dele."
-    },
-    {
-      "id": "p-c8ed69dc5193-1",
-      "type": "para",
-      "text": "— Você vai ficar bem."
-    },
-    {
-      "id": "p-eb3605549cf9-1",
-      "type": "para",
-      "text": "— Essa é uma mentira muito ruim, rapaz."
-    },
-    {
-      "id": "p-341f5d9b55c2-1",
-      "type": "para",
-      "text": "— Então cale a boca e economize força."
-    },
-    {
-      "id": "p-cdb355d48a4d-1",
-      "type": "para",
-      "text": "Balu sorriu. Seus dentes estavam manchados de fuligem."
-    },
-    {
-      "id": "p-edd10f2921ae-1",
-      "type": "para",
-      "text": "Silas acelerou."
-    },
-    {
-      "id": "p-db82ce9089b5-1",
-      "type": "para",
-      "text": "Atrás deles, restos em chamas marcavam uma linha sobre o mar escuro."
-    },
-    {
-      "id": "p-cd3695bfc164-1",
-      "type": "para",
-      "text": "A luz parecia apontar para casa."
-    }
-  ],
-  "provenance": {
-    "source": "production-v4:manifests/chapters.json",
-    "original_chapter_ids": [
-      52
-    ],
-    "source_pdf_page": 388,
-    "verification": "structured-source"
+ "id": "ch37",
+ "type": "chapter",
+ "title": "A culpa tem voz",
+ "subtitle": "",
+ "part": "PARTE III — A TEMPESTADE",
+ "blocks": [
+  {
+   "id": "p-9dd7ada5e204-1",
+   "type": "h2",
+   "text": "A culpa tem voz"
   },
-  "blocks_sha256": "868f048b84d62ab4e9397834d0c85611df7d93f635ef08c6cc646b93151cbcfc"
+  {
+   "id": "p-eb4f3cd6827c-1",
+   "type": "para",
+   "text": "A culpa de Miguel falava com a voz de Gabriel."
+  },
+  {
+   "id": "p-af9b8e953242-1",
+   "type": "para",
+   "text": "Não dizia palavras novas. Repetia frases da infância, retiradas de dias que não pertenciam à tragédia."
+  },
+  {
+   "id": "p-f938475324f0-1",
+   "type": "para",
+   "text": "*Você sempre chega depois.*"
+  },
+  {
+   "id": "p-25eb7f58fb55-1",
+   "type": "para",
+   "text": "*Não toque nisso.*"
+  },
+  {
+   "id": "p-b3313fb27c61-1",
+   "type": "para",
+   "text": "*Eu conserto.*"
+  },
+  {
+   "id": "p-e93f5b6f8fc8-1",
+   "type": "para",
+   "text": "Miguel ouviu a voz durante as dezesseis horas até a Estação Norte. Ela vinha no rangido das tábuas, no estalo da vela e no motor trabalhando contra a corrente. Quando dormiu, viu Gabriel diante da luz amarela, a mão estendida, mas acordou antes de saber se o irmão pedia ajuda ou o acusava."
+  },
+  {
+   "id": "p-10402253ce3c-1",
+   "type": "para",
+   "text": "Clara falava apenas o necessário para navegar. Davi tentou duas vezes começar uma conversa e desistiu. Baltasar se ocupou do rádio destruído, alinhando peças que não poderiam ser reaproveitadas."
+  },
+  {
+   "id": "p-1b5747df505c-1",
+   "type": "para",
+   "text": "No segundo amanhecer, chegaram à Corrente Funda."
+  },
+  {
+   "id": "p-f8c7d817a65f-1",
+   "type": "para",
+   "text": "O mar mudava ali. A superfície parecia calma, mas longas faixas escuras moviam-se em direções diferentes. Jonas marcara uma passagem estreita ao norte. A coordenada de Tomás apontava diretamente para o centro."
+  },
+  {
+   "id": "p-d0834697940e-1",
+   "type": "para",
+   "text": "— Não podemos entrar — disse Clara. — A corrente nos leva contra os Rochedos da Coroa."
+  },
+  {
+   "id": "p-aec890da2b77-1",
+   "type": "para",
+   "text": "— A estação fica do outro lado."
+  },
+  {
+   "id": "p-06a4e047efde-1",
+   "type": "para",
+   "text": "— Contornamos por oeste."
+  },
+  {
+   "id": "p-217c15059996-1",
+   "type": "para",
+   "text": "— Perdemos um dia."
+  },
+  {
+   "id": "p-c98f662562db-1",
+   "type": "para",
+   "text": "— Continuamos vivos para lamentar a perda."
+  },
+  {
+   "id": "p-ba6e7dcc8475-1",
+   "type": "para",
+   "text": "Miguel segurou o leme."
+  },
+  {
+   "id": "p-61fcf82fd541-1",
+   "type": "para",
+   "text": "— A Constância aguenta."
+  },
+  {
+   "id": "p-d7d7e588dbca-1",
+   "type": "para",
+   "text": "— O barco talvez. Nós não."
+  },
+  {
+   "id": "p-1904e603c244-1",
+   "type": "para",
+   "text": "— Tomás roubou o diário. Se esperarmos, ele limpa a estação."
+  },
+  {
+   "id": "p-d439f9ca911d-1",
+   "type": "para",
+   "text": "— E se entrarmos, talvez limpe nossos corpos do recife."
+  },
+  {
+   "id": "p-0c9e7df1a371-1",
+   "type": "para",
+   "text": "Miguel aumentou o motor."
+  },
+  {
+   "id": "p-1c828bd48bab-1",
+   "type": "para",
+   "text": "Clara colocou a mão sobre a alavanca."
+  },
+  {
+   "id": "p-dccd78a819b5-1",
+   "type": "para",
+   "text": "— Não faça isso."
+  },
+  {
+   "id": "p-47cde65aeb74-1",
+   "type": "para",
+   "text": "— Sou o capitão."
+  },
+  {
+   "id": "p-f595722bd064-1",
+   "type": "para",
+   "text": "Baltasar ergueu o rosto."
+  },
+  {
+   "id": "p-c366d70bbcbd-1",
+   "type": "para",
+   "text": "— Não é."
+  },
+  {
+   "id": "p-420a27538e02-1",
+   "type": "para",
+   "text": "O silêncio seguinte foi pior do que um grito."
+  },
+  {
+   "id": "p-912f21c80f2b-1",
+   "type": "para",
+   "text": "— O barco é meu."
+  },
+  {
+   "id": "p-0f6acaba1502-1",
+   "type": "para",
+   "text": "— Propriedade não é comando — disse Clara. — Um capitão responde pelas vidas a bordo. Neste momento você está tentando punir a sua e usando as nossas para ajudar."
+  },
+  {
+   "id": "p-75935d70a95e-1",
+   "type": "para",
+   "text": "Miguel afastou a mão dela."
+  },
+  {
+   "id": "p-885746ca35bd-1",
+   "type": "para",
+   "text": "— Desça."
+  },
+  {
+   "id": "p-401ac250c1a5-1",
+   "type": "para",
+   "text": "— Não."
+  },
+  {
+   "id": "p-cee06b943041-1",
+   "type": "para",
+   "text": "Ele lançou a Constância para a corrente."
+  },
+  {
+   "id": "p-7a06d0c97105-1",
+   "type": "para",
+   "text": "O mar agarrou o casco. A proa virou vinte graus sem que o leme respondesse. Baltasar correu para reduzir a vela, mas uma rajada a encheu de lado. A retranca atravessou o convés. Davi se abaixou tarde e foi atingido no ombro, caindo contra a amurada."
+  },
+  {
+   "id": "p-a55f94cf0aae-1",
+   "type": "para",
+   "text": "Clara tomou o leme junto com Miguel."
+  },
+  {
+   "id": "p-e88e925010a7-1",
+   "type": "para",
+   "text": "— Solte!"
+  },
+  {
+   "id": "p-c36a4404c853-1",
+   "type": "para",
+   "text": "— Eu consigo."
+  },
+  {
+   "id": "p-9ce117404c64-1",
+   "type": "para",
+   "text": "— Não é uma disputa!"
+  },
+  {
+   "id": "p-0b0c2ae2a072-1",
+   "type": "para",
+   "text": "Uma onda surgiu de direção impossível e cobriu o convés. O motor perdeu força. A Coroa apareceu através da espuma: dentes negros a menos de duzentos metros."
+  },
+  {
+   "id": "p-c37c4406c032-1",
+   "type": "para",
+   "text": "Baltasar cortou a vela de proa. O tecido voou para o mar."
+  },
+  {
+   "id": "p-fe67fe0ad03b-1",
+   "type": "para",
+   "text": "— Âncora de deriva! — gritou."
+  },
+  {
+   "id": "p-5c78c3f76c32-1",
+   "type": "para",
+   "text": "Davi tentou se levantar. O braço direito pendia inútil."
+  },
+  {
+   "id": "p-0b80320d50e3-1",
+   "type": "para",
+   "text": "Miguel viu o menino e, por um segundo, a voz de Gabriel silenciou."
+  },
+  {
+   "id": "p-ef4cef2ef2a4-1",
+   "type": "para",
+   "text": "Entregou o leme a Clara. Prendeu uma corda à cintura, atravessou o convés e lançou a âncora de lona. A linha esticou com violência e o derrubou. Baltasar ajudou a prender no cunho."
+  },
+  {
+   "id": "p-40500a09c5a9-1",
+   "type": "para",
+   "text": "A Constância girou. A proa finalmente se alinhou à corrente. Clara usou o pouco motor restante para deslizar pela borda da faixa escura. As rochas passaram a cinquenta metros."
+  },
+  {
+   "id": "p-076870195626-1",
+   "type": "para",
+   "text": "Quando alcançaram água calma, ninguém comemorou."
+  },
+  {
+   "id": "p-7b08caf69959-1",
+   "type": "para",
+   "text": "Clara imobilizou o ombro de Davi. Não estava quebrado, apenas deslocado. O menino mordeu um pedaço de couro enquanto ela o recolocava. O estalo fez Miguel sentir náusea."
+  },
+  {
+   "id": "p-6427ba8c6f21-1",
+   "type": "para",
+   "text": "— Foi uma decisão ruim — disse Davi, suando."
+  },
+  {
+   "id": "p-447fdff28dbc-1",
+   "type": "para",
+   "text": "Miguel ajoelhou-se ao lado."
+  },
+  {
+   "id": "p-3962a00a2932-1",
+   "type": "para",
+   "text": "— Sinto muito."
+  },
+  {
+   "id": "p-c05e744b7156-1",
+   "type": "para",
+   "text": "— Não diga como se isso terminasse a conversa."
+  },
+  {
+   "id": "p-f39f214dbe80-1",
+   "type": "para",
+   "text": "— Não termina."
+  },
+  {
+   "id": "p-a46c37acdabc-1",
+   "type": "para",
+   "text": "Baltasar recolheu o que restava da vela. Clara limpou sangue de um corte no próprio rosto."
+  },
+  {
+   "id": "p-fde28e00613b-1",
+   "type": "para",
+   "text": "— Não toca no leme outra vez sem minha autorização — disse."
+  },
+  {
+   "id": "p-08c9826c09f6-1",
+   "type": "para",
+   "text": "Miguel quase respondeu que o barco era seu. A frase lhe pareceu pequena demais para a vergonha."
+  },
+  {
+   "id": "p-4d89d0246b02-1",
+   "type": "para",
+   "text": "— Certo."
+  },
+  {
+   "id": "p-dee9be47eddd-1",
+   "type": "para",
+   "text": "— E vai contar a Davi o que encontrou no mapa."
+  },
+  {
+   "id": "p-c4fbc4b5613f-1",
+   "type": "para",
+   "text": "O menino olhou de um para o outro."
+  },
+  {
+   "id": "p-c2160b6e0866-1",
+   "type": "para",
+   "text": "Miguel retirou a folha de Gabriel do diário e entregou."
+  },
+  {
+   "id": "p-18f9fa04dca7-1",
+   "type": "para",
+   "text": "Davi leu. Seu rosto não mudou até chegar às iniciais."
+  },
+  {
+   "id": "p-2b6e1699cb9d-1",
+   "type": "para",
+   "text": "— Você acendeu?"
+  },
+  {
+   "id": "p-24c521436675-1",
+   "type": "para",
+   "text": "— Acho que sim."
+  },
+  {
+   "id": "p-f719ff9e154f-1",
+   "type": "para",
+   "text": "— Sabia que o navio seguiria?"
+  },
+  {
+   "id": "p-401ac250c1a5-2",
+   "type": "para",
+   "text": "— Não."
+  },
+  {
+   "id": "p-91334eb73be2-1",
+   "type": "para",
+   "text": "— Gabriel pediu?"
+  },
+  {
+   "id": "p-17a53b7e54f2-1",
+   "type": "para",
+   "text": "— Talvez. Eu não lembro."
+  },
+  {
+   "id": "p-77ec36bf5ca3-1",
+   "type": "para",
+   "text": "Davi devolveu a folha."
+  },
+  {
+   "id": "p-eff6ebad1838-1",
+   "type": "para",
+   "text": "— Então descubra. Mas pare de tentar morrer antes. Isso não ajuda ninguém."
+  },
+  {
+   "id": "p-f117d0e85f7e-1",
+   "type": "para",
+   "text": "Ele entrou na cabine com Clara."
+  },
+  {
+   "id": "p-3ac0ac2826b0-1",
+   "type": "para",
+   "text": "Baltasar se sentou sobre uma caixa."
+  },
+  {
+   "id": "p-042e215c35b3-1",
+   "type": "para",
+   "text": "— A culpa tem fome — disse. — Se não consegue comer o passado, começa a comer o que ainda está vivo."
+  },
+  {
+   "id": "p-607b3af80262-1",
+   "type": "para",
+   "text": "Miguel olhou a água escura da corrente."
+  },
+  {
+   "id": "p-f06e9637a51f-1",
+   "type": "para",
+   "text": "— Você parece conhecer."
+  },
+  {
+   "id": "p-bf688f7485b5-1",
+   "type": "para",
+   "text": "— Conheço."
+  },
+  {
+   "id": "p-016a05cac621-1",
+   "type": "para",
+   "text": "— Então fale."
+  },
+  {
+   "id": "p-16da29264752-1",
+   "type": "para",
+   "text": "Baltasar passou as mãos pelo rosto."
+  },
+  {
+   "id": "p-df10e4aaf093-1",
+   "type": "para",
+   "text": "— Na Estação Norte."
+  },
+  {
+   "id": "p-60223257971d-1",
+   "type": "para",
+   "text": "— Por quê lá?"
+  },
+  {
+   "id": "p-d961691448db-1",
+   "type": "para",
+   "text": "— Porque é onde Jonas deixou minha carta."
+  }
+ ],
+ "provenance": "Edição Final do autor (.docx)",
+ "blocks_sha256": "9cfdce6d73ba6d6dc2e1ffd92145c10de7811c5288ec4f7d17e2115033414926"
 }

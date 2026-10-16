@@ -1,58 +1,51 @@
 {
-  "id": "letter6",
-  "type": "letter",
-  "title": "Carta VI",
-  "subtitle": null,
-  "part": "PARTE II — AS ÁGUAS PROFUNDAS",
-  "blocks": [
-    {
-      "id": "p-6e896fd8e569-1",
-      "type": "para",
-      "text": "Para Leonor Salles"
-    },
-    {
-      "id": "p-07f528d59c07-1",
-      "type": "para",
-      "text": "Doutora,"
-    },
-    {
-      "id": "p-019a07e4264d-1",
-      "type": "para",
-      "text": "A senhora guardou o silêncio porque eu disse que Miguel morreria se lembrasse. Naquele momento, talvez estivesse certa. Um corpo ferido escolhe às vezes fechar uma porta até que a pessoa consiga permanecer de pé diante dela."
-    },
-    {
-      "id": "p-1345f1e072e9-1",
-      "type": "para",
-      "text": "Dezessete anos se passaram. A porta deixou de protegê-lo e se tornou uma parede ao redor de sua vida."
-    },
-    {
-      "id": "p-7a0edef13ef8-1",
-      "type": "para",
-      "text": "Peço que conte tudo o que observou: o corte na mão, o óleo nas roupas, a pedra da Ponta do Corvo dentro do ferimento, as palavras que ele repetia durante a febre. Não sugira memórias. Não preencha o que falta. Dê-lhe apenas os fatos que pertencem à senhora."
-    },
-    {
-      "id": "p-a7278a4d28a3-1",
-      "type": "para",
-      "text": "Eu quis que Miguel conservasse a inocência. Em vez disso, dei-lhe uma culpa sem forma, grande demais para ser confessada e vaga demais para ser enfrentada. O amor que recusa a verdade não mantém alguém inteiro. Mantém apenas a aparência que desejamos salvar."
-    },
-    {
-      "id": "p-1abb5c8e4b9a-1",
-      "type": "para",
-      "text": "Se ele me odiar depois, não o convença do contrário. Há uma ira que faz parte do caminho até o perdão. Cristo não nos chamou a apressar a ressurreição e pular a cruz."
-    },
-    {
-      "id": "p-8588e74c3dbb-1",
-      "type": "para",
-      "text": "Jonas Vale"
-    }
-  ],
-  "provenance": {
-    "source": "collector-v4-reading-pdf",
-    "source_pdf_pages": [
-      256,
-      257
-    ],
-    "verification": "pdf-extracted-needs-human-paragraph-proof"
+ "id": "letter6",
+ "type": "letter",
+ "title": "Carta VI",
+ "subtitle": "Para Leonor Salles",
+ "part": "PARTE II — AS ÁGUAS PROFUNDAS",
+ "blocks": [
+  {
+   "id": "p-850b8e461df0-1",
+   "type": "rule",
+   "text": "✧"
   },
-  "blocks_sha256": "9c05b71e9b54ca583af85dbd6ae375cd4fe3e87fa2fce92fe0c0f75b127cf2e5"
+  {
+   "id": "p-bde0fb769771-1",
+   "type": "para",
+   "text": "*Doutora,*"
+  },
+  {
+   "id": "p-e78bc12aa1f6-1",
+   "type": "para",
+   "text": "*A senhora guardou o silêncio porque eu disse que Miguel morreria se lembrasse. Naquele momento, talvez estivesse certa. Um corpo ferido escolhe às vezes fechar uma porta até que a pessoa consiga permanecer de pé diante dela.*"
+  },
+  {
+   "id": "p-8158387afa1a-1",
+   "type": "para",
+   "text": "*Dezessete anos se passaram. A porta deixou de protegê-lo e se tornou uma parede ao redor de sua vida.*"
+  },
+  {
+   "id": "p-93b76368448d-1",
+   "type": "para",
+   "text": "*Peço que conte tudo o que observou: o corte na mão, o óleo nas roupas, a pedra da Ponta do Corvo dentro do ferimento, as palavras que ele repetia durante a febre. Não sugira memórias. Não preencha o que falta. Dê-lhe apenas os fatos que pertencem à senhora.*"
+  },
+  {
+   "id": "p-20c3bbd7641a-1",
+   "type": "para",
+   "text": "*Eu quis que Miguel conservasse a inocência. Em vez disso, dei-lhe uma culpa sem forma, grande demais para ser confessada e vaga demais para ser enfrentada. O amor que recusa a verdade não mantém alguém inteiro. Mantém apenas a aparência que desejamos salvar.*"
+  },
+  {
+   "id": "p-d570e3d5b24b-1",
+   "type": "para",
+   "text": "*Se ele me odiar depois, não o convença do contrário. Há uma ira que faz parte do caminho até o perdão. Cristo não nos chamou a apressar a ressurreição e pular a cruz.*"
+  },
+  {
+   "id": "p-021ba983aa11-1",
+   "type": "para",
+   "text": "*Jonas Vale*"
+  }
+ ],
+ "provenance": "Edição Final do autor (.docx)",
+ "blocks_sha256": "92ecdf4b904e6e88ba98a1da0ad719bd6e18350b980afe654ee88aa2462d3424"
 }

@@ -1,488 +1,411 @@
 {
-  "id": "ch27",
-  "type": "chapter",
-  "title": "A promessa de Baltasar",
-  "subtitle": null,
-  "part": "PARTE III — A TEMPESTADE",
-  "blocks": [
-    {
-      "id": "p-e7d6c5dfe692-1",
-      "type": "h2",
-      "text": "A promessa de Baltasar"
-    },
-    {
-      "id": "p-68707ac491ea-1",
-      "type": "para",
-      "text": "A Estação Norte fora construída no ponto mais alto de uma ilha sem povoado, uma torre de concreto cercada por antenas enferrujadas. O vento assobiava por janelas quebradas. Ninguém a ocupava havia seis anos."
-    },
-    {
-      "id": "p-5c368c198aed-1",
-      "type": "para",
-      "text": "A porta estava destrancada."
-    },
-    {
-      "id": "p-78fd638bb496-1",
-      "type": "para",
-      "text": "Na sala principal, mapas meteorológicos ainda cobriam as paredes. O diário de Elias repousava sobre uma mesa, intacto. Ao lado havia uma garrafa de conhaque, um copo e o envelope destinado a Baltasar."
-    },
-    {
-      "id": "p-676ac9692c17-1",
-      "type": "para",
-      "text": "— Tomás esteve aqui — disse Clara."
-    },
-    {
-      "id": "p-e82d66ccb602-1",
-      "type": "para",
-      "text": "O fundo do copo permanecia úmido."
-    },
-    {
-      "id": "p-c119bbff182c-1",
-      "type": "para",
-      "text": "Baltasar pegou a garrafa. Girou-a diante da luz."
-    },
-    {
-      "id": "p-2375f2a32211-1",
-      "type": "para",
-      "text": "— Marca que eu bebia."
-    },
-    {
-      "id": "p-dee23a6090ec-1",
-      "type": "para",
-      "text": "— Ele sabe que parou? — perguntou Davi."
-    },
-    {
-      "id": "p-36b3604fa2df-1",
-      "type": "para",
-      "text": "— Todo o porto sabe."
-    },
-    {
-      "id": "p-159600d58dac-1",
-      "type": "para",
-      "text": "— Então não é presente. É arma."
-    },
-    {
-      "id": "p-35e48b1537bd-1",
-      "type": "para",
-      "text": "O velho abriu a tampa. O cheiro encheu a sala."
-    },
-    {
-      "id": "p-ac7bb11b1e8e-1",
-      "type": "para",
-      "text": "Miguel esperou que ele bebesse. Talvez uma parte cruel desejasse isso; seria mais simples se Baltasar falhasse da maneira que todos conheciam."
-    },
-    {
-      "id": "p-a9b98a598d99-1",
-      "type": "para",
-      "text": "Balu derramou o conhaque pela janela."
-    },
-    {
-      "id": "p-3bccafcbaf80-1",
-      "type": "para",
-      "text": "— Desperdício — disse Davi."
-    },
-    {
-      "id": "p-463649cbb924-1",
-      "type": "para",
-      "text": "— Concordo. Poderíamos limpar motor."
-    },
-    {
-      "id": "p-125b1f255b1c-1",
-      "type": "para",
-      "text": "Baltasar abriu a carta. Leu uma vez em silêncio e outra movendo os lábios. Depois sentou-se."
-    },
-    {
-      "id": "p-062809c33e02-1",
-      "type": "para",
-      "text": "— Na noite do Aurora, deixei o farol — começou. — Jonas e eu brigamos. Eu tinha bebido. Minha filha, Beatriz, estava com febre na vila, e ele não me permitiu sair antes do fim do turno. Chamei-o de tirano. Ele me chamou de bêbado. Os dois estávamos corretos."
-    },
-    {
-      "id": "p-44351753838f-1",
-      "type": "para",
-      "text": "Miguel permaneceu de pé."
-    },
-    {
-      "id": "p-f421d492eb4d-1",
-      "type": "para",
-      "text": "— Quanto tempo?"
-    },
-    {
-      "id": "p-0afa845718e4-1",
-      "type": "para",
-      "text": "— Vinte minutos. Talvez trinta. Desci pela estrada de serviço. Perto da Ponta do Corvo, vi você correndo com uma lata de óleo e a chave do antigo sinal."
-    },
-    {
-      "id": "p-c6aea79bc8e2-1",
-      "type": "para",
-      "text": "Davi prendeu a respiração."
-    },
-    {
-      "id": "p-8dedc255f90c-1",
-      "type": "para",
-      "text": "— Falou comigo? — perguntou Miguel."
-    },
-    {
-      "id": "p-74c425684d1a-1",
-      "type": "para",
-      "text": "— Perguntei aonde ia. Você disse que Gabriel mandara acender a luz de encontro. Vocês usavam desde pequenos. Eu devia ter impedido. Estava com raiva de Jonas e pensei que deixar você desobedecer seria uma vingança pequena."
-    },
-    {
-      "id": "p-5ee16c34dfd7-1",
-      "type": "para",
-      "text": "— Então eu acendi."
-    },
-    {
-      "id": "p-47c7fb5c5024-1",
-      "type": "para",
-      "text": "— Sim."
-    },
-    {
-      "id": "p-e21b1999a011-1",
-      "type": "para",
-      "text": "A palavra não produziu trovão. Apenas ocupou o quarto."
-    },
-    {
-      "id": "p-53a06bcf8a19-1",
-      "type": "para",
-      "text": "Clara fechou os olhos."
-    },
-    {
-      "id": "p-1b6fa1adb390-1",
-      "type": "para",
-      "text": "— Você viu o navio? — perguntou."
-    },
-    {
-      "id": "p-0e9710014abc-1",
-      "type": "para",
-      "text": "— Quando voltei pela estrada. A luz da ponta estava acesa. O Aurora já virava. Gabriel chegou correndo do cais de descarga. Gritou para Miguel apagar. Depois houve uma explosão."
-    },
-    {
-      "id": "p-4d08942109ca-1",
-      "type": "para",
-      "text": "— O que aconteceu comigo?"
-    },
-    {
-      "id": "p-e1697064f265-1",
-      "type": "para",
-      "text": "— A armação se rompeu. Você caiu nas pedras. Gabriel o arrastou para fora e correu para o barco de resgate."
-    },
-    {
-      "id": "p-66194656aa30-1",
-      "type": "para",
-      "text": "— E você?"
-    },
-    {
-      "id": "p-ed879747b262-1",
-      "type": "para",
-      "text": "Baltasar olhou para as mãos."
-    },
-    {
-      "id": "p-a6beb5e5f7ac-1",
-      "type": "para",
-      "text": "— Corri para o farol. Ajudei Jonas com a sirene. Disse que não tinha visto quem acendera. Na manhã seguinte, ele encontrou a lente com seu sangue. Eu contei tudo."
-    },
-    {
-      "id": "p-509911e6229c-1",
-      "type": "para",
-      "text": "— E ele pediu silêncio."
-    },
-    {
-      "id": "p-568a449c859c-1",
-      "type": "para",
-      "text": "— Implorou."
-    },
-    {
-      "id": "p-7fcd267f5ecf-1",
-      "type": "para",
-      "text": "Miguel caminhou até a janela. O vento entrava frio."
-    },
-    {
-      "id": "p-169a022223d3-1",
-      "type": "para",
-      "text": "— Cinquenta e quatro mortos."
-    },
-    {
-      "id": "p-15c3c96432bf-1",
-      "type": "para",
-      "text": "— A luz não estava ligada ao mecanismo antigo quando você a acendeu — disse Baltasar. — Alguém restaurara a armação, abastecera e alinhara com boias clandestinas. Você não criou a rota."
-    },
-    {
-      "id": "p-081f5ead91fe-1",
-      "type": "para",
-      "text": "— Apenas acendi."
-    },
-    {
-      "id": "p-9c09528f8fbe-1",
-      "type": "para",
-      "text": "— Sem saber."
-    },
-    {
-      "id": "p-384ace8bd689-1",
-      "type": "para",
-      "text": "— Isso muda os mortos?"
-    },
-    {
-      "id": "p-401ac250c1a5-1",
-      "type": "para",
-      "text": "— Não."
-    },
-    {
-      "id": "p-8e4899b664b8-1",
-      "type": "para",
-      "text": "Clara se aproximou de Baltasar."
-    },
-    {
-      "id": "p-2acee233ed88-1",
-      "type": "para",
-      "text": "— Meu pai morreu porque vocês decidiram esconder um menino."
-    },
-    {
-      "id": "p-52a0dae2ac9f-1",
-      "type": "para",
-      "text": "— Seu pai morreu porque um navio defeituoso foi mandado ao mar, porque havia carga ilegal, porque a Companhia criou um canal falso, porque Miguel acendeu uma lâmpada, porque eu abandonei meu posto e porque uma tempestade chegou. Tragédias são redes, Clara. Isso não diminui nenhum nó."
-    },
-    {
-      "id": "p-cf5c6d9226a3-1",
-      "type": "para",
-      "text": "Ela o esbofeteou."
-    },
-    {
-      "id": "p-c7686c61f1fb-1",
-      "type": "para",
-      "text": "Baltasar aceitou sem levantar a mão."
-    },
-    {
-      "id": "p-258a78bf141c-1",
-      "type": "para",
-      "text": "— Você assistiu minha mãe culpar Jonas — disse. — Assistiu a mim crescer odiando um homem por um crime diferente. Vinha à nossa mesa. Consertava nossa porta. Chamava meu pai de amigo."
-    },
-    {
-      "id": "p-8f1ff5f74fb7-1",
-      "type": "para",
-      "text": "— Eu fui covarde."
-    },
-    {
-      "id": "p-5c1889b46919-1",
-      "type": "para",
-      "text": "— Foi leal a quem?"
-    },
-    {
-      "id": "p-36d9ecc54ae6-1",
-      "type": "para",
-      "text": "— A Jonas. A Miguel. A mim mesmo. Não a vocês."
-    },
-    {
-      "id": "p-c2364ff9b963-1",
-      "type": "para",
-      "text": "Clara começou a chorar com uma raiva silenciosa. Miguel tentou se aproximar. Ela recuou."
-    },
-    {
-      "id": "p-36b8cea5e752-1",
-      "type": "para",
-      "text": "— Não toque em mim."
-    },
-    {
-      "id": "p-0393e77c780e-1",
-      "type": "para",
-      "text": "— Eu não lembrava."
-    },
-    {
-      "id": "p-940f368f9373-1",
-      "type": "para",
-      "text": "— Mas escondeu a folha ontem."
-    },
-    {
-      "id": "p-28265d2c48df-1",
-      "type": "para",
-      "text": "— Por algumas horas."
-    },
-    {
-      "id": "p-2e6a5ddcc08b-1",
-      "type": "para",
-      "text": "— É assim que começa. Uma hora em que não é o momento certo. Um dia para proteger alguém. Dezessete anos porque agora seria pior."
-    },
-    {
-      "id": "p-f1e62d307009-1",
-      "type": "para",
-      "text": "Davi saiu da sala."
-    },
-    {
-      "id": "p-41e386bc7fb8-1",
-      "type": "para",
-      "text": "Miguel o encontrou sentado na base de uma antena, abraçando o braço ferido."
-    },
-    {
-      "id": "p-a8fee81ede0b-1",
-      "type": "para",
-      "text": "— Pode perguntar — disse Miguel."
-    },
-    {
-      "id": "p-ce108dfdd5f7-1",
-      "type": "para",
-      "text": "— Não tenho pergunta."
-    },
-    {
-      "id": "p-038617370a00-1",
-      "type": "para",
-      "text": "— Pode me odiar."
-    },
-    {
-      "id": "p-9e52637fa5b5-1",
-      "type": "para",
-      "text": "— Não me diga o que posso sentir."
-    },
-    {
-      "id": "p-d66baed1a790-1",
-      "type": "para",
-      "text": "O vento dobrava o capim ao redor."
-    },
-    {
-      "id": "p-25229feafada-1",
-      "type": "para",
-      "text": "— Gabriel morreu por minha causa — falou Miguel."
-    },
-    {
-      "id": "p-7dba6c569846-1",
-      "type": "para",
-      "text": "Davi virou-se com violência."
-    },
-    {
-      "id": "p-5e5f29084c7b-1",
-      "type": "para",
-      "text": "— Ele morreu porque voltou para buscar pessoas. Não roube isso dele para fazer sua culpa parecer maior."
-    },
-    {
-      "id": "p-efa2d2e9f534-1",
-      "type": "para",
-      "text": "— Eu coloquei o navio no recife."
-    },
-    {
-      "id": "p-9c1b0eb4bc63-1",
-      "type": "para",
-      "text": "— Você acendeu uma luz porque seu irmão pediu. A Companhia preparou. Jonas mentiu. Balu saiu do posto. O capitão recebeu ordem. Todo mundo tem um pedaço. Por que adultos sempre querem ser o centro até da desgraça?"
-    },
-    {
-      "id": "p-209cdc14bfce-1",
-      "type": "para",
-      "text": "Miguel não respondeu."
-    },
-    {
-      "id": "p-56fe9d036f98-1",
-      "type": "para",
-      "text": "Davi enxugou os olhos com a manga."
-    },
-    {
-      "id": "p-e281e18eadb6-1",
-      "type": "para",
-      "text": "— Minha mãe dizia que Gabriel cantou no bote para as pessoas não perceberem que estava com medo. Eu queria que ele fosse um herói sem medo. Agora sei que ele foi com medo. Isso não deixa menor."
-    },
-    {
-      "id": "p-401ac250c1a5-2",
-      "type": "para",
-      "text": "— Não."
-    },
-    {
-      "id": "p-e83889dc9f57-1",
-      "type": "para",
-      "text": "— Então pare de deixar maior o que você fez só para não olhar o resto."
-    },
-    {
-      "id": "p-1e5e3bf30caa-1",
-      "type": "para",
-      "text": "Miguel sentou-se na terra."
-    },
-    {
-      "id": "p-31992b0cd202-1",
-      "type": "para",
-      "text": "Pela primeira vez desde que lera as iniciais, a culpa perdeu a voz de Gabriel. Restou sua própria voz, menos absoluta e mais difícil de obedecer."
-    },
-    {
-      "id": "p-e0ad382e2084-1",
-      "type": "para",
-      "text": "Na estação, Clara fechou-se num quarto. Baltasar permaneceu diante da carta aberta. Miguel entrou e sentou à sua frente."
-    },
-    {
-      "id": "p-bccf258b9fdb-1",
-      "type": "para",
-      "text": "— Leia — pediu."
-    },
-    {
-      "id": "p-07caad6f9c68-1",
-      "type": "para",
-      "text": "O velho empurrou o papel."
-    },
-    {
-      "id": "p-919de9405cd4-1",
-      "type": "para",
-      "text": "— É para você."
-    },
-    {
-      "id": "p-e4f369f490d3-1",
-      "type": "para",
-      "text": "— Não. É para nós dois."
-    },
-    {
-      "id": "p-e6f276144460-1",
-      "type": "h2",
-      "text": "CARTA VII"
-    },
-    {
-      "id": "p-f46f067aa580-1",
-      "type": "h3",
-      "text": "Para Baltasar Rocha"
-    },
-    {
-      "id": "p-7fb961312a10-1",
-      "type": "para",
-      "text": "*Balu,*"
-    },
-    {
-      "id": "p-1f27e02eeaf7-1",
-      "type": "para",
-      "text": "*Eu o libero da promessa.*"
-    },
-    {
-      "id": "p-d4f097a59f8c-1",
-      "type": "para",
-      "text": "*Essas palavras chegam tarde porque eu devia tê-las dito no dia seguinte ao naufrágio. Em vez disso, confundi sua lealdade comigo com fidelidade ao bem. Nós dois fomos homens capazes de entrar em mar revolto para salvar desconhecidos e incapazes de atravessar uma sala para dizer a verdade a quem amávamos.*"
-    },
-    {
-      "id": "p-3f543c2dfafb-1",
-      "type": "para",
-      "text": "*Você abandonou o posto. Miguel acendeu a luz. Eu menti. A Companhia construiu a rota e enviou o Aurora para ela. Nenhum fato apaga o outro.*"
-    },
-    {
-      "id": "p-421170c164a9-1",
-      "type": "para",
-      "text": "*Não aceite que Miguel transforme a própria culpa numa espécie de trono. Ele sempre teve o defeito de se imaginar responsável por tudo aquilo que não consegue controlar. Parece humildade, mas ainda coloca o homem no centro.*"
-    },
-    {
-      "id": "p-66cbb7666912-1",
-      "type": "para",
-      "text": "*Diga a Clara o que viu. Deixe que ela escolha o que fazer com isso. Diga a Davi quem Gabriel foi antes da água. Conte também suas falhas; os mortos não precisam ser perfeitos para serem amados.*"
-    },
-    {
-      "id": "p-eafc4c9807a3-1",
-      "type": "para",
-      "text": "*Quanto a você: arrependimento não é passar a vida executando a própria sentença. Pedro chorou por negar o Senhor e depois recebeu o encargo de cuidar de pessoas. Se Deus ainda lhe der dias, use-os para cuidar. Não para pagar. A cruz já nos proibiu a fantasia de que somos capazes de pagar tudo sozinhos.*"
-    },
-    {
-      "id": "p-e861f8ffe258-1",
-      "type": "para",
-      "text": "*Seu irmão,*"
-    },
-    {
-      "id": "p-6245e61fac90-1",
-      "type": "para",
-      "text": "*Jonas*"
-    }
-  ],
-  "provenance": {
-    "source": "production-v4:manifests/chapters.json",
-    "original_chapter_ids": [
-      38
-    ],
-    "source_pdf_page": 298,
-    "verification": "structured-source"
+ "id": "ch27",
+ "type": "chapter",
+ "title": "A mesa de Marta",
+ "subtitle": "",
+ "part": "PARTE II — AS ÁGUAS PROFUNDAS",
+ "blocks": [
+  {
+   "id": "p-cba86610e482-1",
+   "type": "h2",
+   "text": "A mesa de Marta"
   },
-  "blocks_sha256": "055f2d101f4f17b7bafd9ec0a42a55e8500c406fa826c00e58b4a32be405630e"
+  {
+   "id": "p-6ae18fa098ce-1",
+   "type": "para",
+   "text": "Marta fazia perguntas enquanto descascava batatas."
+  },
+  {
+   "id": "p-41de5a3fa702-1",
+   "type": "para",
+   "text": "Era uma estratégia eficiente. Mantinha as mãos ocupadas, oferecia facas aos interrogados e tornava difícil abandonar a cozinha sem parecer alguém que desprezava jantar."
+  },
+  {
+   "id": "p-ab1ab2570066-1",
+   "type": "para",
+   "text": "— Por que não respondeu às cartas de Clara? — perguntou a Miguel."
+  },
+  {
+   "id": "p-cb6994669098-1",
+   "type": "para",
+   "text": "— A senhora conhecia Clara há três horas."
+  },
+  {
+   "id": "p-cdcfdd27cab8-1",
+   "type": "para",
+   "text": "— Tempo suficiente. Responda."
+  },
+  {
+   "id": "p-7131635cf84d-1",
+   "type": "para",
+   "text": "— Tive medo."
+  },
+  {
+   "id": "p-aefb94ad71ff-1",
+   "type": "para",
+   "text": "— Bom começo. Medo de quê?"
+  },
+  {
+   "id": "p-46f86880084c-1",
+   "type": "para",
+   "text": "Clara entrou com uma cesta e parou ao ouvir. Miguel lançou-lhe um pedido de socorro. Ela colocou a cesta na mesa e pegou uma faca."
+  },
+  {
+   "id": "p-4b95c924a735-1",
+   "type": "para",
+   "text": "— Também quero saber."
+  },
+  {
+   "id": "p-40dfdf9151bd-1",
+   "type": "para",
+   "text": "— Já conversamos."
+  },
+  {
+   "id": "p-83cc5e4c560a-1",
+   "type": "para",
+   "text": "— Conversamos sobre queimar. Não sobre o medo."
+  },
+  {
+   "id": "p-a3e178badec4-1",
+   "type": "para",
+   "text": "Marta apontou outra batata."
+  },
+  {
+   "id": "p-cb86859fd09a-1",
+   "type": "para",
+   "text": "Miguel descascou."
+  },
+  {
+   "id": "p-6a02cb250cec-1",
+   "type": "para",
+   "text": "— Medo de voltar ao porto. De vocês terem construído uma vida na qual eu seria apenas o irmão que sobrou. Medo de Clara ter amado Gabriel e me olhar como cópia menos interessante."
+  },
+  {
+   "id": "p-546be96f39c9-1",
+   "type": "para",
+   "text": "Clara retirou uma casca longa."
+  },
+  {
+   "id": "p-6361ac4ed3a0-1",
+   "type": "para",
+   "text": "— Eu amava Gabriel como se ama uma fogueira. Você era mais parecido com uma janela."
+  },
+  {
+   "id": "p-6b25bdae2160-1",
+   "type": "para",
+   "text": "— Isso deveria melhorar?"
+  },
+  {
+   "id": "p-84bb2f5524ea-1",
+   "type": "para",
+   "text": "— Fogueiras chamam atenção. Janelas permitem ver e partir. Quando você foi embora, pareceu fechar."
+  },
+  {
+   "id": "p-719f033a7aec-1",
+   "type": "para",
+   "text": "Marta assentiu como juiz."
+  },
+  {
+   "id": "p-55b139e1e8f9-1",
+   "type": "para",
+   "text": "— Metáfora complicada, mas aceitável."
+  },
+  {
+   "id": "p-d4d2d71da7fe-1",
+   "type": "para",
+   "text": "Davi entrou."
+  },
+  {
+   "id": "p-9a550e571a77-1",
+   "type": "para",
+   "text": "— Estão interrogando Miguel? Posso participar?"
+  },
+  {
+   "id": "p-85ec151e567d-1",
+   "type": "para",
+   "text": "— Busque cebolas — disse a avó."
+  },
+  {
+   "id": "p-0914a5d47004-1",
+   "type": "para",
+   "text": "— Autoridade sempre usa trabalho para silenciar jovens."
+  },
+  {
+   "id": "p-bed4d7230fff-1",
+   "type": "para",
+   "text": "— E colher para os persistentes."
+  },
+  {
+   "id": "p-1115bae80a24-1",
+   "type": "para",
+   "text": "Ele buscou."
+  },
+  {
+   "id": "p-8ab81652222b-1",
+   "type": "para",
+   "text": "Durante o jantar, Marta contou sobre Sara antes do Aurora. Gostava de subir nos montes de sal e fingir que eram neve. Aprendeu a ler escondida com panfletos de sindicato. Queria abrir uma oficina de costura."
+  },
+  {
+   "id": "p-ec9b15aa6501-1",
+   "type": "para",
+   "text": "— Raul a encantou porque usava sapatos limpos — disse. — Aos dezessete, confundimos higiene com caráter."
+  },
+  {
+   "id": "p-61559db6e65e-1",
+   "type": "para",
+   "text": "— A senhora o conhecia? — perguntou Davi."
+  },
+  {
+   "id": "p-b31327d39272-1",
+   "type": "para",
+   "text": "— Conhecia a voz que ele usava comigo. Homens escolhem vozes diferentes para mães e filhas."
+  },
+  {
+   "id": "p-59ae4e3d3bf7-1",
+   "type": "para",
+   "text": "— Por que disse que ela devia ficar?"
+  },
+  {
+   "id": "p-9ec845246a3f-1",
+   "type": "para",
+   "text": "Marta pousou o garfo."
+  },
+  {
+   "id": "p-f9c7a7bc839b-1",
+   "type": "para",
+   "text": "— Porque tive medo da vergonha. Porque dependíamos do trabalho. Porque achava que suportar era a única virtude disponível a mulheres pobres. Sua mãe foi mais corajosa do que eu e fugiu."
+  },
+  {
+   "id": "p-b75c29307fd7-1",
+   "type": "para",
+   "text": "— Nunca contou isso."
+  },
+  {
+   "id": "p-d9d9db130a56-1",
+   "type": "para",
+   "text": "— Esperei oportunidade digna. Elas costumam chegar depois dos funerais."
+  },
+  {
+   "id": "p-9997758faae7-1",
+   "type": "para",
+   "text": "Davi olhou para o prato."
+  },
+  {
+   "id": "p-d91a9e96ea60-1",
+   "type": "para",
+   "text": "— Ela me deixou com Tobias quando adoeceu."
+  },
+  {
+   "id": "p-9b18d853c9ee-1",
+   "type": "para",
+   "text": "— Deixou porque o tratamento ficava no continente e não queria que você a visse definhar."
+  },
+  {
+   "id": "p-27405700c08e-1",
+   "type": "para",
+   "text": "— Outra proteção."
+  },
+  {
+   "id": "p-a5e4dbd5cdac-1",
+   "type": "para",
+   "text": "— Sim. Talvez errada. Talvez a única que ela conseguiu. Pessoas repetem pecados de família até quando juram fazer o oposto."
+  },
+  {
+   "id": "p-4f541d2a20fc-1",
+   "type": "para",
+   "text": "Marta levantou-se e retirou uma caixa do armário. Dentro havia cartas de Sara, botões e uma pequena Bíblia com páginas marcadas."
+  },
+  {
+   "id": "p-8cdf6a05ce11-1",
+   "type": "para",
+   "text": "— Ela escreveu para Lídia — disse."
+  },
+  {
+   "id": "p-3bf3ec117064-1",
+   "type": "para",
+   "text": "Miguel reconheceu o nome da mãe nos envelopes."
+  },
+  {
+   "id": "p-70f71241c614-1",
+   "type": "para",
+   "text": "— Elas se conheciam?"
+  },
+  {
+   "id": "p-b2240302a815-1",
+   "type": "para",
+   "text": "— Depois do naufrágio. Lídia visitava sobreviventes escondida de Jonas. Queria saber sobre Gabriel."
+  },
+  {
+   "id": "p-86ee72a25ec9-1",
+   "type": "para",
+   "text": "Clara abriu uma carta com permissão de Marta."
+  },
+  {
+   "id": "p-6ae7a58d5529-1",
+   "type": "para",
+   "text": "*Seu filho cantou enquanto tirava a grade. Eu pensei que fosse porque não tinha medo. Depois percebi que a voz tremia. Isso me ajudou mais. Se coragem fosse ausência de medo, eu nunca teria nenhuma.*"
+  },
+  {
+   "id": "p-2bfaa60827d1-1",
+   "type": "para",
+   "text": "Miguel levou a mão aos olhos."
+  },
+  {
+   "id": "p-e8552401a856-1",
+   "type": "para",
+   "text": "Outra carta continha uma resposta de Lídia:"
+  },
+  {
+   "id": "p-5658a4cfe952-1",
+   "type": "para",
+   "text": "*Miguel não lembra. Acorda chamando o irmão e depois diz que não sonhou. Jonas acredita que silêncio o protegerá. Não sei se sou covarde por concordar ou cruel por duvidar.*"
+  },
+  {
+   "id": "p-f7b2ad0205c5-1",
+   "type": "para",
+   "text": "A data era dois anos depois do naufrágio."
+  },
+  {
+   "id": "p-1b6aba8e6a34-1",
+   "type": "para",
+   "text": "Miguel sentiu algo fechar em sua garganta."
+  },
+  {
+   "id": "p-9da5e75b62a0-1",
+   "type": "para",
+   "text": "— Ela sabia?"
+  },
+  {
+   "id": "p-d43ab75a3143-1",
+   "type": "para",
+   "text": "— Sabia que Jonas escondia — disse Marta. — Não sei quanto."
+  },
+  {
+   "id": "p-fbcf1f286d49-1",
+   "type": "para",
+   "text": "Clara colocou a carta sobre a mesa."
+  },
+  {
+   "id": "p-8e7d31018e73-1",
+   "type": "para",
+   "text": "— Sua mãe tentou conversar com Ana."
+  },
+  {
+   "id": "p-137a913affef-1",
+   "type": "para",
+   "text": "— Ana mencionou."
+  },
+  {
+   "id": "p-332e1aa58400-1",
+   "type": "para",
+   "text": "— Talvez Lídia quisesse contar."
+  },
+  {
+   "id": "p-f07983e91945-1",
+   "type": "para",
+   "text": "Miguel passou os dedos pela Bíblia da mãe. Uma passagem estava sublinhada: *A verdade vos libertará.* Ao lado, Lídia escrevera: *Liberdade também assusta quem construiu casa na prisão.*"
+  },
+  {
+   "id": "p-051a70a33965-1",
+   "type": "para",
+   "text": "Davi fechou a caixa."
+  },
+  {
+   "id": "p-0a605390b28e-1",
+   "type": "para",
+   "text": "— Todo mundo deixou cartas menos minha mãe para mim."
+  },
+  {
+   "id": "p-54f41e4340dd-1",
+   "type": "para",
+   "text": "Marta tocou seu ombro."
+  },
+  {
+   "id": "p-facf8d2ade55-1",
+   "type": "para",
+   "text": "— Ela deixou centenas. Você era pequeno e desenhava sobre elas. Tobias guardou as que sobreviveram."
+  },
+  {
+   "id": "p-03801439cee1-1",
+   "type": "para",
+   "text": "— Ele nunca disse."
+  },
+  {
+   "id": "p-4ac9f48ec167-1",
+   "type": "para",
+   "text": "— Talvez espere que pergunte."
+  },
+  {
+   "id": "p-d5447c78f34b-1",
+   "type": "para",
+   "text": "— Adultos poderiam oferecer informações sem transformar tudo em caça ao tesouro."
+  },
+  {
+   "id": "p-8166a6761385-1",
+   "type": "para",
+   "text": "— Verdade — disse Miguel."
+  },
+  {
+   "id": "p-18c4a7e13778-1",
+   "type": "para",
+   "text": "Naquela noite, Davi escreveu ao tio pedindo as cartas. Não acusou. Apenas pediu."
+  },
+  {
+   "id": "p-5fd6f0cc87fe-1",
+   "type": "para",
+   "text": "Miguel separou uma folha para responder a uma das cartas antigas de Clara, embora ela estivesse na mesma casa."
+  },
+  {
+   "id": "p-7c225803b1c3-1",
+   "type": "para",
+   "text": "*Recebi. Tive medo. Queimei. Sinto muito. Não espero que três frases devolvam três anos. Estou tentando parar de chegar depois.*"
+  },
+  {
+   "id": "p-6f7af6441e33-1",
+   "type": "para",
+   "text": "Dobrou e colocou diante dela."
+  },
+  {
+   "id": "p-92a4bf071a6c-1",
+   "type": "para",
+   "text": "Clara leu à luz da cozinha."
+  },
+  {
+   "id": "p-3ba744096f8a-1",
+   "type": "para",
+   "text": "— Por que escrever agora?"
+  },
+  {
+   "id": "p-6a542549a0db-1",
+   "type": "para",
+   "text": "— Algumas respostas precisam atravessar uma mesa antes que a pessoa consiga atravessar uma linha."
+  },
+  {
+   "id": "p-ebf4295c6263-1",
+   "type": "para",
+   "text": "— Roubou de Estevão."
+  },
+  {
+   "id": "p-82bb56a07591-1",
+   "type": "para",
+   "text": "— Contaminação."
+  },
+  {
+   "id": "p-c8438dee6d47-1",
+   "type": "para",
+   "text": "Ela guardou a carta."
+  },
+  {
+   "id": "p-e2400fa7b601-1",
+   "type": "para",
+   "text": "Não disse que perdoava."
+  },
+  {
+   "id": "p-6f6a5517e31f-1",
+   "type": "para",
+   "text": "Na manhã seguinte, ainda a levava no bolso."
+  }
+ ],
+ "provenance": "Edição Final do autor (.docx)",
+ "blocks_sha256": "4f39c521716be60e2818db225d3a78149ec1c1f4145fec9f80a8698da3c05136"
 }

@@ -1,333 +1,406 @@
 {
-  "id": "ch47",
-  "type": "chapter",
-  "title": "O menino que apagou a luz",
-  "subtitle": null,
-  "part": "PARTE IV — O FAROL",
-  "blocks": [
-    {
-      "id": "p-294931136852-1",
-      "type": "h2",
-      "text": "O menino que apagou a luz"
-    },
-    {
-      "id": "p-1dc72e826f87-1",
-      "type": "para",
-      "text": "O primeiro tiro atingiu a caixa elétrica."
-    },
-    {
-      "id": "p-695f66eb2225-1",
-      "type": "para",
-      "text": "Faíscas cercaram Davi. Ele se jogou atrás da base da armação e rastejou por baixo até o gerador auxiliar. O ombro ferido protestava a cada movimento."
-    },
-    {
-      "id": "p-3a0c4a6041d8-1",
-      "type": "para",
-      "text": "Silas sacou a arma."
-    },
-    {
-      "id": "p-c77d98578fed-1",
-      "type": "para",
-      "text": "— Baixem os rifles!"
-    },
-    {
-      "id": "p-5bc07f153ed6-1",
-      "type": "para",
-      "text": "Dois homens obedeceram. Três não. Severo permaneceu junto aos explosivos, o detonador preso ao cinto."
-    },
-    {
-      "id": "p-41749cd3f345-1",
-      "type": "para",
-      "text": "— Ele é uma criança — disse Silas."
-    },
-    {
-      "id": "p-7c27004c8fe4-1",
-      "type": "para",
-      "text": "— Crianças acenderam esta luz antes — respondeu Severo. — A cidade sobreviveu."
-    },
-    {
-      "id": "p-d61521a8fa24-1",
-      "type": "para",
-      "text": "Davi encontrou a linha de combustível do gerador. O alicate não a cortaria."
-    },
-    {
-      "id": "p-499cf06ef382-1",
-      "type": "para",
-      "text": "Pegou uma das facas que Miguel permitira levar e começou a serrar."
-    },
-    {
-      "id": "p-c65de6874625-1",
-      "type": "para",
-      "text": "Um guarda o alcançou. Davi rolou quando a mão tentou agarrá-lo e golpeou o joelho do homem com o cabo da faca. O rifle caiu. O menino chutou-o para longe."
-    },
-    {
-      "id": "p-7525fad2e082-1",
-      "type": "para",
-      "text": "— Desculpe — disse. — Trabalho infantil prejudica a disciplina."
-    },
-    {
-      "id": "p-003fe4e078a5-1",
-      "type": "para",
-      "text": "O homem o atingiu no rosto. Davi caiu ao lado da armação."
-    },
-    {
-      "id": "p-b70c3bca811f-1",
-      "type": "para",
-      "text": "Silas disparou para o alto."
-    },
-    {
-      "id": "p-d23404d37a97-1",
-      "type": "para",
-      "text": "— Chega!"
-    },
-    {
-      "id": "p-b1e31fa30dcf-1",
-      "type": "para",
-      "text": "Apontou para Severo."
-    },
-    {
-      "id": "p-0a3b60037af1-1",
-      "type": "para",
-      "text": "— Entregue o detonador."
-    },
-    {
-      "id": "p-684eed5fb6be-1",
-      "type": "para",
-      "text": "— Você não atirará no homem que lhe deu tudo."
-    },
-    {
-      "id": "p-641c37a2a87d-1",
-      "type": "para",
-      "text": "— Deu-me um uniforme para que eu nunca perguntasse quem estava dentro dele."
-    },
-    {
-      "id": "p-a6bff9ea33f7-1",
-      "type": "para",
-      "text": "Severo tirou o detonador do cinto."
-    },
-    {
-      "id": "p-957da479b059-1",
-      "type": "para",
-      "text": "— Um passo e enterro o menino, a fenda e a última prova."
-    },
-    {
-      "id": "p-0bee3576176d-1",
-      "type": "para",
-      "text": "Silas parou."
-    },
-    {
-      "id": "p-e0fc33d568c4-1",
-      "type": "para",
-      "text": "Davi, no chão, viu a haste quebrada do antigo mecanismo. Lembrou o fragmento de lente, a cicatriz de Miguel, Gabriel correndo para apagar."
-    },
-    {
-      "id": "p-0cb064ea6b24-1",
-      "type": "para",
-      "text": "Não precisava cortar combustível."
-    },
-    {
-      "id": "p-2790d42002b4-1",
-      "type": "para",
-      "text": "Precisava derrubar a luz."
-    },
-    {
-      "id": "p-6ecedc17526e-1",
-      "type": "para",
-      "text": "Subiu pela lateral da armação."
-    },
-    {
-      "id": "p-445bebb637ad-1",
-      "type": "para",
-      "text": "— Pare! — gritou Severo."
-    },
-    {
-      "id": "p-dbcc70a29a2e-1",
-      "type": "para",
-      "text": "Davi agarrou o refletor. O metal queimou suas mãos. Jogou o peso para trás. A estrutura resistiu."
-    },
-    {
-      "id": "p-bee9133ec6ed-1",
-      "type": "para",
-      "text": "O guarda ferido segurou sua perna."
-    },
-    {
-      "id": "p-4da9176a2090-1",
-      "type": "para",
-      "text": "Silas disparou no chão diante dele. O homem soltou."
-    },
-    {
-      "id": "p-85a736d5e789-1",
-      "type": "para",
-      "text": "Davi puxou outra vez."
-    },
-    {
-      "id": "p-12fa20b56f13-1",
-      "type": "para",
-      "text": "A haste cedeu."
-    },
-    {
-      "id": "p-989ee8aac4ab-1",
-      "type": "para",
-      "text": "O refletor caiu da plataforma, bateu duas vezes nas rochas e desapareceu no mar."
-    },
-    {
-      "id": "p-f434fce1ae09-1",
-      "type": "para",
-      "text": "A segunda luz se apagou."
-    },
-    {
-      "id": "p-0e151425eaec-1",
-      "type": "para",
-      "text": "Severo pressionou o detonador."
-    },
-    {
-      "id": "p-6ecf7f2417d1-1",
-      "type": "para",
-      "text": "Nada aconteceu."
-    },
-    {
-      "id": "p-e960d85081c3-1",
-      "type": "para",
-      "text": "Um dos trabalhadores abriu a mão. Dentro dela havia o fio de ignição."
-    },
-    {
-      "id": "p-756e6abf581c-1",
-      "type": "para",
-      "text": "— Meu filho está no Boa Esperança — disse."
-    },
-    {
-      "id": "p-89b1c8abba0a-1",
-      "type": "para",
-      "text": "Outros dois baixaram as armas."
-    },
-    {
-      "id": "p-8cc6610133b9-1",
-      "type": "para",
-      "text": "Severo olhou ao redor, não compreendendo como homens pagos podiam adquirir vontades."
-    },
-    {
-      "id": "p-7e1583d01c24-1",
-      "type": "para",
-      "text": "Silas tomou o detonador."
-    },
-    {
-      "id": "p-6459db415216-1",
-      "type": "para",
-      "text": "— Acabou."
-    },
-    {
-      "id": "p-707611b77ed5-1",
-      "type": "para",
-      "text": "— Não — disse o velho."
-    },
-    {
-      "id": "p-442c6200dbac-1",
-      "type": "para",
-      "text": "Retirou uma pistola da bengala e atirou."
-    },
-    {
-      "id": "p-186958096c36-1",
-      "type": "para",
-      "text": "Silas caiu."
-    },
-    {
-      "id": "p-69b7d3381fc9-1",
-      "type": "para",
-      "text": "Davi avançou antes de pensar. Bateu no braço de Severo com a haste quebrada. A segunda bala foi para o céu. Os trabalhadores dominaram o velho."
-    },
-    {
-      "id": "p-0491684ab2fd-1",
-      "type": "para",
-      "text": "O menino ajoelhou-se junto a Silas. Sangue escurecia seu casaco perto das costelas."
-    },
-    {
-      "id": "p-16203ee7c7b6-1",
-      "type": "para",
-      "text": "— Não morra."
-    },
-    {
-      "id": "p-7eb45fc549f2-1",
-      "type": "para",
-      "text": "— Você precisa encontrar frases novas."
-    },
-    {
-      "id": "p-fb0eaeb3eb67-1",
-      "type": "para",
-      "text": "— Balu ignorou a primeira."
-    },
-    {
-      "id": "p-5fed43f0f5ad-1",
-      "type": "para",
-      "text": "Silas tentou respirar e fez uma careta."
-    },
-    {
-      "id": "p-8862eea9f071-1",
-      "type": "para",
-      "text": "— Rádio."
-    },
-    {
-      "id": "p-35523620a724-1",
-      "type": "para",
-      "text": "Davi pegou o transmissor do cinto dele."
-    },
-    {
-      "id": "p-dd1348b21e2f-1",
-      "type": "para",
-      "text": "— Vigília, aqui Ponta do Corvo. Luz falsa apagada. Severo detido. Silas foi baleado."
-    },
-    {
-      "id": "p-4f558c0bb689-1",
-      "type": "para",
-      "text": "A voz de Miguel respondeu entre vento e estática:"
-    },
-    {
-      "id": "p-d55dc90bc356-1",
-      "type": "para",
-      "text": "— Davi, está ferido?"
-    },
-    {
-      "id": "p-2001cc4fd255-1",
-      "type": "para",
-      "text": "O menino tocou o próprio rosto inchado e as mãos queimadas."
-    },
-    {
-      "id": "p-9e7a29037c8e-1",
-      "type": "para",
-      "text": "— Só o necessário para parecer corajoso."
-    },
-    {
-      "id": "p-ce52616c287a-1",
-      "type": "para",
-      "text": "— Isso não é resposta."
-    },
-    {
-      "id": "p-8c95974042e9-1",
-      "type": "para",
-      "text": "— Estou bem. Silas precisa de médico."
-    },
-    {
-      "id": "p-85b0929ee78a-1",
-      "type": "para",
-      "text": "Leonor entrou na frequência. Deu instruções aos homens para conter o sangramento."
-    },
-    {
-      "id": "p-f3797d66128a-1",
-      "type": "para",
-      "text": "Davi olhou para o mar. Na ausência do refletor, a névoa parecia ainda mais escura."
-    },
-    {
-      "id": "p-3134e4593515-1",
-      "type": "para",
-      "text": "— Miguel — disse. — Agora só falta uma luz."
-    }
-  ],
-  "provenance": {
-    "source": "production-v4:manifests/chapters.json",
-    "original_chapter_ids": [
-      64
-    ],
-    "source_pdf_page": 478,
-    "verification": "structured-source"
+ "id": "ch47",
+ "type": "chapter",
+ "title": "A linha de tormenta",
+ "subtitle": "",
+ "part": "PARTE III — A TEMPESTADE",
+ "blocks": [
+  {
+   "id": "p-3b4671b4b801-1",
+   "type": "h2",
+   "text": "A linha de tormenta"
   },
-  "blocks_sha256": "ad2d25a91f9c0baa05316325a55d95ae244ecea05f906f5d1a2d4faf661442d0"
+  {
+   "id": "p-e3983275e509-1",
+   "type": "para",
+   "text": "Os homens de Severo os encontraram ao pôr do sol."
+  },
+  {
+   "id": "p-25b98068bdfd-1",
+   "type": "para",
+   "text": "Duas lanchas saíram de trás de uma ilha baixa, uma por cada lado. Não hasteavam bandeira, mas os motores eram modelos usados apenas pela Companhia. A Constância não venceria em velocidade."
+  },
+  {
+   "id": "p-2fbd3040cdf1-1",
+   "type": "para",
+   "text": "— Querem nos conduzir para norte — disse Clara. — Afastar da gruta."
+  },
+  {
+   "id": "p-c971c7c0be96-1",
+   "type": "para",
+   "text": "Miguel examinou o horizonte. Uma linha escura de nuvens avançava do oeste. Sob ela, o mar já mudava de cor."
+  },
+  {
+   "id": "p-f296a3d68f7f-1",
+   "type": "para",
+   "text": "— Entramos na tormenta."
+  },
+  {
+   "id": "p-0e64ee24efef-1",
+   "type": "para",
+   "text": "Clara olhou para ele."
+  },
+  {
+   "id": "p-4d530539d7bb-1",
+   "type": "para",
+   "text": "— Há vinte minutos você ignorou minha opinião sobre a Corrente Funda."
+  },
+  {
+   "id": "p-3630f2161d8c-1",
+   "type": "para",
+   "text": "— E quase matou todos. Estou pedindo a sua agora."
+  },
+  {
+   "id": "p-7a4895b48b27-1",
+   "type": "para",
+   "text": "Ela avaliou vento, nuvens e distância."
+  },
+  {
+   "id": "p-4d4187a8959d-1",
+   "type": "para",
+   "text": "— Severo tem barcos mais potentes. Dentro da chuva, potência ajuda menos do que mapa."
+  },
+  {
+   "id": "p-a5aacf11f527-1",
+   "type": "para",
+   "text": "— Isso é sim?"
+  },
+  {
+   "id": "p-7f21ef00ba93-1",
+   "type": "para",
+   "text": "— É minha decisão. Vire oeste."
+  },
+  {
+   "id": "p-6ea8db11eb0b-1",
+   "type": "para",
+   "text": "Miguel entregou o leme."
+  },
+  {
+   "id": "p-3682c6bae5d3-1",
+   "type": "para",
+   "text": "O gesto pareceu pequeno. Não era."
+  },
+  {
+   "id": "p-7b798f8d455d-1",
+   "type": "para",
+   "text": "Baltasar abriu toda a vela principal. Davi prendeu caixas. A Constância correu para a parede de chuva enquanto as lanchas se aproximavam."
+  },
+  {
+   "id": "p-dd1a5014f81f-1",
+   "type": "para",
+   "text": "O primeiro disparo atingiu a popa. Outro atravessou a vela."
+  },
+  {
+   "id": "p-007f99acbc30-1",
+   "type": "para",
+   "text": "— Eles disseram para não atacar! — gritou Davi."
+  },
+  {
+   "id": "p-d57c71653959-1",
+   "type": "para",
+   "text": "— Severo não é conhecido por coerência — respondeu Balu."
+  },
+  {
+   "id": "p-de6270ca86bf-1",
+   "type": "para",
+   "text": "A tormenta os engoliu."
+  },
+  {
+   "id": "p-106418b0d679-1",
+   "type": "para",
+   "text": "Visibilidade caiu a poucos metros. Chuva batia como cascalho. Clara seguia uma rota marcada apenas no mapa de pescadores: um corredor de corrente entre bancos móveis."
+  },
+  {
+   "id": "p-71dd63355c00-1",
+   "type": "para",
+   "text": "— Profundidade! — ordenou."
+  },
+  {
+   "id": "p-2cb09a328c7d-1",
+   "type": "para",
+   "text": "Davi lançou a linha."
+  },
+  {
+   "id": "p-cfcc35c3776b-1",
+   "type": "para",
+   "text": "— Quatro braças!"
+  },
+  {
+   "id": "p-d189f57448a0-1",
+   "type": "para",
+   "text": "— Outra vez em trinta segundos."
+  },
+  {
+   "id": "p-31b9297f9e7e-1",
+   "type": "para",
+   "text": "A lancha da direita surgiu na névoa, perto demais. Um homem tentou lançar gancho. Miguel cortou a corda no ar com o machado. O gancho voltou e atingiu o próprio casco."
+  },
+  {
+   "id": "p-23b529ead2cd-1",
+   "type": "para",
+   "text": "— Três braças! — gritou Davi."
+  },
+  {
+   "id": "p-935d1c1d8bc7-1",
+   "type": "para",
+   "text": "— Vire dois graus norte — disse Clara."
+  },
+  {
+   "id": "p-009a1d507a9d-1",
+   "type": "para",
+   "text": "— Há banco no mapa — falou Miguel."
+  },
+  {
+   "id": "p-45206506ae74-1",
+   "type": "para",
+   "text": "— Estava ali na última medição. A tempestade desloca areia para sul."
+  },
+  {
+   "id": "p-bb58313bd261-1",
+   "type": "para",
+   "text": "— E se não deslocou?"
+  },
+  {
+   "id": "p-5c07fa2048b4-1",
+   "type": "para",
+   "text": "— Então descobrimos com impacto."
+  },
+  {
+   "id": "p-54b5d1abcb46-1",
+   "type": "para",
+   "text": "Ele segurou a amurada e confiou."
+  },
+  {
+   "id": "p-7bbb16393607-1",
+   "type": "para",
+   "text": "A Constância passou. A lancha maior seguiu e atingiu o banco. A proa levantou, o motor gritou e a embarcação ficou presa. Seus homens não estavam em perigo imediato, mas saíam da perseguição."
+  },
+  {
+   "id": "p-41d00b9386da-1",
+   "type": "para",
+   "text": "A segunda lancha contornou."
+  },
+  {
+   "id": "p-077849093f42-1",
+   "type": "para",
+   "text": "Baltasar reduziu vela quando uma rajada ameaçou deitar o barco. Davi escorregou. Miguel o segurou pelo cinto antes que atingisse a água."
+  },
+  {
+   "id": "p-0a9bb3700322-1",
+   "type": "para",
+   "text": "— Eu tinha um plano — protestou o menino."
+  },
+  {
+   "id": "p-88f92afd16f2-1",
+   "type": "para",
+   "text": "— Afogamento estratégico?"
+  },
+  {
+   "id": "p-7b56b042d2d6-1",
+   "type": "para",
+   "text": "— Exatamente."
+  },
+  {
+   "id": "p-ac16f020fe64-1",
+   "type": "para",
+   "text": "Clara apontou para uma formação à frente. Três pedras apareciam e desapareciam nas ondas."
+  },
+  {
+   "id": "p-c2c674b10dd3-1",
+   "type": "para",
+   "text": "— Precisamos passar entre a segunda e a terceira."
+  },
+  {
+   "id": "p-2ff40d0c39e2-1",
+   "type": "para",
+   "text": "— Não há espaço — disse Balu."
+  },
+  {
+   "id": "p-68c29202ea0b-1",
+   "type": "para",
+   "text": "— Na crista, há."
+  },
+  {
+   "id": "p-4b7c90d71f32-1",
+   "type": "para",
+   "text": "A lancha aproximava-se pela popa."
+  },
+  {
+   "id": "p-7acd1c70a20d-1",
+   "type": "para",
+   "text": "— Todos presos — ordenou Clara."
+  },
+  {
+   "id": "p-8abd0f62558e-1",
+   "type": "para",
+   "text": "Miguel amarrou Davi e Baltasar. Prendeu-se à base do mastro. Clara recusou corda para manter o leme livre; Miguel passou uma volta por sua cintura e segurou a ponta."
+  },
+  {
+   "id": "p-3485aa73d3ad-1",
+   "type": "para",
+   "text": "— Se eu cair, solte — disse ela."
+  },
+  {
+   "id": "p-401ac250c1a5-1",
+   "type": "para",
+   "text": "— Não."
+  },
+  {
+   "id": "p-f2d148afb3fb-1",
+   "type": "para",
+   "text": "— O barco vira se ficar preso."
+  },
+  {
+   "id": "p-f9d99522f40b-1",
+   "type": "para",
+   "text": "— Então não caia."
+  },
+  {
+   "id": "p-fb337150a956-1",
+   "type": "para",
+   "text": "A onda veio."
+  },
+  {
+   "id": "p-7edd9fb4d979-1",
+   "type": "para",
+   "text": "A Constância subiu pela face, inclinando até o convés parecer parede. No topo, Clara girou. O barco deslizou entre as pedras. A madeira raspou de um lado. Uma janela quebrou. Miguel perdeu os pés, mas a corda o reteve."
+  },
+  {
+   "id": "p-aef97b262318-1",
+   "type": "para",
+   "text": "A lancha tentou seguir."
+  },
+  {
+   "id": "p-3ca3827863af-1",
+   "type": "para",
+   "text": "Era pesada demais. Uma onda a lançou contra a primeira pedra. O casco abriu. Homens caíram na água."
+  },
+  {
+   "id": "p-c1faf3453f9e-1",
+   "type": "para",
+   "text": "— Continuamos! — gritou Baltasar."
+  },
+  {
+   "id": "p-dd9361d54e8e-1",
+   "type": "para",
+   "text": "Clara olhou para trás."
+  },
+  {
+   "id": "p-401ac250c1a5-2",
+   "type": "para",
+   "text": "— Não."
+  },
+  {
+   "id": "p-107b916880db-1",
+   "type": "para",
+   "text": "Girou a Constância."
+  },
+  {
+   "id": "p-e70b66d3c06a-1",
+   "type": "para",
+   "text": "— São homens de Severo — disse Davi."
+  },
+  {
+   "id": "p-85c47c1e1f8d-1",
+   "type": "para",
+   "text": "— E estão no mar — respondeu ela."
+  },
+  {
+   "id": "p-4233ba08b1e1-1",
+   "type": "para",
+   "text": "Voltaram."
+  },
+  {
+   "id": "p-ff9c90a56380-1",
+   "type": "para",
+   "text": "Resgataram quatro. Um tentara atirar neles minutos antes; agora Miguel o puxou pela mesma corda que cortara. O homem vomitou água no convés e começou a chorar."
+  },
+  {
+   "id": "p-d65a87729a96-1",
+   "type": "para",
+   "text": "— Por que voltou? — perguntou."
+  },
+  {
+   "id": "p-9597296f6693-1",
+   "type": "para",
+   "text": "— Porque você estava diante de nós — disse Miguel."
+  },
+  {
+   "id": "p-182309423585-1",
+   "type": "para",
+   "text": "Era a resposta de Gabriel, transmitida não como dívida, mas como direção."
+  },
+  {
+   "id": "p-a53509c6f8af-1",
+   "type": "para",
+   "text": "Deixaram os homens numa praia abrigada com sinalizador. Um deles entregou a Clara um mapa dos explosivos na gruta."
+  },
+  {
+   "id": "p-f907b39479dd-1",
+   "type": "para",
+   "text": "— Severo mandou derrubar a entrada depois que entrassem — confessou. — Não se importava se estivéssemos dentro."
+  },
+  {
+   "id": "p-3d33c78022d0-1",
+   "type": "para",
+   "text": "— E mesmo assim obedeceu? — perguntou Davi."
+  },
+  {
+   "id": "p-00f1a019280d-1",
+   "type": "para",
+   "text": "O homem olhou para a lancha destruída."
+  },
+  {
+   "id": "p-1fd0538d824a-1",
+   "type": "para",
+   "text": "— Sempre acreditamos que a ordem mata outra pessoa."
+  },
+  {
+   "id": "p-3209f53857e1-1",
+   "type": "para",
+   "text": "Quando a tormenta passou, a Constância estava danificada, mas ainda navegava. Clara devolveu o leme a Miguel."
+  },
+  {
+   "id": "p-d35d868fa586-1",
+   "type": "para",
+   "text": "— Você decide a direção — disse ele."
+  },
+  {
+   "id": "p-150de98fe344-1",
+   "type": "para",
+   "text": "— A gruta."
+  },
+  {
+   "id": "p-adab66a262b9-1",
+   "type": "para",
+   "text": "— Mesmo sabendo da armadilha?"
+  },
+  {
+   "id": "p-90d84cc8305f-1",
+   "type": "para",
+   "text": "— Agora temos o mapa dela."
+  },
+  {
+   "id": "p-de404d3dd6f1-1",
+   "type": "para",
+   "text": "Miguel sorriu."
+  },
+  {
+   "id": "p-8cc20559cf32-1",
+   "type": "para",
+   "text": "— A que admite onde estão as pedras."
+  },
+  {
+   "id": "p-2790db83ab7d-1",
+   "type": "para",
+   "text": "Clara entendeu a referência."
+  },
+  {
+   "id": "p-97fe98f5f6ae-1",
+   "type": "para",
+   "text": "Seguiram juntos."
+  }
+ ],
+ "provenance": "Edição Final do autor (.docx)",
+ "blocks_sha256": "e4846ee362142b70f11d15458f8367e3d34d76d6a2cd336002a97298647a7f2d"
 }

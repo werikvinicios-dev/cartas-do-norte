@@ -1,859 +1,381 @@
 {
-  "id": "ch4",
-  "type": "chapter",
-  "title": "A Constância inacabada",
-  "subtitle": null,
-  "part": "PARTE I — A COSTA",
-  "blocks": [
-    {
-      "id": "p-7ded097dc21a-1",
-      "type": "h2",
-      "text": "O verão da Constância"
-    },
-    {
-      "id": "p-8770bd5630bb-1",
-      "type": "para",
-      "text": "Miguel encontrou os desenhos de Gabriel no fundo da caixa de cedro."
-    },
-    {
-      "id": "p-a9f2ea25ab9f-1",
-      "type": "para",
-      "text": "Estavam dobrados sob as cartas, presos por uma fita desbotada. O primeiro mostrava apenas uma linha curva, feita tantas vezes que o grafite rasgara o papel. Nos seguintes, a linha se transformava num casco: quilha estreita, proa alta, popa suficiente para um pequeno motor. Gabriel desenhara setas indicando o caminho da água e acrescentara comentários nas margens."
-    },
-    {
-      "id": "p-263e00c9782c-1",
-      "type": "para",
-      "text": "*Mico diz que isto afunda.*"
-    },
-    {
-      "id": "p-126c407ab9e4-1",
-      "type": "para",
-      "text": "*Mico não entende nada.*"
-    },
-    {
-      "id": "p-389f007a8dcd-1",
-      "type": "para",
-      "text": "*Perguntar a Clara. Não contar a Mico se ela concordar.*"
-    },
-    {
-      "id": "p-bc4c4e1f0053-1",
-      "type": "para",
-      "text": "Miguel sentou-se no piso do quarto da luz."
-    },
-    {
-      "id": "p-c5e1b1bfff73-1",
-      "type": "para",
-      "text": "O verão retornou inteiro."
-    },
-    {
-      "id": "p-b1fffdd33753-1",
-      "type": "para",
-      "text": "Gabriel tinha dezenove anos, Clara quinze, Tomás dezoito e Miguel dezesseis. Durante três meses, acreditaram que construir um barco era apenas questão de encontrar madeira e recusar opiniões adultas."
-    },
-    {
-      "id": "p-0ecfdaee7184-1",
-      "type": "para",
-      "text": "Roubaram a primeira tábua de um depósito da Companhia. Tomás abriu o cadeado com uma chave que carregava o brasão dos Varela."
-    },
-    {
-      "id": "p-682301c34275-1",
-      "type": "para",
-      "text": "— Tecnicamente, não é roubo — disse. — Um dia tudo isto será meu."
-    },
-    {
-      "id": "p-311f6e9d9839-1",
-      "type": "para",
-      "text": "— Tecnicamente, isso torna você o único ladrão — respondeu Clara."
-    },
-    {
-      "id": "p-21b4e908a8de-1",
-      "type": "para",
-      "text": "Gabriel colocou a tábua no ombro."
-    },
-    {
-      "id": "p-7b86f2120f57-1",
-      "type": "para",
-      "text": "— Se alguém perguntar, estamos impedindo que o futuro proprietário tome decisões ruins."
-    },
-    {
-      "id": "p-b51bd8013352-1",
-      "type": "para",
-      "text": "Miguel caminhou atrás, carregando ferramentas. Era sempre ele quem levava o peso menos romântico das aventuras: cordas, martelos, comida, explicações. Gabriel dizia que era porque confiava nele. Miguel suspeitava que o irmão apenas percebera cedo como usar amor para distribuir trabalho."
-    },
-    {
-      "id": "p-344c831cd5d7-1",
-      "type": "para",
-      "text": "Construíram a primeira armação no galpão durante as madrugadas. Clara corrigia os ângulos. Tomás trazia material. Gabriel comandava. Miguel redesenhava tudo depois que os outros iam embora."
-    },
-    {
-      "id": "p-0a35a0159c1c-1",
-      "type": "para",
-      "text": "Jonas descobriu na quarta noite."
-    },
-    {
-      "id": "p-6aa1599a1b1d-1",
-      "type": "para",
-      "text": "Ficou à porta, segurando um lampião, enquanto os quatro tentavam esconder um casco de seis metros atrás dos próprios corpos."
-    },
-    {
-      "id": "p-e57561bfb0dc-1",
-      "type": "para",
-      "text": "— É uma mesa — disse Gabriel."
-    },
-    {
-      "id": "p-856b52df13dc-1",
-      "type": "para",
-      "text": "— Para uma família muito comprida — acrescentou Tomás."
-    },
-    {
-      "id": "p-938bf4708e7e-1",
-      "type": "para",
-      "text": "Jonas colocou o lampião na bancada."
-    },
-    {
-      "id": "p-7d5f40d0fb62-1",
-      "type": "para",
-      "text": "— A quilha está torta."
-    },
-    {
-      "id": "p-f40e19779cfa-1",
-      "type": "para",
-      "text": "Foi assim que entrou no projeto."
-    },
-    {
-      "id": "p-d85ebfc69c82-1",
-      "type": "para",
-      "text": "Lídia escolheu o nome semanas depois. Levou uma cesta de laranjas ao galpão e encontrou os cinco discutindo porque Gabriel queria aumentar a vela e Clara dizia que o mastro não suportaria."
-    },
-    {
-      "id": "p-0d43eb6083b4-1",
-      "type": "para",
-      "text": "— Chamem de Constância — sugeriu."
-    },
-    {
-      "id": "p-01e3507bf5f3-1",
-      "type": "para",
-      "text": "Todos riram."
-    },
-    {
-      "id": "p-8371f04d2f43-1",
-      "type": "para",
-      "text": "— O barco ou a virtude que falta? — perguntou Jonas."
-    },
-    {
-      "id": "p-5836ea4feeb5-1",
-      "type": "para",
-      "text": "— Os dois. Talvez um ensine o outro."
-    },
-    {
-      "id": "p-c5d45a3687d0-1",
-      "type": "para",
-      "text": "Na memória, Lídia estava saudável. Usava vestido azul e o cabelo preso com um pano branco. Miguel teve vontade de permanecer naquela tarde e avisá-la sobre todas as coisas que viriam. Não sabia se pediria que impedisse a construção, a amizade com Tomás ou a noite na ponta. Talvez apenas a abraçasse por mais tempo."
-    },
-    {
-      "id": "p-ed3fc0dde885-1",
-      "type": "para",
-      "text": "Gabriel tinha planos para o barco."
-    },
-    {
-      "id": "p-1a19b2021d2b-1",
-      "type": "para",
-      "text": "Levaria carga entre as ilhas sem depender da Companhia. Faria levantamentos para a Oficina Hidrográfica. Transportaria médicos, cartas e, em segredo, qualquer jovem das Salinas que precisasse fugir de um supervisor."
-    },
-    {
-      "id": "p-219908551599-1",
-      "type": "para",
-      "text": "— Quem pagará por toda essa bondade? — perguntou Tomás certa vez."
-    },
-    {
-      "id": "p-77a5401ebd1e-1",
-      "type": "para",
-      "text": "— Pessoas pagam para transportar peixe."
-    },
-    {
-      "id": "p-a4557bb65aab-1",
-      "type": "para",
-      "text": "— Peixe não sustenta heroísmo."
-    },
-    {
-      "id": "p-d08763532187-1",
-      "type": "para",
-      "text": "— Então transportamos peixe durante o dia e salvamos o mundo depois do jantar."
-    },
-    {
-      "id": "p-130e221f8a91-1",
-      "type": "para",
-      "text": "Tomás riu, mas não com desprezo."
-    },
-    {
-      "id": "p-b58ab289ac19-1",
-      "type": "para",
-      "text": "— Meu pai diz que todo homem generoso é alguém que ainda não recebeu a conta."
-    },
-    {
-      "id": "p-cca81ad33081-1",
-      "type": "para",
-      "text": "— Seu pai recebeu contas demais e achou que eram Escrituras — disse Jonas."
-    },
-    {
-      "id": "p-6edb26f154c6-1",
-      "type": "para",
-      "text": "A discussão terminou com Tomás indo embora. Gabriel correu atrás dele. Miguel permaneceu lixando uma tábua."
-    },
-    {
-      "id": "p-8795bb420555-1",
-      "type": "para",
-      "text": "— Você não gosta dele — disse ao avô."
-    },
-    {
-      "id": "p-48f7355b3685-1",
-      "type": "para",
-      "text": "— Gosto o suficiente para ter medo do que herdará."
-    },
-    {
-      "id": "p-0fb7a69fb02c-1",
-      "type": "para",
-      "text": "— Tomás não é Severo."
-    },
-    {
-      "id": "p-1388ed530d0f-1",
-      "type": "para",
-      "text": "— Não. Mas filhos passam metade da vida tentando não ser os pais e a outra metade descobrindo quais gestos aprenderam enquanto estavam distraídos."
-    },
-    {
-      "id": "p-bcfa98dfc3ae-1",
-      "type": "para",
-      "text": "Miguel não entendera. Agora pensou em si mesmo abrindo cartas deixadas por Jonas, seguindo uma rota que o avô escolhera, subindo os mesmos degraus."
-    },
-    {
-      "id": "p-b601335e300d-1",
-      "type": "para",
-      "text": "O dia mais feliz daquele verão foi o lançamento de um modelo em miniatura. Gabriel construíra uma versão da Constância do tamanho do braço de Davi. Todos foram à enseada. Clara pintou uma linha azul no casco. Tomás trouxe uma garrafa roubada da adega de Severo. Lídia levou pão com mel."
-    },
-    {
-      "id": "p-60da3380293b-1",
-      "type": "para",
-      "text": "O pequeno barco inclinou, encheu de água e afundou a três metros da praia."
-    },
-    {
-      "id": "p-88af6d49c5da-1",
-      "type": "para",
-      "text": "Gabriel entrou vestido para resgatar."
-    },
-    {
-      "id": "p-cc616aaf267c-1",
-      "type": "para",
-      "text": "— Um capitão não abandona sua embarcação — declarou, erguendo o brinquedo encharcado."
-    },
-    {
-      "id": "p-6becf073d675-1",
-      "type": "para",
-      "text": "— Nem quando a embarcação demonstra desejo claro de morrer? — perguntou Clara."
-    },
-    {
-      "id": "p-8d901ab87219-1",
-      "type": "para",
-      "text": "— Principalmente então."
-    },
-    {
-      "id": "p-35367c59cd14-1",
-      "type": "para",
-      "text": "Naquela noite, deitados sobre o telhado do galpão, Miguel e Gabriel observaram a luz do farol passar pelo céu."
-    },
-    {
-      "id": "p-7a80b59e6011-1",
-      "type": "para",
-      "text": "— Quando terminarmos, vamos embora — disse Gabriel."
-    },
-    {
-      "id": "p-997530ef9c86-1",
-      "type": "para",
-      "text": "— Para onde?"
-    },
-    {
-      "id": "p-bf12a8ddf434-1",
-      "type": "para",
-      "text": "— Norte."
-    },
-    {
-      "id": "p-2353756af716-1",
-      "type": "para",
-      "text": "— Norte é uma direção, não um lugar."
-    },
-    {
-      "id": "p-146340ccabd3-1",
-      "type": "para",
-      "text": "— Por isso serve. Lugares decepcionam quando chegamos. Direções continuam."
-    },
-    {
-      "id": "p-c4e110755532-1",
-      "type": "para",
-      "text": "— Clara vai?"
-    },
-    {
-      "id": "p-f7164f2b31e8-1",
-      "type": "para",
-      "text": "Gabriel permaneceu em silêncio tempo demais."
-    },
-    {
-      "id": "p-052239de8581-1",
-      "type": "para",
-      "text": "— Se quiser."
-    },
-    {
-      "id": "p-28503c3cb3b8-1",
-      "type": "para",
-      "text": "Miguel sentiu ciúme e não soube nomear. Amava Clara da maneira silenciosa de meninos que esperam que alguém descubra sem que precisem arriscar uma frase. Gabriel amava quase tudo em voz alta. Parecia inevitável que ela o escolhesse."
-    },
-    {
-      "id": "p-50cb92343898-1",
-      "type": "para",
-      "text": "— E Tomás?"
-    },
-    {
-      "id": "p-970c68ae7bcc-1",
-      "type": "para",
-      "text": "— Tomás nunca vai embora. Pessoas ricas confundem herança com destino."
-    },
-    {
-      "id": "p-a8a41a866db1-1",
-      "type": "para",
-      "text": "— E eu?"
-    },
-    {
-      "id": "p-100428cbdb37-1",
-      "type": "para",
-      "text": "Gabriel virou o rosto."
-    },
-    {
-      "id": "p-1ab830416f46-1",
-      "type": "para",
-      "text": "— Você desenha os mapas."
-    },
-    {
-      "id": "p-7a5d15807646-1",
-      "type": "para",
-      "text": "— Isso não respondeu."
-    },
-    {
-      "id": "p-edeea76a06f4-1",
-      "type": "para",
-      "text": "— Você vem comigo, Mico."
-    },
-    {
-      "id": "p-4d5780be9454-1",
-      "type": "para",
-      "text": "Miguel fingiu irritação com o apelido para esconder o alívio."
-    },
-    {
-      "id": "p-069def219af9-1",
-      "type": "para",
-      "text": "Na caixa, entre os desenhos, havia o mapa daquele plano impossível. Gabriel marcara rotas até todas as ilhas e deixara o continente em branco. No canto, Clara escrevera: *Antes de partir, terminar o barco.* Tomás acrescentara: *Antes de terminar, aprender a pagar.* Lídia desenhara uma âncora."
-    },
-    {
-      "id": "p-703f74072a97-1",
-      "type": "para",
-      "text": "Miguel passou os dedos pelas assinaturas."
-    },
-    {
-      "id": "p-92cfdfe20a4e-1",
-      "type": "para",
-      "text": "Na última folha, Jonas escrevera anos depois:"
-    },
-    {
-      "id": "p-0e7f00a32822-1",
-      "type": "para",
-      "text": "*Não terminei porque o barco pertencia ao futuro que perdemos. Retomei quando compreendi que madeira não tem culpa de sobreviver aos sonhos dos homens.*"
-    },
-    {
-      "id": "p-388f737b14ca-1",
-      "type": "para",
-      "text": "Miguel dobrou os desenhos."
-    },
-    {
-      "id": "p-84a9ce05f942-1",
-      "type": "para",
-      "text": "Ao descer da torre, ouviu Gabriel rir outra vez no galpão. Sabia que era memória. Ainda assim, parou na escada até o som terminar."
-    },
-    {
-      "id": "p-ed4c40488382-1",
-      "type": "h2",
-      "text": "O barco que não terminava"
-    },
-    {
-      "id": "p-601d7d659d87-1",
-      "type": "para",
-      "text": "A Constância parecia um animal grande que alguém abrira para estudar e esquecera de fechar."
-    },
-    {
-      "id": "p-6c6f00a2f3c5-1",
-      "type": "para",
-      "text": "O casco ocupava o centro do antigo galpão dos Vale, sustentado por cavaletes. Parte das tábuas fora substituída; outras exibiam marcas de giz e pequenos pregos alinhados. O motor estava desmontado sobre uma bancada. Velas dobradas pendiam das vigas como roupas de fantasmas."
-    },
-    {
-      "id": "p-99fa319725d5-1",
-      "type": "para",
-      "text": "Baltasar Rocha dormia embaixo do barco."
-    },
-    {
-      "id": "p-52b8416a6ce1-1",
-      "type": "para",
-      "text": "Miguel o encontrou com um chapéu sobre o rosto e uma chave inglesa apoiada no peito. Ao lado, uma caneca vazia cheirava a café. Não havia cheiro de álcool. Miguel registrou isso antes de se censurar por ter procurado."
-    },
-    {
-      "id": "p-02840649fcdf-1",
-      "type": "para",
-      "text": "— Balu."
-    },
-    {
-      "id": "p-b305164ad17a-1",
-      "type": "para",
-      "text": "O velho não se moveu."
-    },
-    {
-      "id": "p-e5d75bde19d9-1",
-      "type": "para",
-      "text": "— O galpão está pegando fogo."
-    },
-    {
-      "id": "p-ee44f88df460-1",
-      "type": "para",
-      "text": "— Molhe as bordas e deixe o meio queimar — respondeu Baltasar sob o chapéu. — É onde estão as contas."
-    },
-    {
-      "id": "p-66eb5d919ef8-1",
-      "type": "para",
-      "text": "Miguel chutou de leve a sola de sua bota."
-    },
-    {
-      "id": "p-381929a523a8-1",
-      "type": "para",
-      "text": "Baltasar retirou o chapéu. Tinha o rosto largo, uma barba que nunca decidira entre branca e cinza e olhos surpreendentemente claros. Levou dois segundos para reconhecer Miguel. No terceiro, levantou-se rápido demais, bateu a cabeça no casco e praguejou com criatividade."
-    },
-    {
-      "id": "p-f09ae5880a23-1",
-      "type": "para",
-      "text": "Então o abraçou."
-    },
-    {
-      "id": "p-a703325c3f4e-1",
-      "type": "para",
-      "text": "Miguel ficou com os braços presos ao corpo."
-    },
-    {
-      "id": "p-f2ff60b37820-1",
-      "type": "para",
-      "text": "— Você está vivo — disse Baltasar."
-    },
-    {
-      "id": "p-c42043d0023b-1",
-      "type": "para",
-      "text": "— É o diagnóstico mais otimista que recebi este mês."
-    },
-    {
-      "id": "p-824a13cd73d1-1",
-      "type": "para",
-      "text": "O velho o soltou e segurou seu rosto entre as mãos."
-    },
-    {
-      "id": "p-7e59cc007f91-1",
-      "type": "para",
-      "text": "— Está magro."
-    },
-    {
-      "id": "p-fad782e3eebd-1",
-      "type": "para",
-      "text": "— Você está redondo."
-    },
-    {
-      "id": "p-467ed0c69b87-1",
-      "type": "para",
-      "text": "— Graça de Deus. Ele preenche o que o mundo esvazia."
-    },
-    {
-      "id": "p-bed857301bf0-1",
-      "type": "para",
-      "text": "— Isso é bolo, Balu."
-    },
-    {
-      "id": "p-6a1e3ebcccb4-1",
-      "type": "para",
-      "text": "— Deus usa meios ordinários."
-    },
-    {
-      "id": "p-82b95f540fa0-1",
-      "type": "para",
-      "text": "Miguel riu. A risada o pegou desprevenido e terminou quase como um soluço."
-    },
-    {
-      "id": "p-12f3d941b94d-1",
-      "type": "para",
-      "text": "Baltasar fingiu não notar."
-    },
-    {
-      "id": "p-57d5ec9404a9-1",
-      "type": "para",
-      "text": "— Jonas disse que você terminaria o barco — falou Miguel."
-    },
-    {
-      "id": "p-1d23c2fbe2f3-1",
-      "type": "para",
-      "text": "— Jonas dizia muitas coisas na esperança de que a morte as transformasse em ordens."
-    },
-    {
-      "id": "p-9e1df0d1e208-1",
-      "type": "para",
-      "text": "— Está em condições de navegar?"
-    },
-    {
-      "id": "p-a55e959a65e6-1",
-      "type": "para",
-      "text": "— Tudo navega uma vez."
-    },
-    {
-      "id": "p-8a50ea9bff96-1",
-      "type": "para",
-      "text": "— E duas?"
-    },
-    {
-      "id": "p-31322d33ff72-1",
-      "type": "para",
-      "text": "— Aí precisamos conversar sobre dinheiro."
-    },
-    {
-      "id": "p-d349157be954-1",
-      "type": "para",
-      "text": "Miguel percorreu o casco com a mão. A Constância fora iniciada por Gabriel e Jonas no verão anterior ao naufrágio. Seria um barco de pesquisa e carga leve, veloz o bastante para atravessar as ilhas e pequeno o bastante para entrar nas enseadas. Depois da morte de Gabriel, Jonas a deixara apodrecer por uma década. Retomara o trabalho quando Lídia adoeceu, sem explicar por quê."
-    },
-    {
-      "id": "p-5891ce2f8807-1",
-      "type": "para",
-      "text": "— Quero vendê-la."
-    },
-    {
-      "id": "p-d725abea529d-1",
-      "type": "para",
-      "text": "Baltasar virou-se para a bancada e começou a organizar ferramentas que já estavam organizadas."
-    },
-    {
-      "id": "p-401ac250c1a5-1",
-      "type": "para",
-      "text": "— Não."
-    },
-    {
-      "id": "p-9272e758b12a-1",
-      "type": "para",
-      "text": "— Não pedi permissão."
-    },
-    {
-      "id": "p-83af889936c2-1",
-      "type": "para",
-      "text": "— Ainda assim recebeu uma resposta."
-    },
-    {
-      "id": "p-91e1dfb4b2f4-1",
-      "type": "para",
-      "text": "— A casa, o farol e o barco são meus."
-    },
-    {
-      "id": "p-5d3577bea089-1",
-      "type": "para",
-      "text": "— O mar não reconhece escrituras de propriedade."
-    },
-    {
-      "id": "p-eb3c79cd1936-1",
-      "type": "para",
-      "text": "— Um comprador reconhece."
-    },
-    {
-      "id": "p-3a8d399ee642-1",
-      "type": "para",
-      "text": "Baltasar colocou uma chave sobre a outra com precisão excessiva."
-    },
-    {
-      "id": "p-185862cb5dbc-1",
-      "type": "para",
-      "text": "— Encontrou a caixa?"
-    },
-    {
-      "id": "p-ba7fb94b165b-1",
-      "type": "para",
-      "text": "Miguel observou-o."
-    },
-    {
-      "id": "p-6d2eec01ee28-1",
-      "type": "para",
-      "text": "— Você sabia."
-    },
-    {
-      "id": "p-9b0a2ccc2876-1",
-      "type": "para",
-      "text": "— Eu ajudei a carregar. Não sei o que há dentro."
-    },
-    {
-      "id": "p-0ee1cb02e60a-1",
-      "type": "para",
-      "text": "— Doze cartas."
-    },
-    {
-      "id": "p-0270ce86d2bc-1",
-      "type": "para",
-      "text": "A mão de Baltasar parou."
-    },
-    {
-      "id": "p-e48e9e1e5cad-1",
-      "type": "para",
-      "text": "— E um diário — completou Miguel. — Com seu nome."
-    },
-    {
-      "id": "p-dea7f8d33d5a-1",
-      "type": "para",
-      "text": "O velho retomou o movimento."
-    },
-    {
-      "id": "p-9dd90aad8b90-1",
-      "type": "para",
-      "text": "— Jonas gostava de escrever sobre meus defeitos. Precisava de vários cadernos."
-    },
-    {
-      "id": "p-8282badf975a-1",
-      "type": "para",
-      "text": "— O que aconteceu na Ponta do Corvo?"
-    },
-    {
-      "id": "p-5044eae9109f-1",
-      "type": "para",
-      "text": "Uma ferramenta caiu no chão."
-    },
-    {
-      "id": "p-b90f17c5fae5-1",
-      "type": "para",
-      "text": "O som foi nítido demais."
-    },
-    {
-      "id": "p-daa2ff43c5a6-1",
-      "type": "para",
-      "text": "Baltasar se abaixou para pegá-la."
-    },
-    {
-      "id": "p-2fb464df679b-1",
-      "type": "para",
-      "text": "— Muitas coisas aconteceram naquela noite."
-    },
-    {
-      "id": "p-6a314303ecd9-1",
-      "type": "para",
-      "text": "— Havia uma segunda luz."
-    },
-    {
-      "id": "p-9900a19afafa-1",
-      "type": "para",
-      "text": "— Havia névoa."
-    },
-    {
-      "id": "p-a22188821ec7-1",
-      "type": "para",
-      "text": "— Ana Moura tem o diário do marido. O avô disse que viu a luz."
-    },
-    {
-      "id": "p-c8e0be4eb23e-1",
-      "type": "para",
-      "text": "— Então você deveria falar com Ana."
-    },
-    {
-      "id": "p-4075c8021682-1",
-      "type": "para",
-      "text": "— Estou falando com você."
-    },
-    {
-      "id": "p-a3e046b8f182-1",
-      "type": "para",
-      "text": "Baltasar finalmente o encarou."
-    },
-    {
-      "id": "p-62a1e66786ca-1",
-      "type": "para",
-      "text": "— E eu estou dizendo para não começar uma viagem exigindo que outras pessoas caminhem por lugares que você ainda não teve coragem de pisar."
-    },
-    {
-      "id": "p-5913d553146f-1",
-      "type": "para",
-      "text": "— Isso também é linguagem de pastor?"
-    },
-    {
-      "id": "p-ded6227d6bf0-1",
-      "type": "para",
-      "text": "— Não. É linguagem de velho cansado."
-    },
-    {
-      "id": "p-076c6c947463-1",
-      "type": "para",
-      "text": "Um ruído veio do outro lado do casco."
-    },
-    {
-      "id": "p-6505fa88564c-1",
-      "type": "para",
-      "text": "Miguel contornou a proa e encontrou Davi tentando retirar a bússola da caixa que ele deixara sobre uma mesa."
-    },
-    {
-      "id": "p-4b0ac8f99793-1",
-      "type": "para",
-      "text": "— Outra vez?"
-    },
-    {
-      "id": "p-e6721a6166d4-1",
-      "type": "para",
-      "text": "O menino apertou o instrumento contra o peito."
-    },
-    {
-      "id": "p-32764bbacef5-1",
-      "type": "para",
-      "text": "— Ela é minha."
-    },
-    {
-      "id": "p-507655d0166e-1",
-      "type": "para",
-      "text": "— Estava numa caixa acorrentada ao chão da minha casa."
-    },
-    {
-      "id": "p-b27d00085a19-1",
-      "type": "para",
-      "text": "— Antes disso."
-    },
-    {
-      "id": "p-cdb75d746a85-1",
-      "type": "para",
-      "text": "— Davi — advertiu Baltasar."
-    },
-    {
-      "id": "p-f4c9a5fa7af0-1",
-      "type": "para",
-      "text": "— Jonas prometeu."
-    },
-    {
-      "id": "p-71ff6c283318-1",
-      "type": "para",
-      "text": "— Jonas prometeu coisas demais para quem estava prestes a morrer — disse Miguel. — Devolva."
-    },
-    {
-      "id": "p-88c99456094c-1",
-      "type": "para",
-      "text": "Davi recuou. A porta do galpão abriu atrás dele e Clara entrou, trazendo uma cesta coberta por pano."
-    },
-    {
-      "id": "p-7f6a2c006102-1",
-      "type": "para",
-      "text": "O menino correu em sua direção. Clara estendeu o braço sem sequer olhar e o segurou pela gola."
-    },
-    {
-      "id": "p-948412737b4b-1",
-      "type": "para",
-      "text": "— A regra é simples — disse ela. — Quando alguém entra correndo num lugar e outra pessoa grita “devolva”, segure quem está correndo."
-    },
-    {
-      "id": "p-7a62d07d9255-1",
-      "type": "para",
-      "text": "— Regras simples prendem inocentes — protestou Davi."
-    },
-    {
-      "id": "p-eb9b808d20fb-1",
-      "type": "para",
-      "text": "— E ladrões ruins."
-    },
-    {
-      "id": "p-a8163ef457ad-1",
-      "type": "para",
-      "text": "Ela retirou a bússola das mãos dele e a examinou. Quando viu a rachadura no vidro, sua expressão mudou."
-    },
-    {
-      "id": "p-8cc1cd47b1c6-1",
-      "type": "para",
-      "text": "— Onde encontrou isto?"
-    },
-    {
-      "id": "p-bd7f3c2399ba-1",
-      "type": "para",
-      "text": "— Na caixa de Jonas — respondeu Miguel."
-    },
-    {
-      "id": "p-a832ffce560b-1",
-      "type": "para",
-      "text": "Clara virou o instrumento. Na parte de trás, quase apagada, havia uma gravação: E.M."
-    },
-    {
-      "id": "p-85b1f2000adc-1",
-      "type": "para",
-      "text": "Elias Moura."
-    },
-    {
-      "id": "p-4f9728f7f0a8-1",
-      "type": "para",
-      "text": "O galpão ficou silencioso."
-    },
-    {
-      "id": "p-6dd3b6e022c3-1",
-      "type": "para",
-      "text": "— Era do meu pai — disse Clara."
-    },
-    {
-      "id": "p-495e96767000-1",
-      "type": "para",
-      "text": "Miguel olhou para Davi. O rapaz se soltou da gola, agora sem precisar lutar."
-    },
-    {
-      "id": "p-e2b73dc403d2-1",
-      "type": "para",
-      "text": "— Minha mãe me deu — falou. — Disse que o homem que a tirou da água colocou isso na mão dela. Quando ela morreu, Jonas tomou de mim."
-    },
-    {
-      "id": "p-3d87198e8b62-1",
-      "type": "para",
-      "text": "— Gabriel — disse Baltasar."
-    },
-    {
-      "id": "p-a204612a8d27-1",
-      "type": "para",
-      "text": "Foi a primeira vez que alguém pronunciou o nome desde o funeral."
-    },
-    {
-      "id": "p-1ef303f97dea-1",
-      "type": "para",
-      "text": "Davi apontou para a bússola."
-    },
-    {
-      "id": "p-b59ae9f3ee5c-1",
-      "type": "para",
-      "text": "— Gabriel salvou minha mãe. Jonas disse que um dia eu deveria entregá-la ao homem certo. Não a ele."
-    },
-    {
-      "id": "p-65b7b622e9ed-1",
-      "type": "para",
-      "text": "Olhou para Miguel."
-    },
-    {
-      "id": "p-914362dca47e-1",
-      "type": "para",
-      "text": "— E definitivamente não a você."
-    },
-    {
-      "id": "p-ffa69908d264-1",
-      "type": "para",
-      "text": "Clara fechou os dedos ao redor da bússola do pai."
-    },
-    {
-      "id": "p-1d52ba705ebf-1",
-      "type": "para",
-      "text": "— Acho — disse ela — que todos nós precisamos conversar."
-    }
-  ],
-  "provenance": {
-    "source": "production-v4:manifests/chapters.json",
-    "original_chapter_ids": [
-      4,
-      5
-    ],
-    "source_pdf_page": 50,
-    "verification": "structured-source"
+ "id": "ch4",
+ "type": "chapter",
+ "title": "O verão da Constância",
+ "subtitle": "",
+ "part": "PARTE I — A COSTA",
+ "blocks": [
+  {
+   "id": "p-7ded097dc21a-1",
+   "type": "h2",
+   "text": "O verão da Constância"
   },
-  "blocks_sha256": "b306936e21b6fbe07c3149c9cee6539c06555be13116aa9697b4624ba23db4b2"
+  {
+   "id": "p-8770bd5630bb-1",
+   "type": "para",
+   "text": "Miguel encontrou os desenhos de Gabriel no fundo da caixa de cedro."
+  },
+  {
+   "id": "p-a9f2ea25ab9f-1",
+   "type": "para",
+   "text": "Estavam dobrados sob as cartas, presos por uma fita desbotada. O primeiro mostrava apenas uma linha curva, feita tantas vezes que o grafite rasgara o papel. Nos seguintes, a linha se transformava num casco: quilha estreita, proa alta, popa suficiente para um pequeno motor. Gabriel desenhara setas indicando o caminho da água e acrescentara comentários nas margens."
+  },
+  {
+   "id": "p-263e00c9782c-1",
+   "type": "para",
+   "text": "*Mico diz que isto afunda.*"
+  },
+  {
+   "id": "p-126c407ab9e4-1",
+   "type": "para",
+   "text": "*Mico não entende nada.*"
+  },
+  {
+   "id": "p-389f007a8dcd-1",
+   "type": "para",
+   "text": "*Perguntar a Clara. Não contar a Mico se ela concordar.*"
+  },
+  {
+   "id": "p-bc4c4e1f0053-1",
+   "type": "para",
+   "text": "Miguel sentou-se no piso do quarto da luz."
+  },
+  {
+   "id": "p-c5e1b1bfff73-1",
+   "type": "para",
+   "text": "O verão retornou inteiro."
+  },
+  {
+   "id": "p-b1fffdd33753-1",
+   "type": "para",
+   "text": "Gabriel tinha dezenove anos, Clara quinze, Tomás dezoito e Miguel dezesseis. Durante três meses, acreditaram que construir um barco era apenas questão de encontrar madeira e recusar opiniões adultas."
+  },
+  {
+   "id": "p-0ecfdaee7184-1",
+   "type": "para",
+   "text": "Roubaram a primeira tábua de um depósito da Companhia. Tomás abriu o cadeado com uma chave que carregava o brasão dos Varela."
+  },
+  {
+   "id": "p-682301c34275-1",
+   "type": "para",
+   "text": "— Tecnicamente, não é roubo — disse. — Um dia tudo isto será meu."
+  },
+  {
+   "id": "p-311f6e9d9839-1",
+   "type": "para",
+   "text": "— Tecnicamente, isso torna você o único ladrão — respondeu Clara."
+  },
+  {
+   "id": "p-21b4e908a8de-1",
+   "type": "para",
+   "text": "Gabriel colocou a tábua no ombro."
+  },
+  {
+   "id": "p-7b86f2120f57-1",
+   "type": "para",
+   "text": "— Se alguém perguntar, estamos impedindo que o futuro proprietário tome decisões ruins."
+  },
+  {
+   "id": "p-b51bd8013352-1",
+   "type": "para",
+   "text": "Miguel caminhou atrás, carregando ferramentas. Era sempre ele quem levava o peso menos romântico das aventuras: cordas, martelos, comida, explicações. Gabriel dizia que era porque confiava nele. Miguel suspeitava que o irmão apenas percebera cedo como usar amor para distribuir trabalho."
+  },
+  {
+   "id": "p-344c831cd5d7-1",
+   "type": "para",
+   "text": "Construíram a primeira armação no galpão durante as madrugadas. Clara corrigia os ângulos. Tomás trazia material. Gabriel comandava. Miguel redesenhava tudo depois que os outros iam embora."
+  },
+  {
+   "id": "p-0a35a0159c1c-1",
+   "type": "para",
+   "text": "Jonas descobriu na quarta noite."
+  },
+  {
+   "id": "p-6aa1599a1b1d-1",
+   "type": "para",
+   "text": "Ficou à porta, segurando um lampião, enquanto os quatro tentavam esconder um casco de seis metros atrás dos próprios corpos."
+  },
+  {
+   "id": "p-e57561bfb0dc-1",
+   "type": "para",
+   "text": "— É uma mesa — disse Gabriel."
+  },
+  {
+   "id": "p-856b52df13dc-1",
+   "type": "para",
+   "text": "— Para uma família muito comprida — acrescentou Tomás."
+  },
+  {
+   "id": "p-938bf4708e7e-1",
+   "type": "para",
+   "text": "Jonas colocou o lampião na bancada."
+  },
+  {
+   "id": "p-7d5f40d0fb62-1",
+   "type": "para",
+   "text": "— A quilha está torta."
+  },
+  {
+   "id": "p-f40e19779cfa-1",
+   "type": "para",
+   "text": "Foi assim que entrou no projeto."
+  },
+  {
+   "id": "p-d85ebfc69c82-1",
+   "type": "para",
+   "text": "Lídia escolheu o nome semanas depois. Levou uma cesta de laranjas ao galpão e encontrou os cinco discutindo porque Gabriel queria aumentar a vela e Clara dizia que o mastro não suportaria."
+  },
+  {
+   "id": "p-0d43eb6083b4-1",
+   "type": "para",
+   "text": "— Chamem de Constância — sugeriu."
+  },
+  {
+   "id": "p-01e3507bf5f3-1",
+   "type": "para",
+   "text": "Todos riram."
+  },
+  {
+   "id": "p-8371f04d2f43-1",
+   "type": "para",
+   "text": "— O barco ou a virtude que falta? — perguntou Jonas."
+  },
+  {
+   "id": "p-5836ea4feeb5-1",
+   "type": "para",
+   "text": "— Os dois. Talvez um ensine o outro."
+  },
+  {
+   "id": "p-c5d45a3687d0-1",
+   "type": "para",
+   "text": "Na memória, Lídia estava saudável. Usava vestido azul e o cabelo preso com um pano branco. Miguel teve vontade de permanecer naquela tarde e avisá-la sobre todas as coisas que viriam. Não sabia se pediria que impedisse a construção, a amizade com Tomás ou a noite na ponta. Talvez apenas a abraçasse por mais tempo."
+  },
+  {
+   "id": "p-ed3fc0dde885-1",
+   "type": "para",
+   "text": "Gabriel tinha planos para o barco."
+  },
+  {
+   "id": "p-1a19b2021d2b-1",
+   "type": "para",
+   "text": "Levaria carga entre as ilhas sem depender da Companhia. Faria levantamentos para a Oficina Hidrográfica. Transportaria médicos, cartas e, em segredo, qualquer jovem das Salinas que precisasse fugir de um supervisor."
+  },
+  {
+   "id": "p-219908551599-1",
+   "type": "para",
+   "text": "— Quem pagará por toda essa bondade? — perguntou Tomás certa vez."
+  },
+  {
+   "id": "p-77a5401ebd1e-1",
+   "type": "para",
+   "text": "— Pessoas pagam para transportar peixe."
+  },
+  {
+   "id": "p-a4557bb65aab-1",
+   "type": "para",
+   "text": "— Peixe não sustenta heroísmo."
+  },
+  {
+   "id": "p-d08763532187-1",
+   "type": "para",
+   "text": "— Então transportamos peixe durante o dia e salvamos o mundo depois do jantar."
+  },
+  {
+   "id": "p-130e221f8a91-1",
+   "type": "para",
+   "text": "Tomás riu, mas não com desprezo."
+  },
+  {
+   "id": "p-b58ab289ac19-1",
+   "type": "para",
+   "text": "— Meu pai diz que todo homem generoso é alguém que ainda não recebeu a conta."
+  },
+  {
+   "id": "p-cca81ad33081-1",
+   "type": "para",
+   "text": "— Seu pai recebeu contas demais e achou que eram Escrituras — disse Jonas."
+  },
+  {
+   "id": "p-6edb26f154c6-1",
+   "type": "para",
+   "text": "A discussão terminou com Tomás indo embora. Gabriel correu atrás dele. Miguel permaneceu lixando uma tábua."
+  },
+  {
+   "id": "p-8795bb420555-1",
+   "type": "para",
+   "text": "— Você não gosta dele — disse ao avô."
+  },
+  {
+   "id": "p-48f7355b3685-1",
+   "type": "para",
+   "text": "— Gosto o suficiente para ter medo do que herdará."
+  },
+  {
+   "id": "p-0fb7a69fb02c-1",
+   "type": "para",
+   "text": "— Tomás não é Severo."
+  },
+  {
+   "id": "p-1388ed530d0f-1",
+   "type": "para",
+   "text": "— Não. Mas filhos passam metade da vida tentando não ser os pais e a outra metade descobrindo quais gestos aprenderam enquanto estavam distraídos."
+  },
+  {
+   "id": "p-bcfa98dfc3ae-1",
+   "type": "para",
+   "text": "Miguel não entendera. Agora pensou em si mesmo abrindo cartas deixadas por Jonas, seguindo uma rota que o avô escolhera, subindo os mesmos degraus."
+  },
+  {
+   "id": "p-b601335e300d-1",
+   "type": "para",
+   "text": "O dia mais feliz daquele verão foi o lançamento de um modelo em miniatura. Gabriel construíra uma versão da Constância do tamanho do braço de Davi. Todos foram à enseada. Clara pintou uma linha azul no casco. Tomás trouxe uma garrafa roubada da adega de Severo. Lídia levou pão com mel."
+  },
+  {
+   "id": "p-60da3380293b-1",
+   "type": "para",
+   "text": "O pequeno barco inclinou, encheu de água e afundou a três metros da praia."
+  },
+  {
+   "id": "p-88af6d49c5da-1",
+   "type": "para",
+   "text": "Gabriel entrou vestido para resgatar."
+  },
+  {
+   "id": "p-cc616aaf267c-1",
+   "type": "para",
+   "text": "— Um capitão não abandona sua embarcação — declarou, erguendo o brinquedo encharcado."
+  },
+  {
+   "id": "p-6becf073d675-1",
+   "type": "para",
+   "text": "— Nem quando a embarcação demonstra desejo claro de morrer? — perguntou Clara."
+  },
+  {
+   "id": "p-8d901ab87219-1",
+   "type": "para",
+   "text": "— Principalmente então."
+  },
+  {
+   "id": "p-35367c59cd14-1",
+   "type": "para",
+   "text": "Naquela noite, deitados sobre o telhado do galpão, Miguel e Gabriel observaram a luz do farol passar pelo céu."
+  },
+  {
+   "id": "p-7a80b59e6011-1",
+   "type": "para",
+   "text": "— Quando terminarmos, vamos embora — disse Gabriel."
+  },
+  {
+   "id": "p-997530ef9c86-1",
+   "type": "para",
+   "text": "— Para onde?"
+  },
+  {
+   "id": "p-bf12a8ddf434-1",
+   "type": "para",
+   "text": "— Norte."
+  },
+  {
+   "id": "p-2353756af716-1",
+   "type": "para",
+   "text": "— Norte é uma direção, não um lugar."
+  },
+  {
+   "id": "p-146340ccabd3-1",
+   "type": "para",
+   "text": "— Por isso serve. Lugares decepcionam quando chegamos. Direções continuam."
+  },
+  {
+   "id": "p-c4e110755532-1",
+   "type": "para",
+   "text": "— Clara vai?"
+  },
+  {
+   "id": "p-f7164f2b31e8-1",
+   "type": "para",
+   "text": "Gabriel permaneceu em silêncio tempo demais."
+  },
+  {
+   "id": "p-052239de8581-1",
+   "type": "para",
+   "text": "— Se quiser."
+  },
+  {
+   "id": "p-28503c3cb3b8-1",
+   "type": "para",
+   "text": "Miguel sentiu ciúme e não soube nomear. Amava Clara da maneira silenciosa de meninos que esperam que alguém descubra sem que precisem arriscar uma frase. Gabriel amava quase tudo em voz alta. Parecia inevitável que ela o escolhesse."
+  },
+  {
+   "id": "p-50cb92343898-1",
+   "type": "para",
+   "text": "— E Tomás?"
+  },
+  {
+   "id": "p-970c68ae7bcc-1",
+   "type": "para",
+   "text": "— Tomás nunca vai embora. Pessoas ricas confundem herança com destino."
+  },
+  {
+   "id": "p-a8a41a866db1-1",
+   "type": "para",
+   "text": "— E eu?"
+  },
+  {
+   "id": "p-100428cbdb37-1",
+   "type": "para",
+   "text": "Gabriel virou o rosto."
+  },
+  {
+   "id": "p-1ab830416f46-1",
+   "type": "para",
+   "text": "— Você desenha os mapas."
+  },
+  {
+   "id": "p-7a5d15807646-1",
+   "type": "para",
+   "text": "— Isso não respondeu."
+  },
+  {
+   "id": "p-edeea76a06f4-1",
+   "type": "para",
+   "text": "— Você vem comigo, Mico."
+  },
+  {
+   "id": "p-4d5780be9454-1",
+   "type": "para",
+   "text": "Miguel fingiu irritação com o apelido para esconder o alívio."
+  },
+  {
+   "id": "p-069def219af9-1",
+   "type": "para",
+   "text": "Na caixa, entre os desenhos, havia o mapa daquele plano impossível. Gabriel marcara rotas até todas as ilhas e deixara o continente em branco. No canto, Clara escrevera: *Antes de partir, terminar o barco.* Tomás acrescentara: *Antes de terminar, aprender a pagar.* Lídia desenhara uma âncora."
+  },
+  {
+   "id": "p-703f74072a97-1",
+   "type": "para",
+   "text": "Miguel passou os dedos pelas assinaturas."
+  },
+  {
+   "id": "p-92cfdfe20a4e-1",
+   "type": "para",
+   "text": "Na última folha, Jonas escrevera anos depois:"
+  },
+  {
+   "id": "p-0e7f00a32822-1",
+   "type": "para",
+   "text": "*Não terminei porque o barco pertencia ao futuro que perdemos. Retomei quando compreendi que madeira não tem culpa de sobreviver aos sonhos dos homens.*"
+  },
+  {
+   "id": "p-388f737b14ca-1",
+   "type": "para",
+   "text": "Miguel dobrou os desenhos."
+  },
+  {
+   "id": "p-84a9ce05f942-1",
+   "type": "para",
+   "text": "Ao descer da torre, ouviu Gabriel rir outra vez no galpão. Sabia que era memória. Ainda assim, parou na escada até o som terminar."
+  }
+ ],
+ "provenance": "Edição Final do autor (.docx)",
+ "blocks_sha256": "994ddbb8ee150fd51e323d47677892adbf06205ae2c6868a41d9b724e905aa84"
 }

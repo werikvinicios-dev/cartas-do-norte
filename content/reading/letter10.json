@@ -1,73 +1,76 @@
 {
-  "id": "letter10",
-  "type": "letter",
-  "title": "Carta X",
-  "subtitle": null,
-  "part": "PARTE III — A TEMPESTADE",
-  "blocks": [
-    {
-      "id": "p-885b9f3f4298-1",
-      "type": "para",
-      "text": "Para Gabriel Vale"
-    },
-    {
-      "id": "p-9b728383c1f1-1",
-      "type": "para",
-      "text": "Meu menino,"
-    },
-    {
-      "id": "p-d1750764e8b8-1",
-      "type": "para",
-      "text": "Não sei se cartas atravessam a morte. Minha teologia diz que não precisamos delas onde você está. Meu coração continua escrevendo."
-    },
-    {
-      "id": "p-a6838865f5e0-1",
-      "type": "para",
-      "text": "Transformei você num herói depois que morreu. Foi outra forma de não lembrar do filho inteiro. O herói não roubava açúcar, não mentia sobre os peixes, não tratava Miguel com crueldade quando tinha ciúme. O herói não tinha medo do escuro. Você tinha. Entrou no mar com medo mesmo assim."
-    },
-    {
-      "id": "p-cbcab15c7bb2-1",
-      "type": "para",
-      "text": "Protegi Miguel porque perder os dois me pareceu impossível. Não percebi que a mentira também o levaria de nós, apenas mais devagar. Ele viveu dezessete anos acreditando que a própria memória escondia um monstro. Eu o amei de uma maneira que não confiava em Deus, na verdade ou no homem que ele poderia se tornar."
-    },
-    {
-      "id": "p-89535a5c1d7e-1",
-      "type": "para",
-      "text": "Sei que Cristo o recebeu não porque morreu salvando pessoas, mas porque nenhum de nós é recebido pelo tamanho do último ato. Ainda assim, agradeço pelo que fez. Sara viveu. Davi nasceu. Doze pessoas voltaram para casa levando pedaços de sua coragem."
-    },
-    {
-      "id": "p-3700e3935669-1",
-      "type": "para",
-      "text": "Eu deveria ter contado. Deveria ter permitido que a justiça alcançasse a Companhia, que a graça alcançasse Miguel e que as famílias conhecessem seus mortos. Arrependi-me cedo e obedeci tarde."
-    },
-    {
-      "id": "p-24d3762baaa1-1",
-      "type": "para",
-      "text": "Quando eu chegar, talvez você pergunte por que demorei."
-    },
-    {
-      "id": "p-97ec9efb94a3-1",
-      "type": "para",
-      "text": "Não tenho resposta digna."
-    },
-    {
-      "id": "p-b573683a3c48-1",
-      "type": "para",
-      "text": "Seu avô,"
-    },
-    {
-      "id": "p-9b67e15f271a-1",
-      "type": "para",
-      "text": "Jonas"
-    }
-  ],
-  "provenance": {
-    "source": "collector-v4-reading-pdf",
-    "source_pdf_pages": [
-      403,
-      404
-    ],
-    "verification": "pdf-extracted-needs-human-paragraph-proof"
+ "id": "letter10",
+ "type": "letter",
+ "title": "Carta X",
+ "subtitle": "Para Gabriel Vale",
+ "part": "PARTE III — A TEMPESTADE",
+ "blocks": [
+  {
+   "id": "p-850b8e461df0-1",
+   "type": "rule",
+   "text": "✧"
   },
-  "blocks_sha256": "71c0fbe6bace2e17131556691ab14cf72eb5b785c673d9dde729a025cd9a395c"
+  {
+   "id": "p-5207a3dbb0ec-1",
+   "type": "para",
+   "text": "*Meu menino,*"
+  },
+  {
+   "id": "p-77f62047fc8e-1",
+   "type": "para",
+   "text": "*Não sei se cartas atravessam a morte. Minha teologia diz que não precisamos delas onde você está. Meu coração continua escrevendo.*"
+  },
+  {
+   "id": "p-33f2db86a305-1",
+   "type": "para",
+   "text": "*Transformei você num herói depois que morreu. Foi outra forma de não lembrar do filho inteiro. O herói não roubava açúcar, não mentia sobre os peixes, não tratava Miguel com crueldade quando tinha ciúme. O herói não tinha medo do escuro. Você tinha. Entrou no mar com medo mesmo assim.*"
+  },
+  {
+   "id": "p-e95126934738-1",
+   "type": "para",
+   "text": "*Protegi Miguel porque perder os dois me pareceu impossível. Não percebi que a mentira também o levaria de nós, apenas mais devagar. Ele viveu dezessete anos acreditando que a própria memória escondia um monstro. Eu o amei de uma maneira que não confiava em Deus, na verdade ou no homem que ele poderia se tornar.*"
+  },
+  {
+   "id": "p-7d5a2c894da8-1",
+   "type": "para",
+   "text": "*Sei que Cristo o recebeu não porque morreu salvando pessoas, mas porque nenhum de nós é recebido pelo tamanho do último ato. Ainda assim, agradeço pelo que fez. Sara viveu. Davi nasceu. Doze pessoas voltaram para casa levando pedaços de sua coragem.*"
+  },
+  {
+   "id": "p-2aaf140bc3ab-1",
+   "type": "para",
+   "text": "*Eu deveria ter contado. Deveria ter permitido que a justiça alcançasse a Companhia, que a graça alcançasse Miguel e que as famílias conhecessem seus mortos. Arrependi-me cedo e obedeci tarde.*"
+  },
+  {
+   "id": "p-561711c2db1f-1",
+   "type": "para",
+   "text": "*Quando eu chegar, talvez você pergunte por que demorei.*"
+  },
+  {
+   "id": "p-a6cc8d0ba66b-1",
+   "type": "para",
+   "text": "*Não tenho resposta digna.*"
+  },
+  {
+   "id": "p-9c172ed43545-1",
+   "type": "para",
+   "text": "*Seu avô,*"
+  },
+  {
+   "id": "p-6245e61fac90-1",
+   "type": "para",
+   "text": "*Jonas*"
+  },
+  {
+   "id": "p-850b8e461df0-2",
+   "type": "rule",
+   "text": "✧"
+  },
+  {
+   "id": "p-44693050164a-1",
+   "type": "para",
+   "text": "*Maturidade não é chegar a um lugar de onde nunca mais se parte. É tornar-se capaz de levar luz quando outro precisa voltar.— Diário de Jonas Vale*"
+  }
+ ],
+ "provenance": "Edição Final do autor (.docx)",
+ "blocks_sha256": "35c71c9d6e95c745624242b6be64957ca3271195e2672c9a51f3fb766d5e8d6f"
 }

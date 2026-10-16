@@ -1,7 +1,7 @@
 {
   "tests": [
     {
-      "name": "67 entradas de leitura",
+      "name": "86 entradas de leitura (Edição Final)",
       "result": "PASS",
       "detail": null
     },
@@ -11,7 +11,7 @@
       "detail": null
     },
     {
-      "name": "53 capítulos na ordem canônica",
+      "name": "72 capítulos na ordem canônica",
       "result": "PASS",
       "detail": null
     },
@@ -96,23 +96,23 @@
       "detail": null
     },
     {
-      "name": "SHA-256 do PDF v4 leitura coincide com checkpoint",
+      "name": "SHA-256 da Edição Final coincide com o catálogo",
       "result": "PASS",
       "detail": null
     },
     {
-      "name": "Pacote de origem disponível para comparação",
-      "result": "FAIL",
-      "detail": "Não incluído no ZIP de distribuição"
+      "name": "Todos os parágrafos do site existem na Edição Final",
+      "result": "PASS",
+      "detail": "5540/5540"
     },
     {
       "name": "Todos os arquivos WebP íntegros",
       "result": "PASS",
-      "detail": "123 arquivos"
+      "detail": "139 arquivos"
     }
   ],
   "summary": {
-    "passed": 21,
+    "passed": 22,
     "total": 22
   }
 }
