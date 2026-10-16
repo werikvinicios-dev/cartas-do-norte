@@ -1,5 +1,8 @@
 # Histórico de versões do Arquivo Vivo
 
+## v0.15 · 16 de outubro de 2026 — Vídeo promocional em motion graphics
+- `assets/video/promo-30s.mp4` (16:9) e `promo-30s-vertical.mp4` (9:16), 30 s, 30 fps: rosa dos ventos desenhada a traço, carta com lacre que carimba, se parte e abre ("Miqueias,"), rota na primeira carta náutica, mosaico de aquarelas com 72 capítulos, 54 aquarelas e 12 cartas, o site no notebook e no celular, emblema e chamada. Cortes no compasso da faixa lofi de Amazing Grace, com a bateria entrando no mosaico; sons de papel e lacre. −14 LUFS. Detalhes e como refazer em `tools/promo/LEIA.md`.
+
 ## v0.14 · 16 de outubro de 2026 — Aquarelas inteiras na leitura (computador)
 - A aquarela de abertura de cada capítulo era recortada para caber na altura da tela (13% em 1440×900, até 35% em notebooks 1280×720). Agora ela diminui inteira, sem corte, e cabe na tela junto com o título.
 - As pranchas no meio do texto (lanternas, baleias…) ficavam mais altas que a tela em notebooks; agora cabem inteiras.
