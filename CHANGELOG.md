@@ -1,5 +1,12 @@
 # Histórico de versões do Arquivo Vivo
 
+## v0.9 · 16 de outubro de 2026 — Trailer oficial "Uma aquarela que respira"
+- Trailer refeito a partir do prompt mestre, em 7 sequências e 80 s (16:9, 24 fps): o mar se lembra; o funeral do faroleiro; o que ficou para trás; a travessia; o peso do passado; o silêncio antes da luz; o nome da história. Sem narração: as frases aparecem na tela, com fade, revelação por máscara e movimento mínimo.
+- Acervo analisado antes da montagem (`docs/trailer/STORYBOARD.md` e `storyboard.jpg`): farol sempre apagado antes do desfecho (cap. 1), a Constância do cap. 22, o testamento do cap. 2, nada da segunda metade.
+- Animação só atmosférica (chuva, névoa, água, luz, folha fora de foco, transição em pigmento). Sem flashes, glitch ou tremor.
+- Trilha original em quatro atos (memória, travessia, confronto, esperança) com foley de madeira, papel, vento e mar, silêncio antes da luz e último acorde suspenso. −14 LUFS, sem clipping.
+- Entregas: principal 80 s, vertical 9:16 (usada no celular), 30 s, teaser 15 s, SRT/VTT, pôster, storyboard e relatório (`docs/trailer/RELATORIO.md`).
+
 ## v0.8 · 16 de outubro de 2026 — Trailer de impacto
 - **Trailer remontado (68 s, 24 fps, janela 2,39:1)** em `tools/build_trailer_v3.py`, sem narração: tipografia em golpe (as palavras caem e assentam com clarão, tremor e aberração cromática), frases escritas como tinta, lacre que se parte, mapa revelado em tinta, montagem que acelera com as grandes pranchas panorâmicas e aquarelas de todo o livro, tempestade com cortes de meio segundo, **mergulho subaquático** com a frase da Carta I ("Havia gente trancada onde os registros diziam que só existiam caixas."), **"UMA PAUSA" congela no preto**, "OUTRAS TRÊS" e três clarões até o emblema.
 - **Trilha e desenho de som** (`tools/trailer_sound_v3.py`): pulsos graves, braams, tambores a 120 bpm, cordas e coro, trovões, **gritos de socorro distantes** na tempestade e, no mergulho, tudo abafado com bolhas, borbulhar, coração acelerado e gritos submersos; silêncio absoluto na pausa; final em ré maior. Masterização −14 LUFS.
