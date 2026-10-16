@@ -27,7 +27,7 @@ Uma aplicação literária responsiva com a obra integral, Atlas, Acervo, Galeri
 
 ## Imersão opt-in
 
-- **Trailer:** `assets/video/trailer.mp4` — 90 s, 1920×1080 (janela 2,39:1), H.264/AAC, legendas em `trailer.vtt`. Reproduzível com `python3 tools/build_trailer_v2.py` (requer numpy, scipy, Pillow, fonttools, ffmpeg).
+- **Trailer:** `assets/video/trailer.mp4` — 90 s, 1920×1080 (janela 2,39:1), H.264/AAC, legendas em `trailer.vtt`. Reproduzível com `python3 tools/build_trailer_v2.py` (requer numpy, scipy, Pillow, fonttools, ffmpeg, kokoro-onnx + espeak-ng e o modelo Kokoro v1.0; trilha e narração em `tools/trailer_audio.py`). Cartas: `python3 tools/build_letters.py` gera `content/letters.json`.
 - **Cenas Vivas:** Átrio e Farol (`src/scene.js`), sem vídeo de fundo; animações só com transform/opacity.
 - **Som ambiental:** `assets/audio/mar.ogg`, `chuva.ogg` e `vento.ogg` — 24 s cada, repetição e volume configuráveis, sempre iniciados pelo usuário.
 - **Movimento de interface:** surgimento progressivo no rolar, brilho discreto e escala leve em itens clicáveis; possui fallback completo sem efeitos.

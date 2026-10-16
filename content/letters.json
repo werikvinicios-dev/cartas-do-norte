@@ -1,0 +1,242 @@
+[
+ {
+  "id": "letter1",
+  "section": "letter1",
+  "kind": "carta",
+  "sealed": true,
+  "whole": true,
+  "title": "Carta I",
+  "to": "Para Ana Moura",
+  "part": "PARTE I — A COSTA"
+ },
+ {
+  "id": "letter2",
+  "section": "letter2",
+  "kind": "carta",
+  "sealed": true,
+  "whole": true,
+  "title": "Carta II",
+  "to": "Para Abel Faria",
+  "part": "PARTE I — A COSTA"
+ },
+ {
+  "id": "letter3",
+  "section": "letter3",
+  "kind": "carta",
+  "sealed": true,
+  "whole": true,
+  "title": "Carta III",
+  "to": "Para Estevão Reis",
+  "part": "PARTE I — A COSTA"
+ },
+ {
+  "id": "letter4",
+  "section": "letter4",
+  "kind": "carta",
+  "sealed": true,
+  "whole": true,
+  "title": "Carta IV",
+  "to": "Para Marta Leme",
+  "part": "PARTE II — AS ÁGUAS PROFUNDAS"
+ },
+ {
+  "id": "letter5",
+  "section": "letter5",
+  "kind": "carta",
+  "sealed": true,
+  "whole": true,
+  "title": "Carta V",
+  "to": "Para Marta Leme e para Davi",
+  "part": "PARTE II — AS ÁGUAS PROFUNDAS"
+ },
+ {
+  "id": "letter6",
+  "section": "letter6",
+  "kind": "carta",
+  "sealed": true,
+  "whole": true,
+  "title": "Carta VI",
+  "to": "Para Leonor Salles",
+  "part": "PARTE II — AS ÁGUAS PROFUNDAS"
+ },
+ {
+  "id": "letter7",
+  "section": "letter7",
+  "kind": "carta",
+  "sealed": true,
+  "whole": true,
+  "title": "Carta VII",
+  "to": "Para Baltasar Rocha",
+  "part": "PARTE III — A TEMPESTADE"
+ },
+ {
+  "id": "letter8",
+  "section": "letter8",
+  "kind": "carta",
+  "sealed": true,
+  "whole": true,
+  "title": "Carta VIII",
+  "to": "Para Tomás Varela",
+  "part": "PARTE III — A TEMPESTADE"
+ },
+ {
+  "id": "letter9",
+  "section": "letter9",
+  "kind": "carta",
+  "sealed": true,
+  "whole": true,
+  "title": "Carta IX",
+  "to": "Para Clara Moura",
+  "part": "PARTE III — A TEMPESTADE"
+ },
+ {
+  "id": "letter10",
+  "section": "letter10",
+  "kind": "carta",
+  "sealed": true,
+  "whole": true,
+  "title": "Carta X",
+  "to": "Para Gabriel Vale",
+  "part": "PARTE III — A TEMPESTADE"
+ },
+ {
+  "id": "letter11",
+  "section": "letter11",
+  "kind": "carta",
+  "sealed": true,
+  "whole": true,
+  "title": "Carta XI",
+  "to": "Aos mortos sem nome",
+  "part": "PARTE IV — O FAROL"
+ },
+ {
+  "id": "letter12",
+  "section": "letter12",
+  "kind": "carta",
+  "sealed": true,
+  "whole": true,
+  "title": "Carta XII",
+  "to": "À cidade de Porto da Vigília",
+  "part": "PARTE IV — O FAROL"
+ },
+ {
+  "id": "declaracao-jonas",
+  "section": "ch2",
+  "kind": "declaracao",
+  "sealed": false,
+  "whole": false,
+  "title": "A declaração de Jonas",
+  "spans": [
+   [
+    "p-dfde7d23a8f9-1",
+    "p-dfde7d23a8f9-1"
+   ]
+  ]
+ },
+ {
+  "id": "carta-jonas-miqueias",
+  "section": "ch3",
+  "kind": "carta",
+  "sealed": true,
+  "whole": false,
+  "title": "A carta de Jonas a Miqueias",
+  "spans": [
+   [
+    "p-a427ab62fe05-1",
+    "p-a427ab62fe05-1"
+   ],
+   [
+    "p-d3840d024d96-1",
+    "p-b9692a8a0295-1"
+   ]
+  ]
+ },
+ {
+  "id": "folha-doze-cartas",
+  "section": "ch3",
+  "kind": "folha",
+  "sealed": false,
+  "whole": false,
+  "title": "A folha sobre os objetos",
+  "spans": [
+   [
+    "p-82027beaf3d6-1",
+    "p-ef2cc5d2f5c5-1"
+   ]
+  ]
+ },
+ {
+  "id": "notas-desenhos",
+  "section": "ch4",
+  "kind": "folha",
+  "sealed": false,
+  "whole": false,
+  "title": "As notas nos desenhos",
+  "spans": [
+   [
+    "p-263e00c9782c-1",
+    "p-389f007a8dcd-1"
+   ],
+   [
+    "p-0e7f00a32822-1",
+    "p-0e7f00a32822-1"
+   ]
+  ]
+ },
+ {
+  "id": "bilhete-ponta-do-corvo",
+  "section": "ch46",
+  "kind": "bilhete",
+  "sealed": false,
+  "whole": false,
+  "title": "O bilhete",
+  "spans": [
+   [
+    "p-3be3d58fc84a-1",
+    "p-407ba81311aa-1"
+   ]
+  ]
+ },
+ {
+  "id": "carta-lidia",
+  "section": "ch60",
+  "kind": "carta",
+  "sealed": true,
+  "whole": false,
+  "title": "A carta de Lídia",
+  "spans": [
+   [
+    "p-7fe8c26729ef-1",
+    "p-d69438884d3a-1"
+   ]
+  ]
+ },
+ {
+  "id": "resposta-ana",
+  "section": "ch61",
+  "kind": "carta",
+  "sealed": false,
+  "whole": false,
+  "title": "A resposta de Ana",
+  "spans": [
+   [
+    "p-fb200582b0b6-1",
+    "p-4c87501c92b4-1"
+   ]
+  ]
+ },
+ {
+  "id": "bilhete-gabriel",
+  "section": "ch68",
+  "kind": "bilhete",
+  "sealed": true,
+  "whole": false,
+  "title": "O bilhete de Gabriel",
+  "spans": [
+   [
+    "p-9f89a1c4d171-1",
+    "p-86ee280fc75a-1"
+   ]
+  ]
+ }
+]

@@ -1,5 +1,11 @@
 # Histórico de versões do Arquivo Vivo
 
+## v0.7 · 16 de outubro de 2026 — Cartas de verdade e trailer narrado
+- **Cartas como objetos:** as 12 cartas e 8 escritos dentro dos capítulos (declaração e carta de Jonas, a folha sobre os objetos, notas nos desenhos, o bilhete, a carta de Lídia, a resposta de Ana, o bilhete de Gabriel) aparecem na leitura como envelopes lacrados ou folhas de papel antigo. O lacre de cera se parte, a aba se abre, a carta sai do envelope e se desdobra. Tipografia como no livro: itálico Charis (família Charter, a mesma da Edição Final), justificado, rubrica "CARTA I" em ferrugem, destinatário em azul; assinatura em caligrafia. Som discreto de lacre e papel (desligável).
+- **Acervo · Correspondência:** cada carta entra no Acervo quando é aberta na leitura (ou quando o capítulo é concluído), com leitura em papel e link de volta ao trecho. As demais aparecem lacradas, sem revelar conteúdo.
+- **Trailer com narração e trilha nova, sem legendas na imagem:** narração em voz neural natural (Kokoro, pm_alex, Apache 2.0) tratada como locução de estúdio; trilha original em ré menor em cinco movimentos (piano e cordas, ostinato e coro, tempestade em tutti com silêncio absoluto na "pausa", final em ré maior); música rebaixada sob a voz; masterização a −14 LUFS. Legenda opcional (`trailer.vtt`) desligada por padrão.
+- Correção: a lista de arquivos carregados na abertura incluía uma imagem por engano.
+
 ## v0.6 · 16 de outubro de 2026 — Nova direção "Noite de vigília"
 - **Design refeito do zero** (`src/ui.css`, uma única folha): noite do mar como fundo, o dourado do farol como único acento, papel apenas para ler. As três folhas herdadas (styles/refined/premium) e `experience.js` foram removidas.
 - **Átrio em atos guiados pela rolagem** (`src/motion.js`, rolagem nativa, sem sequestro): I. a costa — a cena viva aproxima o farol e escurece; II. a primeira luz — as frases do prólogo surgem uma a uma, o farol pulsa três vezes, a segunda luz acende em vermelho; depois *Ler · Explorar · Sentir* em painéis que se expandem, as doze cartas como envelopes lacrados que se abrem com a leitura, as salas com contadores do seu progresso e o trailer em janela de cinema.

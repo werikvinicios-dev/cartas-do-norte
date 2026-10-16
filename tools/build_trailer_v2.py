@@ -12,8 +12,8 @@ Carta I, carta náutica) e da paratextualidade da Edição Final. Nenhuma revela
 
 Imagem: câmera com subpixel, facho volumétrico, bloom, chuva em duas camadas, relâmpagos, tremor, chicote,
 revelação em tinta (máscara de ruído), graduação de cor, vinheta e grão de filme.
-Som (sintetizado aqui, sem trilhas de terceiros): drones, impactos graves, risers, chicotes, tambores,
-sinos, piano e as ambiências originais da edição (mar, vento, chuva), com reverberação por convolução.
+Som: tools/trailer_audio.py (trilha original, narração neural e efeitos). Sem legendas na imagem;
+o arquivo .vtt acompanha a narração para acessibilidade (desligado por padrão no site).
 
 Uso: python3 tools/build_trailer_v2.py   (gera assets/video/trailer.mp4, trailer-poster.webp e trailer.vtt)
 """
@@ -254,16 +254,17 @@ MONTAGE = [  # (início, fim, função)
 TITLES = [(39.4, 40.6, 'ENTRE CARTAS'), (43.0, 44.2, 'FARÓIS'), (46.6, 47.8, 'E TRAVESSIAS')]
 
 def storm_extra(a, t): return a * .62 + rain(t, 1.1)
+PAUSE = (58.6, 61.0)
 STORM = [
     (52.6, 55.0, mk_pan(STORM1, (.5, .35), (.5, .6), 1.0, .8, storm_extra, dict(cool=1.3, sat=.8))),
     (55.0, 57.0, mk_pan(STORM2, (.4, .4), (.6, .45), .95, .75, storm_extra, dict(cool=1.3, sat=.8))),
     (57.0, 58.6, mk_pan(COVER, (.8, .4), (.86, .38), .55, .4, storm_extra, dict(cool=1.5, sat=.7))),
-    (59.8, 61.2, mk_pan(ROCK, (.5, .55), (.55, .35), .95, .7, storm_extra, dict(cool=1.3, sat=.8))),
-    (62.0, 63.2, mk_pan(BELLS, (.6, .5), (.7, .5), .8, .6, storm_extra, dict(cool=1.0, sat=.6))),
+    (61.0, 62.6, mk_pan(ROCK, (.5, .55), (.55, .35), .95, .7, storm_extra, dict(cool=1.3, sat=.8))),
+    (62.6, 64.2, mk_pan(BELLS, (.6, .5), (.7, .5), .8, .6, storm_extra, dict(cool=1.0, sat=.6))),
     (64.2, 66.6, mk_pan(COVER, (.86, .4), LAMP, .45, .16, storm_extra, dict(cool=1.0, sat=.8))),
 ]
-CARDS = [(58.6, 59.8, 'TRÊS PULSAÇÕES SOBRE O MAR'), (61.2, 62.0, 'UMA PAUSA'), (63.2, 64.2, 'OUTRAS TRÊS')]
-LIGHTNING = [52.75, 54.3, 56.1, 57.4, 60.4, 62.6]
+CARDS = []
+LIGHTNING = [52.75, 54.3, 56.1, 57.4, 61.05, 62.7]
 FINAL_PULSES = [64.6, 65.2, 65.8]
 
 def card(t, t0, t1, word, size=124):
@@ -320,6 +321,9 @@ def frame(i):
         if t0 <= t < t1: a, g = card(t, t0, t1, word), dict(bloom=.6)
     if 36.75 <= t < 37.0:   # chicote de saída do mapa
         a = hblur(np.roll(a, int(220 * (t - 36.75) / .25), axis=1), 70 * (t - 36.75) / .25)
+    if PAUSE[0] <= t < PAUSE[1]:
+        a = BLACK.copy() + radial(W * .5, AH * .42, 40, (1, .85, .6), .55 * env(t - 59.4, .05, .7))
+        g = dict(bloom=1.2)
     if 66.6 <= t < 68.0: a = BLACK.copy() + .8 * math.exp(-(t - 66.6) / .18)
     if t >= 68.0: a, g = s_emblem(t)
     if a is None: a = BLACK.copy()
@@ -335,141 +339,28 @@ def frame(i):
     if fp: a = a * (1 + .5 * fp) + radial(W * .5, AH * .5, 700, (1, .9, .7), .35 * fp)
     if 15.47 <= t < 15.62: a = a * 0 + 1.0   # clarão do impacto
 
-    # legendas literais
-    for c in (caption(t, 4.8, 8.0, ['A primeira luz era a que todos esperavam.']),
-              caption(t, 11.0, 15.2, ['A segunda luz não deveria existir.'], size=60),
-              caption(t, 17.6, 22.2, ['Choveu no funeral de Jonas Vale…']),
-              caption(t, 26.8, 28.4, ['DOZE CARTAS ATRAVESSAM A NARRATIVA'], F_CAPS, 30, .9, .38, .3, (226, 197, 140)),
-              caption(t, 29.2, 33.1, ['A casa do farol tinha aprendido', 'a envelhecer sem testemunhas.']),
-              caption(t, 34.0, 36.8, ['UMA ROTA NÃO É SEGURA', 'PORQUE ALGUÉM A DESENHOU COM RÉGUA'], F_BRAND, 52, .5, .12, .9, (30, 22, 12))):
-        if c:
-            mc, k, rise = c; light = mc[1][0] > .5
-            ys = np.where(mc[0].max(1) > 0)[0]
-            if len(ys):
-                cyy = (ys[0] + ys[-1]) / 2; hh = (ys[-1] - ys[0]) / 2 + 60
-                band = np.exp(-((YY[:, :1] - cyy) / hh) ** 4)[..., None] * k
-                a = a * (1 - .55 * band) if light else a * (1 - .6 * band) + band * .6 * np.array([.95, .9, .8], np.float32)
-            a = put_text(a, mc, alpha=k, glow=.5 if light else 0, rise=rise)
-
     a = grade(a, g.get('warm', 0), g.get('cool', 0), g.get('sat', 1), g.get('gamma', 1))
     a = bloom(a, .35 * g.get('bloom', 1))
     a = a * VIGNETTE + GRAIN[i % 6] * .014
     out = np.zeros((H, W, 3), np.uint8); out[BAR:BAR + AH] = (np.clip(a, 0, 1) * 255).astype(np.uint8)
     return out.tobytes()
 
-# ── som ─────────────────────────────────────────────────────────────────────
-from scipy import signal
-N = int(DUR * SR); TT = np.arange(N) / SR
-def at(s): return int(s * SR)
-def place(buf, start, x, gain=1.0):
-    i = at(start); j = min(N, i + len(x));
-    if j > i: buf[i:j] += x[:j - i] * gain
-def lp(x, f, o=4): return signal.sosfilt(signal.butter(o, f, 'low', fs=SR, output='sos'), x)
-def hp(x, f, o=4): return signal.sosfilt(signal.butter(o, f, 'high', fs=SR, output='sos'), x)
-def bp(x, a, b): return signal.sosfilt(signal.butter(4, [a, b], 'band', fs=SR, output='sos'), x)
-def boom(d=2.2, f0=58, f1=28):
-    t = np.arange(int(d * SR)) / SR; f = f1 + (f0 - f1) * np.exp(-t * 6)
-    x = np.sin(2 * np.pi * np.cumsum(f) / SR) * np.exp(-t * 2.0)
-    x += lp(rng.normal(0, 1, len(t)), 180) * np.exp(-t * 18) * .8
-    return np.tanh(x * 1.6)
-def hit(d=3.0):
-    t = np.arange(int(d * SR)) / SR
-    return boom(d, 70, 30) + bp(rng.normal(0, 1, len(t)), 200, 4000) * np.exp(-t * 7) * .35
-def riser(d):
-    t = np.arange(int(d * SR)) / SR; n = rng.normal(0, 1, len(t)); out = np.zeros_like(n); seg = int(.05 * SR)
-    for s in range(0, len(t), seg):
-        k = s / len(t); out[s:s + seg] = bp(n[s:s + seg + 400], 300 + 4000 * k ** 2, 600 + 8000 * k ** 2)[:len(n[s:s + seg])]
-    tone = np.sin(2 * np.pi * np.cumsum(180 + 700 * (t / d) ** 2) / SR) * .25
-    return (out * .6 + tone) * (t / d) ** 2.2
-def whoosh(d=.45):
-    t = np.arange(int(d * SR)) / SR; e = np.sin(np.pi * t / d) ** 2
-    return bp(rng.normal(0, 1, len(t)), 500, 5000) * e * .6
-def tom(d=.6, f0=95, f1=52):
-    t = np.arange(int(d * SR)) / SR; f = f1 + (f0 - f1) * np.exp(-t * 14)
-    return np.sin(2 * np.pi * np.cumsum(f) / SR) * np.exp(-t * 6) + lp(rng.normal(0, 1, len(t)), 900) * np.exp(-t * 40) * .4
-def tick(): t = np.arange(int(.05 * SR)) / SR; return hp(rng.normal(0, 1, len(t)), 3000) * np.exp(-t * 90) * .4
-def bell(f=196, d=5.0):
-    t = np.arange(int(d * SR)) / SR
-    return sum(np.sin(2 * np.pi * f * r * t) * np.exp(-t * dd) * g for r, dd, g in [(1, .7, 1), (2.01, 1.1, .5), (2.76, 1.6, .35), (3.9, 2.4, .2), (5.4, 3, .12)]) * .4
-def piano(f, d=3.5):
-    t = np.arange(int(d * SR)) / SR
-    return sum(np.sin(2 * np.pi * f * h * t) * np.exp(-t * (1.2 + h * .7)) / h ** 1.3 for h in range(1, 6)) * np.minimum(1, t * 200) * .35
-def saw(f, t): return 2 * ((t * f) % 1) - 1
-def drone(t0, t1, freqs, gain, cut=500, attack=3.0):
-    t = TT[at(t0):at(t1)] - t0
-    x = sum(saw(f * d, t) for f in freqs for d in (1, 1.004, .996)) / (3 * len(freqs))
-    x = lp(x, cut) * np.minimum(1, t / attack) * np.minimum(1, (t1 - t0 - t) / 1.5)
-    return x * gain
-def braam(d=7.0):
-    t = np.arange(int(d * SR)) / SR
-    x = sum(saw(f, t) for f in (55, 55.3, 54.7, 110.2, 82.4)) / 5
-    return lp(np.tanh(x * 3) * np.minimum(1, t / .08) * np.exp(-t * .35), 1100) * .9
-def ogg(name):
-    raw = subprocess.run(['ffmpeg', '-loglevel', 'error', '-i', str(ROOT / f'assets/audio/{name}.ogg'), '-f', 'f32le', '-ac', '1', '-ar', str(SR), '-'], capture_output=True).stdout
-    x = np.frombuffer(raw, np.float32).astype(np.float64); return np.tile(x, N // len(x) + 1)[:N]
-def fade_env(points):
-    xs, ys = zip(*points); return np.interp(TT, xs, ys)
+# ── som: tools/trailer_audio.py ─────────────────────────────────────────────
+import trailer_audio
+CUES = dict(pulses1=[2.0, 3.0, 4.0], montage=[t0 for t0, _, _ in MONTAGE], titles=[t0 for t0, _, _ in TITLES],
+            pause=PAUSE, lightning=LIGHTNING, storm=[t0 for t0, _, _ in STORM], pulses2=FINAL_PULSES,
+            pulses3=[68.5, 69.5, 70.5], emblem=70.9)
+def build_audio(path): return trailer_audio.build_audio(path, CUES)
 
-def build_audio(path):
-    dry = np.zeros(N); send = np.zeros(N)
-    sea, wind, rainx = ogg('mar'), ogg('vento'), ogg('chuva')
-    dry += sea * fade_env([(0, 0), (1.5, .55), (15, .5), (16.6, .3), (37, .25), (52, .2), (68, .2), (80, .45), (90, 0)])
-    dry += wind * fade_env([(0, 0), (8, .15), (15, .25), (37, .1), (52.6, .5), (66.6, .55), (68, 0), (90, 0)])
-    dry += rainx * fade_env([(0, 0), (8.4, 0), (9.5, .2), (15.4, .25), (15.5, 0), (16.6, .4), (22.3, .35), (23, 0), (52.6, 0), (53, .7), (66.6, .7), (67, 0), (90, 0)])
-    for s in (2.0, 3.0, 4.0): place(dry, s, boom(), .85); place(send, s, boom(), .4)
-    place(dry, 10.0, riser(5.45), .55); place(dry, 15.45, hit(), 1.0); place(send, 15.45, hit(), .6)
-    dry += np.pad(drone(16.0, 37.0, [55, 82.41], .22, 380, 5), (at(16.0), N - at(37.0)))
-    for k, (s, f) in enumerate([(17.0, 440), (18.4, 329.6), (19.8, 392), (21.2, 349.2), (23.4, 440), (24.8, 523.3), (26.2, 493.9), (27.6, 440),
-                                (29.4, 329.6), (30.8, 349.2), (32.2, 293.7), (33.6, 329.6), (35.0, 261.6), (35.7, 220)]):
-        place(dry, s, piano(f), .5); place(send, s, piano(f), .5)
-    place(dry, 34.4, riser(2.6), .4); place(dry, 36.75, whoosh(), .8)
-    # pulso da travessia: 100 bpm
-    beat = 60 / 100
-    dry += np.pad(drone(37.0, 52.6, [55, 65.4, 82.41], .26, 700, 1.0), (at(37.0), N - at(52.6)))
-    for b in np.arange(37.0, 52.6, beat):
-        place(dry, b, tom(.5, 80, 48), .55); place(dry, b + beat / 2, tick(), .5)
-    for t0, _, _ in MONTAGE: place(dry, t0, whoosh(), .5)
-    for t0, _, _ in TITLES: place(dry, t0, boom(1.6, 64, 34), .7); place(send, t0, bell(293.7), .3)
-    # tempestade: tambores acelerando
-    place(dry, 52.6, hit(), 1.0)
-    t = 52.6; step = 60 / 120
-    while t < 66.6:
-        if not (61.2 <= t < 62.0):
-            place(dry, t, tom(.55, 105, 55), .85)
-            if t > 57: place(dry, t + step / 2, tom(.35, 140, 80), .45)
-        t += step * (1 - .45 * ease((t - 52.6) / 14))
-    dry += np.pad(drone(52.6, 61.2, [55, 58.27, 82.41], .3, 900, .5), (at(52.6), N - at(61.2)))
-    dry += np.pad(drone(62.0, 66.6, [55, 58.27, 82.41, 110], .34, 1200, .3), (at(62.0), N - at(66.6)))
-    for s in LIGHTNING: place(dry, s, lp(rng.normal(0, 1, int(2.5 * SR)), 260) * np.exp(-np.arange(int(2.5 * SR)) / SR * 1.6), .9)
-    for t0, _, _ in CARDS: place(dry, t0, boom(1.4, 70, 36), .9)
-    place(send, 62.0, bell(196, 6), .9); place(dry, 62.0, bell(196, 6), .5)
-    for t0, _, _ in STORM: place(dry, t0, whoosh(.3), .6)
-    for s in FINAL_PULSES: place(dry, s, hit(2.0), .9); place(send, s, hit(2.0), .5)
-    place(send, 66.6, bell(130.8, 7), .6)
-    for s in (68.5, 69.5, 70.5): place(dry, s, boom(2.0, 50, 26), .7); place(send, s, boom(2.0, 50, 26), .4)
-    place(dry, 70.9, braam(9), .75); place(send, 70.9, braam(9), .5); place(dry, 70.9, hit(4), .8)
-    for s, f in [(74.5, 220), (75.9, 261.6), (77.3, 329.6), (78.7, 293.7), (80.6, 220)]:
-        place(dry, s, piano(f, 5), .45); place(send, s, piano(f, 5), .6)
-    ir_t = np.arange(int(3.2 * SR)) / SR
-    irL = rng.normal(0, 1, len(ir_t)) * np.exp(-ir_t * 2.1); irR = rng.normal(0, 1, len(ir_t)) * np.exp(-ir_t * 2.1)
-    wetL = signal.fftconvolve(send, irL)[:N] * .025; wetR = signal.fftconvolve(send, irR)[:N] * .025
-    L, R = dry + wetL, dry + wetR
-    m = np.stack([L, R], 1); m = np.tanh(m / np.max(np.abs(m)) * 1.4); m *= .93 / np.max(np.abs(m))
-    m *= np.minimum(1, (DUR - TT) / 2.5)[:, None]
-    from scipy.io import wavfile
-    wavfile.write(path, SR, (m * 32767).astype(np.int16))
-
-VTT = [(4.8, 8.0, 'A primeira luz era a que todos esperavam.'), (11.0, 15.2, 'A segunda luz não deveria existir.'),
-       (17.6, 22.2, 'Choveu no funeral de Jonas Vale…'), (23.0, 28.4, 'Dona Ana, não lhe escrevo para pedir que me perdoe. — Doze cartas atravessam a narrativa.'),
-       (29.2, 33.1, 'A casa do farol tinha aprendido a envelhecer sem testemunhas.'), (34.0, 36.8, 'Uma rota não é segura porque alguém a desenhou com régua.'),
-       (39.4, 47.8, 'Entre cartas, faróis e travessias.'), (58.6, 64.2, 'Três pulsações sobre o mar, uma pausa, outras três.'),
-       (74.5, 86.5, 'Cartas do Norte — O Arquivo Vivo.')]
+VTT = []  # preenchido com a narração em __main__
 def vtt():
     f = lambda s: f'00:{int(s // 60):02d}:{s % 60:06.3f}'
     return 'WEBVTT\n\n' + '\n\n'.join(f'{f(a)} --> {f(b)}\n{t}' for a, b, t in VTT) + '\n'
 
 if __name__ == '__main__':
-    wav = TMP / 'a.wav'; build_audio(wav); print('áudio ok', flush=True)
+    wav = TMP / 'a.wav'; lines = build_audio(wav); print('áudio ok', flush=True)
+    import re as _re
+    VTT[:] = [(s0, s0 + max(1.6, len(tx) * .075), _re.sub('…', '', tx)) for s0, tx in lines]
     vid = TMP / 'v.mp4'; n = int(DUR * FPS)
     enc = subprocess.Popen(['ffmpeg', '-y', '-loglevel', 'error', '-f', 'rawvideo', '-pix_fmt', 'rgb24', '-s', f'{W}x{H}', '-r', str(FPS), '-i', '-',
                             '-c:v', 'libx264', '-preset', 'slow', '-crf', '27', '-pix_fmt', 'yuv420p', '-maxrate', '3M', '-bufsize', '6M', str(vid)], stdin=subprocess.PIPE)
@@ -478,7 +369,7 @@ if __name__ == '__main__':
             enc.stdin.write(buf)
             if k % 300 == 0: print(f'{k}/{n}', flush=True)
     enc.stdin.close(); enc.wait()
-    subprocess.run(['ffmpeg', '-y', '-loglevel', 'error', '-i', str(vid), '-i', str(wav), '-c:v', 'copy', '-c:a', 'aac', '-b:a', '192k', '-shortest',
+    subprocess.run(['ffmpeg', '-y', '-loglevel', 'error', '-i', str(vid), '-i', str(wav), '-c:v', 'copy', '-af', 'loudnorm=I=-15:TP=-1.2:LRA=11', '-c:a', 'aac', '-b:a', '192k', '-shortest',
                     '-movflags', '+faststart', str(OUT / 'trailer.mp4')], check=True)
     poster = np.frombuffer(frame(int(73.8 * FPS)), np.uint8).reshape(H, W, 3)
     Image.fromarray(poster).resize((1280, 720), Image.LANCZOS).save(OUT / 'trailer-poster.webp', quality=84)
