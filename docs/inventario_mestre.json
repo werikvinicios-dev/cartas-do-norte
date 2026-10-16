@@ -1,0 +1,770 @@
+{
+  "assets": [
+    {
+      "id": "prologue",
+      "title": "Prólogo",
+      "type": "prologue",
+      "status": "EXISTENTE, NÃO VALIDADO",
+      "source": "PDF v4 leitura",
+      "minChapter": 0,
+      "integrity": "cbbcb96d801ef84ca4820ac2d1a6d70125638b8859bd5afa3af22b8ab84f828a"
+    },
+    {
+      "id": "ch1",
+      "title": "O funeral do faroleiro",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 1,
+      "integrity": "c7f0ebeb373e1f9333bb7ed708fe7a45d133a92445eedb48e3c8968381152a0f"
+    },
+    {
+      "id": "ch2",
+      "title": "O testamento de um homem culpado",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 2,
+      "integrity": "1c1e7dd21f171601fd7608ceb231f6ddec008fe8399b667559b4d8c1a3a9ade6"
+    },
+    {
+      "id": "ch3",
+      "title": "A casa feita de sal",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 3,
+      "integrity": "d994bb7f191331ec7275ba32e8233de8b8124e382444c0e6bc099eeed3a127d3"
+    },
+    {
+      "id": "letter1",
+      "title": "Carta I",
+      "type": "letter",
+      "status": "EXISTENTE, NÃO VALIDADO",
+      "source": "PDF v4 leitura",
+      "minChapter": 3,
+      "integrity": "07e31d6872d56a99d8eeb5d55ea433fce052d6ca114e97eb0de9137789111016"
+    },
+    {
+      "id": "ch4",
+      "title": "A Constância inacabada",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 4,
+      "integrity": "b306936e21b6fbe07c3149c9cee6539c06555be13116aa9697b4624ba23db4b2"
+    },
+    {
+      "id": "ch5",
+      "title": "A filha do capitão",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 5,
+      "integrity": "bda45719210b02874d129efd0c2d0f4b8cdf21580ed766aef66ab56634ba5123"
+    },
+    {
+      "id": "ch6",
+      "title": "A cor errada do fogo",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 6,
+      "integrity": "2bf878ba91ef2c7f10053505761413a7c107f35bb632e0db2c2fba5bc1ffa323"
+    },
+    {
+      "id": "ch7",
+      "title": "O preço de uma cidade",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 7,
+      "integrity": "2804df2b5c184c210d0e59036db74f381a2b8a20a5e35770477f2f3847d10ac5"
+    },
+    {
+      "id": "ch8",
+      "title": "A oficina dos inacabados",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 8,
+      "integrity": "7ca8048adfa71c9b88f0ddee8bef9c72f1c2c919599452d3e1069e0e501bdab4"
+    },
+    {
+      "id": "letter2",
+      "title": "Carta II",
+      "type": "letter",
+      "status": "EXISTENTE, NÃO VALIDADO",
+      "source": "PDF v4 leitura",
+      "minChapter": 8,
+      "integrity": "3ddf91f9de25f85dfb59fdd8e66985bfbdcff6bc5e89faf13c59ab817057bda8"
+    },
+    {
+      "id": "ch9",
+      "title": "A primeira travessia",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 9,
+      "integrity": "2a9f12b3d4f130bf69ea0d78e0194c71fd62c9867dd3670bfdcdea8ef1d95a68"
+    },
+    {
+      "id": "ch10",
+      "title": "Doze sobreviventes",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 10,
+      "integrity": "4db2666920d5867d86b6656dc28192323af5a1f2e8c581e2cdcdf4e1fc374d44"
+    },
+    {
+      "id": "ch11",
+      "title": "Pedra sob o altar",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 11,
+      "integrity": "7b3d1e87a75ad3f8dba3e45a1670735a6a3c34ccfddf0977d51f3802a678a0a9"
+    },
+    {
+      "id": "ch12",
+      "title": "Ana lê o mar",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 12,
+      "integrity": "12dcff4793fdba816371dd382f8471bde21d0bd6817d1140dced1f23b42b89ad"
+    },
+    {
+      "id": "letter3",
+      "title": "Carta III",
+      "type": "letter",
+      "status": "EXISTENTE, NÃO VALIDADO",
+      "source": "PDF v4 leitura",
+      "minChapter": 12,
+      "integrity": "095befe0031ebbadd482a9bc98f4d5df4123c413490582a879194baf0524c5d8"
+    },
+    {
+      "id": "ch13",
+      "title": "A decisão de partir",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 13,
+      "integrity": "41efc9aa241b3053f87942117fefe1c5e6259103587a24ac9c55c64ac36fc3bd"
+    },
+    {
+      "id": "ch14",
+      "title": "Sob o voo da tempestade",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 14,
+      "integrity": "970e61061c969aae9ef708f6b67ba9b7afbb879989bd0c0d74b784d2ae6e806c"
+    },
+    {
+      "id": "ch15",
+      "title": "O sino e as lanternas",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 15,
+      "integrity": "3ee8da8193f8a9326880e13992639567085c637dbd9be1fc1c058bea869b8a02"
+    },
+    {
+      "id": "ch16",
+      "title": "A décima terceira lanterna",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 16,
+      "integrity": "cfaa9a87a9d4dac9cee4641ebe6216c4f9a2f493d4ae96f7263d2cbb04b61ee0"
+    },
+    {
+      "id": "letter4",
+      "title": "Carta IV",
+      "type": "letter",
+      "status": "EXISTENTE, NÃO VALIDADO",
+      "source": "PDF v4 leitura",
+      "minChapter": 16,
+      "integrity": "cfc6c0b23dadc28f33886b5c5c17eab5bb9daaca7b8da5e378525bac043194ad"
+    },
+    {
+      "id": "ch17",
+      "title": "Sete minutos de culpa",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 17,
+      "integrity": "a386e8f80bad4a9ca057bd4b6f46cdd52599a591f505aa177e0a06191a7f6b9e"
+    },
+    {
+      "id": "ch18",
+      "title": "Pão na tempestade",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 18,
+      "integrity": "3752304e0e612f65333bb3de4c0eae3cecea13eca94c5acc2135caeb2c48880b"
+    },
+    {
+      "id": "ch19",
+      "title": "O culto das perguntas",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 19,
+      "integrity": "bc5d08b335c74a277fbb29c996b3b6b6212980e2c69af14b533a61a4fcb608d6"
+    },
+    {
+      "id": "letter5",
+      "title": "Carta V",
+      "type": "letter",
+      "status": "EXISTENTE, NÃO VALIDADO",
+      "source": "PDF v4 leitura",
+      "minChapter": 19,
+      "integrity": "01717eb7f4ce5a0d13385465ae8323af90e771712b4b3a5f4aa6c267f433add9"
+    },
+    {
+      "id": "ch20",
+      "title": "A mesa dos sobreviventes",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 20,
+      "integrity": "ad95c91f6194894e07cd0af843e22c1264e366bb8344d55061cc4214f7efbb03"
+    },
+    {
+      "id": "ch21",
+      "title": "A verdade entre as linhas",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 21,
+      "integrity": "75fc2033813a50ed5053511c54d50e13835a87b7fd83286d74ef34f9fa56b99b"
+    },
+    {
+      "id": "ch22",
+      "title": "A ilha sem instrumentos",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 22,
+      "integrity": "6244b9a3d2d2fa97e02f2ee216d436ed9931a8a95d0bf593d1d36d0ee16cde50"
+    },
+    {
+      "id": "letter6",
+      "title": "Carta VI",
+      "type": "letter",
+      "status": "EXISTENTE, NÃO VALIDADO",
+      "source": "PDF v4 leitura",
+      "minChapter": 22,
+      "integrity": "9c05b71e9b54ca583af85dbd6ae375cd4fe3e87fa2fce92fe0c0f75b127cf2e5"
+    },
+    {
+      "id": "ch23",
+      "title": "A margem da memória",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 23,
+      "integrity": "af5a68b307198fca8d7701354e97a904ca6de2625b878393943d057679c551d6"
+    },
+    {
+      "id": "ch24",
+      "title": "A mesa de Severo",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 24,
+      "integrity": "177a2ca37f9fead6c4d73886fe595f78d6221d4a24ca87ce23542b62a864aa92"
+    },
+    {
+      "id": "ch25",
+      "title": "O roubo de Gabriel",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 25,
+      "integrity": "24ee95f09e8d33a2d17eb119c3aa78716c6de30aaa4f2f74e5442b16c080632b"
+    },
+    {
+      "id": "ch26",
+      "title": "A culpa tem voz",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 26,
+      "integrity": "9cfdce6d73ba6d6dc2e1ffd92145c10de7811c5288ec4f7d17e2115033414926"
+    },
+    {
+      "id": "ch27",
+      "title": "A promessa de Baltasar",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 27,
+      "integrity": "055f2d101f4f17b7bafd9ec0a42a55e8500c406fa826c00e58b4a32be405630e"
+    },
+    {
+      "id": "letter7",
+      "title": "Carta VII",
+      "type": "letter",
+      "status": "EXISTENTE, NÃO VALIDADO",
+      "source": "PDF v4 leitura",
+      "minChapter": 27,
+      "integrity": "661116f2806684bc77fb7f18699729063696808902327119db2b222f5280a427"
+    },
+    {
+      "id": "ch28",
+      "title": "O dia sem vento",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 28,
+      "integrity": "9dffb9f1f6aba2ba5f03ff4d83b8586c00bba5a265d98db064db726f2f3ab676"
+    },
+    {
+      "id": "ch29",
+      "title": "As luzes de quem ficou",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 29,
+      "integrity": "d2d1e4dda6adfa31da98dfa1d5b5c0ad6799b2d15186e5e28ea3588625abb9c2"
+    },
+    {
+      "id": "ch30",
+      "title": "A bordo da Providência",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 30,
+      "integrity": "8a06107e5ccf1629f4c5b8ec878b253a0a643b09b27c8cbc17beeee075d7bc95"
+    },
+    {
+      "id": "ch31",
+      "title": "Os filhos do sal",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 31,
+      "integrity": "9ed17198d0abddb1454499bcd947ce259d6723fc6d0e44da7057a0aa2b7e91ee"
+    },
+    {
+      "id": "letter8",
+      "title": "Carta VIII",
+      "type": "letter",
+      "status": "EXISTENTE, NÃO VALIDADO",
+      "source": "PDF v4 leitura",
+      "minChapter": 31,
+      "integrity": "b92dad7ce361fae044567acffd9ffb316242ba70e28d8918c7892955625534a7"
+    },
+    {
+      "id": "ch32",
+      "title": "A folha no bolso",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 32,
+      "integrity": "56e34a0e625bc8667d2151fb6e08a90d8ce15fa3f43fa1ccfafe076053254f13"
+    },
+    {
+      "id": "ch33",
+      "title": "A linha das vozes",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 33,
+      "integrity": "08f5b9f49953c06ae17a93dc1a675dd8f4c258c3890ab7a6fdce6fdfbf3932ce"
+    },
+    {
+      "id": "ch34",
+      "title": "O menino entre as pedras",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 34,
+      "integrity": "9da38254107a307101d07fbddb279c7210b3523e83e515364d88a3736ae2f887"
+    },
+    {
+      "id": "ch35",
+      "title": "O que Clara não disse",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 35,
+      "integrity": "00a9d137bcbdb428d82d77574abe83e596474891f3fbee0a1ab78cd4f607930f"
+    },
+    {
+      "id": "letter9",
+      "title": "Carta IX",
+      "type": "letter",
+      "status": "EXISTENTE, NÃO VALIDADO",
+      "source": "PDF v4 leitura",
+      "minChapter": 35,
+      "integrity": "cfc8a021639d3525bdc8a137d22a508678fc37e11c9307981a045d71bbb597f0"
+    },
+    {
+      "id": "ch36",
+      "title": "A última manhã da Constância",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 36,
+      "integrity": "7cefab4a1a0f5a81eca2dd15f8bd62b185d5146e76b907cf31a13c05dca30e10"
+    },
+    {
+      "id": "ch37",
+      "title": "Fogo sobre a água",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 37,
+      "integrity": "868f048b84d62ab4e9397834d0c85611df7d93f635ef08c6cc646b93151cbcfc"
+    },
+    {
+      "id": "ch38",
+      "title": "O último turno de Balu",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 38,
+      "integrity": "cf7f42d95a003b88554d7b2b3bc4a9dcca599f50f49453822f8bef7fbd91a017"
+    },
+    {
+      "id": "letter10",
+      "title": "Carta X",
+      "type": "letter",
+      "status": "EXISTENTE, NÃO VALIDADO",
+      "source": "PDF v4 leitura",
+      "minChapter": 38,
+      "integrity": "71c0fbe6bace2e17131556691ab14cf72eb5b785c673d9dde729a025cd9a395c"
+    },
+    {
+      "id": "ch39",
+      "title": "Todos os sinos do porto",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 39,
+      "integrity": "0a365e3560c7f122ef533030ca1be7b3b17c1e83134524334c0da59c56478e89"
+    },
+    {
+      "id": "ch40",
+      "title": "Vigília",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 40,
+      "integrity": "406a40ec5f6c744f11ed631373fa21df899a3cdaff4038ed183007c38328863e"
+    },
+    {
+      "id": "ch41",
+      "title": "O julgamento dos vivos",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 41,
+      "integrity": "eda00940aeaea67c2330b1eff21db1f516292458602ca140177bca26d6b0b131"
+    },
+    {
+      "id": "letter11",
+      "title": "Carta XI",
+      "type": "letter",
+      "status": "EXISTENTE, NÃO VALIDADO",
+      "source": "PDF v4 leitura",
+      "minChapter": 41,
+      "integrity": "52d3a793ec1654011fda8b2eab12d02396e3d990c02aeabd06aca4bd703be3ce"
+    },
+    {
+      "id": "ch42",
+      "title": "O herdeiro de Severo",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 42,
+      "integrity": "164990e22c28d8f717f20d0ac1b95966c5c49b0e82fbed24b4a325e00c8b2fde"
+    },
+    {
+      "id": "ch43",
+      "title": "A cidade partida",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 43,
+      "integrity": "27106a789865b929f71f041c9efa9e13d60780a2525ba76096cf5afb54e43734"
+    },
+    {
+      "id": "ch44",
+      "title": "A décima terceira carta",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 44,
+      "integrity": "e3249cb8ba9d26958771c5b63ce5e29fbbd6e0b48068e2cae1904dd2c4a05877"
+    },
+    {
+      "id": "ch45",
+      "title": "A coragem na segunda noite",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 45,
+      "integrity": "e7a71d67d15da4c4fa68cf0620d36edce20dd322818f6355e4f65a1c7b291373"
+    },
+    {
+      "id": "letter12",
+      "title": "Carta XII",
+      "type": "letter",
+      "status": "EXISTENTE, NÃO VALIDADO",
+      "source": "PDF v4 leitura",
+      "minChapter": 45,
+      "integrity": "c1666da9414b2bba3607622ef8eb7ca1bfcad024a910ec2418d81a0ce88c12d4"
+    },
+    {
+      "id": "ch46",
+      "title": "A segunda noite",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 46,
+      "integrity": "1361489fd7b77ca63f906d30d3ffc8e82ebd24c4e3eae814e10a9d2f679e3ed5"
+    },
+    {
+      "id": "ch47",
+      "title": "O menino que apagou a luz",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 47,
+      "integrity": "ad2d25a91f9c0baa05316325a55d95ae244ecea05f906f5d1a2d4faf661442d0"
+    },
+    {
+      "id": "ch48",
+      "title": "O canal da agulha",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 48,
+      "integrity": "4b6955689af358dd354dd9e684af3f335380f6504277c3fc6a1c155d2cc73dd7"
+    },
+    {
+      "id": "ch49",
+      "title": "A luz e os nomes",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 49,
+      "integrity": "ffe70f57b982503ffddc92096d746e08ed48eebaa512e5e03316dcc1c05c2e13"
+    },
+    {
+      "id": "ch50",
+      "title": "O preço da manhã",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 50,
+      "integrity": "75fa16b591a1bce9b44b4b8cda3837d0f3cb0e1ccfcceaa93344464e6cbf8845"
+    },
+    {
+      "id": "ch51",
+      "title": "O tribunal dos nomes",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 51,
+      "integrity": "e28ff5626dad16e448e61f00c8573916881fe58cf308350fceffba113ff99c7b"
+    },
+    {
+      "id": "ch52",
+      "title": "O primeiro inverno",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 52,
+      "integrity": "91afb0d743eba53a0909ed3e5c4c04c7bbb8d9212f50496e832555177da39db2"
+    },
+    {
+      "id": "ch53",
+      "title": "Norte",
+      "type": "chapter",
+      "status": "APROVADO",
+      "source": "manifests/chapters.json",
+      "minChapter": 53,
+      "integrity": "d3dc6b332b303661818130c23721227c4b3838f46877226d1e6d1e6af4984adf"
+    },
+    {
+      "id": "epilogue",
+      "title": "Epílogo",
+      "type": "epilogue",
+      "status": "EXISTENTE, NÃO VALIDADO",
+      "source": "PDF v4 leitura",
+      "minChapter": 53,
+      "integrity": "611441784fe48f0520615a85e09ac2fcd9984f97fcd6c71cddeb7dd9fea9e619"
+    },
+    {
+      "id": "map_stage_1",
+      "title": "A Costa e o Primeiro Rumo",
+      "type": "map",
+      "status": "APROVADO (arte-facsímile)",
+      "source": "PDF v4, p. 20",
+      "minChapter": 1,
+      "integrity": "5fd8c5d8c06fc5b98e6216eb4a287ff34655ecb5f8464d019f36a978fd67a032"
+    },
+    {
+      "id": "testament",
+      "title": "O Testamento",
+      "type": "document",
+      "status": "APROVADO (arte-facsímile)",
+      "source": "PDF v4, p. 32",
+      "minChapter": 2,
+      "integrity": "dd9bc0731a0ac6bad229d65cb977f7c9cab66c74310340f146f9ad9bab833dc5"
+    },
+    {
+      "id": "canal_chart",
+      "title": "Carta do Canal da Agulha",
+      "type": "map",
+      "status": "APROVADO (arte-facsímile)",
+      "source": "PDF v4, p. 49",
+      "minChapter": 3,
+      "integrity": "2b69f9195f72721112600cf3ac601558656378be130155c38e33ab5f7c71e491"
+    },
+    {
+      "id": "constancia_blueprint",
+      "title": "Prancha da Constância",
+      "type": "document",
+      "status": "APROVADO (arte-facsímile)",
+      "source": "PDF v4, p. 64",
+      "minChapter": 4,
+      "integrity": "6bd1fdfcadeb0b5b05c32e09d0027b9b356efd015c0b5802e2ebf1fa2b35d3b8"
+    },
+    {
+      "id": "passenger_register",
+      "title": "A Folha dos Passageiros",
+      "type": "document",
+      "status": "APROVADO (arte-facsímile)",
+      "source": "PDF v4, p. 117",
+      "minChapter": 10,
+      "integrity": "bd9e620fd16d20f143ae876babdde00e984adcd08e9cb133d128a50240aaa740"
+    },
+    {
+      "id": "diary_blue",
+      "title": "O Diário Azul",
+      "type": "document",
+      "status": "APROVADO (arte-facsímile)",
+      "source": "PDF v4, p. 127",
+      "minChapter": 12,
+      "integrity": "ea1ff35b1226d2c20bf843c7f4e2465f5df00cdad43940d506548c60c210b3a4"
+    },
+    {
+      "id": "map_stage_2",
+      "title": "Águas Profundas",
+      "type": "map",
+      "status": "APROVADO (arte-facsímile)",
+      "source": "PDF v4, p. 145",
+      "minChapter": 14,
+      "integrity": "4b6756774c25ff304d299fe6bf757e51a87e21e28dc169bf488b45b3db361721"
+    },
+    {
+      "id": "radio_log",
+      "title": "Fita do Registro de Rádio",
+      "type": "document",
+      "status": "APROVADO (arte-facsímile)",
+      "source": "PDF v4, p. 198",
+      "minChapter": 17,
+      "integrity": "ac5a558130948248a90da1e2ac750084c449c9c2df548a5b235afb1022f7e226"
+    },
+    {
+      "id": "map_stage_3",
+      "title": "A Rota sob a Tempestade",
+      "type": "map",
+      "status": "APROVADO (arte-facsímile)",
+      "source": "PDF v4, p. 275",
+      "minChapter": 24,
+      "integrity": "d5ea589ad217a41bc43ea15945a9da305c4b869de87b1fe61f413caca21a43bc"
+    },
+    {
+      "id": "order",
+      "title": "A Ordem Guardada",
+      "type": "document",
+      "status": "APROVADO (arte-facsímile)",
+      "source": "PDF v4, p. 285",
+      "minChapter": 25,
+      "integrity": "d20094a8636314f20e6ae65ab9732803c74f57344e3142c1c5a5b6a499b52fe5"
+    },
+    {
+      "id": "tomas_note",
+      "title": "A Folha no Bolso",
+      "type": "document",
+      "status": "APROVADO (arte-facsímile)",
+      "source": "PDF v4, p. 348",
+      "minChapter": 32,
+      "integrity": "ccaad15c3e24e75c8d7b962ff10466afa088ad169bdd9aa05036276c5efbfb08"
+    },
+    {
+      "id": "gruta_map",
+      "title": "Mapa da Gruta das Vozes",
+      "type": "map",
+      "status": "APROVADO (arte-facsímile)",
+      "source": "PDF v4, p. 365",
+      "minChapter": 33,
+      "integrity": "4bbfdca2be0ee5cea880ba6839ba3b36add22d6d1daef643e4047429e74c841a"
+    },
+    {
+      "id": "balu_transmission",
+      "title": "Transmissão da Estação Norte",
+      "type": "document",
+      "status": "APROVADO (arte-facsímile)",
+      "source": "PDF v4, p. 402",
+      "minChapter": 38,
+      "integrity": "2a829b3948f7f02f010cce537a040bd4555f1799f63834ed49d83948e15b51fd"
+    },
+    {
+      "id": "map_stage_4",
+      "title": "O Regresso à Luz",
+      "type": "map",
+      "status": "APROVADO (arte-facsímile)",
+      "source": "PDF v4, p. 407",
+      "minChapter": 39,
+      "integrity": "588c4a398d1b874a74e70a3a06bb5492c019b7faaf6012cba5ac132d1500bd98"
+    },
+    {
+      "id": "ana_letter",
+      "title": "Carta de Ana",
+      "type": "document",
+      "status": "APROVADO (arte-facsímile)",
+      "source": "PDF v4, p. 467",
+      "minChapter": 45,
+      "integrity": "03b7a27153feb4c989d320ab5d080b8c0434bfa52a08851846b041fb09ffba90"
+    },
+    {
+      "id": "brass_tube",
+      "title": "O Tubo de Latão",
+      "type": "document",
+      "status": "APROVADO (arte-facsímile)",
+      "source": "PDF v4, p. 507",
+      "minChapter": 50,
+      "integrity": "e0f8828556fad38b2f8974b6e130475577684249397c1c7d01adbb1dbba3b278"
+    },
+    {
+      "id": "sentence_extract",
+      "title": "Extrato da Sentença",
+      "type": "document",
+      "status": "APROVADO (arte-facsímile)",
+      "source": "PDF v4, p. 523",
+      "minChapter": 51,
+      "integrity": "5e503f997d8f64725b2c11a5fa94e5ed413d91a4cf0ba5a2cc88a0fee838fc51"
+    },
+    {
+      "id": "north_restored_chart",
+      "title": "Carta Restaurada do Norte",
+      "type": "map",
+      "status": "APROVADO (arte-facsímile)",
+      "source": "PDF v4, p. 542",
+      "minChapter": 53,
+      "integrity": "1922f48b1627f32961b2d806a52bbda06ddc08c1771759f10da17f7be27a524e"
+    }
+  ],
+  "unverifiedTextExtraction": "Prólogo, epílogo e cartas precisam de conferência editorial de parágrafos no PDF."
+}

@@ -1,0 +1,198 @@
+{
+  "id": "prologue",
+  "type": "prologue",
+  "title": "Prólogo",
+  "subtitle": "A segunda luz",
+  "part": "Prólogo",
+  "blocks": [
+    {
+      "id": "p-a72314dcccf8-1",
+      "type": "para",
+      "text": "A primeira luz era a que todos esperavam."
+    },
+    {
+      "id": "p-82022350f467-1",
+      "type": "para",
+      "text": "Girava no alto do Farol da Vigília desde antes que qualquer homem vivo no porto pudesse se lembrar. Um facho largo, branco, regular. Três pulsações sobre o mar, uma pausa, outras três. Os pescadores conheciam aquele ritmo melhor do que o próprio coração. Crianças adormeciam contando seus intervalos nas paredes. Viúvas o observavam das janelas, esperando que cada volta trouxesse um barco para casa."
+    },
+    {
+      "id": "p-70b4dd3d6d37-1",
+      "type": "para",
+      "text": "A segunda luz não deveria existir."
+    },
+    {
+      "id": "p-0610a5666fa7-1",
+      "type": "para",
+      "text": "O rapaz a viu quando alcançou a crista da Ponta do Corvo. Era menor, amarela e imóvel, protegida por uma caixa de vidro no alto da velha armação de sinais. A névoa lhe dava uma auréola doentia. Àquela distância, porém, vista do mar, a luz parecia ocupar o lugar exato da entrada do canal."
+    },
+    {
+      "id": "p-010f9ba97c08-1",
+      "type": "para",
+      "text": "Alguém a acendera."
+    },
+    {
+      "id": "p-d17c48cc3921-1",
+      "type": "para",
+      "text": "Ele escorregou no cascalho e caiu de joelhos. O vento roubava o ar de sua boca. Tinha corrido desde a estrada de serviço, atravessado o mato espinhoso e saltado a cerca da Companhia. A chuva lhe colava a camisa ao corpo. Em sua mão direita, apertava um tubo de latão; na esquerda, a lanterna vermelha que arrancara do depósito."
+    },
+    {
+      "id": "p-4982fbcac86b-1",
+      "type": "para",
+      "text": "Mais abaixo, entre as pedras, havia um corpo."
+    },
+    {
+      "id": "p-4578834b1188-1",
+      "type": "para",
+      "text": "— Levanta — gritou."
+    },
+    {
+      "id": "p-7285b9c0daca-1",
+      "type": "para",
+      "text": "O irmão não respondeu."
+    },
+    {
+      "id": "p-fef424fe7242-1",
+      "type": "para",
+      "text": "Um relâmpago abriu o céu. Por um instante, o mar apareceu inteiro: negro, erguido em lombadas brancas, e, para além do recife, a massa escura de um navio. As vigias acesas se empilhavam como janelas de uma cidade flutuante. O Aurora vinha rápido demais. A proa já se inclinava para a falsa passagem."
+    },
+    {
+      "id": "p-f25d7dc361b7-1",
+      "type": "para",
+      "text": "O rapaz sentiu o medo se tornar uma coisa fria e precisa."
+    },
+    {
+      "id": "p-0a9427f501b3-1",
+      "type": "para",
+      "text": "Não havia tempo para descer até o irmão e depois subir à armação. Não havia tempo para correr até o farol. Não havia tempo para pedir a Deus que transformasse o que já estava acontecendo em algo que nunca tivesse acontecido."
+    },
+    {
+      "id": "p-6c73e0e8e401-1",
+      "type": "para",
+      "text": "Ele enfiou o tubo de latão numa fenda da rocha, cobriu-o com duas pedras e correu para a luz."
+    },
+    {
+      "id": "p-6436669505f2-1",
+      "type": "para",
+      "text": "A porta da armação estava aberta. Lá dentro, o cheiro de óleo de cedro e metal quente quase o fez vomitar. O mecanismo antigo gemia. Alguém adaptara uma lente nova à estrutura abandonada e pintara de preto as placas da Companhia. Aquilo não era um erro improvisado. Fora preparado."
+    },
+    {
+      "id": "p-c6b9fa9ebc46-1",
+      "type": "para",
+      "text": "O rapaz agarrou a alavanca da chaminé."
+    },
+    {
+      "id": "p-04e20ddac0d5-1",
+      "type": "para",
+      "text": "Ela não se moveu."
+    },
+    {
+      "id": "p-eeb8c96fddc1-1",
+      "type": "para",
+      "text": "No mar, o Aurora tocou a sirene. Um som grave atravessou a névoa, prolongado e solitário. O navio pedira confirmação de rota."
+    },
+    {
+      "id": "p-37bf0cb38cff-1",
+      "type": "para",
+      "text": "Do Farol da Vigília, a primeira luz passou sobre eles. Três pulsações, uma pausa, três pulsações."
+    },
+    {
+      "id": "p-491ad9e627a7-1",
+      "type": "para",
+      "text": "A luz verdadeira ainda ardia."
+    },
+    {
+      "id": "p-f524c907f31b-1",
+      "type": "para",
+      "text": "O rapaz apoiou um pé na base da armação e puxou a alavanca com as duas mãos. O metal abriu a palma de sua mão. Sangue e chuva tornaram a peça escorregadia."
+    },
+    {
+      "id": "p-2fa6d355f400-1",
+      "type": "para",
+      "text": "— Por favor — disse, sem saber se falava com a máquina, com o navio ou com Deus."
+    },
+    {
+      "id": "p-f2b2bed1f258-1",
+      "type": "para",
+      "text": "A alavanca cedeu. A chaminé tombou. O vidro estourou e o óleo em chamas se espalhou pelo piso."
+    },
+    {
+      "id": "p-29e8dd911f1d-1",
+      "type": "para",
+      "text": "A segunda luz morreu."
+    },
+    {
+      "id": "p-2605e945c7a8-1",
+      "type": "para",
+      "text": "Tarde demais."
+    },
+    {
+      "id": "p-a3db54ba0c57-1",
+      "type": "para",
+      "text": "O som que veio do recife não se parecia com nada que ele conhecesse. Madeira, ferro e pedra gritaram ao mesmo tempo. O Aurora inclinou-se para bombordo. Algumas janelas desapareceram sob uma onda; outras se acenderam quando portas foram abertas e pessoas correram pelos conveses. A sirene voltou a soar, agora entrecortada."
+    },
+    {
+      "id": "p-a2296efc1658-1",
+      "type": "para",
+      "text": "O rapaz ergueu a lanterna vermelha e a balançou sobre a cabeça."
+    },
+    {
+      "id": "p-f9bc4c7e9285-1",
+      "type": "para",
+      "text": "— Recife! — gritou. — Recife à frente!"
+    },
+    {
+      "id": "p-13c629c63d0f-1",
+      "type": "para",
+      "text": "Ninguém poderia ouvi-lo."
+    },
+    {
+      "id": "p-dd0a81e82c3e-1",
+      "type": "para",
+      "text": "Uma explosão iluminou a névoa por dentro. A armação de sinais sacudiu. O rapaz foi lançado contra a porta, mas não soltou a lanterna. Lá embaixo, o irmão começava a se mover."
+    },
+    {
+      "id": "p-9f22088681d8-1",
+      "type": "para",
+      "text": "Então vieram os gritos."
+    },
+    {
+      "id": "p-4b5cb94894e0-1",
+      "type": "para",
+      "text": "Eram muitos. Alguns atravessaram o mar com nitidez absurda; outros pareciam nascer debaixo da água. O rapaz desceu pelas pedras, caiu duas vezes e alcançou o pequeno barco amarrado na enseada. Cortou a corda em vez de desfazer o nó. Quando empurrou o casco, uma onda devolveu a embarcação sobre suas pernas."
+    },
+    {
+      "id": "p-329b4cfaba98-1",
+      "type": "para",
+      "text": "— Fica aí! — gritou para o irmão. — Eu volto."
+    },
+    {
+      "id": "p-8c15ed4b74f5-1",
+      "type": "para",
+      "text": "O irmão tentou dizer alguma coisa. Talvez seu nome. Talvez um pedido para que não fosse."
+    },
+    {
+      "id": "p-36004063d7e2-1",
+      "type": "para",
+      "text": "O rapaz entrou no mar."
+    },
+    {
+      "id": "p-6f36f723b68f-1",
+      "type": "para",
+      "text": "Naquela noite, doze pessoas voltariam com ele."
+    },
+    {
+      "id": "p-68c9fa85514e-1",
+      "type": "para",
+      "text": "Ele não voltaria com nenhuma delas."
+    }
+  ],
+  "provenance": {
+    "source": "collector-v4-reading-pdf",
+    "source_pdf_pages": [
+      14,
+      17
+    ],
+    "verification": "pdf-extracted-needs-human-paragraph-proof"
+  },
+  "blocks_sha256": "cbbcb96d801ef84ca4820ac2d1a6d70125638b8859bd5afa3af22b8ab84f828a"
+}

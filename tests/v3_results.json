@@ -1,0 +1,397 @@
+{
+  "mode": "Browser source UI with mocked fetch and memory storage due policy blocked localhost",
+  "tests": [
+    {
+      "name": "small Átrio cinematográfico",
+      "passed": true
+    },
+    {
+      "name": "small Átrio sem scroll horizontal",
+      "passed": true
+    },
+    {
+      "name": "small rolagem do Átrio tem controle acionável",
+      "passed": true
+    },
+    {
+      "name": "small Observatório possui acesso",
+      "passed": true
+    },
+    {
+      "name": "small navegação inferior distribuída",
+      "passed": true
+    },
+    {
+      "name": "small filme com player real",
+      "passed": true
+    },
+    {
+      "name": "small Ambiências reais: três escolhas",
+      "passed": true
+    },
+    {
+      "name": "small painel de som abre",
+      "passed": true
+    },
+    {
+      "name": "small seleção de vento",
+      "passed": true
+    },
+    {
+      "name": "small volume funcional",
+      "passed": true
+    },
+    {
+      "name": "small painel fecha",
+      "passed": true
+    },
+    {
+      "name": "small prólogo integral carregado",
+      "passed": true
+    },
+    {
+      "name": "small leitor sem sidebar",
+      "passed": true
+    },
+    {
+      "name": "small leitor sem scroll horizontal",
+      "passed": true
+    },
+    {
+      "name": "small tema noturno",
+      "passed": true
+    },
+    {
+      "name": "small índice com 67 entradas",
+      "passed": true
+    },
+    {
+      "name": "small marcador funcional",
+      "passed": true
+    },
+    {
+      "name": "small mapa protegido",
+      "passed": true
+    },
+    {
+      "name": "small galeria sem spoilers",
+      "passed": true
+    },
+    {
+      "name": "small mapa desbloqueado",
+      "passed": true
+    },
+    {
+      "name": "small galeria desbloqueada após capítulo",
+      "passed": true
+    },
+    {
+      "name": "small aquarela ampliável",
+      "passed": true
+    },
+    {
+      "name": "small busca protegida",
+      "passed": true
+    },
+    {
+      "name": "small biblioteca integral",
+      "passed": true
+    },
+    {
+      "name": "small nenhum erro JS",
+      "passed": true
+    },
+    {
+      "name": "mobile Átrio cinematográfico",
+      "passed": true
+    },
+    {
+      "name": "mobile Átrio sem scroll horizontal",
+      "passed": true
+    },
+    {
+      "name": "mobile rolagem do Átrio tem controle acionável",
+      "passed": true
+    },
+    {
+      "name": "mobile Observatório possui acesso",
+      "passed": true
+    },
+    {
+      "name": "mobile navegação inferior distribuída",
+      "passed": true
+    },
+    {
+      "name": "mobile filme com player real",
+      "passed": true
+    },
+    {
+      "name": "mobile Ambiências reais: três escolhas",
+      "passed": true
+    },
+    {
+      "name": "mobile painel de som abre",
+      "passed": true
+    },
+    {
+      "name": "mobile seleção de vento",
+      "passed": true
+    },
+    {
+      "name": "mobile volume funcional",
+      "passed": true
+    },
+    {
+      "name": "mobile painel fecha",
+      "passed": true
+    },
+    {
+      "name": "mobile prólogo integral carregado",
+      "passed": true
+    },
+    {
+      "name": "mobile leitor sem sidebar",
+      "passed": true
+    },
+    {
+      "name": "mobile leitor sem scroll horizontal",
+      "passed": true
+    },
+    {
+      "name": "mobile tema noturno",
+      "passed": true
+    },
+    {
+      "name": "mobile índice com 67 entradas",
+      "passed": true
+    },
+    {
+      "name": "mobile marcador funcional",
+      "passed": true
+    },
+    {
+      "name": "mobile mapa protegido",
+      "passed": true
+    },
+    {
+      "name": "mobile galeria sem spoilers",
+      "passed": true
+    },
+    {
+      "name": "mobile mapa desbloqueado",
+      "passed": true
+    },
+    {
+      "name": "mobile galeria desbloqueada após capítulo",
+      "passed": true
+    },
+    {
+      "name": "mobile aquarela ampliável",
+      "passed": true
+    },
+    {
+      "name": "mobile busca protegida",
+      "passed": true
+    },
+    {
+      "name": "mobile biblioteca integral",
+      "passed": true
+    },
+    {
+      "name": "mobile nenhum erro JS",
+      "passed": true
+    },
+    {
+      "name": "tablet Átrio cinematográfico",
+      "passed": true
+    },
+    {
+      "name": "tablet Átrio sem scroll horizontal",
+      "passed": true
+    },
+    {
+      "name": "tablet rolagem do Átrio tem controle acionável",
+      "passed": true
+    },
+    {
+      "name": "tablet Observatório possui acesso",
+      "passed": true
+    },
+    {
+      "name": "tablet filme com player real",
+      "passed": true
+    },
+    {
+      "name": "tablet Ambiências reais: três escolhas",
+      "passed": true
+    },
+    {
+      "name": "tablet painel de som abre",
+      "passed": true
+    },
+    {
+      "name": "tablet seleção de vento",
+      "passed": true
+    },
+    {
+      "name": "tablet volume funcional",
+      "passed": true
+    },
+    {
+      "name": "tablet painel fecha",
+      "passed": true
+    },
+    {
+      "name": "tablet prólogo integral carregado",
+      "passed": true
+    },
+    {
+      "name": "tablet leitor sem sidebar",
+      "passed": true
+    },
+    {
+      "name": "tablet leitor sem scroll horizontal",
+      "passed": true
+    },
+    {
+      "name": "tablet tema noturno",
+      "passed": true
+    },
+    {
+      "name": "tablet índice com 67 entradas",
+      "passed": true
+    },
+    {
+      "name": "tablet marcador funcional",
+      "passed": true
+    },
+    {
+      "name": "tablet mapa protegido",
+      "passed": true
+    },
+    {
+      "name": "tablet galeria sem spoilers",
+      "passed": true
+    },
+    {
+      "name": "tablet mapa desbloqueado",
+      "passed": true
+    },
+    {
+      "name": "tablet galeria desbloqueada após capítulo",
+      "passed": true
+    },
+    {
+      "name": "tablet aquarela ampliável",
+      "passed": true
+    },
+    {
+      "name": "tablet busca protegida",
+      "passed": true
+    },
+    {
+      "name": "tablet biblioteca integral",
+      "passed": true
+    },
+    {
+      "name": "tablet nenhum erro JS",
+      "passed": true
+    },
+    {
+      "name": "desktop Átrio cinematográfico",
+      "passed": true
+    },
+    {
+      "name": "desktop Átrio sem scroll horizontal",
+      "passed": true
+    },
+    {
+      "name": "desktop rolagem do Átrio tem controle acionável",
+      "passed": true
+    },
+    {
+      "name": "desktop Observatório possui acesso",
+      "passed": true
+    },
+    {
+      "name": "desktop filme com player real",
+      "passed": true
+    },
+    {
+      "name": "desktop Ambiências reais: três escolhas",
+      "passed": true
+    },
+    {
+      "name": "desktop painel de som abre",
+      "passed": true
+    },
+    {
+      "name": "desktop seleção de vento",
+      "passed": true
+    },
+    {
+      "name": "desktop volume funcional",
+      "passed": true
+    },
+    {
+      "name": "desktop painel fecha",
+      "passed": true
+    },
+    {
+      "name": "desktop prólogo integral carregado",
+      "passed": true
+    },
+    {
+      "name": "desktop leitor sem sidebar",
+      "passed": true
+    },
+    {
+      "name": "desktop leitor sem scroll horizontal",
+      "passed": true
+    },
+    {
+      "name": "desktop tema noturno",
+      "passed": true
+    },
+    {
+      "name": "desktop índice com 67 entradas",
+      "passed": true
+    },
+    {
+      "name": "desktop marcador funcional",
+      "passed": true
+    },
+    {
+      "name": "desktop mapa protegido",
+      "passed": true
+    },
+    {
+      "name": "desktop galeria sem spoilers",
+      "passed": true
+    },
+    {
+      "name": "desktop mapa desbloqueado",
+      "passed": true
+    },
+    {
+      "name": "desktop galeria desbloqueada após capítulo",
+      "passed": true
+    },
+    {
+      "name": "desktop aquarela ampliável",
+      "passed": true
+    },
+    {
+      "name": "desktop busca protegida",
+      "passed": true
+    },
+    {
+      "name": "desktop biblioteca integral",
+      "passed": true
+    },
+    {
+      "name": "desktop nenhum erro JS",
+      "passed": true
+    }
+  ]
+}

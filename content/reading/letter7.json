@@ -1,0 +1,68 @@
+{
+  "id": "letter7",
+  "type": "letter",
+  "title": "Carta VII",
+  "subtitle": null,
+  "part": "PARTE III — A TEMPESTADE",
+  "blocks": [
+    {
+      "id": "p-f46f067aa580-1",
+      "type": "para",
+      "text": "Para Baltasar Rocha"
+    },
+    {
+      "id": "p-c5cc967a2e79-1",
+      "type": "para",
+      "text": "Balu,"
+    },
+    {
+      "id": "p-bf4c7803b6db-1",
+      "type": "para",
+      "text": "Eu o libero da promessa."
+    },
+    {
+      "id": "p-e67fff287113-1",
+      "type": "para",
+      "text": "Essas palavras chegam tarde porque eu devia tê-las dito no dia seguinte ao naufrágio. Em vez disso, confundi sua lealdade comigo com fidelidade ao bem. Nós dois fomos homens capazes de entrar em mar revolto para salvar desconhecidos e incapazes de atravessar uma sala para dizer a verdade a quem amávamos."
+    },
+    {
+      "id": "p-b42c7198959e-1",
+      "type": "para",
+      "text": "Você abandonou o posto. Miguel acendeu a luz. Eu menti. A Companhia construiu a rota e enviou o Aurora para ela. Nenhum fato apaga o outro."
+    },
+    {
+      "id": "p-fd6bc9db4a26-1",
+      "type": "para",
+      "text": "Não aceite que Miguel transforme a própria culpa numa espécie de trono. Ele sempre teve o defeito de se imaginar responsável por tudo aquilo que não consegue controlar. Parece humildade, mas ainda coloca o homem no centro."
+    },
+    {
+      "id": "p-b4a2f9b63b46-1",
+      "type": "para",
+      "text": "Diga a Clara o que viu. Deixe que ela escolha o que fazer com isso. Diga a Davi quem Gabriel foi antes da água. Conte também suas falhas; os mortos não precisam ser perfeitos para serem amados."
+    },
+    {
+      "id": "p-11269f2e4b60-1",
+      "type": "para",
+      "text": "Quanto a você: arrependimento não é passar a vida executando a própria sentença. Pedro chorou por negar o Senhor e depois recebeu o encargo de cuidar de pessoas. Se Deus ainda lhe der dias, use-os para cuidar. Não para pagar. A cruz já nos proibiu a fantasia de que somos capazes de pagar tudo sozinhos."
+    },
+    {
+      "id": "p-2c900ba05702-1",
+      "type": "para",
+      "text": "Seu irmão,"
+    },
+    {
+      "id": "p-9b67e15f271a-1",
+      "type": "para",
+      "text": "Jonas"
+    }
+  ],
+  "provenance": {
+    "source": "collector-v4-reading-pdf",
+    "source_pdf_pages": [
+      305,
+      306
+    ],
+    "verification": "pdf-extracted-needs-human-paragraph-proof"
+  },
+  "blocks_sha256": "661116f2806684bc77fb7f18699729063696808902327119db2b222f5280a427"
+}

@@ -1,0 +1,109 @@
+{
+  "limitations": "Runs actual UI JS with in-memory data and storage; network navigation disabled by administrator",
+  "tests": [
+    {
+      "name": "mobile: Átrio",
+      "status": "PASS"
+    },
+    {
+      "name": "mobile: texto real do prólogo",
+      "status": "PASS"
+    },
+    {
+      "name": "mobile: abrir preferências",
+      "status": "PASS"
+    },
+    {
+      "name": "mobile: tema noite",
+      "status": "PASS"
+    },
+    {
+      "name": "mobile: 67 entradas no índice",
+      "status": "PASS"
+    },
+    {
+      "name": "mobile: capítulo real",
+      "status": "PASS"
+    },
+    {
+      "name": "mobile: sem spoiler no índice",
+      "status": "PASS"
+    },
+    {
+      "name": "mobile: marcador gravado",
+      "status": "PASS"
+    },
+    {
+      "name": "mobile: atlas protegido",
+      "status": "PASS"
+    },
+    {
+      "name": "mobile: atlas desbloqueado",
+      "status": "PASS"
+    },
+    {
+      "name": "mobile: busca autorizada",
+      "status": "PASS"
+    },
+    {
+      "name": "mobile: biblioteca completa",
+      "status": "PASS"
+    },
+    {
+      "name": "mobile: sem exceções JavaScript",
+      "status": "PASS"
+    },
+    {
+      "name": "desktop: Átrio",
+      "status": "PASS"
+    },
+    {
+      "name": "desktop: texto real do prólogo",
+      "status": "PASS"
+    },
+    {
+      "name": "desktop: abrir preferências",
+      "status": "PASS"
+    },
+    {
+      "name": "desktop: tema noite",
+      "status": "PASS"
+    },
+    {
+      "name": "desktop: 67 entradas no índice",
+      "status": "PASS"
+    },
+    {
+      "name": "desktop: capítulo real",
+      "status": "PASS"
+    },
+    {
+      "name": "desktop: sem spoiler no índice",
+      "status": "PASS"
+    },
+    {
+      "name": "desktop: marcador gravado",
+      "status": "PASS"
+    },
+    {
+      "name": "desktop: atlas protegido",
+      "status": "PASS"
+    },
+    {
+      "name": "desktop: atlas desbloqueado",
+      "status": "PASS"
+    },
+    {
+      "name": "desktop: busca autorizada",
+      "status": "PASS"
+    },
+    {
+      "name": "desktop: biblioteca completa",
+      "status": "PASS"
+    },
+    {
+      "name": "desktop: sem exceções JavaScript",
+      "status": "PASS"
+    }
+  ]
+}

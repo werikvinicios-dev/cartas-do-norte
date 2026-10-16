@@ -1,0 +1,128 @@
+{
+  "id": "letter12",
+  "type": "letter",
+  "title": "Carta XII",
+  "subtitle": null,
+  "part": "PARTE IV — O FAROL",
+  "blocks": [
+    {
+      "id": "p-c31bfb03e1a9-1",
+      "type": "para",
+      "text": "À cidade de Porto da Vigília"
+    },
+    {
+      "id": "p-9e1390a14f6c-1",
+      "type": "para",
+      "text": "Estevão abriu o transmissor. Sua voz saiu das caixas de rádio do porto, dos barcos, das ilhas e, entrecortada pela tempestade, da ponte do Boa Esperança."
+    },
+    {
+      "id": "p-9aabaa028c9c-1",
+      "type": "para",
+      "text": "Meus vizinhos, leu."
+    },
+    {
+      "id": "p-39e6caeae5c0-1",
+      "type": "para",
+      "text": "Quando aceitei a culpa pelo naufrágio, muitos imaginaram que eu sacrificava meu nome para encerrar uma disputa. A verdade é menos digna. Eu protegia meu neto e, ao fazê-lo, ajudei a proteger a Companhia."
+    },
+    {
+      "id": "p-149b9c3ef2df-1",
+      "type": "para",
+      "text": "Miguel Vale, aos dezesseis anos, acendeu o antigo sinal da Ponta do Corvo a pedido de Gabriel. Nenhum dos dois sabia que a armação havia sido restaurada e alinhada secretamente. Homens da Companhia prepararam a rota. Severo Varela ordenou que o Aurora partisse com carga ilegal, falha no leme e passageiros omitidos. Tomás Varela entregou documentos a Gabriel, mas depois ajudou a escondê-los. Baltasar Rocha abandonou o posto e mentiu. Abel Faria alterou horários. Eu reuni todas essas falhas sob meu nome porque uma mentira simples parecia mais misericordiosa do que uma verdade na qual muitos teriam de responder."
+    },
+    {
+      "id": "p-09d284507d32-1",
+      "type": "para",
+      "text": "Não foi."
+    },
+    {
+      "id": "p-5c36ac009c96-1",
+      "type": "para",
+      "text": "Minha confissão permitiu que a cidade conservasse um herói morto, um faroleiro culpado, uma Companhia indispensável e um menino ignorante. Cada personagem recebeu um lugar suportável. Somente os mortos não puderam escolher."
+    },
+    {
+      "id": "p-452ffe994cbe-1",
+      "type": "para",
+      "text": "Aos trabalhadores, peço que não aceitem a crueldade de quem diz que precisam escolher entre pão e verdade. Aos enlutados, peço que não transformem todo trabalhador em cúmplice por precisar alimentar os filhos. Uma cidade justa não exige escuridão como preço da luz."
+    },
+    {
+      "id": "p-99fbc8b0f74b-1",
+      "type": "para",
+      "text": "A Companhia fez coisas boas. Isso é verdade. Também construiu parte de seu bem sobre nomes apagados. Isso é verdade. Se não conseguirmos carregar as duas afirmações, criaremos outra mentira conveniente."
+    },
+    {
+      "id": "p-984eaac9fc90-1",
+      "type": "para",
+      "text": "Não sei como reparar tudo. Desconfio de qualquer homem que saiba. Reparação começa menor: um nome gravado, um salário preservado sem silêncio, uma confissão sem defesa, uma casa aberta para quem ficou sem porto. Depois outra coisa. Depois outra."
+    },
+    {
+      "id": "p-98fe240a458d-1",
+      "type": "para",
+      "text": "Quanto a Miguel, contei o que sei. A parte seguinte pertence a ele. Nenhum avô pode confessar pelo neto. Nenhum morto pode obedecer no lugar dos vivos."
+    },
+    {
+      "id": "p-72d806e70a0d-1",
+      "type": "para",
+      "text": "Estevão parou."
+    },
+    {
+      "id": "p-e48645137528-1",
+      "type": "para",
+      "text": "No alto do velho farol, Miguel ouviu a estática esperar."
+    },
+    {
+      "id": "p-71dc2e8f74b2-1",
+      "type": "para",
+      "text": "Tomou o transmissor portátil."
+    },
+    {
+      "id": "p-e83b32413448-1",
+      "type": "para",
+      "text": "— Meu nome é Miguel Vale. Acendi a luz. Não sabia para que seria usada, mas fui eu. Escondi a primeira prova por algumas horas quando comecei a compreender. Considerei aceitar um acordo que retiraria meu nome da história. Não aceito. Entregarei tudo ao tribunal e responderei pelo que me couber. Não peço que a cidade me perdoe. Peço que ninguém volte a ser apagado para me proteger."
+    },
+    {
+      "id": "p-680d6a531447-1",
+      "type": "para",
+      "text": "Olhou para Clara. Ela assentiu."
+    },
+    {
+      "id": "p-ae76163d079e-1",
+      "type": "para",
+      "text": "— E se sairmos desta tempestade — continuou —, ficarei para ajudar a construir o que vier depois."
+    },
+    {
+      "id": "p-68c257f3b89b-1",
+      "type": "para",
+      "text": "Do rádio, a voz de Davi surgiu fraca:"
+    },
+    {
+      "id": "p-7ad285796945-1",
+      "type": "para",
+      "text": "— Promessa ruim."
+    },
+    {
+      "id": "p-8cb14d5e8df1-1",
+      "type": "para",
+      "text": "Miguel sorriu apesar do medo."
+    },
+    {
+      "id": "p-d856a2a4b28a-1",
+      "type": "para",
+      "text": "— É a que consigo fazer."
+    },
+    {
+      "id": "p-227927741cf5-1",
+      "type": "para",
+      "text": "— Então vamos cobrar todos os dias."
+    }
+  ],
+  "provenance": {
+    "source": "collector-v4-reading-pdf",
+    "source_pdf_pages": [
+      468,
+      470
+    ],
+    "verification": "pdf-extracted-needs-human-paragraph-proof"
+  },
+  "blocks_sha256": "c1666da9414b2bba3607622ef8eb7ca1bfcad024a910ec2418d81a0ce88c12d4"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "letter2",
+  "type": "letter",
+  "title": "Carta II",
+  "subtitle": null,
+  "part": "PARTE I — A COSTA",
+  "blocks": [
+    {
+      "id": "p-9cc47f0d9a2c-1",
+      "type": "para",
+      "text": "Para Abel Faria"
+    },
+    {
+      "id": "p-286b50933c3c-1",
+      "type": "para",
+      "text": "Abel,"
+    },
+    {
+      "id": "p-fd748e3648db-1",
+      "type": "para",
+      "text": "Você me perguntou, no corredor do tribunal, se Deus perdoaria um homem que assinasse uma mentira para alimentar os filhos. Eu lhe respondi que o Senhor conhecia sua necessidade. Era verdade, mas não era toda a verdade. Usei a misericórdia de Deus como pano para cobrir nossa covardia."
+    },
+    {
+      "id": "p-ba59e656a5ad-1",
+      "type": "para",
+      "text": "Sei o que Severo lhe mostrou: o contrato da casa, a dívida de sua esposa, os nomes dos dois meninos. Sei também que você guardou a folha verdadeira do registro de rádio. Eu a vi uma vez, quando ainda éramos jovens o bastante para chamar adiamento de prudência."
+    },
+    {
+      "id": "p-6ed4833291f0-1",
+      "type": "para",
+      "text": "A luz do farol se apagou por sete minutos. Isso aconteceu depois do primeiro choque, quando desviei o gerador para a sirene de resgate. A versão entregue ao tribunal colocou a falha antes do choque. Uma diferença de onze minutos condenou meu nome e absolveu homens mais poderosos."
+    },
+    {
+      "id": "p-5b2b82b97511-1",
+      "type": "para",
+      "text": "Eu aceitei. Você assinou. A Companhia imprimiu."
+    },
+    {
+      "id": "p-b9d79ef96b33-1",
+      "type": "para",
+      "text": "Durante muito tempo, pensei que o peso maior fosse o que fizeram conosco. Hoje sei que existe outro: o que continuamos fazendo depois que a ameaça passou."
+    },
+    {
+      "id": "p-8f337ff9c272-1",
+      "type": "para",
+      "text": "Entregue a Miguel o registro. Não para limpar meu nome. Há manchas que pertencem a mim. Entregue para que os mortos deixem de depender da memória de homens assustados."
+    },
+    {
+      "id": "p-aabae069a9d2-1",
+      "type": "para",
+      "text": "Se recusar, ainda assim continuarei seu irmão em Cristo. Mas não chamarei sua recusa de paz."
+    },
+    {
+      "id": "p-9b67e15f271a-1",
+      "type": "para",
+      "text": "Jonas"
+    }
+  ],
+  "provenance": {
+    "source": "collector-v4-reading-pdf",
+    "source_pdf_pages": [
+      101,
+      102
+    ],
+    "verification": "pdf-extracted-needs-human-paragraph-proof"
+  },
+  "blocks_sha256": "3ddf91f9de25f85dfb59fdd8e66985bfbdcff6bc5e89faf13c59ab817057bda8"
+}

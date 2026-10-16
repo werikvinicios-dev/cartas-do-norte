@@ -1,0 +1,368 @@
+{
+  "id": "ch32",
+  "type": "chapter",
+  "title": "A folha no bolso",
+  "subtitle": null,
+  "part": "PARTE III — A TEMPESTADE",
+  "blocks": [
+    {
+      "id": "p-af65be5c4606-1",
+      "type": "h2",
+      "text": "A folha no bolso"
+    },
+    {
+      "id": "p-c4e5b048a732-1",
+      "type": "para",
+      "text": "Tomás deixara uma segunda página dentro do envelope."
+    },
+    {
+      "id": "p-2447922e411c-1",
+      "type": "para",
+      "text": "Não era a ordem original. Era um bilhete."
+    },
+    {
+      "id": "p-3be3d58fc84a-1",
+      "type": "para",
+      "text": "*Jonas acreditava que verdade e sobrevivência eram inimigas apenas enquanto ele precisava escolher por todos. Talvez estivesse certo no fim. Talvez tenha apenas transferido a escolha para nós.*"
+    },
+    {
+      "id": "p-407ba81311aa-1",
+      "type": "para",
+      "text": "*Encontre-me na Ponta do Corvo antes da maré. Se eu conseguir deter Severo, entregarei a folha. Se não, não confie em nenhuma luz que venha do canal da Companhia.*"
+    },
+    {
+      "id": "p-9400b2a57a8e-1",
+      "type": "para",
+      "text": "Miguel leu as linhas para o grupo."
+    },
+    {
+      "id": "p-741f9fbca8d9-1",
+      "type": "para",
+      "text": "— Ele quer que sigamos direto ao porto — disse Baltasar."
+    },
+    {
+      "id": "p-2fc8f1d7af1f-1",
+      "type": "para",
+      "text": "— Ainda faltam cartas — respondeu Davi."
+    },
+    {
+      "id": "p-bb5b7c448b2d-1",
+      "type": "para",
+      "text": "— E falta a fenda marcada no diário — disse Clara. — Jonas traçou outra coordenada a meio dia daqui."
+    },
+    {
+      "id": "p-95ae0b0af32b-1",
+      "type": "para",
+      "text": "Era uma formação chamada Gruta das Vozes, usada antigamente por contrabandistas. Os registros de Elias indicavam que destroços do Aurora haviam sido levados até lá pela corrente. Jonas a visitara diversas vezes."
+    },
+    {
+      "id": "p-884b286e156e-1",
+      "type": "para",
+      "text": "— Severo sabe que vamos à ponta — disse Miguel. — Talvez a única coisa que ainda não saiba esteja na gruta."
+    },
+    {
+      "id": "p-8c86ab689b56-1",
+      "type": "para",
+      "text": "— Ou Tomás está nos enviando para longe enquanto destrói a ponta — falou Clara."
+    },
+    {
+      "id": "p-6c792ea2affe-1",
+      "type": "para",
+      "text": "— Acredita nisso?"
+    },
+    {
+      "id": "p-34997d2eba1c-1",
+      "type": "para",
+      "text": "— Não sei o que acredito sobre ele. Nem sobre você."
+    },
+    {
+      "id": "p-54c8461438dc-1",
+      "type": "para",
+      "text": "Miguel guardou o envelope."
+    },
+    {
+      "id": "p-261e33c5ae10-1",
+      "type": "para",
+      "text": "— Estou considerando a proposta."
+    },
+    {
+      "id": "p-3dc7b796c151-1",
+      "type": "para",
+      "text": "Baltasar ergueu os olhos."
+    },
+    {
+      "id": "p-ecbb44e5bd84-1",
+      "type": "para",
+      "text": "— Por quê?"
+    },
+    {
+      "id": "p-e7d214521a21-1",
+      "type": "para",
+      "text": "— Porque vi os livros. A Companhia cairá. Não é ameaça vazia. As Salinas, a escola e o hospital dependem dela."
+    },
+    {
+      "id": "p-c7c6dfa87244-1",
+      "type": "para",
+      "text": "— E os mortos? — perguntou Davi."
+    },
+    {
+      "id": "p-a6130c480a19-1",
+      "type": "para",
+      "text": "— Continuam mortos em qualquer versão."
+    },
+    {
+      "id": "p-c9574024fe3f-1",
+      "type": "para",
+      "text": "O menino se levantou tão rápido que a cadeira tombou."
+    },
+    {
+      "id": "p-bca653e0ba1a-1",
+      "type": "para",
+      "text": "— Essa é exatamente a frase que Tomás quer que você diga."
+    },
+    {
+      "id": "p-6b9838e5ac9f-1",
+      "type": "para",
+      "text": "— Não estou dizendo que esconderei tudo. A ordem pode ser publicada. Severo pode responder. Meu nome não muda a responsabilidade da Companhia."
+    },
+    {
+      "id": "p-00e9170666c2-1",
+      "type": "para",
+      "text": "— Muda a verdade — disse Clara."
+    },
+    {
+      "id": "p-8c781232cd62-1",
+      "type": "para",
+      "text": "— Eu tinha dezesseis anos. Não sabia."
+    },
+    {
+      "id": "p-5c5cd2563c19-1",
+      "type": "para",
+      "text": "— Então diga isso."
+    },
+    {
+      "id": "p-af72db655634-1",
+      "type": "para",
+      "text": "— Para uma cidade que cuspiu no enterro de Jonas por dezessete anos? Para Ana? Para Silas? Eles não ouvirão as partes depois de “acendi a luz”."
+    },
+    {
+      "id": "p-ae1e0d222594-1",
+      "type": "para",
+      "text": "Clara o encarou."
+    },
+    {
+      "id": "p-31f9b60b419c-1",
+      "type": "para",
+      "text": "— Você não quer proteger a cidade. Quer controlar a sentença."
+    },
+    {
+      "id": "p-efd91b08a3d7-1",
+      "type": "para",
+      "text": "— E você quer uma confissão porque espera que me odiar seja mais fácil depois."
+    },
+    {
+      "id": "p-d83e9aeb636a-1",
+      "type": "para",
+      "text": "— Talvez seja."
+    },
+    {
+      "id": "p-b64f702aa15b-1",
+      "type": "para",
+      "text": "A honestidade cortou qualquer resposta."
+    },
+    {
+      "id": "p-5788720b1329-1",
+      "type": "para",
+      "text": "Davi saiu da cabine. Baltasar seguiu, deixando os dois."
+    },
+    {
+      "id": "p-6e16938a3ad6-1",
+      "type": "para",
+      "text": "Clara recolheu os mapas."
+    },
+    {
+      "id": "p-f10cffa823df-1",
+      "type": "para",
+      "text": "— Na Ilha dos Espelhos, você prometeu não fugir antes."
+    },
+    {
+      "id": "p-125d4861d4e8-1",
+      "type": "para",
+      "text": "— Eu disse que tentaria."
+    },
+    {
+      "id": "p-e91f5de7c904-1",
+      "type": "para",
+      "text": "— Encontrou uma porta elegante. Reparações, empregos, bem de muitos. Continua sendo uma porta."
+    },
+    {
+      "id": "p-3b06d9ae78d4-1",
+      "type": "para",
+      "text": "— E o que quer que eu faça? Volte ao porto, suba num caixote e diga “fui eu”? Isso ressuscita seu pai?"
+    },
+    {
+      "id": "p-83114dbe2201-1",
+      "type": "para",
+      "text": "Clara bateu a mão na mesa."
+    },
+    {
+      "id": "p-3c9602b4e166-1",
+      "type": "para",
+      "text": "— Pare de usar meu pai para decidir o que é verdade!"
+    },
+    {
+      "id": "p-0b81064cbeba-1",
+      "type": "para",
+      "text": "O rádio restaurado estalou."
+    },
+    {
+      "id": "p-b5b210f0687e-1",
+      "type": "para",
+      "text": "A voz de Tomás surgiu entre ruídos."
+    },
+    {
+      "id": "p-14a944e1aec2-1",
+      "type": "para",
+      "text": "— Constância, respondam."
+    },
+    {
+      "id": "p-fab1def97fd4-1",
+      "type": "para",
+      "text": "Miguel girou o controle."
+    },
+    {
+      "id": "p-4c070b3d5c92-1",
+      "type": "para",
+      "text": "— Estamos ouvindo."
+    },
+    {
+      "id": "p-b3b0581f804e-1",
+      "type": "para",
+      "text": "— Severo enviou homens à Gruta das Vozes. Não entrem. Repito: não entrem."
+    },
+    {
+      "id": "p-41fe70843fe4-1",
+      "type": "para",
+      "text": "— Como ele descobriu?"
+    },
+    {
+      "id": "p-3463d4ae994f-1",
+      "type": "para",
+      "text": "— O diário de Elias passou uma noite comigo. Meu pai tem informantes no navio."
+    },
+    {
+      "id": "p-53a06bcf8a19-1",
+      "type": "para",
+      "text": "Clara fechou os olhos."
+    },
+    {
+      "id": "p-cf30af0f642b-1",
+      "type": "para",
+      "text": "— E você ainda tem a folha? — perguntou Miguel."
+    },
+    {
+      "id": "p-47c7fb5c5024-1",
+      "type": "para",
+      "text": "— Sim."
+    },
+    {
+      "id": "p-1422bdd60296-1",
+      "type": "para",
+      "text": "— Se eu aceitar o acordo, entrega?"
+    },
+    {
+      "id": "p-b3aeb926e5eb-1",
+      "type": "para",
+      "text": "Uma longa estática preencheu a cabine."
+    },
+    {
+      "id": "p-f88c7b6bb760-1",
+      "type": "para",
+      "text": "— Entrego."
+    },
+    {
+      "id": "p-df5d1854d177-1",
+      "type": "para",
+      "text": "Miguel olhou para Clara."
+    },
+    {
+      "id": "p-1c553f1ea33c-1",
+      "type": "para",
+      "text": "— Então talvez aceite."
+    },
+    {
+      "id": "p-36bf061c812c-1",
+      "type": "para",
+      "text": "Ela ficou pálida. Saiu antes de ouvir quando ele voltou ao rádio."
+    },
+    {
+      "id": "p-e046bcc4bdbb-1",
+      "type": "para",
+      "text": "— Mas primeiro vou à gruta."
+    },
+    {
+      "id": "p-82f47009a409-1",
+      "type": "para",
+      "text": "— Miguel, não seja tolo."
+    },
+    {
+      "id": "p-d260a6f290cd-1",
+      "type": "para",
+      "text": "— Você sempre gostou de me dar ordens tarde demais."
+    },
+    {
+      "id": "p-87210334b311-1",
+      "type": "para",
+      "text": "Desligou."
+    },
+    {
+      "id": "p-c05f52b1292f-1",
+      "type": "para",
+      "text": "Clara estava na proa quando a Constância deixou o cais das Salinas. Davi entregava-lhe cordas com um braço ainda preso ao peito. Baltasar consultava o céu."
+    },
+    {
+      "id": "p-b8bd39afb4ea-1",
+      "type": "para",
+      "text": "— Ela ouviu só a primeira parte — disse o velho."
+    },
+    {
+      "id": "p-f0a8411af910-1",
+      "type": "para",
+      "text": "— Eu sei."
+    },
+    {
+      "id": "p-9c98df489abf-1",
+      "type": "para",
+      "text": "— Vai explicar?"
+    },
+    {
+      "id": "p-a5c2fdaddfa4-1",
+      "type": "para",
+      "text": "Miguel olhou para a distância entre ele e Clara."
+    },
+    {
+      "id": "p-74ea5834e41a-1",
+      "type": "para",
+      "text": "— Depois da gruta."
+    },
+    {
+      "id": "p-d243c301905e-1",
+      "type": "para",
+      "text": "Baltasar suspirou."
+    },
+    {
+      "id": "p-cb8516af3eac-1",
+      "type": "para",
+      "text": "— “Depois” é o porto favorito de todo covarde."
+    }
+  ],
+  "provenance": {
+    "source": "production-v4:manifests/chapters.json",
+    "original_chapter_ids": [
+      46
+    ],
+    "source_pdf_page": 349,
+    "verification": "structured-source"
+  },
+  "blocks_sha256": "56e34a0e625bc8667d2151fb6e08a90d8ce15fa3f43fa1ccfafe076053254f13"
+}

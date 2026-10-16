@@ -1,0 +1,68 @@
+{
+  "version": "0.2",
+  "assets": [
+    {
+      "id": "audio-mar-ogg",
+      "path": "assets/audio/mar.ogg",
+      "bytes": 97063,
+      "sha256": "78cf85986d5227d40469a73fd0f908c59a92e78b26382437a81c0f3f046d9d8b",
+      "editorialStatus": "PROPOSTA — elemento de interface não canônico",
+      "source": "Síntese/edição derivada para v0.2",
+      "spoilerPolicy": "Não revela eventos, informações ou geografia adicionais"
+    },
+    {
+      "id": "audio-chuva-ogg",
+      "path": "assets/audio/chuva.ogg",
+      "bytes": 106481,
+      "sha256": "4b7f751a3debc13e1c24356b89ee5a9dee064c7d9497cf14dfc47581117da55f",
+      "editorialStatus": "PROPOSTA — elemento de interface não canônico",
+      "source": "Síntese/edição derivada para v0.2",
+      "spoilerPolicy": "Não revela eventos, informações ou geografia adicionais"
+    },
+    {
+      "id": "audio-vento-ogg",
+      "path": "assets/audio/vento.ogg",
+      "bytes": 91541,
+      "sha256": "efac7f608687d432281078fba77179d7722a3877bea690f2f39803c7eb3dc335",
+      "editorialStatus": "PROPOSTA — elemento de interface não canônico",
+      "source": "Síntese/edição derivada para v0.2",
+      "spoilerPolicy": "Não revela eventos, informações ou geografia adicionais"
+    },
+    {
+      "id": "video-abertura-mp4",
+      "path": "assets/video/abertura.mp4",
+      "bytes": 995791,
+      "sha256": "9fdf3d10e40a805000944be0e8e09aa4101cb8833c2312fba2ef03126519d5ff",
+      "editorialStatus": "PROPOSTA — elemento de interface não canônico",
+      "source": "Síntese/edição derivada para v0.2",
+      "spoilerPolicy": "Não revela eventos, informações ou geografia adicionais"
+    },
+    {
+      "id": "video-atrio-loop-mp4",
+      "path": "assets/video/atrio-loop.mp4",
+      "bytes": 100733,
+      "sha256": "d456fbcf07f781411edb9124dec4f853785ad702241f7e0d93f50df515450aca",
+      "editorialStatus": "PROPOSTA — elemento de interface não canônico",
+      "source": "Síntese/edição derivada para v0.2",
+      "spoilerPolicy": "Não revela eventos, informações ou geografia adicionais"
+    },
+    {
+      "id": "branding-cartographic-frontispiece-webp",
+      "path": "assets/branding/cartographic-frontispiece.webp",
+      "bytes": 34294,
+      "sha256": "a7537bc3d061be89cefa861449b673df484f7dd0fefae137416e62a3379db8fe",
+      "editorialStatus": "PROPOSTA — elemento de interface não canônico",
+      "source": "Arte decorativa derivada de recursos aprovados",
+      "spoilerPolicy": "Não revela eventos, informações ou geografia adicionais"
+    },
+    {
+      "id": "branding-grain-png",
+      "path": "assets/branding/grain.png",
+      "bytes": 50805,
+      "sha256": "1107a133a3c58b582705fad389f3491786a72466631dc72243aded771704c1bd",
+      "editorialStatus": "PROPOSTA — elemento de interface não canônico",
+      "source": "Arte decorativa derivada de recursos aprovados",
+      "spoilerPolicy": "Não revela eventos, informações ou geografia adicionais"
+    }
+  ]
+}

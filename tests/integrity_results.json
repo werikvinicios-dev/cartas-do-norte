@@ -1,0 +1,118 @@
+{
+  "tests": [
+    {
+      "name": "67 entradas de leitura",
+      "result": "PASS",
+      "detail": null
+    },
+    {
+      "name": "53 capítulos + 12 cartas + prólogo + epílogo",
+      "result": "PASS",
+      "detail": null
+    },
+    {
+      "name": "53 capítulos na ordem canônica",
+      "result": "PASS",
+      "detail": null
+    },
+    {
+      "name": "12 cartas na sequência original",
+      "result": "PASS",
+      "detail": null
+    },
+    {
+      "name": "Todos os arquivos JSON abrem",
+      "result": "PASS",
+      "detail": null
+    },
+    {
+      "name": "Hashes de todas as unidades batem",
+      "result": "PASS",
+      "detail": null
+    },
+    {
+      "name": "IDs de parágrafos únicos por seção",
+      "result": "PASS",
+      "detail": null
+    },
+    {
+      "name": "Prólogo, epílogo e cartas possuem corpo de texto",
+      "result": "PASS",
+      "detail": null
+    },
+    {
+      "name": "18 fac-símiles verificados",
+      "result": "PASS",
+      "detail": null
+    },
+    {
+      "name": "7 mapas, 11 documentos",
+      "result": "PASS",
+      "detail": null
+    },
+    {
+      "name": "Sem vestígio sem página de origem",
+      "result": "PASS",
+      "detail": null
+    },
+    {
+      "name": "Metadados anti-spoiler completos",
+      "result": "PASS",
+      "detail": null
+    },
+    {
+      "name": "Referências gráficas existentes",
+      "result": "PASS",
+      "detail": null
+    },
+    {
+      "name": "Aquarelas vinculadas aos capítulos existentes",
+      "result": "PASS",
+      "detail": null
+    },
+    {
+      "name": "Arquivos sem referência à fonte proprietária distribuída",
+      "result": "PASS",
+      "detail": null
+    },
+    {
+      "name": "Logo tipográfico vetorial criado",
+      "result": "PASS",
+      "detail": null
+    },
+    {
+      "name": "PWA manifesto e SW disponíveis",
+      "result": "PASS",
+      "detail": null
+    },
+    {
+      "name": "Offline inclui JSON fonte",
+      "result": "PASS",
+      "detail": null
+    },
+    {
+      "name": "Sem origem de dados via CDN no frontend",
+      "result": "PASS",
+      "detail": null
+    },
+    {
+      "name": "SHA-256 do PDF v4 leitura coincide com checkpoint",
+      "result": "PASS",
+      "detail": null
+    },
+    {
+      "name": "53 capítulos reproduzem exatamente os blocos do pacote v4",
+      "result": "PASS",
+      "detail": "53/53"
+    },
+    {
+      "name": "Todos os arquivos WebP íntegros",
+      "result": "PASS",
+      "detail": "102 arquivos"
+    }
+  ],
+  "summary": {
+    "passed": 22,
+    "total": 22
+  }
+}

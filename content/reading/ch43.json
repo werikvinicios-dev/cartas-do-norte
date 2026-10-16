@@ -1,0 +1,338 @@
+{
+  "id": "ch43",
+  "type": "chapter",
+  "title": "A cidade partida",
+  "subtitle": null,
+  "part": "PARTE IV — O FAROL",
+  "blocks": [
+    {
+      "id": "p-4937b063aef2-1",
+      "type": "h2",
+      "text": "A cidade partida"
+    },
+    {
+      "id": "p-33ff6c94df46-1",
+      "type": "para",
+      "text": "Enquanto Miguel esperava na cela, Porto da Vigília começou a escolher lados."
+    },
+    {
+      "id": "p-071590826857-1",
+      "type": "para",
+      "text": "Tobias imprimiu a primeira edição extraordinária antes do anoitecer. Na manchete, colocou duas frases do depoimento: **EU ACENDI A LUZ** e **A COMPANHIA PREPAROU A ROTA**. Recusou escolher apenas uma."
+    },
+    {
+      "id": "p-7c26a749a154-1",
+      "type": "para",
+      "text": "Homens de Severo invadiram a tipografia na segunda tiragem."
+    },
+    {
+      "id": "p-333b50b7f235-1",
+      "type": "para",
+      "text": "Davi estava na prensa. Reconheceu dois guardas do Tanque Treze e o marinheiro Nilo entre eles. Nilo mantinha as mãos vazias."
+    },
+    {
+      "id": "p-c8e07b60ae51-1",
+      "type": "para",
+      "text": "— Ordem de recolher acusações não confirmadas — disse o chefe."
+    },
+    {
+      "id": "p-419727ea8dbd-1",
+      "type": "para",
+      "text": "— A audiência foi pública — respondeu Tobias."
+    },
+    {
+      "id": "p-f314458b1869-1",
+      "type": "para",
+      "text": "— Sem magistrado. Não tem validade."
+    },
+    {
+      "id": "p-168fd3fd75fa-1",
+      "type": "para",
+      "text": "— Verdade não recebe validade de carimbo."
+    },
+    {
+      "id": "p-1c8d9d96b584-1",
+      "type": "para",
+      "text": "O guarda derrubou uma caixa de tipos. Letras de chumbo se espalharam pelo piso."
+    },
+    {
+      "id": "p-8bcd15247af3-1",
+      "type": "para",
+      "text": "Davi avançou. Nilo o segurou."
+    },
+    {
+      "id": "p-e0d36dde3500-1",
+      "type": "para",
+      "text": "— Não faça."
+    },
+    {
+      "id": "p-7873b0bdc33a-1",
+      "type": "para",
+      "text": "— Está com eles."
+    },
+    {
+      "id": "p-403ec70b93c8-1",
+      "type": "para",
+      "text": "— Minha mãe está na enfermaria."
+    },
+    {
+      "id": "p-a329f9b4f9d2-1",
+      "type": "para",
+      "text": "— Sempre estará enquanto usarem isso para prender você."
+    },
+    {
+      "id": "p-aca142fbe5e5-1",
+      "type": "para",
+      "text": "O chefe arrancou folhas do varal e jogou numa caixa. Do lado de fora, trabalhadores se reuniam. Alguns queriam fechar a tipografia; outros haviam ouvido os nomes dos mortos e exigiam cópias."
+    },
+    {
+      "id": "p-d7bfc4d4ba58-1",
+      "type": "para",
+      "text": "Uma pedra atravessou a janela."
+    },
+    {
+      "id": "p-827a72c85cec-1",
+      "type": "para",
+      "text": "Depois outra."
+    },
+    {
+      "id": "p-460676f40a00-1",
+      "type": "para",
+      "text": "Ninguém soube de que lado veio a primeira."
+    },
+    {
+      "id": "p-1458f800696e-1",
+      "type": "para",
+      "text": "Em minutos, a rua se encheu. Homens das docas empurraram familiares do Aurora. Uma mulher segurava a fotografia do marido; outra, o cartão de salário. Ambas gritavam que a outra não compreendia perda."
+    },
+    {
+      "id": "p-b14c55f891c7-1",
+      "type": "para",
+      "text": "Davi subiu na janela quebrada e tocou o sino de mão de Elias."
+    },
+    {
+      "id": "p-850a0b92c7c2-1",
+      "type": "para",
+      "text": "— Não funcionará outra vez — disse Tobias."
+    },
+    {
+      "id": "p-eaf77ef1cdac-1",
+      "type": "para",
+      "text": "Funcionou o bastante para algumas pessoas olharem."
+    },
+    {
+      "id": "p-e9405cba1357-1",
+      "type": "para",
+      "text": "— Balu morreu ontem! — gritou o menino. — Gabriel morreu há dezessete anos. Severo está vivo e todos estamos fazendo trabalho por ele!"
+    },
+    {
+      "id": "p-61e4c59fef31-1",
+      "type": "para",
+      "text": "— A Companhia alimenta você! — respondeu um operário."
+    },
+    {
+      "id": "p-08c280e7b035-1",
+      "type": "para",
+      "text": "— Minha mãe viajava escondida porque a Companhia cobrava passagem que não podia pagar!"
+    },
+    {
+      "id": "p-98e17c9501cc-1",
+      "type": "para",
+      "text": "— E quem deu emprego a Tobias?"
+    },
+    {
+      "id": "p-ba34c67efdd6-1",
+      "type": "para",
+      "text": "— Ele tem uma tipografia!"
+    },
+    {
+      "id": "p-55e1b45b036a-1",
+      "type": "para",
+      "text": "— Quem compra os jornais?"
+    },
+    {
+      "id": "p-f2e1787b2caa-1",
+      "type": "para",
+      "text": "Davi olhou para o tio. Tobias não negou. A maior parte dos contratos de impressão vinha da Companhia."
+    },
+    {
+      "id": "p-9cae692d6df2-1",
+      "type": "para",
+      "text": "— Então estamos presos — disse uma mulher."
+    },
+    {
+      "id": "p-d01b2383537b-1",
+      "type": "para",
+      "text": "— Dependentes — corrigiu Nilo. — Não é a mesma coisa."
+    },
+    {
+      "id": "p-5a225edc6e98-1",
+      "type": "para",
+      "text": "— Parece."
+    },
+    {
+      "id": "p-fe0d3ef59538-1",
+      "type": "para",
+      "text": "Nilo subiu ao lado de Davi."
+    },
+    {
+      "id": "p-e69c2ae0f4f0-1",
+      "type": "para",
+      "text": "— Eu tentei roubar o registro no navio — confessou. — Queria proteger o tratamento de minha mãe. Miguel e Clara não me entregaram aos guardas. Tomás garantiu onze dias de remédio. Não sei o que virá depois."
+    },
+    {
+      "id": "p-a0d339df0ba8-1",
+      "type": "para",
+      "text": "O chefe o agarrou."
+    },
+    {
+      "id": "p-f5d0c656ab22-1",
+      "type": "para",
+      "text": "— Cale a boca."
+    },
+    {
+      "id": "p-f1225ffba385-1",
+      "type": "para",
+      "text": "Nilo afastou a mão."
+    },
+    {
+      "id": "p-f4b7e858daff-1",
+      "type": "para",
+      "text": "— Passei a vida calado porque cada salário parecia favor. Hoje não."
+    },
+    {
+      "id": "p-ebf2d349c894-1",
+      "type": "para",
+      "text": "Trabalhadores começaram a fazer perguntas. Sobre fundos da enfermaria, dívidas, concessão. O tumulto mudou de forma. Ainda havia raiva, mas já não cabia em dois lados simples."
+    },
+    {
+      "id": "p-ad3ebcea8ea1-1",
+      "type": "para",
+      "text": "Clara chegou com Ana e a cópia da ordem de Severo."
+    },
+    {
+      "id": "p-a2fe2a71cfb3-1",
+      "type": "para",
+      "text": "— Tomás deixou isto — anunciou. — Ele negou a folha para impedir o pai de saber que a entregaria ao magistrado."
+    },
+    {
+      "id": "p-bbc3131ccb49-1",
+      "type": "para",
+      "text": "— Então por que Miguel está preso? — perguntou Davi."
+    },
+    {
+      "id": "p-b82b525503d6-1",
+      "type": "para",
+      "text": "— Havia homens esperando para matá-lo depois da audiência. Tomás mandou detê-lo para retirar da rua."
+    },
+    {
+      "id": "p-59bae66ab278-1",
+      "type": "para",
+      "text": "— Sem explicar."
+    },
+    {
+      "id": "p-47c7fb5c5024-1",
+      "type": "para",
+      "text": "— Sim."
+    },
+    {
+      "id": "p-f10f55a2ecf7-1",
+      "type": "para",
+      "text": "Davi bateu o sino outra vez."
+    },
+    {
+      "id": "p-9455f36754d9-1",
+      "type": "para",
+      "text": "— Adultos precisam parar de sequestrar pessoas em nome de proteção."
+    },
+    {
+      "id": "p-513ce7c7f572-1",
+      "type": "para",
+      "text": "Uma risada percorreu até parte dos guardas."
+    },
+    {
+      "id": "p-e43ff8a77a6a-1",
+      "type": "para",
+      "text": "Ana subiu numa caixa."
+    },
+    {
+      "id": "p-f9bffc805946-1",
+      "type": "para",
+      "text": "— Amanhã discutiremos a Companhia — disse. — Hoje há uma tempestade chegando. A previsão manda evacuar ilhas baixas. O Boa Esperança já está recolhendo famílias. Se destruirmos uns aos outros antes que o mar chegue, pouparemos trabalho à água."
+    },
+    {
+      "id": "p-91f381a5c712-1",
+      "type": "para",
+      "text": "Era uma frase de mulher que passara dezessete anos odiando, e por isso as pessoas ouviram."
+    },
+    {
+      "id": "p-c7f811ce28cc-1",
+      "type": "para",
+      "text": "Organizaram equipes para reforçar telhados, abrir a igreja e preparar a enfermaria. Os guardas devolveram parte das folhas. O chefe fugiu para o edifício de Severo quando percebeu que ninguém obedecia."
+    },
+    {
+      "id": "p-e8d69610dcf2-1",
+      "type": "para",
+      "text": "Nilo recolheu as letras do chão com Davi."
+    },
+    {
+      "id": "p-31429bc0127c-1",
+      "type": "para",
+      "text": "— Sua mãe vai ficar bem? — perguntou o menino."
+    },
+    {
+      "id": "p-f3e82023fc70-1",
+      "type": "para",
+      "text": "— Não sei."
+    },
+    {
+      "id": "p-246562364750-1",
+      "type": "para",
+      "text": "— Odeio essa resposta."
+    },
+    {
+      "id": "p-9f0b20bc16dd-1",
+      "type": "para",
+      "text": "— Eu também."
+    },
+    {
+      "id": "p-cf07327a33ef-1",
+      "type": "para",
+      "text": "Tobias colocou a prensa de volta no lugar."
+    },
+    {
+      "id": "p-fba3f6509c39-1",
+      "type": "para",
+      "text": "— Imprimiremos até a energia cair."
+    },
+    {
+      "id": "p-7a98c5949e4e-1",
+      "type": "para",
+      "text": "A edição seguinte trouxe outra manchete:"
+    },
+    {
+      "id": "p-798e86d19e70-1",
+      "type": "para",
+      "text": "**NÃO ESCOLHEREMOS ENTRE OS MORTOS E OS VIVOS.**"
+    },
+    {
+      "id": "p-c8976503749c-1",
+      "type": "para",
+      "text": "Não era um plano."
+    },
+    {
+      "id": "p-9bd7759f26e9-1",
+      "type": "para",
+      "text": "Era apenas a primeira frase de uma cidade tentando escrever outro futuro."
+    }
+  ],
+  "provenance": {
+    "source": "production-v4:manifests/chapters.json",
+    "original_chapter_ids": [
+      59
+    ],
+    "source_pdf_page": 443,
+    "verification": "structured-source"
+  },
+  "blocks_sha256": "27106a789865b929f71f041c9efa9e13d60780a2525ba76096cf5afb54e43734"
+}

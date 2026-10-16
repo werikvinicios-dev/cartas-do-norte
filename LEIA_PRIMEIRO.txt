@@ -1,0 +1,19 @@
+CARTAS DO NORTE — O ARQUIVO VIVO
+EDICAO IMERSIVA v0.3
+
+Este pacote é um SITE FUNCIONAL, não um APK.
+
+Para abrir no computador:
+1) Extrair toda a pasta.
+2) Abrir terminal na pasta com index.html.
+3) Executar: python -m http.server 8765
+4) Abrir: http://localhost:8765/#/atrio
+
+Para usar no Android:
+Publique o conteudo de toda a pasta em hospedagem estatica HTTPS,
+na raiz do dominio. Abra a URL pelo Chrome.
+
+Nao abra apenas index.html por 'Arquivos': os modulos e
+recursos precisam de um servidor HTTP/HTTPS.
+
+Veja README.md para detalhes e docs/QA_E_ESTADO.md para limitações.

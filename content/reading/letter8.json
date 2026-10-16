@@ -1,0 +1,73 @@
+{
+  "id": "letter8",
+  "type": "letter",
+  "title": "Carta VIII",
+  "subtitle": null,
+  "part": "PARTE III — A TEMPESTADE",
+  "blocks": [
+    {
+      "id": "p-07a954949b29-1",
+      "type": "para",
+      "text": "Para Tomás Varela"
+    },
+    {
+      "id": "p-2a27e53865e6-1",
+      "type": "para",
+      "text": "Tomás,"
+    },
+    {
+      "id": "p-2d0e17d0972e-1",
+      "type": "para",
+      "text": "Você tinha dezenove anos. Essa verdade importa. Seu pai era poderoso, Gabriel estava morto, Miguel podia ser preso e a cidade dependia do sobrenome que você ainda não aprendera a carregar. O medo de um jovem não deve ser julgado como a frieza de um homem maduro."
+    },
+    {
+      "id": "p-230499202d4e-1",
+      "type": "para",
+      "text": "Mas você já não tem dezenove anos."
+    },
+    {
+      "id": "p-f0c717ff9fb6-1",
+      "type": "para",
+      "text": "Cada manhã em que preserva a mentira é uma escolha feita pelo homem que se tornou. Não permita que o medo antigo assine decisões presentes."
+    },
+    {
+      "id": "p-20ec100a939c-1",
+      "type": "para",
+      "text": "Sei o que construiu. A escola, a enfermaria, as casas depois da enchente. Vi quando pagou o tratamento de Beatriz sem deixar que Balu soubesse. O bem é real. Não farei dele outra coisa só porque suas mãos também estão sujas. Mas o bem que fazemos não compra permissão para esconder o mal."
+    },
+    {
+      "id": "p-97b9bcc1923d-1",
+      "type": "para",
+      "text": "Seu pai ensinou que cidades são sustentadas por homens dispostos a escolher quem será sacrificado. Cristo ensinou outra forma de poder: o Rei se oferece em lugar dos pequenos; não oferece os pequenos em lugar do reino."
+    },
+    {
+      "id": "p-49f9b6f031c0-1",
+      "type": "para",
+      "text": "Entregue a folha. Diga o que fez. Se a Companhia precisar morrer para que a verdade viva, deixe que morra. Se houver algo digno nela, a verdade não será capaz de destruí-lo; apenas o libertará do nome de Severo."
+    },
+    {
+      "id": "p-b2cc6a420e7e-1",
+      "type": "para",
+      "text": "Você foi amigo de Gabriel. Ainda pode honrar a amizade sem transformar o morto em escudo."
+    },
+    {
+      "id": "p-b255b96ac258-1",
+      "type": "para",
+      "text": "Jonas Vale A Folha no Bolso"
+    },
+    {
+      "id": "p-481304fd6aca-1",
+      "type": "para",
+      "text": "Encontre-me na Ponta do Corvo antes da maré. Se eu conseguir deter Severo, entregarei a folha. Se não, não confie em nenhuma luz que venha do canal da Companhia."
+    }
+  ],
+  "provenance": {
+    "source": "collector-v4-reading-pdf",
+    "source_pdf_pages": [
+      346,
+      348
+    ],
+    "verification": "pdf-extracted-needs-human-paragraph-proof"
+  },
+  "blocks_sha256": "b92dad7ce361fae044567acffd9ffb316242ba70e28d8918c7892955625534a7"
+}

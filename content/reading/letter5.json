@@ -1,0 +1,63 @@
+{
+  "id": "letter5",
+  "type": "letter",
+  "title": "Carta V",
+  "subtitle": null,
+  "part": "PARTE II — AS ÁGUAS PROFUNDAS",
+  "blocks": [
+    {
+      "id": "p-6af1e61a4892-1",
+      "type": "para",
+      "text": "Para Marta Leme e para Davi"
+    },
+    {
+      "id": "p-4092aba3789b-1",
+      "type": "para",
+      "text": "Davi,"
+    },
+    {
+      "id": "p-a8d56ff42ac7-1",
+      "type": "para",
+      "text": "Sei que abrirá a carta de sua avó. Você considera envelopes fechados uma provocação pessoal."
+    },
+    {
+      "id": "p-5ff98bcfb1c9-1",
+      "type": "para",
+      "text": "Quero lhe dizer o que não disse quando tomou a bússola e exigiu um nome para odiar. Eu tive medo de que a verdade enchesse suas mãos com a mesma culpa que encheu as minhas. Em vez de lhe ensinar a carregar dor, tentei tirar de você tudo o que pesava. Isso o deixou forte de maneiras que uma criança não deveria precisar ser."
+    },
+    {
+      "id": "p-b80bcbcb52b2-1",
+      "type": "para",
+      "text": "Sua mãe ria antes de terminar as próprias piadas. Guardava botões porque acreditava que todo objeto perdido acabaria precisando de um. Cantava a mesma estrofe quando estava com medo: “Se a noite cobrir o caminho, guarda para mim uma luz”. Gabriel conhecia a canção. Os dois cantaram no bote enquanto esperavam resgate."
+    },
+    {
+      "id": "p-0f96bb5b385d-1",
+      "type": "para",
+      "text": "Você não precisa transformar Gabriel em pai, santo ou dívida. Ele era um rapaz teimoso, generoso e, em certas manhãs, insuportável. Salvou Sara porque ela estava diante dele e precisava ser salva. A coragem costuma ser menos grandiosa no instante em que acontece."
+    },
+    {
+      "id": "p-ddce241a49ea-1",
+      "type": "para",
+      "text": "Quanto ao homem responsável: há mais de um. Talvez isso o irrite. Nós preferimos culpas com uma única porta porque sabemos onde bater. A verdade desta noite é uma casa com muitos quartos."
+    },
+    {
+      "id": "p-0b1320c77ce4-1",
+      "type": "para",
+      "text": "Não viva apenas para incendiá-la."
+    },
+    {
+      "id": "p-9b67e15f271a-1",
+      "type": "para",
+      "text": "Jonas"
+    }
+  ],
+  "provenance": {
+    "source": "collector-v4-reading-pdf",
+    "source_pdf_pages": [
+      213,
+      214
+    ],
+    "verification": "pdf-extracted-needs-human-paragraph-proof"
+  },
+  "blocks_sha256": "01717eb7f4ce5a0d13385465ae8323af90e771712b4b3a5f4aa6c267f433add9"
+}

@@ -1,0 +1,588 @@
+{
+  "id": "ch3",
+  "type": "chapter",
+  "title": "A casa feita de sal",
+  "subtitle": null,
+  "part": "PARTE I — A COSTA",
+  "blocks": [
+    {
+      "id": "p-d442d311a789-1",
+      "type": "h2",
+      "text": "A casa feita de sal"
+    },
+    {
+      "id": "p-343e3dcb0fce-1",
+      "type": "para",
+      "text": "A casa do farol tinha aprendido a envelhecer sem testemunhas."
+    },
+    {
+      "id": "p-8e95de8f71c7-1",
+      "type": "para",
+      "text": "A tinta branca descascava em placas finas. As janelas estavam opacas de sal. Ervas cresciam entre as pedras da escada, e uma das calhas batia contra a parede a cada rajada, como alguém pedindo licença para entrar."
+    },
+    {
+      "id": "p-e30137d62a67-1",
+      "type": "para",
+      "text": "Miguel ficou diante da porta por tempo suficiente para a chuva atravessar o tecido do casaco."
+    },
+    {
+      "id": "p-5551ed5732a0-1",
+      "type": "para",
+      "text": "Usara a chave de Estevão na fechadura principal. Não servira. Acabara encontrando a chave antiga sob uma pedra, no lugar onde Jonas sempre a escondera. Aquela descoberta o irritou mais do que deveria. Dezessete anos e o avô ainda conseguia antecipá-lo."
+    },
+    {
+      "id": "p-c247c6066f99-1",
+      "type": "para",
+      "text": "Ao abrir a porta, o cheiro o atingiu."
+    },
+    {
+      "id": "p-6aaafe648565-1",
+      "type": "para",
+      "text": "Madeira úmida, café, cera de abelha e óleo de cedro."
+    },
+    {
+      "id": "p-029e317b2064-1",
+      "type": "para",
+      "text": "O corredor inclinou-se."
+    },
+    {
+      "id": "p-ba5b2d4beac6-1",
+      "type": "para",
+      "text": "Por um instante, Miguel não era um restaurador de mapas de trinta e três anos, com um apartamento alugado na capital e uma pilha de cartas sem resposta sobre a mesa. Tinha dezesseis. Gabriel ria no andar de cima. Sua mãe cantava na cozinha. Jonas reclamava que os dois gastavam fósforos como se árvores nascessem dentro das caixas."
+    },
+    {
+      "id": "p-0898d992afeb-1",
+      "type": "para",
+      "text": "Então a lembrança se quebrou. Gabriel parou de rir. Lídia já estava morta. Jonas estava sob a terra."
+    },
+    {
+      "id": "p-e19092d521c3-1",
+      "type": "para",
+      "text": "Miguel fechou a porta."
+    },
+    {
+      "id": "p-cdd0752c67f4-1",
+      "type": "para",
+      "text": "Não acendeu as lâmpadas. Sabia que a Companhia cortara a eletricidade da casa anos antes. Encontrou fósforos no primeiro armário da cozinha, exatamente onde sempre estiveram, e acendeu um lampião. A chama desenhou móveis cobertos por lençóis e paredes tomadas por mapas."
+    },
+    {
+      "id": "p-0a48b7ab0b60-1",
+      "type": "para",
+      "text": "Havia mapas em toda parte."
+    },
+    {
+      "id": "p-7661a3d3f2b8-1",
+      "type": "para",
+      "text": "Alguns ele reconheceu: cartas oficiais do arquipélago, impressas pela oficina hidrográfica; mapas de correntes feitos à mão; esboços das ilhas em folhas de contabilidade; pedaços de papel de embrulho cobertos por linhas azuis. Em vários, Jonas acrescentara pequenas cruzes e anotações em tinta sépia."
+    },
+    {
+      "id": "p-8f8084b52cf4-1",
+      "type": "para",
+      "text": "Miguel aproximou o lampião de uma carta do Canal da Agulha."
+    },
+    {
+      "id": "p-84ad23aae142-1",
+      "type": "para",
+      "text": "A letra do avô preenchia as margens."
+    },
+    {
+      "id": "p-2f41d6193185-1",
+      "type": "para",
+      "text": "*Uma rota não é segura porque alguém a desenhou com régua.*"
+    },
+    {
+      "id": "p-462d22ffe251-1",
+      "type": "para",
+      "text": "— Nem uma frase é sábia porque alguém a escreveu num mapa — murmurou Miguel."
+    },
+    {
+      "id": "p-d7e9bc7c043a-1",
+      "type": "para",
+      "text": "— Finalmente concordamos em alguma coisa."
+    },
+    {
+      "id": "p-059ea0eb2372-1",
+      "type": "para",
+      "text": "A voz veio da sala."
+    },
+    {
+      "id": "p-76908a9237c0-1",
+      "type": "para",
+      "text": "Miguel se virou tão rápido que derrubou uma cadeira."
+    },
+    {
+      "id": "p-90894279f394-1",
+      "type": "para",
+      "text": "Um rapaz magro estava agachado diante da estante, com um livro aberto nas mãos. Parecia ter quinze ou dezesseis anos. O cabelo cacheado pingava sobre o rosto. Vestia um casaco grande demais, provavelmente herdado ou roubado."
+    },
+    {
+      "id": "p-3d3630611ac8-1",
+      "type": "para",
+      "text": "— Quem é você?"
+    },
+    {
+      "id": "p-78ad8634d419-1",
+      "type": "para",
+      "text": "— Uma pergunta filosófica ou policial?"
+    },
+    {
+      "id": "p-378c835e7bfe-1",
+      "type": "para",
+      "text": "— A segunda."
+    },
+    {
+      "id": "p-0abf12a5c6a0-1",
+      "type": "para",
+      "text": "— Davi."
+    },
+    {
+      "id": "p-99b324d5454c-1",
+      "type": "para",
+      "text": "— Isso não responde o que está fazendo aqui."
+    },
+    {
+      "id": "p-cd854c08c68f-1",
+      "type": "para",
+      "text": "— Lendo."
+    },
+    {
+      "id": "p-14a9750ea7a4-1",
+      "type": "para",
+      "text": "— Na casa do meu avô."
+    },
+    {
+      "id": "p-3f7c409b9609-1",
+      "type": "para",
+      "text": "— Ele deixava."
+    },
+    {
+      "id": "p-1e8daccc799a-1",
+      "type": "para",
+      "text": "— Meu avô está morto."
+    },
+    {
+      "id": "p-9121a2342b54-1",
+      "type": "para",
+      "text": "O menino fechou o livro."
+    },
+    {
+      "id": "p-71d33bb175ab-1",
+      "type": "para",
+      "text": "— Eu sei. Estava no enterro."
+    },
+    {
+      "id": "p-ba3ce86d5be6-1",
+      "type": "para",
+      "text": "Miguel examinou-o. Não se lembrava daquele rosto entre as quarenta e duas pessoas, mas estava ocupado demais contando inimigos."
+    },
+    {
+      "id": "p-1941b3815c49-1",
+      "type": "para",
+      "text": "— Saia."
+    },
+    {
+      "id": "p-04e3c8c93ef8-1",
+      "type": "para",
+      "text": "— Jonas disse que, se você voltasse, eu devia entregar uma coisa."
+    },
+    {
+      "id": "p-89650c1615a8-1",
+      "type": "para",
+      "text": "— Então entregue e saia."
+    },
+    {
+      "id": "p-73aafe531199-1",
+      "type": "para",
+      "text": "Davi enfiou a mão dentro do casaco. Miguel deu um passo para trás antes de perceber que o objeto era apenas um papel dobrado."
+    },
+    {
+      "id": "p-ba2f5d22ba0e-1",
+      "type": "para",
+      "text": "O rapaz não o entregou."
+    },
+    {
+      "id": "p-58475ee872e1-1",
+      "type": "para",
+      "text": "— Ele também disse que você tentaria me expulsar."
+    },
+    {
+      "id": "p-98c40b4bfe7f-1",
+      "type": "para",
+      "text": "— O talento profético dele melhorou no fim."
+    },
+    {
+      "id": "p-5ec67a9bb168-1",
+      "type": "para",
+      "text": "— E que eu não devia confiar em você antes de fazer uma pergunta."
+    },
+    {
+      "id": "p-5864c165a16d-1",
+      "type": "para",
+      "text": "Miguel cruzou os braços."
+    },
+    {
+      "id": "p-56aa037fdd94-1",
+      "type": "para",
+      "text": "— Faça."
+    },
+    {
+      "id": "p-63de6b1d1fea-1",
+      "type": "para",
+      "text": "— Quantas pessoas morreram no Aurora?"
+    },
+    {
+      "id": "p-3d192b2ee4d0-1",
+      "type": "para",
+      "text": "A calha bateu três vezes contra a parede."
+    },
+    {
+      "id": "p-9db5e21f0777-1",
+      "type": "para",
+      "text": "— Quarenta e três."
+    },
+    {
+      "id": "p-c89ef6d4de8d-1",
+      "type": "para",
+      "text": "Davi abriu um sorriso sem humor."
+    },
+    {
+      "id": "p-adb7cd122df1-1",
+      "type": "para",
+      "text": "— Errado."
+    },
+    {
+      "id": "p-b78bac2c3d92-1",
+      "type": "para",
+      "text": "— Então por que perguntou?"
+    },
+    {
+      "id": "p-cda57790f52d-1",
+      "type": "para",
+      "text": "— Para saber se Jonas tinha contado a verdade a você."
+    },
+    {
+      "id": "p-60fdc4e90d10-1",
+      "type": "para",
+      "text": "O menino guardou o papel no casaco e correu."
+    },
+    {
+      "id": "p-049e5f399639-1",
+      "type": "para",
+      "text": "Miguel tentou segurá-lo, mas Davi passou por baixo de seu braço, chutou a porta da cozinha e desapareceu no quintal. Quando Miguel chegou à varanda, viu apenas a silhueta saltando o muro em direção à estrada."
+    },
+    {
+      "id": "p-502440f37cf8-1",
+      "type": "para",
+      "text": "— Excelente recepção — disse para ninguém."
+    },
+    {
+      "id": "p-9e2bd9188911-1",
+      "type": "para",
+      "text": "Voltou à sala e verificou a estante. Um espaço vazio indicava que Davi levara alguma coisa. Miguel não sabia o quê."
+    },
+    {
+      "id": "p-9a5d60ed1f14-1",
+      "type": "para",
+      "text": "Subiu ao quarto de Jonas."
+    },
+    {
+      "id": "p-d315ff6f632a-1",
+      "type": "para",
+      "text": "A cama estava feita. Sobre o travesseiro havia uma Bíblia aberta no Evangelho de João, um par de óculos e um relógio parado às duas e dezessete. Miguel tocou o cobertor. Esperava não sentir nada; sentiu o relevo de um remendo feito por Lídia vinte anos antes."
+    },
+    {
+      "id": "p-303e0b12117d-1",
+      "type": "para",
+      "text": "Sentou-se."
+    },
+    {
+      "id": "p-017f6a60f11b-1",
+      "type": "para",
+      "text": "Na última vez que vira o avô, discutiram naquela mesma casa. Jonas pedira que Miguel ficasse até o aniversário da morte de Gabriel. Miguel respondera que algumas pessoas celebravam aniversários porque não sabiam fazer outra coisa com os mortos. Jonas o esbofeteara. Depois chorara. Miguel fizera as malas antes do amanhecer."
+    },
+    {
+      "id": "p-531929950e2b-1",
+      "type": "para",
+      "text": "Nenhum dos dois pedira perdão."
+    },
+    {
+      "id": "p-53696d976abd-1",
+      "type": "para",
+      "text": "Embaixo dos óculos havia um envelope com seu nome."
+    },
+    {
+      "id": "p-c6fe83f1a62a-1",
+      "type": "para",
+      "text": "Miguel abriu."
+    },
+    {
+      "id": "p-c38374017a5a-1",
+      "type": "para",
+      "text": "*Miqueias,* começava a carta."
+    },
+    {
+      "id": "p-58b5f28d497e-1",
+      "type": "para",
+      "text": "Somente Jonas o chamava assim. Lídia escolhera Miguel, mas o avô dizia que um homem precisava de um nome para o mundo e de outro para quando Deus quisesse discutir com ele."
+    },
+    {
+      "id": "p-a427ab62fe05-1",
+      "type": "para",
+      "text": "*Se você está lendo, descobrimos qual de nós dois era mais teimoso. Eu apostava que morreria antes de você voltar. Não há honra em vencer essa aposta.*"
+    },
+    {
+      "id": "p-d4c50d23cb36-1",
+      "type": "para",
+      "text": "Miguel quase sorriu. Quase."
+    },
+    {
+      "id": "p-d3840d024d96-1",
+      "type": "para",
+      "text": "*Não vou pedir que confie em mim. Usei sua confiança como um homem usa uma tábua sobre água funda: agarrei até quebrá-la. Peço apenas que abra a caixa no quarto da luz. A chave está com Estevão. Depois, faça o que julgar certo. Queime, venda, entregue à Companhia. Mas olhe primeiro.*"
+    },
+    {
+      "id": "p-a715a0246a87-1",
+      "type": "para",
+      "text": "*Não morri com medo do juízo de Deus. Morri com medo de que você continuasse vivendo sem saber que a verdade também pode ser uma forma de misericórdia.*"
+    },
+    {
+      "id": "p-9c172ed43545-1",
+      "type": "para",
+      "text": "*Seu avô,*"
+    },
+    {
+      "id": "p-b9692a8a0295-1",
+      "type": "para",
+      "text": "*Jonas.*"
+    },
+    {
+      "id": "p-89f12af67536-1",
+      "type": "para",
+      "text": "Miguel dobrou a carta duas vezes, depois uma terceira, até o papel ameaçar rasgar."
+    },
+    {
+      "id": "p-697d26398816-1",
+      "type": "para",
+      "text": "O quarto da luz ficava no alto da torre."
+    },
+    {
+      "id": "p-f8556e57632f-1",
+      "type": "para",
+      "text": "Ele não subia ali desde a noite do Aurora."
+    },
+    {
+      "id": "p-8a5501af2df3-1",
+      "type": "para",
+      "text": "A porta de ligação entre a casa e o farol estava emperrada. Miguel forçou-a com o ombro. Uma espiral de pedra desaparecia na escuridão. Cento e vinte e seis degraus. Quando criança, ele e Gabriel disputavam quem chegava primeiro. Jonas os obrigava a descer em silêncio sempre que corriam, e isso transformara o castigo numa competição mais difícil."
+    },
+    {
+      "id": "p-e0d96b9e0b70-1",
+      "type": "para",
+      "text": "Miguel ergueu o lampião."
+    },
+    {
+      "id": "p-e2b2ee8aaca8-1",
+      "type": "para",
+      "text": "Subiu devagar."
+    },
+    {
+      "id": "p-8785a33f3235-1",
+      "type": "para",
+      "text": "No quadragésimo degrau, começou a ouvir água onde não havia água. No sexagésimo, sentiu cheiro de óleo queimado. No octogésimo, sua mão direita doeu."
+    },
+    {
+      "id": "p-47b3d7e4fb57-1",
+      "type": "para",
+      "text": "Ele a abriu diante da luz. Uma cicatriz branca atravessava a palma até a base do polegar. Tinha dito a todos que a fizera ao cair nas rochas durante o resgate. Não lembrava da queda. Não lembrava de quase nada depois do jantar daquela noite."
+    },
+    {
+      "id": "p-312c38167164-1",
+      "type": "para",
+      "text": "No centésimo degrau, o ar lhe faltou."
+    },
+    {
+      "id": "p-ee1aae196b2c-1",
+      "type": "para",
+      "text": "Miguel encostou a testa na parede fria."
+    },
+    {
+      "id": "p-fb4cd7cefb93-1",
+      "type": "para",
+      "text": "— Não existe nada lá em cima — disse."
+    },
+    {
+      "id": "p-5533e59b7624-1",
+      "type": "para",
+      "text": "A própria voz voltou pela torre: *lá em cima, lá em cima.*"
+    },
+    {
+      "id": "p-b8beb36dc216-1",
+      "type": "para",
+      "text": "Continuou."
+    },
+    {
+      "id": "p-cc60199b04e1-1",
+      "type": "para",
+      "text": "O quarto da luz era redondo e menor do que a memória. O mecanismo principal permanecia no centro, coberto por lona. As janelas tremiam. Além delas, o mar era uma extensão sem contorno."
+    },
+    {
+      "id": "p-518e12a39ea3-1",
+      "type": "para",
+      "text": "Uma caixa de cedro estava presa ao piso por correntes."
+    },
+    {
+      "id": "p-2e98c932b6ce-1",
+      "type": "para",
+      "text": "A chave de Estevão serviu."
+    },
+    {
+      "id": "p-ea17680c9442-1",
+      "type": "para",
+      "text": "Dentro havia doze envelopes selados, um caderno de couro azul e uma bússola. O vidro da bússola estava rachado. A agulha apontava para nordeste e recusava qualquer outra direção."
+    },
+    {
+      "id": "p-62b73595df80-1",
+      "type": "para",
+      "text": "Sobre os objetos, Jonas deixara uma folha."
+    },
+    {
+      "id": "p-82027beaf3d6-1",
+      "type": "para",
+      "text": "*DOZE CARTAS. DOZE TESTEMUNHAS. UMA MARÉ.*"
+    },
+    {
+      "id": "p-04848cda4f58-1",
+      "type": "para",
+      "text": "*Entregue-as na ordem marcada no diário. Não abra as que não carregam seu nome. Cada pessoa decidirá o que fazer com a própria verdade.*"
+    },
+    {
+      "id": "p-9d9e98d7c900-1",
+      "type": "para",
+      "text": "*A Maré do Norte retorna em quarenta e nove dias.*"
+    },
+    {
+      "id": "p-7b0ed7dd1a05-1",
+      "type": "para",
+      "text": "*Na última vez em que veio, seu irmão morreu.*"
+    },
+    {
+      "id": "p-ef2cc5d2f5c5-1",
+      "type": "para",
+      "text": "*Nesta, talvez possamos finalmente enterrá-lo.*"
+    },
+    {
+      "id": "p-3fc5b75c0824-1",
+      "type": "para",
+      "text": "Miguel releu a última frase."
+    },
+    {
+      "id": "p-2c061d0c92f0-1",
+      "type": "para",
+      "text": "O lampião estalou."
+    },
+    {
+      "id": "p-56748b19201f-1",
+      "type": "para",
+      "text": "Lá fora, no mar encoberto, uma luz amarela apareceu por um instante na Ponta do Corvo."
+    },
+    {
+      "id": "p-f49f4639e31f-1",
+      "type": "para",
+      "text": "Não girou. Não pulsou."
+    },
+    {
+      "id": "p-d2277ead50b8-1",
+      "type": "para",
+      "text": "Ficou imóvel na névoa."
+    },
+    {
+      "id": "p-53c75c2932fb-1",
+      "type": "para",
+      "text": "Uma segunda luz."
+    },
+    {
+      "id": "p-d6fe92bb0472-1",
+      "type": "para",
+      "text": "Miguel deixou o diário cair."
+    },
+    {
+      "id": "p-067c2f410900-1",
+      "type": "para",
+      "text": "Quando olhou de novo, ela havia desaparecido."
+    },
+    {
+      "id": "p-503c0e440a36-1",
+      "type": "h2",
+      "text": "CARTA I"
+    },
+    {
+      "id": "p-125f1169b8d8-1",
+      "type": "h3",
+      "text": "Para Ana Moura"
+    },
+    {
+      "id": "p-d9be6221d8b9-1",
+      "type": "para",
+      "text": "*Dona Ana,*"
+    },
+    {
+      "id": "p-4bb83d2e5b92-1",
+      "type": "para",
+      "text": "*Não lhe escrevo para pedir que me perdoe. Um pedido assim, vindo de mim, seria outra forma de exigir alguma coisa da senhora. Escrevo porque seu marido merece uma verdade que eu ajudei a esconder.*"
+    },
+    {
+      "id": "p-ad94be5aef20-1",
+      "type": "para",
+      "text": "*Elias Moura não abandonou o comando do Aurora.*"
+    },
+    {
+      "id": "p-6ae3d5edf3b5-1",
+      "type": "para",
+      "text": "*Quando o casco tocou o recife, ele poderia ter entrado no primeiro bote. Em vez disso, abriu os conveses inferiores com as próprias mãos. Abel Faria o ouviu ordenar que retirassem as correntes das portas de carga, embora soubesse que a água entraria mais depressa. Fez isso porque havia gente trancada onde os registros diziam que só existiam caixas.*"
+    },
+    {
+      "id": "p-c7c9770d0a80-1",
+      "type": "para",
+      "text": "*A Companhia chamou essa decisão de erro. Eu a chamo pelo nome correto: coragem.*"
+    },
+    {
+      "id": "p-a00ff0a522bb-1",
+      "type": "para",
+      "text": "*Eu estava no farol. Vi a luz que não deveria existir. Vi o navio virar. Vi seu marido permanecer.*"
+    },
+    {
+      "id": "p-4c4dec7c2ef9-1",
+      "type": "para",
+      "text": "*Durante dezessete anos, permiti que a senhora acreditasse que Elias seguira uma orientação errada dada por um velho negligente. Essa versão me condenava, mas protegia algo que eu amava. Na época, chamei isso de sacrifício. Hoje sei que sacrifício é oferecer a própria vida; não a verdade de outras pessoas.*"
+    },
+    {
+      "id": "p-c5de2932de17-1",
+      "type": "para",
+      "text": "*Não espero paz desta carta. Talvez a verdade primeiro perturbe aquilo que a mentira ensinou a permanecer quieto.*"
+    },
+    {
+      "id": "p-19ddcef8a878-1",
+      "type": "para",
+      "text": "*Há um caderno de Elias escondido sob a terceira tábua da antiga sala de cartas de sua casa. Ele o entregou a Gabriel na tarde do naufrágio. Eu o devolvi ali depois, por covardia. A senhora tem o direito de lê-lo antes de qualquer outra pessoa.*"
+    },
+    {
+      "id": "p-8d929c64a067-1",
+      "type": "para",
+      "text": "*Perdoe-me somente se um dia isso for parte da obediência da senhora a Deus. Nunca para aliviar um morto.*"
+    },
+    {
+      "id": "p-021ba983aa11-1",
+      "type": "para",
+      "text": "*Jonas Vale*"
+    }
+  ],
+  "provenance": {
+    "source": "production-v4:manifests/chapters.json",
+    "original_chapter_ids": [
+      3
+    ],
+    "source_pdf_page": 38,
+    "verification": "structured-source"
+  },
+  "blocks_sha256": "d994bb7f191331ec7275ba32e8233de8b8124e382444c0e6bc099eeed3a127d3"
+}

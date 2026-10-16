@@ -1,0 +1,63 @@
+{
+  "id": "letter4",
+  "type": "letter",
+  "title": "Carta IV",
+  "subtitle": null,
+  "part": "PARTE II — AS ÁGUAS PROFUNDAS",
+  "blocks": [
+    {
+      "id": "p-9ee14938a2a6-1",
+      "type": "para",
+      "text": "Para Marta Leme"
+    },
+    {
+      "id": "p-07a896d287f9-1",
+      "type": "para",
+      "text": "Dona Marta,"
+    },
+    {
+      "id": "p-c32b2c706a86-1",
+      "type": "para",
+      "text": "Sua filha não entrou no Aurora por leviandade. Sara estava fugindo de um homem que a ameaçara e de uma cidade que chamava o medo dela de vergonha. Não lhe conto isso para reabrir uma ferida, mas porque mulheres pobres quase sempre recebem culpa mais depressa do que proteção."
+    },
+    {
+      "id": "p-356a36822846-1",
+      "type": "para",
+      "text": "Quando o Aurora atingiu o recife, Sara ficou presa atrás de uma grade no convés de carga. Gabriel a encontrou. Entregou-lhe uma bússola e disse que segurasse o norte enquanto ele cortava a corrente. Ela acreditou que fosse apenas um rapaz tentando acalmá-la. Talvez fosse. Às vezes as palavras mais importantes são ditas sem que saibamos que permanecerão."
+    },
+    {
+      "id": "p-5125c7df3f4e-1",
+      "type": "para",
+      "text": "Gabriel levou Sara até um bote. Sabia que ela estava grávida. Antes de voltar ao navio, pediu a uma mulher que cuidasse “dos dois”. Essa mulher vive na Ilha dos Espelhos e se chama Leonor Salles."
+    },
+    {
+      "id": "p-b8ec6aff9043-1",
+      "type": "para",
+      "text": "Davi não herdou uma dívida com Gabriel. Nenhuma criança nasce devendo a própria vida a um morto. Mas talvez lhe faça bem saber que, na pior noite de nossa história, alguém escolheu voltar para buscar sua mãe."
+    },
+    {
+      "id": "p-1edf5465d517-1",
+      "type": "para",
+      "text": "Quando entreguei a bússola a Sara, ela perguntou por que o rapaz não havia retornado. Eu não consegui responder. Depois que ela morreu, tomei o instrumento de Davi porque vi a raiva com que o segurava. Eu deveria ter caminhado com o menino em sua raiva, não arrancado dela o objeto."
+    },
+    {
+      "id": "p-9e9ac11001af-1",
+      "type": "para",
+      "text": "Peço que conte a ele sobre a mãe antes do medo. Sobre as piadas ruins, a coragem de trabalhar doente, a maneira como cantava enquanto costurava. Um naufrágio é uma noite. Não permita que ele devore uma vida inteira."
+    },
+    {
+      "id": "p-8588e74c3dbb-1",
+      "type": "para",
+      "text": "Jonas Vale"
+    }
+  ],
+  "provenance": {
+    "source": "collector-v4-reading-pdf",
+    "source_pdf_pages": [
+      179,
+      180
+    ],
+    "verification": "pdf-extracted-needs-human-paragraph-proof"
+  },
+  "blocks_sha256": "cfc6c0b23dadc28f33886b5c5c17eab5bb9daaca7b8da5e378525bac043194ad"
+}
