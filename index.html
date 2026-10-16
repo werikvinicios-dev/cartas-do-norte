@@ -7,10 +7,12 @@
  <meta name="description" content="Cartas do Norte — O Arquivo Vivo. Romance integral, aquarelas, cartas, mapas e uma atmosfera para descobrir no seu próprio ritmo."/>
  <link rel="manifest" href="/manifest.webmanifest"/>
  <link rel="icon" type="image/png" href="/assets/branding/icon-192.png"/>
- <link rel="preload" as="image" href="/assets/experience/hero-panorama.webp"/>
+ <link rel="preload" as="image" href="/assets/branding/cover.webp"/>
+ <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/newsreader.woff2" crossorigin/>
  <link rel="stylesheet" href="/src/styles.css"/>
  <link rel="stylesheet" href="/src/refined.css"/>
  <link rel="stylesheet" href="/src/premium.css"/>
+ <link rel="stylesheet" href="/src/v4.css"/>
  <title>Cartas do Norte · O Arquivo Vivo</title>
 </head>
 <body data-theme="marfim">
@@ -31,7 +33,7 @@
   </aside>
   <header class="site-header">
    <a class="brand" href="#/atrio" aria-label="Cartas do Norte: voltar ao Átrio"><span class="brand-icon" aria-hidden="true">✦</span><span class="brand-text"><img class="brand-wordmark" src="/assets/branding/wordmark.svg" alt=""/><span class="brand-sub">O ARQUIVO VIVO</span></span></a>
-   <nav class="desktop-nav" aria-label="Atalhos"><a href="#/biblioteca" data-tab="biblioteca">Ler o romance</a><a href="#/atlas" data-tab="atlas">Cartografia</a><a href="#/acervo" data-tab="acervo">Documentos</a><a href="#/observatorio" data-tab="observatorio">Observatório</a></nav>
+   <nav class="desktop-nav" aria-label="Atalhos"><a href="#/biblioteca" data-tab="biblioteca">Ler o romance</a><a href="#/atlas" data-tab="atlas">Cartografia</a><a href="#/acervo" data-tab="acervo">Documentos</a><a href="#/cena/farol" data-tab="cena">Cena viva</a><a href="#/observatorio" data-tab="observatorio">Observatório</a></nav>
    <div class="header-actions">
     <button id="ambience-toggle" class="icon-button sound-toggle" type="button" aria-label="Abrir paisagens sonoras" title="Paisagens sonoras" aria-expanded="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 10v4h4l5 4V6l-5 4H4zM17 9c2 2 2 4 0 6"/><path d="M19.5 6.5c4 4 4 7 0 11"/></svg></button>
     <button id="search-global" class="icon-button" type="button" aria-label="Buscar no arquivo" title="Buscar"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.6" cy="10.6" r="6.2"/><path d="m15.5 15.5 5.1 5.1"/></svg></button>
@@ -44,7 +46,7 @@
    <a href="#/biblioteca" data-tab="biblioteca"><span aria-hidden="true">▣</span>Leitura</a>
    <a href="#/atlas" data-tab="atlas"><span aria-hidden="true">⌖</span>Atlas</a>
    <a href="#/acervo" data-tab="acervo"><span aria-hidden="true">▤</span>Acervo</a>
-   <a href="#/galeria" data-tab="galeria"><span aria-hidden="true">◇</span>Galeria</a>
+   <a href="#/observatorio" data-tab="observatorio"><span aria-hidden="true">✧</span>Memória</a>
   </nav>
  </div>
  <aside id="ambient-panel" class="ambient-panel" aria-label="Paisagens sonoras" hidden>

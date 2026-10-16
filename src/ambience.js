@@ -12,7 +12,8 @@ try {const saved=JSON.parse(localStorage.getItem('cn-ambience-v2')||'{}');if(NAM
 const player=new Audio();player.loop=true;player.preload='none';player.volume=state.volume/100;
 player.addEventListener('error',()=>{playButton.textContent='Áudio indisponível';playButton.disabled=true;});
 const persist=()=>{try{localStorage.setItem('cn-ambience-v2',JSON.stringify(state));}catch{}};
-function render(){volumeInput.value=state.volume;volumeLabel.textContent=state.volume+'%';playButton.textContent=player.paused?'▶ Reproduzir':'Ⅱ Pausar';playButton.setAttribute('aria-label',player.paused?'Reproduzir som ambiente':'Pausar som ambiente');toggle.classList.toggle('audio-playing',!player.paused);document.querySelectorAll('[data-sound]').forEach(btn=>{const active=btn.dataset.sound===state.sound;btn.setAttribute('aria-pressed',String(active));btn.querySelector('.sound-indicator').textContent=active?'●':'○';});}
+function announce(){document.dispatchEvent(new CustomEvent('arquivo:ambience-state',{detail:{playing:!player.paused,sound:state.sound}}))}
+function render(){announce();volumeInput.value=state.volume;volumeLabel.textContent=state.volume+'%';playButton.textContent=player.paused?'▶ Reproduzir':'Ⅱ Pausar';playButton.setAttribute('aria-label',player.paused?'Reproduzir som ambiente':'Pausar som ambiente');toggle.classList.toggle('audio-playing',!player.paused);document.querySelectorAll('[data-sound]').forEach(btn=>{const active=btn.dataset.sound===state.sound;btn.setAttribute('aria-pressed',String(active));btn.querySelector('.sound-indicator').textContent=active?'●':'○';});}
 function chooseSource(){const path='/assets/audio/'+state.sound+'.ogg';if(!player.src.endsWith(path)){player.src=path;player.load();}}
 async function play(){chooseSource();try{await player.play();}catch(e){console.warn('Áudio não autorizado pelo navegador',e);playButton.textContent='Toque para tentar novamente';}render();}
 function pause(){player.pause();render();}
@@ -25,4 +26,6 @@ document.querySelectorAll('[data-sound]').forEach(btn=>btn.addEventListener('cli
 document.addEventListener('keydown',e=>{if(e.key==='Escape'&&!panel.hidden)hide();});
 window.addEventListener('pagehide',()=>player.pause());
 document.addEventListener('arquivo:pause-ambience', pause);
+// Cenas podem sugerir uma atmosfera; o som continua começando só por um gesto do leitor.
+document.addEventListener('arquivo:play-ambience', e=>{const next=e.detail?.sound;if(NAMES.has(next)&&next!==state.sound){state.sound=next;persist();player.pause();}if(player.paused)play();else pause();});
 render();

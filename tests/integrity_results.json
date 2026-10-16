@@ -101,18 +101,18 @@
       "detail": null
     },
     {
-      "name": "53 capítulos reproduzem exatamente os blocos do pacote v4",
-      "result": "PASS",
-      "detail": "53/53"
+      "name": "Pacote de origem disponível para comparação",
+      "result": "FAIL",
+      "detail": "Não incluído no ZIP de distribuição"
     },
     {
       "name": "Todos os arquivos WebP íntegros",
       "result": "PASS",
-      "detail": "102 arquivos"
+      "detail": "103 arquivos"
     }
   ],
   "summary": {
-    "passed": 22,
+    "passed": 21,
     "total": 22
   }
 }

@@ -1,5 +1,20 @@
 # Histórico de versões do Arquivo Vivo
 
+## v0.4 · 16 de outubro de 2026 — Reconstrução imersiva
+- **Átrio como Cena Viva:** a aquarela da capa vira plano de câmera, com abertura em movimento (do céu ao mar), paralaxe pelo ponteiro, arrasto no celular, névoa em duas profundidades, luzes do porto e o farol pulsando três vezes, como no prólogo.
+- **Pontos de luz reais:** farol → Cena do Farol; barco → leitura; costa → Atlas. Bússola funciona como instrumento de navegação (rosa dos ventos).
+- **Cena Viva do Farol** (`#/cena/farol`) com os trechos do romance que citam o Farol da Vigília, só dos trechos já lidos.
+- **Leitor editorial:** página de abertura de cada Parte com a aquarela oficial, abertura cinematográfica do capítulo (página dupla no desktop), aquarela viva (respiração, névoa; chuva no capítulo 1), folha própria para as cartas, modos Livro ilustrado e Foco.
+- **Vestígios:** fim de capítulo com estante de vestígios (lacrados até a conclusão) e lugares citados; descoberta registrada com data e capítulo de origem.
+- **Acervo:** visualizador de tela cheia com pinça, arrasto, roda e teclado; materialidade por tipo documental; lacre de cera que se abre (pulável); fac-símile e transcrição lado a lado (abas no celular); retorno ao mesmo ponto da leitura.
+- **Atlas:** mapa ampliável com marcas sobre os nomes impressos; escolher um lugar aproxima a carta do rótulo e mostra os trechos lidos que o citam; histórico de lugares visitados.
+- **Observatório:** progresso por Parte, coleção de vestígios com data, lugares conhecidos, personagens pela primeira menção, marcas recentes.
+- **Trailer de 63 s** (1920×1080, H.264/AAC, legendas VTT) montado com aquarelas aprovadas e frases literais do prólogo e dos capítulos 1 e 3; trilha original sintetizada + ambiências da edição. Substitui a abertura de 18 s.
+- **Tipografia:** Cormorant Garamond (display) e Newsreader (leitura), auto-hospedadas.
+- **Anti-spoiler na arquitetura:** transcrições saíram do catálogo e só são carregadas quando o vestígio está liberado; lugares e pessoas têm a primeira menção calculada a partir do texto (`content/places.json`, `content/people.json`).
+- Removidos `atrio-loop.mp4`, `abertura.mp4` e o panorama com preenchimento desfocado.
+- Texto do romance inalterado: hashes das 67 unidades conferidos.
+
 ## v0.3 · 15 de outubro de 2026
 - Remodelação visual do Átrio em tela ampla, com paisagem derivada da aquarela oficial.
 - Navegação horizontal premium em desktop e navegação inferior corrigida para smartphones.

@@ -1,0 +1,80 @@
+[
+ {
+  "name": "Ana Moura",
+  "first": "ch1",
+  "firstIndex": 1,
+  "mentions": 8
+ },
+ {
+  "name": "Clara Moura",
+  "first": "ch1",
+  "firstIndex": 1,
+  "mentions": 4
+ },
+ {
+  "name": "Elias",
+  "first": "ch1",
+  "firstIndex": 1,
+  "mentions": 33
+ },
+ {
+  "name": "Estevão",
+  "first": "ch1",
+  "firstIndex": 1,
+  "mentions": 25
+ },
+ {
+  "name": "Gabriel",
+  "first": "ch1",
+  "firstIndex": 1,
+  "mentions": 54
+ },
+ {
+  "name": "Jonas Vale",
+  "first": "ch1",
+  "firstIndex": 1,
+  "mentions": 17
+ },
+ {
+  "name": "Miguel",
+  "first": "ch1",
+  "firstIndex": 1,
+  "mentions": 63
+ },
+ {
+  "name": "Tomás",
+  "first": "ch1",
+  "firstIndex": 1,
+  "mentions": 41
+ },
+ {
+  "name": "Baltasar",
+  "first": "ch2",
+  "firstIndex": 2,
+  "mentions": 39
+ },
+ {
+  "name": "Davi",
+  "first": "ch2",
+  "firstIndex": 2,
+  "mentions": 55
+ },
+ {
+  "name": "Abel Faria",
+  "first": "ch3",
+  "firstIndex": 3,
+  "mentions": 7
+ },
+ {
+  "name": "Balu",
+  "first": "ch4",
+  "firstIndex": 5,
+  "mentions": 24
+ },
+ {
+  "name": "Severo",
+  "first": "ch4",
+  "firstIndex": 5,
+  "mentions": 38
+ }
+]
