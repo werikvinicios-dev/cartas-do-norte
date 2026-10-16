@@ -1,5 +1,8 @@
 # Histórico de versões do Arquivo Vivo
 
+## v0.12 · 16 de outubro de 2026 — Amazing Grace na leitura
+- O fundo de leitura do painel de som ("Amazing Grace · lofi instrumental") passa a ser a mesma faixa do trailer, aprovada pelo autor: 3 min 41 s, repetindo do início, pontas sem clique, volume abaixo das ambiências (`tools/fundo_leitura.py`). As variações ao piano de `tools/musica_leitura.py` ficam como alternativa.
+
 ## v0.11 · 16 de outubro de 2026 — Trailer com "Amazing Grace (lofi instrumental)"
 - Os quatro vídeos do trailer passam a usar a gravação enviada pelo autor, "Amazing Grace (lofi instrumental)", de The Lofi Christian, no lugar da partitura sintetizada. A imagem não mudou.
 - Montagem na grade de tempos da faixa (70 bpm, fá maior): o piano solo da introdução acompanha a memória e o funeral; a bateria entra quando a Constância surge (30,9 s); no confronto a faixa fica abafada, como ouvida debaixo d'água, e se abre aos poucos até a parada seca aos 59 s; a ponte mais leve acompanha a primeira luz e o retorno pleno cai na revelação do emblema (70 s).

@@ -7,6 +7,7 @@ Ré maior, 3/4, ♩ = 66. Estrutura (≈ 3 min), pensada para tocar em repetiç�
   em arpejos, violoncelo em contracanto) · interlúdio · variação III (melodia no grave, arpejos no agudo) · coda
   que volta ao acorde inicial. A cauda de reverberação do fim é somada ao início, então o loop não tem corte.
 Dinâmica baixa e sem percussão: feita para não competir com a leitura.
+Alternativa ao fundo atual (a faixa lofi do trailer, preparada por tools/fundo_leitura.py).
 Uso: python3 tools/musica_leitura.py assets/audio/graca.ogg
 """
 import sys, subprocess

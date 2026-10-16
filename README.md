@@ -30,7 +30,7 @@ Uma aplicação literária responsiva com a obra integral, Atlas, Acervo, Galeri
 - **Trailer oficial:** `assets/video/trailer.mp4` (80 s, 16:9) e `trailer-vertical.mp4` (9:16), mais `trailer-30s.mp4`, `trailer-15s.mp4`, `trailer.srt`. Gerados com `tools/trailer_oficial.py` + `tools/trailer_oficial_som.py` + `tools/trailer_cortes.py`; documentação em `docs/trailer/`.
 - **Cenas Vivas:** Átrio e Farol (`src/scene.js`), sem vídeo de fundo; animações só com transform/opacity.
 - **Som ambiental:** `assets/audio/mar.ogg`, `chuva.ogg` e `vento.ogg` — 24 s cada, repetição e volume configuráveis, sempre iniciados pelo usuário.
-- **Música de leitura:** `assets/audio/graca.ogg` — "Graça", variações de Amazing Grace ao piano (melodia *New Britain*, 1829, domínio público; arranjo original sem letra), 2 min 46 s em repetição sem emenda, em volume baixo. Gerada por `tools/musica_leitura.py`.
+- **Música de leitura:** `assets/audio/graca.ogg` — "Amazing Grace (lofi instrumental)", de The Lofi Christian (a mesma faixa do trailer, enviada pelo autor), 3 min 41 s em repetição, preparada por `tools/fundo_leitura.py`. A licença da gravação é responsabilidade do autor do site. Alternativa sem gravação de terceiros: `tools/musica_leitura.py` gera "Graça", variações próprias ao piano (melodia *New Britain*, 1829, domínio público).
 - **Movimento de interface:** surgimento progressivo no rolar, brilho discreto e escala leve em itens clicáveis; possui fallback completo sem efeitos.
 
 ## Preservação e privacidade
