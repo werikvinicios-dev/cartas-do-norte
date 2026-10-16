@@ -39,7 +39,8 @@
    "page": 12,
    "blocks": 36,
    "minChapter": 0,
-   "sha256": "cbbcb96d801ef84ca4820ac2d1a6d70125638b8859bd5afa3af22b8ab84f828a"
+   "sha256": "cbbcb96d801ef84ca4820ac2d1a6d70125638b8859bd5afa3af22b8ab84f828a",
+   "art": "/assets/art/prologue.webp"
   },
   {
    "id": "ch1",

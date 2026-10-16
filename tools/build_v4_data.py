@@ -65,12 +65,21 @@ for n in names:
     places.append({'name': n, 'first': mentions[0], 'firstIndex': order.index(mentions[0]), 'mentions': mentions, 'maps': maps})
 places.sort(key=lambda p: (p['firstIndex'], p['name']))
 (ROOT / 'content/places.json').write_text(json.dumps(places, ensure_ascii=False, indent=1))
-PEOPLE = ['Miguel', 'Jonas Vale', 'Clara Moura', 'Ana Moura', 'Abel Faria', 'Estevão', 'Gabriel', 'Davi', 'Severo', 'Baltasar', 'Elias', 'Tomás', 'Balu']
+PEOPLE = ['Miguel', 'Jonas Vale', 'Clara Moura', 'Ana Moura', 'Abel Faria', 'Estevão', 'Gabriel', 'Davi', 'Severo', 'Baltasar', 'Elias', 'Tomás', 'Balu', 'Silas', 'Marta', 'Leonor']
+# Retratos enviados pelo autor (assets/people). Ficha de figura inteira só para os quatro da ficha principal.
+PORTRAIT = {'Miguel': 'miguel', 'Jonas Vale': 'jonas', 'Clara Moura': 'clara', 'Ana Moura': 'ana', 'Estevão': 'estevao', 'Davi': 'davi',
+            'Severo': 'severo', 'Tomás': 'tomas', 'Balu': 'balu', 'Silas': 'silas', 'Marta': 'marta', 'Leonor': 'leonor'}
 people = []
 for n in PEOPLE:
-    mentions = [i for i in order if __import__('re').search(r'\b' + n + r'\b', texts[i])]
+    term = {'Ana Moura': 'Ana', 'Clara Moura': 'Clara', 'Jonas Vale': 'Jonas'}.get(n, n)
+    mentions = [i for i in order if __import__('re').search(r'\b' + term + r'\b', texts[i])]
     if mentions:
-        people.append({'name': n, 'first': mentions[0], 'firstIndex': order.index(mentions[0]), 'mentions': len(mentions)})
+        rec = {'name': n, 'term': term, 'first': mentions[0], 'firstIndex': order.index(mentions[0]), 'mentions': mentions}
+        if n in PORTRAIT:
+            rec['portrait'] = f'/assets/people/{PORTRAIT[n]}.webp'
+            if (ROOT / f'assets/people/{PORTRAIT[n]}-figura.webp').exists(): rec['figure'] = f'/assets/people/{PORTRAIT[n]}-figura.webp'
+        if n == 'Jonas Vale': rec['signature'] = '/assets/people/jonas-assinatura.webp'
+        people.append(rec)
 people.sort(key=lambda p: (p['firstIndex'], p['name']))
 (ROOT / 'content/people.json').write_text(json.dumps(people, ensure_ascii=False, indent=1))
 print('pessoas:', ', '.join(f"{p['name']}→{p['first']}" for p in people))
