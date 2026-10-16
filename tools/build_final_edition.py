@@ -108,6 +108,13 @@ for oid, m in migration.items():
         cap_end[int(oid[2:])] = num[order[i]]
 for a in old_cat['artifacts']:
     a['minChapter'] = cap_end[a['minChapter']]
+# O fim do trecho v4 às vezes cai um capítulo depois do lugar em que o romance mostra o vestígio por inteiro.
+# Nesses casos o vestígio pertence ao capítulo onde o texto o apresenta (conferido na Edição Final):
+# Prancha da Constância → cap. 4 (desenhos e notas de Gabriel, Clara, Tomás e Jonas); Fita do Registro de Rádio →
+# cap. 21 (a fita lida por Abel); Carta de Ana → cap. 61 (a resposta a Lídia); Tubo de Latão → cap. 68 (aberto por Miguel e Clara).
+CAPITULO_DO_TEXTO = {'constancia_blueprint': 4, 'radio_log': 21, 'ana_letter': 61, 'brass_tube': 68}
+for a in old_cat['artifacts']:
+    a['minChapter'] = CAPITULO_DO_TEXTO.get(a['id'], a['minChapter'])
 
 # ── 4. Gravação ─────────────────────────────────────────────────────────────
 rd = ROOT / 'content/reading'

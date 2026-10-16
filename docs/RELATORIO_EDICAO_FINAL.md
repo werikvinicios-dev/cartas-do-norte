@@ -68,18 +68,18 @@ prologue→prologue · ch1→ch1 · ch2→ch2 · ch3→ch3 · letter1→letter1 
 - A Costa e o Primeiro Rumo: capítulo 1
 - O Testamento: capítulo 2
 - Carta do Canal da Agulha: capítulo 3
-- Prancha da Constância: capítulo 5
+- Prancha da Constância: capítulo 4
 - A Folha dos Passageiros: capítulo 12
-- O Diário Azul: capítulo 10
+- O Diário de Elias: capítulo 14
 - Águas Profundas: capítulo 17
-- Fita do Registro de Rádio: capítulo 23
+- Fita do Registro de Rádio: capítulo 21
 - A Rota sob a Tempestade: capítulo 35
 - A Ordem Guardada: capítulo 36
 - A Folha no Bolso: capítulo 46
 - Mapa da Gruta das Vozes: capítulo 48
-- Transmissão da Estação Norte: capítulo 10
+- Transmissão da Estação Norte: capítulo 53
 - O Regresso à Luz: capítulo 55
-- Carta de Ana: capítulo 62
-- O Tubo de Latão: capítulo 69
+- Carta de Ana: capítulo 61
+- O Tubo de Latão: capítulo 68
 - Extrato da Sentença: capítulo 70
 - Carta Restaurada do Norte: capítulo 72

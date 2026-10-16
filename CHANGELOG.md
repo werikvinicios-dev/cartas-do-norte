@@ -1,5 +1,13 @@
 # Histórico de versões do Arquivo Vivo
 
+## v0.13 · 16 de outubro de 2026 — Revisão de nomes, texto e acabamento
+- **Nomes conferidos com o romance.** "A carta de Jonas a Miqueias" passa a "A carta de Jonas a Miguel" (Miqueias é só o apelido que o avô usa dentro da carta). O fac-símile do diário de Elias (cap. 14) dizia "O Diário Azul" e assinava "Jonas": a imagem foi corrigida para "O Diário de Elias", assinado por Elias, com título e transcrição iguais. Na prancha das lanternas de papel, quem está com Clara é Abel, não Baltasar (cap. 19); "Três pulsações" acontece ao entardecer, com os barcos voltando (cap. 72); a legenda das baleias cita a frase inteira do cap. 31.
+- **Vestígios liberados no capítulo certo:** Prancha da Constância (4), Fita do Registro de Rádio (21), Carta de Ana (61) e Tubo de Latão (68). Documento lacrado agora diz "Abre-se ao concluir o capítulo N". As pranchas da Galeria só aparecem depois de concluído o capítulo, para não antecipar a cena.
+- **Menos legendas de bastidor.** Saíram as notas de produção que apareciam na tela (página da edição v4, "mapa aprovado", "em revisão editorial", "sem coordenadas inventadas", a ressalva sobre a capa), o rótulo "Aquarela da edição" sob as aquarelas, as dicas de cursor na cena do farol e os textos que explicavam o funcionamento de cada sala.
+- **Som dentro da leitura:** botão de som na barra do leitor abre o mesmo painel (mar, chuva, vento, Amazing Grace) sem sair do capítulo; o ícone pulsa enquanto toca. Painel com ícones desenhados no lugar de símbolos de texto, fecha ao tocar fora.
+- **Acabamento:** o rótulo pequeno não encosta mais no título (Observatório, cena do farol); a fonte da marca não abre mais espaço largo entre palavras nem depois de G, K, N, Q, R e X; a faixa do trailer usa um quadro sem texto; a grade das salas fecha sem buraco, com imagens do mapa, do testamento e de uma aquarela; transição curta entre as salas (respeita movimento reduzido); barra de progresso da leitura animada por transform.
+- **Busca:** resultados do prólogo e do epílogo mostram o próprio título, não "paratextos".
+
 ## v0.12 · 16 de outubro de 2026 — Amazing Grace na leitura
 - O fundo de leitura do painel de som ("Amazing Grace · lofi instrumental") passa a ser a mesma faixa do trailer, aprovada pelo autor: 3 min 41 s, repetindo do início, pontas sem clique, volume abaixo das ambiências (`tools/fundo_leitura.py`). As variações ao piano de `tools/musica_leitura.py` ficam como alternativa.
 

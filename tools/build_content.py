@@ -22,6 +22,10 @@ def wasset(path,blob,size=None,quality=80):
   im.thumbnail(size,Image.Resampling.LANCZOS)
  out=ROOT/path;out.parent.mkdir(parents=True,exist_ok=True);im.save(out,'WEBP',quality=quality,method=4)
  return dict(path='/'+str(path),bytes=out.stat().st_size,sha256=sha(out.read_bytes()),width=im.width,height=im.height)
+# O fac-símile antigo dizia "O Diário Azul" e assinava "Jonas"; no cap. 14 estas linhas são do diário de Elias Moura
+# (a imagem assets/docs/diary_blue.webp já foi corrigida)
+# ("Ana leu uma última linha escrita por Elias"). A transcrição não pode atribuí-las a Jonas.
+TRANSCRIPTION_FIXES={'diary_blue':[('O\xa0Diário\xa0Azul\n','O Diário de Elias\n'),('O Diário Azul\n','O Diário de Elias\n'),('\nJonas','\nElias')]}
 def clean(s):return re.sub(r'\s+',' ',s).strip()
 def extract_prose(d,from_page,to_page,kind):
  # 1-based inclusive pages; use exact embedded PDF text, discard running heads and folios
@@ -152,7 +156,9 @@ def main(package,pdf):
      t=''.join(s['text'] for s in l['spans']).strip()
      if t and not re.fullmatch(r'\d+',t):doc_lines.append(t)
    transcript='\n'.join(doc_lines)
-   artifacts.append({'id':id,'type':type,'title':title.replace('Mapa narrativo — ','').replace('Mapa progressivo — ','').replace('Documento — ',''),
+   # Correções editoriais conferidas com o romance: o fac-símile imprime algo que o texto contradiz.
+   for a,b in TRANSCRIPTION_FIXES.get(id,[]):transcript=transcript.replace(a,b)
+   artifacts.append({'id':id,'type':type,'title':title.replace('Mapa narrativo — ','').replace('Mapa progressivo — ','').replace('Documento — ','').replace('O Diário Azul','O Diário de Elias'),
     'sourcePage':page,'minChapter':src_ch,'image':asset['path'],'thumbnail':'/'+thumbpath,
     'transcription':transcript,'transcriptionStatus':'PDF extraction; revisão humana recomendada',
     'provenance':'Edição de Colecionador v4 (página %d)'%page,'sha256':asset['sha256']})
