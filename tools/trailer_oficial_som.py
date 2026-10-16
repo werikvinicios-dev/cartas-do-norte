@@ -7,8 +7,10 @@ Ato II  Travessia   20–44   papel, madeira, vento na fresta, primeiras notas d
                             piano espaçado e percussão grave discreta; acento grave no corte dos 37,6 s.
 Ato III Confronto   44–59   cordas graves, pulsação contida (não um coração literal), sopros marítimos, madeira rangendo;
                             gritos muito distantes sob o mar escuro; ápice e parada seca aos 59 s.
-Ato IV  Esperança   59–80   silêncio com uma única onda; piano em primeiro plano, cordas quentes; último acorde,
-                            nota suspensa, vento, o mar.
+Ato IV  Esperança   59–80   silêncio com uma única onda; piano em primeiro plano com a segunda metade de Amazing Grace,
+                            cordas quentes; último acorde, nota suspensa, vento, o mar.
+Amazing Grace: melodia "New Britain" (1829, domínio público), arranjo instrumental original, sem letra.
+A primeira frase aparece no violoncelo aos 4 s; a segunda metade fecha o trailer no piano.
 Versões: sem narração (principal) e com narração (voz neural pm_alex, Kokoro) — `build(path, narrated)`.
 """
 import math, sys
@@ -78,14 +80,25 @@ def narration():
     return bus
 
 # ── composição ──────────────────────────────────────────────────────────────
+# Hino: frase 1 (pickup + 4 compassos) e segunda metade (8 compassos), em ré maior, 3/4. (nota, tempos)
+PHRASE1 = [('A3', 1), ('D4', 2), ('F#4', .5), ('D4', .5), ('F#4', 2), ('E4', 1), ('D4', 2), ('B3', 1), ('A3', 3)]
+PHRASE2 = [('A4', 2), ('F#4', 1), ('A4', 2), ('F#4', .5), ('D4', .5), ('F#4', 2), ('E4', 1), ('D4', 2), ('B3', 1),
+           ('A3', 2), ('A3', 1), ('D4', 2), ('F#4', .5), ('D4', .5), ('F#4', 2), ('E4', 1), ('D4', 3)]
+BEAT1 = .75; BEAT2 = (74.8 - 60.6) / 24          # a última nota ("see") cai no acorde final, com o emblema
+HARM2 = ['D', 'D', 'G', 'D', 'D', 'Bm', 'A', 'D']
+CHORDS2 = {'D': ['D3', 'A3', 'D4', 'F#4'], 'G': ['G2', 'B3', 'D4', 'G4'], 'Bm': ['B2', 'B3', 'D4', 'F#4'], 'A': ['A2', 'A3', 'C#4', 'E4']}
+
 def build(path, narrated=False):
     mus, fx, amb = Bus(), Bus(), Bus()
     # Ato I
     fx.add(.4, swell(3.6, .7), .55, .1)
     fx.add(1.0, gust(3.0), .5, -.9)                      # respiração de vento no canal esquerdo
     fx.add(2.6, creak(1.6, 190), .35, .3)
-    mus.add(4.0, cello(nm('D2'), 7.5), .55, -.15)
-    mus.add(11.5, cello(nm('A1') + 12, 4.0), .4, -.15)
+    # "Amazing Grace" (melodia New Britain, 1829, domínio público): primeira frase no violoncelo, sem harmonia, sobre o pedal grave
+    t = 4.0
+    for n, b in PHRASE1:
+        mus.add(t, cello(nm(n), b * BEAT1 + .15), .62, -.15); t += b * BEAT1
+    mus.add(4.0, np.stack([TA.lp(saw(mtof(nm('D2')), int(10.5 * SR)), 160)] * 2, 1) * adsr(int(10.5 * SR), 2.5, .1, 1, 2, 1)[:, None], .12)
     for m in ('D3', 'A3', 'F4'): mus.add(8.2, pad_note(nm(m), 12.0, .16, 1500, 3.0))
     fx.add(10.0, bell(220, 7), .14, .5)
     fx.add(6.2, creak(1.2, 230), .25, -.4)
@@ -125,12 +138,15 @@ def build(path, narrated=False):
     fx.add(58.0, TA.riser(1.0), .35)
     # Ato IV — esperança
     fx.add(59.25, swell(3.0, .55), .7)                    # uma única onda no silêncio
-    for k, (n, d) in enumerate([('F#4', 1.5), ('A4', 1.5), ('D5', 2.0), ('C#5', 1.3), ('B4', 1.3), ('A4', 2.4), ('F#4', 1.5), ('G4', 1.5), ('A4', 3.0)]):
-        mus.add(60.6 + sum(x[1] for x in [('F#4', 1.5), ('A4', 1.5), ('D5', 2.0), ('C#5', 1.3), ('B4', 1.3), ('A4', 2.4), ('F#4', 1.5), ('G4', 1.5), ('A4', 3.0)][:k]), piano(nm(n), 5, .7), .6, .15)
-    for m, dl in [('D2', 0), ('D3', 0), ('A3', 0)]: mus.add(60.6, piano(nm(m), 6, .5), .35)
-    for c, s0, d in [('D', 63.0, 4.0), ('G', 67.0, 3.5), ('D', 70.5, 4.5)]:
-        notes = {'D': ['D3', 'A3', 'F#4', 'A4'], 'G': ['G2', 'D3', 'B3', 'G4']}[c]
-        for m in notes: mus.add(s0, pad_note(nm(m), d, .2, 2600, 1.8))
+    t = 60.6
+    for n, b in PHRASE2:
+        mus.add(t, piano(nm(n), max(2.5, b * BEAT2 + 1.5), .72), .62, .15)
+        if b >= 2: mus.add(t, piano(nm(n) + 12, 3, .25), .18, .3)
+        t += b * BEAT2
+    for i, c in enumerate(HARM2):
+        t0 = 60.6 + i * 3 * BEAT2; notes = CHORDS2[c]
+        mus.add(t0, piano(nm(notes[0]) - 12, 4, .5), .4, -.2)
+        for m in notes[1:]: mus.add(t0, pad_note(nm(m), 3 * BEAT2 + .6, .15 + .015 * i, 2400 + 80 * i, .9))
     for m in ('D2', 'A2', 'D3', 'F#3', 'A3', 'D4', 'F#4'): mus.add(74.8, piano(nm(m), 6, .6), .45)   # último acorde
     mus.add(74.8, pad_note(nm('A4'), 4.6, .22, 3000, .6), 1.0)                                    # nota suspensa
     fx.add(75.6, gust(4.0), .3, -.6)
