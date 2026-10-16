@@ -1,5 +1,9 @@
 # Histórico de versões do Arquivo Vivo
 
+## v0.10 · 16 de outubro de 2026 — Graça
+- **Música de leitura "Graça"** no painel de som: variações de Amazing Grace ao piano (introdução em arpejos; melodia simples; melodia uma oitava acima com apojaturas e violoncelo; melodia no tenor sob arpejos agudos; coda). 2 min 46 s, em repetição sem emenda (a reverberação do fim cai sobre o início), −22 LUFS para não competir com o texto. `tools/musica_leitura.py`.
+- **Trilha do trailer:** o hino está mais presente e mais agudo, com piano clássico. No ato I o violoncelo sobe uma oitava, com o piano dobrando. O ato II cita o hino em menor. No ato IV a melodia vem uma oitava acima, com apojaturas, terças, mão esquerda em baixo de Alberti e acorde final arpejado. Os vídeos ainda usam a trilha anterior: serão remontados depois da aprovação do som.
+
 ## v0.9 · 16 de outubro de 2026 — Trailer oficial "Uma aquarela que respira"
 - Trailer refeito a partir do prompt mestre, em 7 sequências e 80 s (16:9, 24 fps): o mar se lembra; o funeral do faroleiro; o que ficou para trás; a travessia; o peso do passado; o silêncio antes da luz; o nome da história. Sem narração: as frases aparecem na tela, com fade, revelação por máscara e movimento mínimo.
 - Acervo analisado antes da montagem (`docs/trailer/STORYBOARD.md` e `storyboard.jpg`): farol sempre apagado antes do desfecho (cap. 1), a Constância do cap. 22, o testamento do cap. 2, nada da segunda metade.

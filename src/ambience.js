@@ -6,7 +6,7 @@ const playButton=document.getElementById('ambient-play');
 const close=document.getElementById('ambient-close');
 const volumeInput=document.getElementById('ambient-volume');
 const volumeLabel=document.getElementById('ambient-volume-label');
-const NAMES=new Set(['mar','chuva','vento']);
+const NAMES=new Set(['mar','chuva','vento','graca']);
 let state={sound:'mar',volume:35};
 try {const saved=JSON.parse(localStorage.getItem('cn-ambience-v2')||'{}');if(NAMES.has(saved.sound))state.sound=saved.sound;if(Number.isFinite(saved.volume))state.volume=Math.max(0,Math.min(100,saved.volume));}catch{}
 const player=new Audio();player.loop=true;player.preload='none';player.volume=state.volume/100;

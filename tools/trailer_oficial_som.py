@@ -57,6 +57,17 @@ def pad_note(m, d, gain, bright=1800, att=2.0):
     """Cordas em pianíssimo: ataque lento, quase sem vibrato."""
     return TA.strings_note(m, d, bright, att) * gain
 
+def grace_note(bus, t, m, gain, pan=.2):
+    """Apojatura curta (nota vizinha superior) antes da nota principal."""
+    bus.add(t - .07, piano(m + 2, 1.2, .4), gain * .5, pan)
+def rolled(bus, t, notes, gain, spread=.045, pan=0.0, vel=.7, dur=6):
+    for k, m in enumerate(notes): bus.add(t + k * spread, piano(m, dur, vel), gain, pan + (k / max(1, len(notes) - 1) - .5) * .4)
+def alberti(bus, t0, beat, beats, chord, gain, pan=-.25):
+    """Mão esquerda em colcheias quebradas: fundamental, quinta, terça (décima), quinta…"""
+    r, third, fifth = chord
+    pat = [r, fifth, third + 12, fifth, third + 12, fifth]
+    for k in range(int(beats * 2)): bus.add(t0 + k * beat / 2, piano(pat[k % 6], 1.6, .5 if k % 6 else .62), gain, pan)
+
 def screams_far():
     try:
         import trailer_sound_v3 as S3
@@ -84,6 +95,7 @@ def narration():
 PHRASE1 = [('A3', 1), ('D4', 2), ('F#4', .5), ('D4', .5), ('F#4', 2), ('E4', 1), ('D4', 2), ('B3', 1), ('A3', 3)]
 PHRASE2 = [('A4', 2), ('F#4', 1), ('A4', 2), ('F#4', .5), ('D4', .5), ('F#4', 2), ('E4', 1), ('D4', 2), ('B3', 1),
            ('A3', 2), ('A3', 1), ('D4', 2), ('F#4', .5), ('D4', .5), ('F#4', 2), ('E4', 1), ('D4', 3)]
+PHRASE1_MINOR = [('A3', 1), ('D4', 2), ('F4', .5), ('D4', .5), ('F4', 2), ('E4', 1), ('D4', 2), ('Bb3', 1), ('A3', 3)]
 BEAT1 = .75; BEAT2 = (74.8 - 60.6) / 24          # a última nota ("see") cai no acorde final, com o emblema
 HARM2 = ['D', 'D', 'G', 'D', 'D', 'Bm', 'A', 'D']
 CHORDS2 = {'D': ['D3', 'A3', 'D4', 'F#4'], 'G': ['G2', 'B3', 'D4', 'G4'], 'Bm': ['B2', 'B3', 'D4', 'F#4'], 'A': ['A2', 'A3', 'C#4', 'E4']}
@@ -97,7 +109,8 @@ def build(path, narrated=False):
     # "Amazing Grace" (melodia New Britain, 1829, domínio público): primeira frase no violoncelo, sem harmonia, sobre o pedal grave
     t = 4.0
     for n, b in PHRASE1:
-        mus.add(t, cello(nm(n), b * BEAT1 + .15), .62, -.15); t += b * BEAT1
+        mus.add(t, cello(nm(n) + 12, b * BEAT1 + .15), .7, -.15)
+        mus.add(t, piano(nm(n) + 24, max(2.0, b * BEAT1 + 1.2), .42), .32, .25); t += b * BEAT1
     mus.add(4.0, np.stack([TA.lp(saw(mtof(nm('D2')), int(10.5 * SR)), 160)] * 2, 1) * adsr(int(10.5 * SR), 2.5, .1, 1, 2, 1)[:, None], .12)
     for m in ('D3', 'A3', 'F4'): mus.add(8.2, pad_note(nm(m), 12.0, .16, 1500, 3.0))
     fx.add(10.0, bell(220, 7), .14, .5)
@@ -105,8 +118,9 @@ def build(path, narrated=False):
     mus.add(15.4, cello(nm('D2'), 4.6), .45)
     # Ato II — o que ficou para trás
     fx.add(20.8, creak(1.4, 260), .22, .4); fx.add(21.5, whistle(5.5), .22, .7); fx.add(24.2, rustle(1.4), .55, .5); fx.add(26.0, rustle(.9), .3, .55)
-    for k, n in enumerate(['A3', 'D4', 'F4', 'E4', 'D4', 'C4', 'A3']):
-        mus.add(21.4 + k * 1.25, piano(nm(n), 4.5, .62), .55, .2)
+    t = 21.4
+    for n, b in PHRASE1_MINOR:
+        mus.add(t, piano(nm(n) + 12, 4.5, .62), .62, .2); t += b * .62
     mus.add(27.6, piano(nm('A5'), 3, .35), .3, .4)        # o brilho na bússola
     fx.add(29.4, swell(2.4, .5), .55)                     # o pigmento vira água
     # Ato II — a travessia
@@ -138,16 +152,21 @@ def build(path, narrated=False):
     fx.add(58.0, TA.riser(1.0), .35)
     # Ato IV — esperança
     fx.add(59.25, swell(3.0, .55), .7)                    # uma única onda no silêncio
-    t = 60.6
-    for n, b in PHRASE2:
-        mus.add(t, piano(nm(n), max(2.5, b * BEAT2 + 1.5), .72), .62, .15)
-        if b >= 2: mus.add(t, piano(nm(n) + 12, 3, .25), .18, .3)
+    t = 60.6; THIRD = {'A': -3, 'F#': -4, 'E': -3, 'D': -3, 'B': -4}
+    for k, (n, b) in enumerate(PHRASE2):
+        m = nm(n) + 12
+        if b >= 2 and k not in (0,): grace_note(mus, t, m, .5)
+        mus.add(t, piano(m, max(2.5, b * BEAT2 + 1.6), .82), .78, .15)
+        if b >= 2: mus.add(t, piano(m + THIRD.get(n[:-1], -3) - 12 + 12, 2.6, .45), .32, .25)   # terça/sexta por baixo
         t += b * BEAT2
     for i, c in enumerate(HARM2):
         t0 = 60.6 + i * 3 * BEAT2; notes = CHORDS2[c]
-        mus.add(t0, piano(nm(notes[0]) - 12, 4, .5), .4, -.2)
-        for m in notes[1:]: mus.add(t0, pad_note(nm(m), 3 * BEAT2 + .6, .15 + .015 * i, 2400 + 80 * i, .9))
-    for m in ('D2', 'A2', 'D3', 'F#3', 'A3', 'D4', 'F#4'): mus.add(74.8, piano(nm(m), 6, .6), .45)   # último acorde
+        mus.add(t0, piano(nm(notes[0]) - 12, 4, .55), .42, -.2)
+        r = nm(notes[0]); third = nm(notes[3]) - 12 if c != 'G' else nm('B2'); fifth = r + 7
+        alberti(mus, t0, BEAT2, 3, (r, third, fifth), .28)
+        for m in notes[1:]: mus.add(t0, pad_note(nm(m), 3 * BEAT2 + .6, .12 + .012 * i, 2400 + 80 * i, .9))
+    rolled(mus, 74.8, [nm(x) for x in ('D2', 'A2', 'D3', 'F#3', 'A3', 'D4', 'F#4', 'A4', 'D5')], .4, .05)
+    mus.add(75.5, piano(nm('D6'), 5, .4), .25, .4)
     mus.add(74.8, pad_note(nm('A4'), 4.6, .22, 3000, .6), 1.0)                                    # nota suspensa
     fx.add(75.6, gust(4.0), .3, -.6)
     # ambiências
