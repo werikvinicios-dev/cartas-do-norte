@@ -1,5 +1,14 @@
 # Histórico de versões do Arquivo Vivo
 
+## v0.14 · 16 de outubro de 2026 — Aquarelas inteiras na leitura (computador)
+- A aquarela de abertura de cada capítulo era recortada para caber na altura da tela (13% em 1440×900, até 35% em notebooks 1280×720). Agora ela diminui inteira, sem corte, e cabe na tela junto com o título.
+- As pranchas no meio do texto (lanternas, baleias…) ficavam mais altas que a tela em notebooks; agora cabem inteiras.
+- As pranchas de abertura das Partes tinham uma moldura com sombra mais larga que a pintura; a moldura agora acompanha a imagem e o título ("A TEMPESTADE", "AS ÁGUAS PROFUNDAS") fica dentro dela.
+- A "respiração" das aquarelas aproximava 4,5% e comia as bordas; agora é quase imperceptível (1,2%).
+- A letra capitular empurrava o segundo parágrafo para o lado quando o primeiro tinha uma linha só.
+- Fonte da marca: o A e o N têm floreios no pé que abriam buracos ("COST A", "PROFU NDAS"); os floreios agora passam por baixo das letras vizinhas.
+- Galeria: a aquarela do capítulo em leitura aparecia na grade mas não abria ao clicar; agora abre.
+
 ## v0.13 · 16 de outubro de 2026 — Revisão de nomes, texto e acabamento
 - **Nomes conferidos com o romance.** "A carta de Jonas a Miqueias" passa a "A carta de Jonas a Miguel" (Miqueias é só o apelido que o avô usa dentro da carta). O fac-símile do diário de Elias (cap. 14) dizia "O Diário Azul" e assinava "Jonas": a imagem foi corrigida para "O Diário de Elias", assinado por Elias, com título e transcrição iguais. Na prancha das lanternas de papel, quem está com Clara é Abel, não Baltasar (cap. 19); "Três pulsações" acontece ao entardecer, com os barcos voltando (cap. 72); a legenda das baleias cita a frase inteira do cap. 31.
 - **Vestígios liberados no capítulo certo:** Prancha da Constância (4), Fita do Registro de Rádio (21), Carta de Ana (61) e Tubo de Latão (68). Documento lacrado agora diz "Abre-se ao concluir o capítulo N". As pranchas da Galeria só aparecem depois de concluído o capítulo, para não antecipar a cena.

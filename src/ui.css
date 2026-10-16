@@ -109,16 +109,16 @@ body{font-family:var(--serif)}
 .reader-prose h1,.reader-opening h1{font-family:var(--display);font-weight:500;letter-spacing:-.005em}
 .reader-text p{font-family:var(--reading-font,var(--serif));hyphens:auto;-webkit-hyphens:auto;text-wrap:pretty}
 .part-plate{position:relative;margin:0 auto;max-width:1100px;padding:clamp(20px,4vw,48px) clamp(12px,4vw,48px) 0;display:grid;place-items:center}
-.part-plate img{width:min(100%,760px);height:auto;max-height:calc(100svh - var(--bar) - 60px);object-fit:contain;box-shadow:0 30px 60px -30px #2b1d0c66}
+.part-plate img{display:block;width:auto;max-width:min(100%,760px);height:auto;max-height:calc(100svh - 170px);object-fit:contain;box-shadow:0 30px 60px -30px #2b1d0c66}
 .part-plate-title{position:absolute;inset:0;display:grid;place-content:center;text-align:center;pointer-events:none;color:#3c2b18}
 .part-plate-title span{font:700 11px var(--sans);letter-spacing:.42em;color:#7d5f3c}
-.part-plate-title strong{display:block;font:500 clamp(42px,7vw,84px)/1 var(--display);margin-top:12px}
+.part-plate-title strong{display:block;font:500 min(clamp(34px,6vw,76px),calc((100svh - 170px) * .085))/1.04 var(--display);margin:12px auto 0;max-width:min(calc(100vw - 72px),720px,calc((100svh - 170px) * .667 - 48px));text-wrap:balance}
 .part-plate.is-live img{animation:breathe 22s ease-in-out infinite alternate}
 .opening.has-art{display:grid;gap:clamp(24px,5vw,72px);align-items:center;margin:0 auto clamp(40px,6vw,90px);max-width:1180px;width:calc(100vw - 32px);position:relative;left:50%;transform:translateX(-50%);padding-top:clamp(24px,4vw,56px)}
-@media(min-width:1000px){.opening.has-art{grid-template-columns:minmax(0,1.05fr) minmax(0,1fr);min-height:calc(100svh - var(--bar) - 70px)}}
-.opening-art{position:relative;margin:0;overflow:hidden;background:#e7dbc3;box-shadow:0 40px 70px -40px #1d140a80,0 0 0 1px #8a6a4322}
+@media(min-width:1000px){.opening.has-art{grid-template-columns:minmax(0,1.05fr) minmax(0,1fr);min-height:calc(100svh - 130px);padding-top:clamp(8px,2vh,24px)}}
+.opening-art{position:relative;margin:0 auto;width:fit-content;max-width:100%;justify-self:center;overflow:hidden;background:#e7dbc3;box-shadow:0 40px 70px -40px #1d140a80,0 0 0 1px #8a6a4322}
 .living-frame{overflow:hidden}
-.opening-art img{display:block;width:100%;height:auto;max-height:calc(100svh - var(--bar) - 90px);object-fit:cover;transform-origin:50% 40%}
+.opening-art img{display:block;width:auto;max-width:100%;height:auto;max-height:calc(100svh - 190px);object-fit:contain;transform-origin:50% 50%}
 @media(max-width:999px){.opening-art img{max-height:72svh}}
 .living.is-live img{animation:breathe 24s ease-in-out infinite alternate}
 @keyframes breathe{from{transform:scale(1) translate3d(0,0,0)}to{transform:scale(1.045) translate3d(-.6%,-.8%,0)}}
@@ -320,8 +320,8 @@ body.reduce-motion .scene ::before,body.reduce-motion .living ::before{animation
 
 /* Pranchas: ilustração dentro do texto, na passagem que ela mostra. */
 .plate{position:relative;margin:clamp(36px,6vw,72px) auto;overflow:hidden;background:#e7dbc3;box-shadow:0 30px 60px -36px #1d140a80}
-.plate.is-wide{width:min(calc(100vw - 32px),1100px);left:50%;transform:translateX(-50%)}
-.plate.is-tall{max-width:min(100%,560px)}
+.plate.is-wide{width:min(calc(100vw - 32px),1100px,calc((100svh - 150px) * var(--ar,1.5)));left:50%;transform:translateX(-50%)}
+.plate.is-tall{max-width:min(100%,560px,calc((100svh - 150px) * var(--ar,.667)))}
 .plate img{display:block;width:100%;height:auto}
 .plate.is-live img{animation:breathe 26s ease-in-out infinite alternate}
 .plate.is-live .living-mist::before{animation:drift 80s linear infinite}
@@ -871,3 +871,8 @@ body.is-reading .ambient-panel{top:64px;bottom:auto}
 .ambient-symbol svg{display:block}
 .trailer-play::after{content:'';position:absolute;inset:0;background:linear-gradient(90deg,#041620eb 0%,#0416208c 40%,#04162000 72%),linear-gradient(0deg,#041620d9 0%,#04162000 55%);pointer-events:none}
 .trailer-play .trailer-copy,.trailer-play .play-ring{z-index:2}
+
+/* v0.14 · aquarelas da leitura inteiras: a respiração quase não aproxima, para não comer as bordas */
+@keyframes breathe-soft{from{transform:scale(1)}to{transform:scale(1.012)}}
+.living.is-live img,.plate.is-live img,.part-plate.is-live img{animation-name:breathe-soft}
+.reader-text p:first-of-type{display:flow-root}

@@ -215,7 +215,7 @@ async function renderReader(id,anchor,token){
  const related=meta.chapter?C.artifacts.filter(x=>x.minChapter===meta.chapter):[];
  const contentBlocks=content.blocks.filter((b,i)=>!(i===0&&b.type==='h2'&&normalize(b.text)===normalize(content.title)));
  const plateAt=Object.fromEntries(S.prefs.mode!=='foco'?PLATES.filter(x=>x.section===id&&x.anchor).map(x=>[x.anchor,x]):[]);
- const plateFig=x=>`<figure class="plate living ${x.w>x.h?'is-wide':'is-tall'}"><div class="living-frame"><img src="${x.src}" width="${x.w}" height="${x.h}" loading="lazy" alt="${escapeHTML(x.alt)}"/></div><span class="living-mist" aria-hidden="true"></span><figcaption>${escapeHTML(x.caption)}</figcaption></figure>`;
+ const plateFig=x=>`<figure class="plate living ${x.w>x.h?'is-wide':'is-tall'}" style="--ar:${(x.w/x.h).toFixed(3)}"><div class="living-frame"><img src="${x.src}" width="${x.w}" height="${x.h}" loading="lazy" alt="${escapeHTML(x.alt)}"/></div><span class="living-mist" aria-hidden="true"></span><figcaption>${escapeHTML(x.caption)}</figcaption></figure>`;
  const para=b=>b.type==='rule'?'<div class="endmark" aria-hidden="true">✧</div>':b.type==='para'?`<p data-block-id="${b.id}" id="${b.id}" tabindex="-1">${prose(b.text)}</p>${plateAt[b.id]?plateFig(plateAt[b.id]):''}`:`<h${b.type==='h3'?3:2}>${escapeHTML(b.text)}</h${b.type==='h3'?3:2}>`;
  const inline=LETTERS.filter(l=>!l.whole&&l.section===id),startAt={},ids=contentBlocks.map(b=>b.id);
  for(const l of inline)l.spans.forEach(([a,z],k)=>startAt[a]={l,k,z});
@@ -368,7 +368,7 @@ async function processAction(action,element){
   return;
  }
  if(action==='view-painting'){
-   const a=entry(id);if(!a||!a.art||S.prefs.protected&&!(S.progress.completed.includes(id)||id===S.progress.current&&S.progress.seen[id]))return;
+   const a=entry(id);if(!a||!a.art||S.prefs.protected&&!(S.progress.completed.includes(id)||id===S.progress.current&&S.progress.seen[id]!=null))return;
    focusBeforeDialog=document.activeElement;docViewer?.destroy();
    modalRoot.innerHTML=`<div class="viewer mat-mapa viewer-art" role="dialog" aria-modal="true" aria-labelledby="viewer-title"><header class="viewer-head"><div class="viewer-title"><span class="eyebrow">${a.type==='chapter'?'Capítulo '+a.chapter:'Abertura'}</span><h2 id="viewer-title">${escapeHTML(a.title)}</h2></div><a class="button button-outline button-small viewer-read" href="${linkRead(a.id)}">Ir à leitura ↗</a><button class="icon-button viewer-close" type="button" data-action="close-modal" aria-label="Fechar">${svg('close')}</button></header><div class="viewer-body"><div class="viewer-stage"><div class="pz-frame" tabindex="0" aria-label="Aquarela ampliável"><div class="pz-layer"><img src="${a.art}" alt="Aquarela: ${escapeHTML(a.title)}"/></div></div>${zoomControls()}</div></div></div>`;
    document.body.style.overflow='hidden';docViewer=panZoom(modalRoot.querySelector('.pz-frame'),{onChange:zoomLabel(modalRoot)});modalRoot.querySelector('.viewer-close').focus();
