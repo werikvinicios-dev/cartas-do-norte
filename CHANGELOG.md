@@ -1,5 +1,10 @@
 # Histórico de versões do Arquivo Vivo
 
+## v0.16 · 17 de outubro de 2026 — Envelope realista
+- Novo envelope em todo o site (leitura, cartões das doze cartas no Átrio, Acervo) e no vídeo promocional: papel creme com fibras iluminadas, bordas envelhecidas, dobras com espessura e sombra, aba com frente e verso, e lacre de cera vermelha com o emblema de Cartas do Norte em relevo, que se parte em duas metades.
+- As camadas são geradas por `tools/envelopes/realista.py export assets/experience` (`env-back`, `env-front`, `env-flap`, `env-flap-in`, `env-letter`, `env-paper`, `wax-seal`, `wax-seal-l`, `wax-seal-r`). O mesmo script gera o vídeo de demonstração do envelope sobre a mesa.
+- Estudos em aquarela que não foram adotados ficam em `tools/envelopes/aquarela.py`.
+
 ## v0.15 · 16 de outubro de 2026 — Vídeo promocional em motion graphics
 - `assets/video/promo-30s.mp4` (16:9) e `promo-30s-vertical.mp4` (9:16), 32,6 s, 30 fps: abertura com o emblema se montando em camadas (o aro se desenha, a estrela abre, as montanhas sobem, "CARTAS do NORTE" é escrito, o mar se abre), carta com lacre que carimba, se parte e abre ("Miqueias,"), rota na primeira carta náutica, mosaico de aquarelas com 72 capítulos, 54 aquarelas e 12 cartas, o site no notebook e no celular, emblema e chamada. Cortes no compasso da faixa lofi de Amazing Grace, com a bateria entrando no mosaico; sons de papel e lacre. −14 LUFS. Detalhes e como refazer em `tools/promo/LEIA.md`.
 

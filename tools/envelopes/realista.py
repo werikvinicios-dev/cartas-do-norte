@@ -5,6 +5,7 @@ lacre de cera com volume e brilho, carimbado com o emblema de Cartas do Norte em
 Uso:  python3 tools/envelopes/realista.py video saida.mp4
       python3 tools/envelopes/realista.py still saida.png [t]
       python3 tools/envelopes/realista.py som efeitos.wav
+      python3 tools/envelopes/realista.py export assets/experience
 """
 import sys, subprocess
 from pathlib import Path
@@ -136,22 +137,23 @@ def desk():
     return np.clip(col * (.5 + .7 * spot[..., None]), 0, 1)
 
 def seal_parts(R=78):
+    k = R / 78
     """Lacre: altura (gota com bordas irregulares, centro achatado pelo sinete, emblema em relevo), luz de Phong."""
     n = 2 * R + 60; c = n / 2; yy, xx = np.mgrid[0:n, 0:n]; ang = np.arctan2(yy - c, xx - c); r = np.hypot(xx - c, yy - c)
     rng = np.random.default_rng(31)
-    bumps = sum(rng.uniform(1.5, 4.5) * np.cos(k * ang + rng.uniform(0, 6)) for k in (2, 3, 5, 7)) + 7 * np.clip(np.cos(ang - 2.2), 0, 1) ** 18 + 5 * np.clip(np.cos(ang + .6), 0, 1) ** 24   # bordas moles e duas escorridas
-    edge = R + bumps - r; m = np.clip(edge / 1.5 + .5, 0, 1)
+    bumps = (sum(rng.uniform(1.5, 4.5) * np.cos(f * ang + rng.uniform(0, 6)) for f in (2, 3, 5, 7)) + 7 * np.clip(np.cos(ang - 2.2), 0, 1) ** 18 + 5 * np.clip(np.cos(ang + .6), 0, 1) ** 24) * k   # bordas moles e duas escorridas
+    edge = R + bumps - r; m = np.clip(edge / (1.5 * k) + .5, 0, 1)
     dome = np.sqrt(np.clip(1 - (r / (R + bumps)) ** 2, 0, 1))
-    hgt = dome * 14
+    hgt = dome * 14 * k
     face = R * .72
     pressed = np.clip((face - r) / 3, 0, 1)
-    hgt = hgt * (1 - pressed) + pressed * 9.5 + np.exp(-((r - face - 3) / 3.5) ** 2) * 3.0        # rebordo empurrado pelo sinete
+    hgt = hgt * (1 - pressed) + pressed * 9.5 * k + np.exp(-((r - face - 3 * k) / (3.5 * k)) ** 2) * 3.0 * k        # rebordo empurrado pelo sinete
     emb = Image.open(ROOT / 'assets/branding/emblem-gold.webp').split()[-1]
     es = int(face * 1.72); emb = emb.resize((int(es * 831 / 898), es), Image.LANCZOS)
     E = np.zeros((n, n)); ex, ey = int(c - emb.size[0] / 2), int(c - emb.size[1] / 2)
     E[ey:ey + emb.size[1], ex:ex + emb.size[0]] = np.asarray(emb) / 255
-    E = ndimage.gaussian_filter(E, .9) * pressed
-    hgt += E * 2.2
+    E = ndimage.gaussian_filter(E, .9 * k) * pressed
+    hgt += E * 2.2 * k
     return None, m, hgt
 
 def light_seal(hgt, m, gloss=1.0, light=LIGHT, base=(118, 14, 22)):
@@ -295,10 +297,40 @@ def sound(out):
     fx = fx / max(1e-9, np.max(np.abs(fx))) * .7
     wavfile.write(out, SR, (fx * 32767).astype(np.int16))
 
+def export(dst):
+    """Camadas para o site e para o vídeo promocional (assets/experience): costas, frente com as dobras, aba (frente e
+    verso), folha, papel para os cartões e o lacre inteiro e em duas metades (mesma tela, para se encaixarem)."""
+    dst = Path(dst); L = build()
+    def save(rgb, a, name, q=90):
+        Image.fromarray((np.dstack([np.clip(rgb, 0, 1), np.clip(a, 0, 1)]) * 255).astype(np.uint8), 'RGBA').save(dst / name, quality=q, method=6)
+    save(L['back'], L['body_a'], 'env-back.webp')
+    # frente: dobras laterais e de baixo com as sombras que projetam
+    rgb = np.zeros((EH, EW, 3)); a = np.zeros((EH, EW))
+    for part, pa, sh in (('side', 'side_a', drop_shadow(L['side_a'], 4, 6, 6, .22)), ('bot', 'bot_a', drop_shadow(L['bot_a'], 3, -5, 6, .25))):
+        a_new = a + sh * (1 - a); rgb = (rgb * a[..., None]) / np.maximum(a_new, 1e-6)[..., None]; a = a_new
+        m = L[pa]; rgb = rgb * (1 - m[..., None]) + L[part] * m[..., None]; a = a * (1 - m) + m
+    save(rgb, a, 'env-front.webp')
+    fr, fa, _ = flap_image(L, 0.0); save(fr, fa, 'env-flap.webp')
+    save(L['flap_in'] * .9, L['flap_a'], 'env-flap-in.webp')
+    lt = paper_sheet(*L['letter_a'].shape, 6, (1.03, 1.03, 1.03), .25); save(lt, L['letter_a'], 'env-letter.webp')
+    save(paper_sheet(800, 600, 7, (1, .99, .97), .7), np.ones((800, 600)), 'env-paper.webp')
+    # lacre em alta: inteiro e metades
+    R = 128; m, hgt = seal_parts(R)[1:]; col = light_seal(hgt, m); n = m.shape[0]; pad = (360 - n) // 2 if n < 360 else 0
+    canvas = lambda x: np.pad(x, ((pad, 360 - n - pad), (pad, 360 - n - pad)) + ((0, 0),) * (x.ndim - 2)) if n < 360 else x
+    C, M = canvas(col), canvas(m)
+    save(C, M, 'wax-seal.webp', 92)
+    k = M.shape[0]; jag = (k / 2 + np.sin(np.arange(k) / 9) * 8 + np.sin(np.arange(k) / 3.7) * 3).astype(int)
+    left = M.copy(); right = M.copy()
+    for y in range(k): left[y, jag[y]:] = 0; right[y, :jag[y]] = 0
+    save(C, left, 'wax-seal-l.webp', 92); save(C, right, 'wax-seal-r.webp', 92)
+    print('ok', dst)
+
 if __name__ == '__main__':
     mode, out = sys.argv[1:3]
     if mode == 'still':
         Image.fromarray(frame(build(), float(sys.argv[3]) if len(sys.argv) > 3 else 3.2)).save(out)
+    elif mode == 'export':
+        export(out)
     elif mode == 'som':
         sound(out)
     else:

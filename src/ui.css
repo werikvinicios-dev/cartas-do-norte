@@ -811,7 +811,7 @@ html:not(.can-animate) .l4{margin-top:10px}html:not(.can-animate) .act-light .ac
 .wax:hover,.wax:focus-visible{transform:translate(-50%,-50%) scale(1.06) rotate(-4deg)}
 .wax:focus-visible{outline-offset:6px}
 .can-animate .envelope-stage .wax{animation:waxpulse 2.6s ease-in-out infinite}
-@keyframes waxpulse{0%,100%{filter:drop-shadow(0 0 0 #ffcf8a00)}50%{filter:drop-shadow(0 0 14px #ffcf8a88)}}
+@keyframes waxpulse{0%,100%{filter:drop-shadow(0 3px 3px #0005)}50%{filter:drop-shadow(0 3px 3px #0005) drop-shadow(0 0 12px #ffcf8a77)}}
 .env-hint{margin:0;font:600 10px var(--sans);letter-spacing:.2em;text-transform:uppercase;color:var(--r-soft,#9b8f78)}
 .is-opening .wax{animation:none;pointer-events:none}
 .is-opening .wax-l{transform:translate(-46px,30px) rotate(-38deg);opacity:0}
@@ -876,3 +876,20 @@ body.is-reading .ambient-panel{top:64px;bottom:auto}
 @keyframes breathe-soft{from{transform:scale(1)}to{transform:scale(1.012)}}
 .living.is-live img,.plate.is-live img,.part-plate.is-live img{animation-name:breathe-soft}
 .reader-text p:first-of-type{display:flow-root}
+/* v0.16 · envelope realista (camadas de tools/envelopes/realista.py) */
+.envelope{aspect-ratio:720/470;box-shadow:none;background:none;filter:drop-shadow(0 14px 16px #2a1a0a3d)}
+.env-back{background:url('/assets/experience/env-back.webp') center/100% 100%;box-shadow:none}
+.env-letter{background:url('/assets/experience/env-letter.webp') center/100% 100%;box-shadow:0 1px 4px #0003}
+.env-front{background:url('/assets/experience/env-front.webp') center/100% 100% no-repeat;clip-path:none;box-shadow:none}
+.env-front::before{display:none}
+.envelope .env-flap{height:58.3%;background:none;clip-path:none;box-shadow:none;filter:none;transform-style:preserve-3d}
+.envelope .env-flap::before,.envelope .env-flap::after{content:"";position:absolute;inset:0;background:url('/assets/experience/env-flap.webp') top/100% 100% no-repeat;backface-visibility:hidden;-webkit-backface-visibility:hidden}
+.envelope .env-flap::before{filter:drop-shadow(0 5px 4px #0000002e)}
+.envelope .env-flap::after{background-image:url('/assets/experience/env-flap-in.webp');transform:rotateX(180deg)}
+.envelope .wax{top:57.5%;width:31%;height:auto;aspect-ratio:1;margin:0;border-radius:0;background:none;box-shadow:none;padding:0;border:0}
+.envelope .wax b{display:none}
+.envelope-card .env-paper{background:#e9dcc2 url('/assets/experience/env-paper.webp') center/cover;box-shadow:0 30px 50px -28px #000}
+.envelope-card .env-flap{height:46%;z-index:1;background:url('/assets/experience/env-flap.webp') top/100% 100% no-repeat;clip-path:none;box-shadow:none;filter:drop-shadow(0 5px 4px #0003);transition:transform .7s var(--ease-cine)}
+.envelope-card .env-seal{width:92px;height:92px;margin:-46px;border-radius:0;background:url('/assets/experience/wax-seal.webp') center/contain no-repeat;box-shadow:none;font-size:0;color:transparent}
+.corr-paper{background:#e6d6b5 url('/assets/experience/env-paper.webp') center/cover}
+.corr-seal{width:70px;height:70px;right:8px;top:4px}
